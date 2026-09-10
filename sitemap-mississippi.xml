@@ -58,6 +58,7 @@
   <url><loc>https://uslist.info/mississippi/brandon/health/hospitals</loc></url>
   <url><loc>https://uslist.info/mississippi/brandon/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/mississippi/brandon/professional</loc></url>
+  <url><loc>https://uslist.info/mississippi/brandon/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/brandon/professional/coworking</loc></url>
   <url><loc>https://uslist.info/mississippi/brandon/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/brandon/professional/printing-signs</loc></url>
@@ -124,6 +125,7 @@
   <url><loc>https://uslist.info/mississippi/canton/health</loc></url>
   <url><loc>https://uslist.info/mississippi/canton/health/hospitals</loc></url>
   <url><loc>https://uslist.info/mississippi/canton/professional</loc></url>
+  <url><loc>https://uslist.info/mississippi/canton/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/canton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/canton/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/canton/shopping/clothing</loc></url>
@@ -146,6 +148,7 @@
   <url><loc>https://uslist.info/mississippi/clarksdale/home-services</loc></url>
   <url><loc>https://uslist.info/mississippi/clarksdale/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/mississippi/clarksdale/professional</loc></url>
+  <url><loc>https://uslist.info/mississippi/clarksdale/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/clarksdale/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/clarksdale/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/clarksdale/shopping/art-craft-supplies</loc></url>
@@ -187,9 +190,10 @@
   <url><loc>https://uslist.info/mississippi/cleveland/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/mississippi/cleveland/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/mississippi/cleveland/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/cleveland/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/mississippi/cleveland/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/cleveland/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/cleveland/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/mississippi/cleveland/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/cleveland/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/cleveland/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/mississippi/cleveland/shopping/books-music</loc></url>
@@ -257,6 +261,7 @@
   <url><loc>https://uslist.info/mississippi/columbus/home-services</loc></url>
   <url><loc>https://uslist.info/mississippi/columbus/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/mississippi/columbus/professional</loc></url>
+  <url><loc>https://uslist.info/mississippi/columbus/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/columbus/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/columbus/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/columbus/shopping/art-craft-supplies</loc></url>
@@ -362,10 +367,11 @@
   <url><loc>https://uslist.info/mississippi/flowood/home-services</loc></url>
   <url><loc>https://uslist.info/mississippi/flowood/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/mississippi/flowood/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/flowood/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/mississippi/flowood/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/flowood/professional/coworking</loc></url>
   <url><loc>https://uslist.info/mississippi/flowood/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/mississippi/flowood/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/mississippi/flowood/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/flowood/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/flowood/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/mississippi/flowood/shopping/electronics</loc></url>
@@ -442,6 +448,7 @@
   <url><loc>https://uslist.info/mississippi/greenwood/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/mississippi/greenwood/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/mississippi/greenwood/professional</loc></url>
+  <url><loc>https://uslist.info/mississippi/greenwood/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/greenwood/professional/coworking</loc></url>
   <url><loc>https://uslist.info/mississippi/greenwood/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/greenwood/shopping</loc></url>
@@ -564,12 +571,13 @@
   <url><loc>https://uslist.info/mississippi/hattiesburg/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/mississippi/hattiesburg/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/mississippi/hattiesburg/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/hattiesburg/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/mississippi/hattiesburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/hattiesburg/professional/coworking</loc></url>
   <url><loc>https://uslist.info/mississippi/hattiesburg/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/hattiesburg/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/mississippi/hattiesburg/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/hattiesburg/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/mississippi/hattiesburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/hattiesburg/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/hattiesburg/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/mississippi/hattiesburg/shopping/bikes</loc></url>
@@ -604,6 +612,7 @@
   <url><loc>https://uslist.info/mississippi/hernando/home-services</loc></url>
   <url><loc>https://uslist.info/mississippi/hernando/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/mississippi/hernando/professional</loc></url>
+  <url><loc>https://uslist.info/mississippi/hernando/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/hernando/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/hernando/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/mississippi/hernando/shopping</loc></url>
@@ -661,6 +670,7 @@
   <url><loc>https://uslist.info/mississippi/indianola/health/doctors</loc></url>
   <url><loc>https://uslist.info/mississippi/indianola/health/hospitals</loc></url>
   <url><loc>https://uslist.info/mississippi/indianola/professional</loc></url>
+  <url><loc>https://uslist.info/mississippi/indianola/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/indianola/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/indianola/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/indianola/shopping</loc></url>
@@ -701,13 +711,14 @@
   <url><loc>https://uslist.info/mississippi/jackson/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/mississippi/jackson/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/mississippi/jackson/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/jackson/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/mississippi/jackson/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/jackson/professional/coworking</loc></url>
   <url><loc>https://uslist.info/mississippi/jackson/professional/employment</loc></url>
   <url><loc>https://uslist.info/mississippi/jackson/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/jackson/professional/it-services</loc></url>
   <url><loc>https://uslist.info/mississippi/jackson/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/jackson/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/mississippi/jackson/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/jackson/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/jackson/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/mississippi/jackson/shopping/clothing</loc></url>
@@ -748,11 +759,11 @@
   <url><loc>https://uslist.info/mississippi/laurel/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/mississippi/laurel/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/mississippi/laurel/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/laurel/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/mississippi/laurel/professional/coworking</loc></url>
   <url><loc>https://uslist.info/mississippi/laurel/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/laurel/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/laurel/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/mississippi/laurel/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/laurel/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/laurel/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/mississippi/laurel/shopping/clothing</loc></url>
@@ -786,6 +797,7 @@
   <url><loc>https://uslist.info/mississippi/long-beach/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/mississippi/long-beach/professional</loc></url>
   <url><loc>https://uslist.info/mississippi/long-beach/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/mississippi/long-beach/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/mississippi/long-beach/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/long-beach/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/long-beach/shopping/books-music</loc></url>
@@ -880,10 +892,10 @@
   <url><loc>https://uslist.info/mississippi/meridian/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/mississippi/meridian/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/mississippi/meridian/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/meridian/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/mississippi/meridian/professional/coworking</loc></url>
   <url><loc>https://uslist.info/mississippi/meridian/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/meridian/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/mississippi/meridian/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/meridian/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/meridian/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/mississippi/meridian/shopping/cannabis-vape</loc></url>
@@ -990,10 +1002,11 @@
   <url><loc>https://uslist.info/mississippi/ocean-springs/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/mississippi/ocean-springs/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/mississippi/ocean-springs/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/ocean-springs/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/mississippi/ocean-springs/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/ocean-springs/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/ocean-springs/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/mississippi/ocean-springs/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/mississippi/ocean-springs/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/ocean-springs/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/ocean-springs/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/mississippi/ocean-springs/shopping/clothing</loc></url>
@@ -1086,11 +1099,12 @@
   <url><loc>https://uslist.info/mississippi/oxford/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/mississippi/oxford/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/mississippi/oxford/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/oxford/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/mississippi/oxford/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/oxford/professional/employment</loc></url>
   <url><loc>https://uslist.info/mississippi/oxford/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/oxford/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/oxford/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/mississippi/oxford/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/oxford/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/oxford/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/mississippi/oxford/shopping/bikes</loc></url>
@@ -1143,6 +1157,7 @@
   <url><loc>https://uslist.info/mississippi/pascagoula/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/mississippi/pascagoula/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/mississippi/pascagoula/professional</loc></url>
+  <url><loc>https://uslist.info/mississippi/pascagoula/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/pascagoula/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/pascagoula/professional/it-services</loc></url>
   <url><loc>https://uslist.info/mississippi/pascagoula/professional/other-services</loc></url>
@@ -1186,6 +1201,7 @@
   <url><loc>https://uslist.info/mississippi/pearl/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/mississippi/pearl/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/mississippi/pearl/professional</loc></url>
+  <url><loc>https://uslist.info/mississippi/pearl/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/pearl/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/pearl/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/pearl/shopping</loc></url>
@@ -1215,6 +1231,7 @@
   <url><loc>https://uslist.info/mississippi/petal/health</loc></url>
   <url><loc>https://uslist.info/mississippi/petal/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/mississippi/petal/professional</loc></url>
+  <url><loc>https://uslist.info/mississippi/petal/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/petal/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/petal/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/petal/shopping/department-stores</loc></url>
@@ -1235,9 +1252,9 @@
   <url><loc>https://uslist.info/mississippi/picayune/health</loc></url>
   <url><loc>https://uslist.info/mississippi/picayune/health/hospitals</loc></url>
   <url><loc>https://uslist.info/mississippi/picayune/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/picayune/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/mississippi/picayune/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/picayune/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/mississippi/picayune/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/picayune/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/picayune/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/mississippi/picayune/shopping/hardware-garden</loc></url>
@@ -1273,10 +1290,11 @@
   <url><loc>https://uslist.info/mississippi/ridgeland/home-services</loc></url>
   <url><loc>https://uslist.info/mississippi/ridgeland/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/mississippi/ridgeland/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/ridgeland/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/mississippi/ridgeland/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/ridgeland/professional/coworking</loc></url>
   <url><loc>https://uslist.info/mississippi/ridgeland/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/mississippi/ridgeland/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/mississippi/ridgeland/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/ridgeland/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/ridgeland/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/mississippi/ridgeland/shopping/books-music</loc></url>
@@ -1315,11 +1333,11 @@
   <url><loc>https://uslist.info/mississippi/southaven/health/hospitals</loc></url>
   <url><loc>https://uslist.info/mississippi/southaven/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/mississippi/southaven/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/southaven/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/mississippi/southaven/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/mississippi/southaven/professional/it-services</loc></url>
   <url><loc>https://uslist.info/mississippi/southaven/professional/other-services</loc></url>
   <url><loc>https://uslist.info/mississippi/southaven/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/mississippi/southaven/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/southaven/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/southaven/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/mississippi/southaven/shopping/electronics</loc></url>
@@ -1364,6 +1382,7 @@
   <url><loc>https://uslist.info/mississippi/starkville/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/mississippi/starkville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/mississippi/starkville/professional</loc></url>
+  <url><loc>https://uslist.info/mississippi/starkville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/starkville/professional/it-services</loc></url>
   <url><loc>https://uslist.info/mississippi/starkville/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/mississippi/starkville/professional/nonprofits</loc></url>
@@ -1455,8 +1474,9 @@
   <url><loc>https://uslist.info/mississippi/vicksburg/home-services</loc></url>
   <url><loc>https://uslist.info/mississippi/vicksburg/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/mississippi/vicksburg/professional</loc></url>
-  <url><loc>https://uslist.info/mississippi/vicksburg/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/mississippi/vicksburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/mississippi/vicksburg/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/mississippi/vicksburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/mississippi/vicksburg/shopping</loc></url>
   <url><loc>https://uslist.info/mississippi/vicksburg/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/mississippi/vicksburg/shopping/department-stores</loc></url>

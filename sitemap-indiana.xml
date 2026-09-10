@@ -34,6 +34,7 @@
   <url><loc>https://uslist.info/indiana/anderson/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/anderson/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/anderson/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/anderson/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/anderson/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/anderson/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/anderson/shopping</loc></url>
@@ -71,7 +72,7 @@
   <url><loc>https://uslist.info/indiana/auburn/professional</loc></url>
   <url><loc>https://uslist.info/indiana/auburn/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/auburn/professional/employment</loc></url>
-  <url><loc>https://uslist.info/indiana/auburn/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/indiana/auburn/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/auburn/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/auburn/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/auburn/shopping/clothing</loc></url>
@@ -113,6 +114,7 @@
   <url><loc>https://uslist.info/indiana/avon/home-services/painters</loc></url>
   <url><loc>https://uslist.info/indiana/avon/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/avon/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/avon/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/avon/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/avon/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/avon/professional/other-services</loc></url>
@@ -168,12 +170,13 @@
   <url><loc>https://uslist.info/indiana/bedford/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/bedford/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/bedford/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/bedford/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/bedford/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/bedford/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/bedford/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/bedford/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/bedford/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/bedford/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/bedford/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/bedford/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/bedford/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/bedford/shopping/books-music</loc></url>
@@ -232,13 +235,14 @@
   <url><loc>https://uslist.info/indiana/beech-grove/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/beech-grove/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/beech-grove/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/beech-grove/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/beech-grove/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/beech-grove/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/beech-grove/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/beech-grove/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/indiana/beech-grove/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/beech-grove/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/beech-grove/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/beech-grove/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/beech-grove/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/beech-grove/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/indiana/beech-grove/shopping/cannabis-vape</loc></url>
@@ -295,7 +299,7 @@
   <url><loc>https://uslist.info/indiana/bloomington/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/bloomington/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/bloomington/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/bloomington/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/bloomington/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/bloomington/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/bloomington/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/bloomington/professional/it-services</loc></url>
@@ -304,6 +308,7 @@
   <url><loc>https://uslist.info/indiana/bloomington/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/bloomington/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/bloomington/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/bloomington/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/bloomington/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/bloomington/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/bloomington/shopping/bikes</loc></url>
@@ -359,10 +364,11 @@
   <url><loc>https://uslist.info/indiana/brownsburg/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/brownsburg/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/brownsburg/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/brownsburg/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/brownsburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/brownsburg/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/brownsburg/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/brownsburg/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/brownsburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/brownsburg/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/brownsburg/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/brownsburg/shopping/bikes</loc></url>
@@ -417,7 +423,7 @@
   <url><loc>https://uslist.info/indiana/carmel/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/carmel/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/carmel/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/carmel/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/carmel/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/carmel/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/carmel/professional/employment</loc></url>
   <url><loc>https://uslist.info/indiana/carmel/professional/funeral-services</loc></url>
@@ -426,6 +432,7 @@
   <url><loc>https://uslist.info/indiana/carmel/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/carmel/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/carmel/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/carmel/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/carmel/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/carmel/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/carmel/shopping/bikes</loc></url>
@@ -473,10 +480,10 @@
   <url><loc>https://uslist.info/indiana/cedar-lake/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/cedar-lake/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/indiana/cedar-lake/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/cedar-lake/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/indiana/cedar-lake/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/cedar-lake/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/cedar-lake/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/cedar-lake/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/cedar-lake/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/cedar-lake/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/indiana/cedar-lake/shopping/clothing</loc></url>
@@ -514,10 +521,11 @@
   <url><loc>https://uslist.info/indiana/chesterton/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/indiana/chesterton/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/chesterton/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/chesterton/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/chesterton/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/chesterton/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/chesterton/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/chesterton/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/indiana/chesterton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/chesterton/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/chesterton/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/chesterton/shopping/cannabis-vape</loc></url>
@@ -565,9 +573,10 @@
   <url><loc>https://uslist.info/indiana/clarksville/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/clarksville/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/clarksville/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/clarksville/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/clarksville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/clarksville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/clarksville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/clarksville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/clarksville/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/clarksville/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/clarksville/shopping/bikes</loc></url>
@@ -613,6 +622,7 @@
   <url><loc>https://uslist.info/indiana/columbus/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/indiana/columbus/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/columbus/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/columbus/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/columbus/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/columbus/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/columbus/shopping</loc></url>
@@ -672,6 +682,7 @@
   <url><loc>https://uslist.info/indiana/crawfordsville/health/doctors</loc></url>
   <url><loc>https://uslist.info/indiana/crawfordsville/health/hospitals</loc></url>
   <url><loc>https://uslist.info/indiana/crawfordsville/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/crawfordsville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/crawfordsville/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/crawfordsville/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/crawfordsville/professional/other-services</loc></url>
@@ -711,9 +722,10 @@
   <url><loc>https://uslist.info/indiana/crown-point/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/crown-point/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/crown-point/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/crown-point/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/crown-point/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/crown-point/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/crown-point/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/indiana/crown-point/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/crown-point/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/crown-point/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/indiana/crown-point/shopping/electronics</loc></url>
@@ -780,6 +792,7 @@
   <url><loc>https://uslist.info/indiana/east-chicago/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/east-chicago/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/east-chicago/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/east-chicago/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/east-chicago/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/east-chicago/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/east-chicago/professional/photography</loc></url>
@@ -824,9 +837,10 @@
   <url><loc>https://uslist.info/indiana/elkhart/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/elkhart/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/elkhart/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/elkhart/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/elkhart/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/elkhart/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/elkhart/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/indiana/elkhart/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/elkhart/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/elkhart/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/elkhart/shopping/bikes</loc></url>
@@ -885,7 +899,7 @@
   <url><loc>https://uslist.info/indiana/evansville/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/evansville/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/evansville/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/evansville/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/evansville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/evansville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/evansville/professional/employment</loc></url>
   <url><loc>https://uslist.info/indiana/evansville/professional/marketing-agencies</loc></url>
@@ -893,6 +907,7 @@
   <url><loc>https://uslist.info/indiana/evansville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/evansville/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/evansville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/evansville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/evansville/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/evansville/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/evansville/shopping/bikes</loc></url>
@@ -953,7 +968,7 @@
   <url><loc>https://uslist.info/indiana/fishers/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/indiana/fishers/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/fishers/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/fishers/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/fishers/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/fishers/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/fishers/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/fishers/professional/it-services</loc></url>
@@ -962,6 +977,7 @@
   <url><loc>https://uslist.info/indiana/fishers/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/fishers/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/fishers/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/fishers/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/fishers/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/fishers/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/fishers/shopping/bikes</loc></url>
@@ -1027,7 +1043,7 @@
   <url><loc>https://uslist.info/indiana/fort-wayne/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/fort-wayne/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/fort-wayne/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/fort-wayne/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/fort-wayne/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/fort-wayne/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/fort-wayne/professional/employment</loc></url>
   <url><loc>https://uslist.info/indiana/fort-wayne/professional/funeral-services</loc></url>
@@ -1036,6 +1052,7 @@
   <url><loc>https://uslist.info/indiana/fort-wayne/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/fort-wayne/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/fort-wayne/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/fort-wayne/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/fort-wayne/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/fort-wayne/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/fort-wayne/shopping/bikes</loc></url>
@@ -1105,6 +1122,7 @@
   <url><loc>https://uslist.info/indiana/franklin/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/franklin/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/franklin/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/franklin/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/franklin/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/franklin/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/indiana/franklin/shopping</loc></url>
@@ -1149,9 +1167,10 @@
   <url><loc>https://uslist.info/indiana/gary/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/indiana/gary/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/gary/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/gary/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/gary/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/gary/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/gary/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/indiana/gary/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/gary/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/gary/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/indiana/gary/shopping/clothing</loc></url>
@@ -1205,6 +1224,7 @@
   <url><loc>https://uslist.info/indiana/goshen/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/goshen/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/goshen/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/goshen/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/goshen/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/goshen/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/goshen/professional/it-services</loc></url>
@@ -1323,8 +1343,8 @@
   <url><loc>https://uslist.info/indiana/greenfield/health/doctors</loc></url>
   <url><loc>https://uslist.info/indiana/greenfield/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/indiana/greenfield/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/greenfield/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/indiana/greenfield/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/indiana/greenfield/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/greenfield/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/greenfield/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/indiana/greenfield/shopping/department-stores</loc></url>
@@ -1356,6 +1376,7 @@
   <url><loc>https://uslist.info/indiana/greensburg/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/greensburg/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/greensburg/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/greensburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/greensburg/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/greensburg/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/greensburg/professional/other-services</loc></url>
@@ -1405,12 +1426,13 @@
   <url><loc>https://uslist.info/indiana/greenwood/home-services/painters</loc></url>
   <url><loc>https://uslist.info/indiana/greenwood/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/greenwood/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/greenwood/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/greenwood/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/greenwood/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/greenwood/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/greenwood/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/greenwood/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/greenwood/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/greenwood/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/greenwood/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/greenwood/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/greenwood/shopping/bikes</loc></url>
@@ -1459,6 +1481,7 @@
   <url><loc>https://uslist.info/indiana/griffith/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/indiana/griffith/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/griffith/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/griffith/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/griffith/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/griffith/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/griffith/shopping</loc></url>
@@ -1498,9 +1521,10 @@
   <url><loc>https://uslist.info/indiana/hammond/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/hammond/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/hammond/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/hammond/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/hammond/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/hammond/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/hammond/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/indiana/hammond/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/hammond/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/hammond/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/indiana/hammond/shopping/department-stores</loc></url>
@@ -1540,12 +1564,13 @@
   <url><loc>https://uslist.info/indiana/highland/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/indiana/highland/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/highland/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/highland/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/highland/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/highland/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/highland/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/highland/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/highland/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/highland/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/highland/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/highland/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/highland/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/highland/shopping/bikes</loc></url>
@@ -1614,6 +1639,7 @@
   <url><loc>https://uslist.info/indiana/huntington/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/indiana/huntington/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/indiana/huntington/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/huntington/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/huntington/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/huntington/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/huntington/shopping/department-stores</loc></url>
@@ -1663,7 +1689,7 @@
   <url><loc>https://uslist.info/indiana/indianapolis/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/indianapolis/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/indianapolis/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/indianapolis/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/indianapolis/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/indianapolis/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/indianapolis/professional/employment</loc></url>
   <url><loc>https://uslist.info/indiana/indianapolis/professional/funeral-services</loc></url>
@@ -1673,6 +1699,7 @@
   <url><loc>https://uslist.info/indiana/indianapolis/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/indianapolis/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/indianapolis/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/indianapolis/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/indianapolis/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/indianapolis/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/indianapolis/shopping/bikes</loc></url>
@@ -1732,11 +1759,12 @@
   <url><loc>https://uslist.info/indiana/jasper/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/jasper/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/jasper/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/jasper/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/jasper/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/jasper/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/jasper/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/jasper/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/jasper/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/indiana/jasper/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/jasper/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/jasper/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/jasper/shopping/books-music</loc></url>
@@ -1783,6 +1811,7 @@
   <url><loc>https://uslist.info/indiana/jeffersonville/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/jeffersonville/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/jeffersonville/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/jeffersonville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/jeffersonville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/jeffersonville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/jeffersonville/shopping</loc></url>
@@ -1854,11 +1883,12 @@
   <url><loc>https://uslist.info/indiana/kokomo/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/kokomo/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/kokomo/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/kokomo/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/kokomo/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/kokomo/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/kokomo/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/kokomo/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/kokomo/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/kokomo/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/kokomo/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/kokomo/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/kokomo/shopping/books-music</loc></url>
@@ -1916,7 +1946,7 @@
   <url><loc>https://uslist.info/indiana/la-porte/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/la-porte/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/la-porte/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/la-porte/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/la-porte/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/la-porte/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/la-porte/professional/employment</loc></url>
   <url><loc>https://uslist.info/indiana/la-porte/professional/funeral-services</loc></url>
@@ -1925,6 +1955,7 @@
   <url><loc>https://uslist.info/indiana/la-porte/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/la-porte/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/la-porte/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/la-porte/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/la-porte/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/la-porte/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/indiana/la-porte/shopping/cannabis-vape</loc></url>
@@ -1983,13 +2014,14 @@
   <url><loc>https://uslist.info/indiana/lafayette/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/lafayette/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/lafayette/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/lafayette/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/lafayette/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/lafayette/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/lafayette/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/lafayette/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/lafayette/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/lafayette/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/lafayette/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/lafayette/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/lafayette/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/lafayette/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/lafayette/shopping/bikes</loc></url>
@@ -2039,6 +2071,7 @@
   <url><loc>https://uslist.info/indiana/lake-station/home-services/painters</loc></url>
   <url><loc>https://uslist.info/indiana/lake-station/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/lake-station/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/lake-station/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/lake-station/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/lake-station/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/lake-station/professional/other-services</loc></url>
@@ -2094,13 +2127,14 @@
   <url><loc>https://uslist.info/indiana/lawrence/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/lawrence/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/lawrence/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/lawrence/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/lawrence/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/lawrence/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/lawrence/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/lawrence/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/indiana/lawrence/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/lawrence/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/lawrence/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/lawrence/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/lawrence/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/lawrence/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/lawrence/shopping/bikes</loc></url>
@@ -2192,13 +2226,14 @@
   <url><loc>https://uslist.info/indiana/logansport/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/logansport/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/logansport/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/logansport/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/logansport/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/logansport/professional/employment</loc></url>
   <url><loc>https://uslist.info/indiana/logansport/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/logansport/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/indiana/logansport/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/logansport/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/logansport/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/logansport/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/logansport/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/logansport/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/logansport/shopping/books-music</loc></url>
@@ -2242,6 +2277,7 @@
   <url><loc>https://uslist.info/indiana/madison/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/madison/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/indiana/madison/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/madison/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/madison/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/madison/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/madison/shopping</loc></url>
@@ -2362,12 +2398,14 @@
   <url><loc>https://uslist.info/indiana/merrillville/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/indiana/merrillville/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/merrillville/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/merrillville/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/merrillville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/merrillville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/merrillville/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/indiana/merrillville/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/merrillville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/merrillville/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/merrillville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/merrillville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/merrillville/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/merrillville/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/merrillville/shopping/books-music</loc></url>
@@ -2416,6 +2454,7 @@
   <url><loc>https://uslist.info/indiana/michigan-city/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/michigan-city/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/michigan-city/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/michigan-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/michigan-city/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/michigan-city/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/michigan-city/professional/printing-signs</loc></url>
@@ -2471,6 +2510,7 @@
   <url><loc>https://uslist.info/indiana/mishawaka/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/indiana/mishawaka/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/mishawaka/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/mishawaka/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/mishawaka/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/mishawaka/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/mishawaka/professional/nonprofits</loc></url>
@@ -2655,6 +2695,7 @@
   <url><loc>https://uslist.info/indiana/new-albany/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/new-albany/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/new-albany/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/new-albany/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/new-albany/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/new-albany/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/new-albany/professional/nonprofits</loc></url>
@@ -2709,6 +2750,7 @@
   <url><loc>https://uslist.info/indiana/new-castle/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/new-castle/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/new-castle/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/new-castle/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/new-castle/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/new-castle/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/new-castle/professional/printing-signs</loc></url>
@@ -2755,10 +2797,10 @@
   <url><loc>https://uslist.info/indiana/new-haven/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/indiana/new-haven/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/new-haven/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/new-haven/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/indiana/new-haven/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/new-haven/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/new-haven/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/indiana/new-haven/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/new-haven/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/new-haven/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/new-haven/shopping/books-music</loc></url>
@@ -2811,10 +2853,10 @@
   <url><loc>https://uslist.info/indiana/noblesville/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/noblesville/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/noblesville/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/noblesville/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/indiana/noblesville/professional/employment</loc></url>
   <url><loc>https://uslist.info/indiana/noblesville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/noblesville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/noblesville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/noblesville/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/noblesville/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/noblesville/shopping/books-music</loc></url>
@@ -2907,12 +2949,13 @@
   <url><loc>https://uslist.info/indiana/plainfield/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/indiana/plainfield/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/plainfield/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/plainfield/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/plainfield/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/plainfield/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/plainfield/professional/employment</loc></url>
   <url><loc>https://uslist.info/indiana/plainfield/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/indiana/plainfield/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/plainfield/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/plainfield/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/plainfield/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/plainfield/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/indiana/plainfield/shopping/books-music</loc></url>
@@ -3016,6 +3059,7 @@
   <url><loc>https://uslist.info/indiana/richmond/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/richmond/home-services/painters</loc></url>
   <url><loc>https://uslist.info/indiana/richmond/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/richmond/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/richmond/professional/employment</loc></url>
   <url><loc>https://uslist.info/indiana/richmond/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/richmond/shopping</loc></url>
@@ -3060,10 +3104,10 @@
   <url><loc>https://uslist.info/indiana/schererville/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/indiana/schererville/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/schererville/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/schererville/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/indiana/schererville/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/schererville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/schererville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/schererville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/schererville/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/schererville/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/indiana/schererville/shopping/clothing</loc></url>
@@ -3101,6 +3145,7 @@
   <url><loc>https://uslist.info/indiana/seymour/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/indiana/seymour/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/seymour/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/seymour/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/seymour/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/seymour/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/indiana/seymour/shopping</loc></url>
@@ -3180,11 +3225,12 @@
   <url><loc>https://uslist.info/indiana/south-bend/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/south-bend/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/south-bend/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/south-bend/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/south-bend/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/south-bend/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/south-bend/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/south-bend/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/south-bend/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/south-bend/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/south-bend/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/south-bend/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/indiana/south-bend/shopping/cannabis-vape</loc></url>
@@ -3246,7 +3292,7 @@
   <url><loc>https://uslist.info/indiana/speedway/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/speedway/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/speedway/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/speedway/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/speedway/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/speedway/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/speedway/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/speedway/professional/it-services</loc></url>
@@ -3254,6 +3300,7 @@
   <url><loc>https://uslist.info/indiana/speedway/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/speedway/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/speedway/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/speedway/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/speedway/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/speedway/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/speedway/shopping/books-music</loc></url>
@@ -3327,7 +3374,7 @@
   <url><loc>https://uslist.info/indiana/terre-haute/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/terre-haute/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/terre-haute/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/terre-haute/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/terre-haute/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/terre-haute/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/terre-haute/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/terre-haute/professional/it-services</loc></url>
@@ -3336,6 +3383,7 @@
   <url><loc>https://uslist.info/indiana/terre-haute/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/terre-haute/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/terre-haute/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/terre-haute/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/terre-haute/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/terre-haute/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/indiana/terre-haute/shopping/books-music</loc></url>
@@ -3393,12 +3441,13 @@
   <url><loc>https://uslist.info/indiana/valparaiso/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/valparaiso/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/valparaiso/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/valparaiso/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/valparaiso/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/valparaiso/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/valparaiso/professional/employment</loc></url>
   <url><loc>https://uslist.info/indiana/valparaiso/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/valparaiso/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/valparaiso/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/valparaiso/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/valparaiso/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/valparaiso/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/valparaiso/shopping/bikes</loc></url>
@@ -3448,6 +3497,7 @@
   <url><loc>https://uslist.info/indiana/vincennes/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/vincennes/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/indiana/vincennes/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/vincennes/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/vincennes/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/vincennes/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/vincennes/professional/printing-signs</loc></url>
@@ -3498,7 +3548,7 @@
   <url><loc>https://uslist.info/indiana/wabash/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/indiana/wabash/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/wabash/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/wabash/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/wabash/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/wabash/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/wabash/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/wabash/professional/it-services</loc></url>
@@ -3506,6 +3556,7 @@
   <url><loc>https://uslist.info/indiana/wabash/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/wabash/professional/photography</loc></url>
   <url><loc>https://uslist.info/indiana/wabash/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/wabash/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/wabash/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/wabash/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/indiana/wabash/shopping/books-music</loc></url>
@@ -3550,6 +3601,7 @@
   <url><loc>https://uslist.info/indiana/warsaw/home-services</loc></url>
   <url><loc>https://uslist.info/indiana/warsaw/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/warsaw/professional</loc></url>
+  <url><loc>https://uslist.info/indiana/warsaw/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/warsaw/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/warsaw/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/indiana/warsaw/shopping</loc></url>
@@ -3623,11 +3675,12 @@
   <url><loc>https://uslist.info/indiana/west-lafayette/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/indiana/west-lafayette/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/indiana/west-lafayette/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/west-lafayette/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/west-lafayette/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/west-lafayette/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/west-lafayette/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/west-lafayette/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/west-lafayette/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/west-lafayette/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/west-lafayette/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/west-lafayette/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/indiana/west-lafayette/shopping/cannabis-vape</loc></url>
@@ -3669,8 +3722,8 @@
   <url><loc>https://uslist.info/indiana/westfield/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/indiana/westfield/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/indiana/westfield/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/westfield/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/indiana/westfield/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/indiana/westfield/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/westfield/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/westfield/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/indiana/westfield/shopping/furniture-home</loc></url>
@@ -3717,13 +3770,14 @@
   <url><loc>https://uslist.info/indiana/zionsville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/indiana/zionsville/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/indiana/zionsville/professional</loc></url>
-  <url><loc>https://uslist.info/indiana/zionsville/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/indiana/zionsville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/indiana/zionsville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/indiana/zionsville/professional/employment</loc></url>
   <url><loc>https://uslist.info/indiana/zionsville/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/indiana/zionsville/professional/it-services</loc></url>
   <url><loc>https://uslist.info/indiana/zionsville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/indiana/zionsville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/indiana/zionsville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/indiana/zionsville/shopping</loc></url>
   <url><loc>https://uslist.info/indiana/zionsville/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/indiana/zionsville/shopping/bikes</loc></url>

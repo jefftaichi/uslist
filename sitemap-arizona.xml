@@ -32,6 +32,7 @@
   <url><loc>https://uslist.info/arizona/anthem/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/arizona/anthem/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/anthem/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/anthem/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/anthem/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/anthem/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/anthem/professional/printing-signs</loc></url>
@@ -94,12 +95,13 @@
   <url><loc>https://uslist.info/arizona/apache-junction/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/apache-junction/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/apache-junction/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/apache-junction/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/apache-junction/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/apache-junction/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/apache-junction/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/apache-junction/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/arizona/apache-junction/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/apache-junction/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/apache-junction/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/apache-junction/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/apache-junction/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/apache-junction/shopping/bikes</loc></url>
@@ -160,12 +162,13 @@
   <url><loc>https://uslist.info/arizona/avondale/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/avondale/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/avondale/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/avondale/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/shopping/bikes</loc></url>
@@ -220,10 +223,11 @@
   <url><loc>https://uslist.info/arizona/buckeye/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/buckeye/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/arizona/buckeye/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/buckeye/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/buckeye/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/buckeye/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/buckeye/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/arizona/buckeye/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/arizona/buckeye/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/buckeye/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/buckeye/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/buckeye/shopping/cannabis-vape</loc></url>
@@ -267,6 +271,7 @@
   <url><loc>https://uslist.info/arizona/bullhead-city/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/arizona/bullhead-city/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/bullhead-city/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/bullhead-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/bullhead-city/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/bullhead-city/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/bullhead-city/professional/printing-signs</loc></url>
@@ -301,6 +306,7 @@
   <url><loc>https://uslist.info/arizona/camp-verde/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/arizona/camp-verde/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/camp-verde/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/camp-verde/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/camp-verde/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/camp-verde/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/camp-verde/shopping/clothing</loc></url>
@@ -342,10 +348,11 @@
   <url><loc>https://uslist.info/arizona/casa-grande/home-services</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/casa-grande/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/casa-grande/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/casa-grande/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/shopping/cannabis-vape</loc></url>
@@ -404,7 +411,7 @@
   <url><loc>https://uslist.info/arizona/chandler/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/chandler/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/chandler/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/chandler/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/chandler/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/chandler/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/chandler/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/chandler/professional/funeral-services</loc></url>
@@ -414,6 +421,7 @@
   <url><loc>https://uslist.info/arizona/chandler/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/chandler/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/chandler/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/chandler/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/chandler/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/chandler/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/chandler/shopping/bikes</loc></url>
@@ -485,8 +493,9 @@
   <url><loc>https://uslist.info/arizona/coolidge/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/coolidge/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/coolidge/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/coolidge/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/coolidge/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/coolidge/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/arizona/coolidge/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/coolidge/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/coolidge/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/arizona/coolidge/shopping/furniture-home</loc></url>
@@ -499,7 +508,7 @@
   <url><loc>https://uslist.info/arizona/coolidge/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/arizona/cottonwood</loc></url>
   <url><loc>https://uslist.info/arizona/cottonwood/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/cottonwood/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/arizona/cottonwood/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/douglas</loc></url>
   <url><loc>https://uslist.info/arizona/douglas/automotive</loc></url>
   <url><loc>https://uslist.info/arizona/douglas/automotive/auto-parts</loc></url>
@@ -512,6 +521,7 @@
   <url><loc>https://uslist.info/arizona/douglas/health/doctors</loc></url>
   <url><loc>https://uslist.info/arizona/douglas/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/arizona/douglas/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/douglas/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/douglas/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/douglas/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/douglas/shopping/clothing</loc></url>
@@ -545,6 +555,7 @@
   <url><loc>https://uslist.info/arizona/el-mirage/home-services</loc></url>
   <url><loc>https://uslist.info/arizona/el-mirage/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/el-mirage/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/el-mirage/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/el-mirage/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/arizona/el-mirage/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/el-mirage/shopping</loc></url>
@@ -570,8 +581,8 @@
   <url><loc>https://uslist.info/arizona/eloy/health</loc></url>
   <url><loc>https://uslist.info/arizona/eloy/health/doctors</loc></url>
   <url><loc>https://uslist.info/arizona/eloy/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/eloy/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/arizona/eloy/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/arizona/eloy/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/eloy/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/eloy/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/arizona/eloy/shopping/department-stores</loc></url>
@@ -620,7 +631,7 @@
   <url><loc>https://uslist.info/arizona/flagstaff/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/flagstaff/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/flagstaff/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/flagstaff/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/flagstaff/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/flagstaff/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/flagstaff/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/flagstaff/professional/funeral-services</loc></url>
@@ -629,6 +640,7 @@
   <url><loc>https://uslist.info/arizona/flagstaff/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/flagstaff/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/flagstaff/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/flagstaff/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/flagstaff/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/flagstaff/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/flagstaff/shopping/bikes</loc></url>
@@ -666,8 +678,8 @@
   <url><loc>https://uslist.info/arizona/florence/home-services</loc></url>
   <url><loc>https://uslist.info/arizona/florence/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/florence/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/florence/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/arizona/florence/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/arizona/florence/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/florence/travel-leisure</loc></url>
   <url><loc>https://uslist.info/arizona/florence/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/arizona/florence/travel-leisure/recreation</loc></url>
@@ -725,7 +737,7 @@
   <url><loc>https://uslist.info/arizona/fortuna-foothills/health/hospitals</loc></url>
   <url><loc>https://uslist.info/arizona/fortuna-foothills/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/arizona/fortuna-foothills/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/fortuna-foothills/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/arizona/fortuna-foothills/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/fortuna-foothills/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/arizona/fortuna-foothills/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/fortuna-foothills/shopping/electronics</loc></url>
@@ -828,7 +840,7 @@
   <url><loc>https://uslist.info/arizona/gilbert/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/gilbert/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/gilbert/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/gilbert/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/gilbert/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/gilbert/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/gilbert/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/gilbert/professional/funeral-services</loc></url>
@@ -838,6 +850,7 @@
   <url><loc>https://uslist.info/arizona/gilbert/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/gilbert/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/gilbert/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/gilbert/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/gilbert/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/gilbert/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/gilbert/shopping/bikes</loc></url>
@@ -904,7 +917,7 @@
   <url><loc>https://uslist.info/arizona/glendale/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/glendale/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/glendale/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/glendale/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/glendale/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/glendale/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/glendale/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/glendale/professional/funeral-services</loc></url>
@@ -914,6 +927,7 @@
   <url><loc>https://uslist.info/arizona/glendale/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/glendale/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/glendale/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/glendale/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/glendale/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/glendale/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/glendale/shopping/bikes</loc></url>
@@ -989,13 +1003,14 @@
   <url><loc>https://uslist.info/arizona/goodyear/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/goodyear/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/goodyear/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/professional/it-services</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/goodyear/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/shopping/books-music</loc></url>
@@ -1043,6 +1058,7 @@
   <url><loc>https://uslist.info/arizona/green-valley/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/green-valley/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/arizona/green-valley/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/green-valley/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/green-valley/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/arizona/green-valley/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/green-valley/professional/printing-signs</loc></url>
@@ -1088,6 +1104,7 @@
   <url><loc>https://uslist.info/arizona/kingman/home-services</loc></url>
   <url><loc>https://uslist.info/arizona/kingman/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/arizona/kingman/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/kingman/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/kingman/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/kingman/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/kingman/professional/other-services</loc></url>
@@ -1136,6 +1153,7 @@
   <url><loc>https://uslist.info/arizona/lake-havasu-city/home-services</loc></url>
   <url><loc>https://uslist.info/arizona/lake-havasu-city/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/lake-havasu-city/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/lake-havasu-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/lake-havasu-city/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/lake-havasu-city/professional/it-services</loc></url>
   <url><loc>https://uslist.info/arizona/lake-havasu-city/professional/other-services</loc></url>
@@ -1207,8 +1225,8 @@
   <url><loc>https://uslist.info/arizona/maricopa/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/arizona/maricopa/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/maricopa/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/maricopa/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/arizona/maricopa/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/arizona/maricopa/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/maricopa/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/maricopa/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/arizona/maricopa/shopping/electronics</loc></url>
@@ -1265,7 +1283,7 @@
   <url><loc>https://uslist.info/arizona/mesa/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/mesa/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/mesa/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/mesa/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/mesa/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/mesa/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/mesa/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/mesa/professional/funeral-services</loc></url>
@@ -1275,6 +1293,7 @@
   <url><loc>https://uslist.info/arizona/mesa/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/mesa/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/mesa/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/mesa/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/mesa/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/mesa/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/mesa/shopping/bikes</loc></url>
@@ -1327,6 +1346,7 @@
   <url><loc>https://uslist.info/arizona/new-kingman-butler/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/arizona/new-kingman-butler/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/new-kingman-butler/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/new-kingman-butler/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/new-kingman-butler/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/new-kingman-butler/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/new-kingman-butler/shopping/books-music</loc></url>
@@ -1366,10 +1386,11 @@
   <url><loc>https://uslist.info/arizona/nogales/health/hospitals</loc></url>
   <url><loc>https://uslist.info/arizona/nogales/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/arizona/nogales/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/nogales/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/nogales/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/nogales/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/nogales/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/nogales/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/arizona/nogales/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/nogales/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/nogales/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/nogales/shopping/clothing</loc></url>
@@ -1417,6 +1438,7 @@
   <url><loc>https://uslist.info/arizona/oro-valley/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/arizona/oro-valley/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/oro-valley/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/oro-valley/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/oro-valley/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/oro-valley/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/arizona/oro-valley/professional/other-services</loc></url>
@@ -1486,7 +1508,7 @@
   <url><loc>https://uslist.info/arizona/paradise-valley/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/paradise-valley/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/paradise-valley/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/paradise-valley/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/paradise-valley/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/paradise-valley/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/paradise-valley/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/paradise-valley/professional/funeral-services</loc></url>
@@ -1495,6 +1517,7 @@
   <url><loc>https://uslist.info/arizona/paradise-valley/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/paradise-valley/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/paradise-valley/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/paradise-valley/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/paradise-valley/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/paradise-valley/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/paradise-valley/shopping/bikes</loc></url>
@@ -1590,7 +1613,7 @@
   <url><loc>https://uslist.info/arizona/peoria/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/arizona/peoria/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/peoria/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/peoria/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/peoria/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/peoria/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/peoria/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/arizona/peoria/professional/it-services</loc></url>
@@ -1598,6 +1621,7 @@
   <url><loc>https://uslist.info/arizona/peoria/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/peoria/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/peoria/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/peoria/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/peoria/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/peoria/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/peoria/shopping/bikes</loc></url>
@@ -1662,7 +1686,7 @@
   <url><loc>https://uslist.info/arizona/phoenix/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/phoenix/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/phoenix/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/phoenix/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/phoenix/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/phoenix/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/phoenix/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/phoenix/professional/funeral-services</loc></url>
@@ -1672,6 +1696,7 @@
   <url><loc>https://uslist.info/arizona/phoenix/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/phoenix/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/phoenix/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/phoenix/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/phoenix/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/phoenix/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/phoenix/shopping/bikes</loc></url>
@@ -1772,6 +1797,7 @@
   <url><loc>https://uslist.info/arizona/prescott/home-services</loc></url>
   <url><loc>https://uslist.info/arizona/prescott/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/arizona/prescott/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/prescott/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/prescott/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/prescott/professional/it-services</loc></url>
   <url><loc>https://uslist.info/arizona/prescott/professional/nonprofits</loc></url>
@@ -1835,13 +1861,14 @@
   <url><loc>https://uslist.info/arizona/queen-creek/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/queen-creek/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/queen-creek/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/queen-creek/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/queen-creek/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/queen-creek/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/queen-creek/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/queen-creek/professional/it-services</loc></url>
   <url><loc>https://uslist.info/arizona/queen-creek/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/queen-creek/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/queen-creek/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/queen-creek/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/queen-creek/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/queen-creek/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/arizona/queen-creek/shopping/books-music</loc></url>
@@ -1921,7 +1948,7 @@
   <url><loc>https://uslist.info/arizona/safford/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/safford/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/safford/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/safford/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/safford/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/safford/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/safford/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/safford/professional/funeral-services</loc></url>
@@ -1929,6 +1956,7 @@
   <url><loc>https://uslist.info/arizona/safford/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/safford/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/safford/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/safford/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/safford/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/safford/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/safford/shopping/cannabis-vape</loc></url>
@@ -2027,8 +2055,8 @@
   <url><loc>https://uslist.info/arizona/san-tan-valley/home-services</loc></url>
   <url><loc>https://uslist.info/arizona/san-tan-valley/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/san-tan-valley/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/san-tan-valley/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/arizona/san-tan-valley/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/arizona/san-tan-valley/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/san-tan-valley/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/san-tan-valley/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/arizona/san-tan-valley/shopping/electronics</loc></url>
@@ -2078,7 +2106,7 @@
   <url><loc>https://uslist.info/arizona/scottsdale/home-services/painters</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/scottsdale/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/scottsdale/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/professional/funeral-services</loc></url>
@@ -2088,6 +2116,7 @@
   <url><loc>https://uslist.info/arizona/scottsdale/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/scottsdale/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/shopping/bikes</loc></url>
@@ -2138,6 +2167,7 @@
   <url><loc>https://uslist.info/arizona/show-low/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/arizona/show-low/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/show-low/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/show-low/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/show-low/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/show-low/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/show-low/professional/other-services</loc></url>
@@ -2185,6 +2215,7 @@
   <url><loc>https://uslist.info/arizona/sierra-vista/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/sierra-vista/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/sierra-vista/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/sierra-vista/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/sierra-vista/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/sierra-vista/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/sierra-vista/professional/printing-signs</loc></url>
@@ -2255,11 +2286,12 @@
   <url><loc>https://uslist.info/arizona/sun-city-west/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city-west/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city-west/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/sun-city-west/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city-west/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city-west/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/arizona/sun-city-west/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city-west/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city-west/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/sun-city-west/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city-west/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city-west/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city-west/shopping/department-stores</loc></url>
@@ -2312,13 +2344,14 @@
   <url><loc>https://uslist.info/arizona/sun-city/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/sun-city/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/sun-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city/professional/it-services</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/sun-city/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/sun-city/shopping/books-music</loc></url>
@@ -2377,12 +2410,12 @@
   <url><loc>https://uslist.info/arizona/sun-lakes/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/arizona/sun-lakes/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/sun-lakes/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/sun-lakes/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/arizona/sun-lakes/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/sun-lakes/professional/it-services</loc></url>
   <url><loc>https://uslist.info/arizona/sun-lakes/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/sun-lakes/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/sun-lakes/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/sun-lakes/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/sun-lakes/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/sun-lakes/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/arizona/sun-lakes/shopping/clothing</loc></url>
@@ -2435,13 +2468,14 @@
   <url><loc>https://uslist.info/arizona/surprise/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/surprise/home-services/painters</loc></url>
   <url><loc>https://uslist.info/arizona/surprise/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/surprise/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/surprise/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/surprise/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/surprise/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/surprise/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/arizona/surprise/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/surprise/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/surprise/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/surprise/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/surprise/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/surprise/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/surprise/shopping/books-music</loc></url>
@@ -2506,7 +2540,7 @@
   <url><loc>https://uslist.info/arizona/tempe/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/tempe/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/tempe/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/tempe/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/tempe/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/tempe/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/tempe/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/tempe/professional/funeral-services</loc></url>
@@ -2516,6 +2550,7 @@
   <url><loc>https://uslist.info/arizona/tempe/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/tempe/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/tempe/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/tempe/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/tempe/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/tempe/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/tempe/shopping/bikes</loc></url>
@@ -2583,7 +2618,7 @@
   <url><loc>https://uslist.info/arizona/tucson/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/tucson/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/arizona/tucson/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/tucson/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/arizona/tucson/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/tucson/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/tucson/professional/employment</loc></url>
   <url><loc>https://uslist.info/arizona/tucson/professional/funeral-services</loc></url>
@@ -2593,6 +2628,7 @@
   <url><loc>https://uslist.info/arizona/tucson/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/tucson/professional/photography</loc></url>
   <url><loc>https://uslist.info/arizona/tucson/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/tucson/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/tucson/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/tucson/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/tucson/shopping/bikes</loc></url>
@@ -2646,10 +2682,10 @@
   <url><loc>https://uslist.info/arizona/verde-village/home-services</loc></url>
   <url><loc>https://uslist.info/arizona/verde-village/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/arizona/verde-village/professional</loc></url>
-  <url><loc>https://uslist.info/arizona/verde-village/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/arizona/verde-village/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/verde-village/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/verde-village/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/arizona/verde-village/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/verde-village/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/verde-village/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/arizona/verde-village/shopping/cannabis-vape</loc></url>
@@ -2694,6 +2730,7 @@
   <url><loc>https://uslist.info/arizona/yuma/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/arizona/yuma/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/yuma/professional</loc></url>
+  <url><loc>https://uslist.info/arizona/yuma/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/yuma/professional/coworking</loc></url>
   <url><loc>https://uslist.info/arizona/yuma/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arizona/yuma/professional/other-services</loc></url>

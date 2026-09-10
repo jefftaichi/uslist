@@ -41,7 +41,7 @@
   <url><loc>https://uslist.info/virginia/alexandria/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/virginia/alexandria/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/alexandria/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/alexandria/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/alexandria/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/alexandria/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/alexandria/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/alexandria/professional/it-services</loc></url>
@@ -49,6 +49,7 @@
   <url><loc>https://uslist.info/virginia/alexandria/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/alexandria/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/alexandria/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/alexandria/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/alexandria/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/alexandria/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/alexandria/shopping/bikes</loc></url>
@@ -162,7 +163,7 @@
   <url><loc>https://uslist.info/virginia/arlington/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/arlington/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/arlington/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/arlington/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/arlington/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/arlington/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/arlington/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/arlington/professional/it-services</loc></url>
@@ -170,6 +171,7 @@
   <url><loc>https://uslist.info/virginia/arlington/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/arlington/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/arlington/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/arlington/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/arlington/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/arlington/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/arlington/shopping/bikes</loc></url>
@@ -224,12 +226,13 @@
   <url><loc>https://uslist.info/virginia/ashburn/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/ashburn/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/ashburn/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/ashburn/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/ashburn/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/ashburn/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/virginia/ashburn/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/ashburn/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/ashburn/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/ashburn/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/ashburn/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/ashburn/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/ashburn/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/ashburn/shopping/bikes</loc></url>
@@ -285,10 +288,11 @@
   <url><loc>https://uslist.info/virginia/bailey-s-crossroads/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/virginia/bailey-s-crossroads/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/bailey-s-crossroads/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/bailey-s-crossroads/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/bailey-s-crossroads/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/bailey-s-crossroads/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/bailey-s-crossroads/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/bailey-s-crossroads/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/bailey-s-crossroads/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/bailey-s-crossroads/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/bailey-s-crossroads/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/bailey-s-crossroads/shopping/bikes</loc></url>
@@ -339,9 +343,10 @@
   <url><loc>https://uslist.info/virginia/belmont/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/belmont/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/belmont/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/belmont/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/belmont/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/virginia/belmont/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/belmont/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/belmont/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/belmont/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/belmont/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/virginia/belmont/shopping/gifts-florists</loc></url>
@@ -391,7 +396,7 @@
   <url><loc>https://uslist.info/virginia/blacksburg/home-services/painters</loc></url>
   <url><loc>https://uslist.info/virginia/blacksburg/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/blacksburg/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/blacksburg/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/blacksburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/blacksburg/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/blacksburg/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/blacksburg/professional/funeral-services</loc></url>
@@ -400,6 +405,7 @@
   <url><loc>https://uslist.info/virginia/blacksburg/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/blacksburg/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/blacksburg/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/blacksburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/blacksburg/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/blacksburg/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/blacksburg/shopping/bikes</loc></url>
@@ -454,9 +460,11 @@
   <url><loc>https://uslist.info/virginia/bon-air/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/bon-air/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/bon-air/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/bon-air/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/bon-air/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/bon-air/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/bon-air/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/bon-air/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/bon-air/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/bon-air/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/bon-air/shopping/cannabis-vape</loc></url>
@@ -492,9 +500,9 @@
   <url><loc>https://uslist.info/virginia/brambleton/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/virginia/brambleton/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/virginia/brambleton/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/brambleton/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/brambleton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/brambleton/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/brambleton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/brambleton/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/brambleton/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/virginia/brambleton/shopping/electronics</loc></url>
@@ -542,12 +550,12 @@
   <url><loc>https://uslist.info/virginia/brandermill/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/brandermill/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/brandermill/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/brandermill/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/brandermill/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/brandermill/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/brandermill/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/brandermill/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/brandermill/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/brandermill/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/brandermill/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/brandermill/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/brandermill/shopping/cannabis-vape</loc></url>
@@ -603,11 +611,12 @@
   <url><loc>https://uslist.info/virginia/bristol/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/virginia/bristol/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/bristol/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/bristol/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/bristol/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/bristol/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/bristol/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/bristol/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/bristol/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/bristol/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/bristol/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/bristol/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/bristol/shopping/books-music</loc></url>
@@ -655,8 +664,10 @@
   <url><loc>https://uslist.info/virginia/broadlands/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/broadlands/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/broadlands/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/broadlands/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/broadlands/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/virginia/broadlands/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/broadlands/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/broadlands/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/broadlands/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/broadlands/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/broadlands/shopping/department-stores</loc></url>
@@ -683,9 +694,9 @@
   <url><loc>https://uslist.info/virginia/buckhall/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/buckhall/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/virginia/buckhall/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/buckhall/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/buckhall/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/buckhall/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/buckhall/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/buckhall/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/buckhall/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/virginia/buckhall/shopping/electronics</loc></url>
@@ -730,10 +741,11 @@
   <url><loc>https://uslist.info/virginia/bull-run/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/virginia/bull-run/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/bull-run/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/bull-run/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/bull-run/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/bull-run/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/bull-run/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/bull-run/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/bull-run/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/bull-run/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/bull-run/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/bull-run/shopping/cannabis-vape</loc></url>
@@ -772,10 +784,10 @@
   <url><loc>https://uslist.info/virginia/burke-centre/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/burke-centre/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/burke-centre/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/burke-centre/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/burke-centre/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/burke-centre/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/burke-centre/professional/photography</loc></url>
+  <url><loc>https://uslist.info/virginia/burke-centre/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/burke-centre/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/burke-centre/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/virginia/burke-centre/shopping/electronics</loc></url>
@@ -807,9 +819,9 @@
   <url><loc>https://uslist.info/virginia/burke/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/burke/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/burke/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/burke/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/burke/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/burke/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/burke/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/burke/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/burke/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/burke/shopping/department-stores</loc></url>
@@ -882,11 +894,11 @@
   <url><loc>https://uslist.info/virginia/cave-spring/health/doctors</loc></url>
   <url><loc>https://uslist.info/virginia/cave-spring/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/virginia/cave-spring/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/cave-spring/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/cave-spring/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/cave-spring/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/cave-spring/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/cave-spring/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/cave-spring/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/cave-spring/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/cave-spring/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/cave-spring/shopping/bikes</loc></url>
@@ -932,11 +944,11 @@
   <url><loc>https://uslist.info/virginia/centreville/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/centreville/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/centreville/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/centreville/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/centreville/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/centreville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/centreville/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/centreville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/centreville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/centreville/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/centreville/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/centreville/shopping/bikes</loc></url>
@@ -989,12 +1001,13 @@
   <url><loc>https://uslist.info/virginia/chantilly/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/virginia/chantilly/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/chantilly/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/chantilly/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/chantilly/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/chantilly/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/chantilly/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/chantilly/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/chantilly/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/chantilly/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/chantilly/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/chantilly/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/chantilly/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/virginia/chantilly/shopping/cannabis-vape</loc></url>
@@ -1055,7 +1068,7 @@
   <url><loc>https://uslist.info/virginia/charlottesville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/charlottesville/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/charlottesville/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/charlottesville/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/charlottesville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/charlottesville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/charlottesville/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/charlottesville/professional/funeral-services</loc></url>
@@ -1065,6 +1078,7 @@
   <url><loc>https://uslist.info/virginia/charlottesville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/charlottesville/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/charlottesville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/charlottesville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/charlottesville/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/charlottesville/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/charlottesville/shopping/bikes</loc></url>
@@ -1115,9 +1129,9 @@
   <url><loc>https://uslist.info/virginia/cherry-hill/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/cherry-hill/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/cherry-hill/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/cherry-hill/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/cherry-hill/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/cherry-hill/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/cherry-hill/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/cherry-hill/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/cherry-hill/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/virginia/cherry-hill/shopping/department-stores</loc></url>
@@ -1171,7 +1185,7 @@
   <url><loc>https://uslist.info/virginia/chesapeake/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/chesapeake/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/chesapeake/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/chesapeake/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/chesapeake/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/chesapeake/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/chesapeake/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/chesapeake/professional/it-services</loc></url>
@@ -1179,6 +1193,7 @@
   <url><loc>https://uslist.info/virginia/chesapeake/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/chesapeake/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/chesapeake/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/chesapeake/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/chesapeake/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/chesapeake/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/chesapeake/shopping/books-music</loc></url>
@@ -1234,12 +1249,13 @@
   <url><loc>https://uslist.info/virginia/chester/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/chester/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/chester/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/chester/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/chester/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/chester/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/chester/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/chester/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/chester/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/chester/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/chester/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/chester/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/chester/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/chester/shopping/cannabis-vape</loc></url>
@@ -1288,6 +1304,7 @@
   <url><loc>https://uslist.info/virginia/christiansburg/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/christiansburg/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/christiansburg/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/christiansburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/christiansburg/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/christiansburg/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/christiansburg/professional/other-services</loc></url>
@@ -1347,10 +1364,10 @@
   <url><loc>https://uslist.info/virginia/colonial-heights/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/virginia/colonial-heights/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/colonial-heights/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/colonial-heights/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/colonial-heights/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/colonial-heights/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/virginia/colonial-heights/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/colonial-heights/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/colonial-heights/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/colonial-heights/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/colonial-heights/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/colonial-heights/shopping/books-music</loc></url>
@@ -1394,9 +1411,11 @@
   <url><loc>https://uslist.info/virginia/countryside/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/countryside/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/countryside/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/countryside/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/countryside/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/countryside/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/virginia/countryside/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/countryside/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/countryside/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/countryside/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/countryside/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/virginia/countryside/shopping/electronics</loc></url>
@@ -1441,12 +1460,13 @@
   <url><loc>https://uslist.info/virginia/culpeper/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/culpeper/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/culpeper/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/culpeper/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/culpeper/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/culpeper/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/culpeper/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/culpeper/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/culpeper/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/culpeper/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/culpeper/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/culpeper/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/culpeper/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/culpeper/shopping/cannabis-vape</loc></url>
@@ -1498,11 +1518,11 @@
   <url><loc>https://uslist.info/virginia/dale-city/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/dale-city/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/dale-city/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/dale-city/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/dale-city/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/dale-city/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/dale-city/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/dale-city/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/dale-city/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/dale-city/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/dale-city/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/virginia/dale-city/shopping/cannabis-vape</loc></url>
@@ -1556,12 +1576,13 @@
   <url><loc>https://uslist.info/virginia/danville/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/virginia/danville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/danville/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/danville/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/danville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/danville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/danville/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/danville/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/danville/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/danville/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/danville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/danville/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/danville/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/virginia/danville/shopping/clothing</loc></url>
@@ -1585,7 +1606,7 @@
   <url><loc>https://uslist.info/virginia/difficult-run/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/virginia/difficult-run/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/virginia/difficult-run/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/difficult-run/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/difficult-run/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/automotive</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/automotive/auto-repair</loc></url>
@@ -1616,12 +1637,13 @@
   <url><loc>https://uslist.info/virginia/fair-oaks/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/fair-oaks/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/fair-oaks/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/fair-oaks/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/virginia/fair-oaks/shopping/clothing</loc></url>
@@ -1705,6 +1727,7 @@
   <url><loc>https://uslist.info/virginia/fairfax/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/virginia/fairfax/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/fairfax/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/fairfax/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/fairfax/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/fairfax/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/fairfax/professional/marketing-agencies</loc></url>
@@ -1770,13 +1793,13 @@
   <url><loc>https://uslist.info/virginia/falls-church/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/falls-church/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/falls-church/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/falls-church/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/falls-church/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/falls-church/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/falls-church/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/virginia/falls-church/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/falls-church/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/falls-church/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/falls-church/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/falls-church/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/falls-church/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/falls-church/shopping/bikes</loc></url>
@@ -1838,7 +1861,6 @@
   <url><loc>https://uslist.info/virginia/forest/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/virginia/forest/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/forest/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/forest/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/forest/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/forest/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/forest/professional/funeral-services</loc></url>
@@ -1848,6 +1870,7 @@
   <url><loc>https://uslist.info/virginia/forest/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/forest/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/forest/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/forest/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/forest/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/forest/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/virginia/forest/shopping/cannabis-vape</loc></url>
@@ -1878,7 +1901,7 @@
   <url><loc>https://uslist.info/virginia/fort-hunt/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/virginia/fort-hunt/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/virginia/fort-hunt/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/fort-hunt/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/fort-hunt/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/fort-hunt/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/fort-hunt/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/virginia/fort-hunt/shopping/department-stores</loc></url>
@@ -1905,9 +1928,10 @@
   <url><loc>https://uslist.info/virginia/franconia/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/franconia/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/franconia/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/franconia/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/franconia/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/franconia/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/franconia/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/franconia/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/franconia/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/franconia/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/virginia/franconia/shopping/sporting-goods</loc></url>
@@ -1941,8 +1965,8 @@
   <url><loc>https://uslist.info/virginia/franklin-farm/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/franklin-farm/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/franklin-farm/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/franklin-farm/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/franklin-farm/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/franklin-farm/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/franklin-farm/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/franklin-farm/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/virginia/franklin-farm/shopping/cannabis-vape</loc></url>
@@ -1995,7 +2019,7 @@
   <url><loc>https://uslist.info/virginia/fredericksburg/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/fredericksburg/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/fredericksburg/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/fredericksburg/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/fredericksburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/fredericksburg/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/fredericksburg/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/fredericksburg/professional/it-services</loc></url>
@@ -2003,6 +2027,7 @@
   <url><loc>https://uslist.info/virginia/fredericksburg/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/fredericksburg/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/fredericksburg/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/fredericksburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/fredericksburg/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/fredericksburg/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/fredericksburg/shopping/bikes</loc></url>
@@ -2058,9 +2083,10 @@
   <url><loc>https://uslist.info/virginia/gainesville/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/gainesville/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/gainesville/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/gainesville/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/gainesville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/gainesville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/gainesville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/gainesville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/gainesville/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/gainesville/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/gainesville/shopping/bikes</loc></url>
@@ -2147,7 +2173,7 @@
   <url><loc>https://uslist.info/virginia/glen-allen/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/glen-allen/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/glen-allen/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/glen-allen/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/glen-allen/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/glen-allen/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/glen-allen/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/glen-allen/professional/it-services</loc></url>
@@ -2155,6 +2181,7 @@
   <url><loc>https://uslist.info/virginia/glen-allen/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/glen-allen/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/glen-allen/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/glen-allen/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/glen-allen/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/glen-allen/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/glen-allen/shopping/books-music</loc></url>
@@ -2236,6 +2263,7 @@
   <url><loc>https://uslist.info/virginia/groveton/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/groveton/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/groveton/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/groveton/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/groveton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/groveton/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/virginia/groveton/shopping</loc></url>
@@ -2289,11 +2317,12 @@
   <url><loc>https://uslist.info/virginia/hampton/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/virginia/hampton/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/hampton/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/hampton/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/hampton/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/hampton/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/hampton/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/hampton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/hampton/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/hampton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/hampton/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/hampton/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/hampton/shopping/bikes</loc></url>
@@ -2349,13 +2378,14 @@
   <url><loc>https://uslist.info/virginia/harrisonburg/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/harrisonburg/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/harrisonburg/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/harrisonburg/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/harrisonburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/harrisonburg/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/harrisonburg/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/harrisonburg/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/virginia/harrisonburg/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/harrisonburg/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/harrisonburg/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/harrisonburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/harrisonburg/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/harrisonburg/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/harrisonburg/shopping/bikes</loc></url>
@@ -2409,12 +2439,12 @@
   <url><loc>https://uslist.info/virginia/herndon/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/herndon/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/herndon/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/herndon/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/herndon/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/herndon/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/herndon/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/herndon/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/herndon/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/herndon/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/herndon/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/herndon/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/virginia/herndon/shopping/cannabis-vape</loc></url>
@@ -2464,12 +2494,13 @@
   <url><loc>https://uslist.info/virginia/highland-springs/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/highland-springs/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/highland-springs/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/highland-springs/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/highland-springs/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/highland-springs/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/highland-springs/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/highland-springs/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/highland-springs/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/highland-springs/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/highland-springs/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/highland-springs/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/highland-springs/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/highland-springs/shopping/bikes</loc></url>
@@ -2517,9 +2548,10 @@
   <url><loc>https://uslist.info/virginia/hollins/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/virginia/hollins/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/virginia/hollins/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/hollins/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/hollins/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/hollins/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/hollins/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/hollins/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/hollins/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/hollins/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/virginia/hollins/shopping/department-stores</loc></url>
@@ -2561,9 +2593,10 @@
   <url><loc>https://uslist.info/virginia/hopewell/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/hopewell/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/hopewell/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/hopewell/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/hopewell/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/hopewell/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/hopewell/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/hopewell/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/hopewell/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/hopewell/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/virginia/hopewell/shopping/clothing</loc></url>
@@ -2605,12 +2638,13 @@
   <url><loc>https://uslist.info/virginia/huntington/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/huntington/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/huntington/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/huntington/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/huntington/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/huntington/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/huntington/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/huntington/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/huntington/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/huntington/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/huntington/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/huntington/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/huntington/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/huntington/shopping/bikes</loc></url>
@@ -2654,9 +2688,9 @@
   <url><loc>https://uslist.info/virginia/hybla-valley/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/hybla-valley/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/hybla-valley/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/hybla-valley/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/hybla-valley/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/hybla-valley/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/hybla-valley/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/hybla-valley/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/hybla-valley/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/hybla-valley/shopping/clothing</loc></url>
@@ -2688,7 +2722,7 @@
   <url><loc>https://uslist.info/virginia/idylwood/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/idylwood/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/virginia/idylwood/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/idylwood/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/idylwood/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/idylwood/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/idylwood/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/virginia/idylwood/shopping/furniture-home</loc></url>
@@ -2711,9 +2745,10 @@
   <url><loc>https://uslist.info/virginia/independent-hill/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/virginia/independent-hill/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/virginia/independent-hill/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/independent-hill/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/independent-hill/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/independent-hill/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/independent-hill/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/independent-hill/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/independent-hill/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/independent-hill/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/virginia/independent-hill/shopping/thrift-antiques</loc></url>
@@ -2733,7 +2768,7 @@
   <url><loc>https://uslist.info/virginia/kings-park-west/health</loc></url>
   <url><loc>https://uslist.info/virginia/kings-park-west/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/virginia/kings-park-west/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/kings-park-west/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/kings-park-west/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/kings-park-west/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/kings-park-west/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/virginia/kings-park-west/shopping/gifts-florists</loc></url>
@@ -2767,12 +2802,12 @@
   <url><loc>https://uslist.info/virginia/kingstowne/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/kingstowne/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/kingstowne/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/kingstowne/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/kingstowne/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/kingstowne/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/kingstowne/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/kingstowne/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/kingstowne/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/kingstowne/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/kingstowne/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/kingstowne/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/virginia/kingstowne/shopping/electronics</loc></url>
@@ -2806,6 +2841,7 @@
   <url><loc>https://uslist.info/virginia/lake-monticello/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/lake-monticello/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/lake-monticello/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/lake-monticello/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/lake-monticello/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/lake-monticello/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/lake-monticello/shopping</loc></url>
@@ -2844,10 +2880,11 @@
   <url><loc>https://uslist.info/virginia/lake-ridge/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/lake-ridge/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/lake-ridge/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/lake-ridge/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/lake-ridge/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/lake-ridge/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/lake-ridge/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/lake-ridge/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/lake-ridge/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/lake-ridge/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/lake-ridge/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/virginia/lake-ridge/shopping/department-stores</loc></url>
@@ -2896,11 +2933,12 @@
   <url><loc>https://uslist.info/virginia/lakeside/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/lakeside/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/lakeside/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/lakeside/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/lakeside/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/lakeside/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/lakeside/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/lakeside/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/lakeside/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/lakeside/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/lakeside/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/lakeside/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/lakeside/shopping/bikes</loc></url>
@@ -2948,11 +2986,11 @@
   <url><loc>https://uslist.info/virginia/lansdowne/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/lansdowne/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/lansdowne/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/lansdowne/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/lansdowne/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/lansdowne/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/lansdowne/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/lansdowne/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/lansdowne/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/lansdowne/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/lansdowne/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/virginia/lansdowne/shopping/cannabis-vape</loc></url>
@@ -3009,13 +3047,14 @@
   <url><loc>https://uslist.info/virginia/laurel/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/laurel/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/laurel/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/laurel/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/laurel/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/laurel/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/laurel/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/laurel/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/laurel/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/laurel/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/laurel/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/laurel/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/laurel/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/laurel/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/virginia/laurel/shopping/books-music</loc></url>
@@ -3074,7 +3113,7 @@
   <url><loc>https://uslist.info/virginia/leesburg/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/virginia/leesburg/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/leesburg/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/leesburg/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/leesburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/leesburg/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/leesburg/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/leesburg/professional/marketing-agencies</loc></url>
@@ -3082,6 +3121,7 @@
   <url><loc>https://uslist.info/virginia/leesburg/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/leesburg/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/leesburg/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/leesburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/leesburg/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/leesburg/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/leesburg/shopping/bikes</loc></url>
@@ -3140,11 +3180,12 @@
   <url><loc>https://uslist.info/virginia/leesylvania/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/virginia/leesylvania/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/leesylvania/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/leesylvania/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/leesylvania/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/leesylvania/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/leesylvania/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/leesylvania/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/leesylvania/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/leesylvania/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/leesylvania/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/leesylvania/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/virginia/leesylvania/shopping/books-music</loc></url>
@@ -3198,6 +3239,7 @@
   <url><loc>https://uslist.info/virginia/lincolnia/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/lincolnia/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/lincolnia/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/lincolnia/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/lincolnia/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/lincolnia/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/lincolnia/shopping</loc></url>
@@ -3243,10 +3285,11 @@
   <url><loc>https://uslist.info/virginia/linton-hall/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/virginia/linton-hall/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/linton-hall/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/linton-hall/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/linton-hall/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/linton-hall/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/linton-hall/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/linton-hall/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/linton-hall/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/linton-hall/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/linton-hall/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/linton-hall/shopping/cannabis-vape</loc></url>
@@ -3289,10 +3332,11 @@
   <url><loc>https://uslist.info/virginia/lorton/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/virginia/lorton/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/lorton/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/lorton/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/lorton/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/lorton/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/virginia/lorton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/lorton/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/lorton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/lorton/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/lorton/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/virginia/lorton/shopping/department-stores</loc></url>
@@ -3320,6 +3364,7 @@
   <url><loc>https://uslist.info/virginia/loudoun-valley-estates/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/loudoun-valley-estates/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/loudoun-valley-estates/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/loudoun-valley-estates/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/loudoun-valley-estates/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/loudoun-valley-estates/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/loudoun-valley-estates/shopping</loc></url>
@@ -3338,7 +3383,7 @@
   <url><loc>https://uslist.info/virginia/lowes-island/health</loc></url>
   <url><loc>https://uslist.info/virginia/lowes-island/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/virginia/lowes-island/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/lowes-island/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/lowes-island/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/automotive</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/automotive/auto-parts</loc></url>
@@ -3383,7 +3428,7 @@
   <url><loc>https://uslist.info/virginia/lynchburg/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/lynchburg/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/lynchburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/professional/funeral-services</loc></url>
@@ -3393,6 +3438,7 @@
   <url><loc>https://uslist.info/virginia/lynchburg/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/lynchburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/lynchburg/shopping/books-music</loc></url>
@@ -3442,10 +3488,10 @@
   <url><loc>https://uslist.info/virginia/madison-heights/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/virginia/madison-heights/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/madison-heights/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/madison-heights/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/madison-heights/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/madison-heights/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/madison-heights/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/madison-heights/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/madison-heights/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/madison-heights/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/virginia/madison-heights/shopping/clothing</loc></url>
@@ -3489,10 +3535,11 @@
   <url><loc>https://uslist.info/virginia/manassas-park/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/manassas-park/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/virginia/manassas-park/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/manassas-park/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/manassas-park/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/manassas-park/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/manassas-park/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/manassas-park/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/manassas-park/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/manassas-park/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/manassas-park/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/virginia/manassas-park/shopping/clothing</loc></url>
@@ -3543,12 +3590,13 @@
   <url><loc>https://uslist.info/virginia/manassas/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/manassas/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/manassas/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/manassas/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/manassas/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/manassas/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/manassas/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/manassas/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/manassas/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/manassas/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/manassas/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/manassas/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/manassas/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/manassas/shopping/bikes</loc></url>
@@ -3601,12 +3649,13 @@
   <url><loc>https://uslist.info/virginia/manchester/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/virginia/manchester/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/manchester/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/manchester/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/manchester/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/manchester/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/manchester/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/manchester/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/virginia/manchester/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/manchester/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/manchester/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/manchester/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/manchester/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/virginia/manchester/shopping/clothing</loc></url>
@@ -3650,8 +3699,8 @@
   <url><loc>https://uslist.info/virginia/martinsville/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/martinsville/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/martinsville/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/martinsville/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/martinsville/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/martinsville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/martinsville/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/martinsville/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/virginia/martinsville/shopping/department-stores</loc></url>
@@ -3695,10 +3744,11 @@
   <url><loc>https://uslist.info/virginia/mclean/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/virginia/mclean/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/mclean/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/mclean/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/mclean/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/mclean/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/mclean/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/mclean/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/mclean/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/mclean/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/mclean/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/mclean/shopping/books-music</loc></url>
@@ -3742,10 +3792,10 @@
   <url><loc>https://uslist.info/virginia/mcnair/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/mcnair/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/virginia/mcnair/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/mcnair/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/mcnair/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/mcnair/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/mcnair/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/mcnair/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/mcnair/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/mcnair/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/mcnair/shopping/bikes</loc></url>
@@ -3780,6 +3830,7 @@
   <url><loc>https://uslist.info/virginia/meadowbrook/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/meadowbrook/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/meadowbrook/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/meadowbrook/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/meadowbrook/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/meadowbrook/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/meadowbrook/professional/photography</loc></url>
@@ -3828,12 +3879,13 @@
   <url><loc>https://uslist.info/virginia/mechanicsville/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/mechanicsville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/mechanicsville/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/mechanicsville/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/mechanicsville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/mechanicsville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/mechanicsville/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/mechanicsville/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/mechanicsville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/mechanicsville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/mechanicsville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/mechanicsville/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/mechanicsville/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/mechanicsville/shopping/cannabis-vape</loc></url>
@@ -3883,12 +3935,13 @@
   <url><loc>https://uslist.info/virginia/merrifield/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/merrifield/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/merrifield/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/merrifield/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/merrifield/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/merrifield/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/merrifield/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/merrifield/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/merrifield/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/merrifield/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/merrifield/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/merrifield/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/merrifield/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/merrifield/shopping/books-music</loc></url>
@@ -3943,12 +3996,12 @@
   <url><loc>https://uslist.info/virginia/midlothian/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/midlothian/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/midlothian/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/midlothian/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/midlothian/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/midlothian/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/midlothian/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/virginia/midlothian/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/midlothian/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/midlothian/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/midlothian/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/midlothian/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/midlothian/shopping/books-music</loc></url>
@@ -3988,8 +4041,8 @@
   <url><loc>https://uslist.info/virginia/montclair/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/montclair/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/montclair/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/montclair/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/montclair/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/montclair/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/montclair/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/montclair/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/virginia/mount-vernon</loc></url>
@@ -4011,7 +4064,7 @@
   <url><loc>https://uslist.info/virginia/new-baltimore/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/virginia/new-baltimore/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/virginia/new-baltimore/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/new-baltimore/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/new-baltimore/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/newington</loc></url>
   <url><loc>https://uslist.info/virginia/newington-forest</loc></url>
   <url><loc>https://uslist.info/virginia/newington-forest/automotive</loc></url>
@@ -4076,6 +4129,7 @@
   <url><loc>https://uslist.info/virginia/newington/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/newington/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/newington/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/newington/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/newington/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/newington/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/newington/shopping</loc></url>
@@ -4128,7 +4182,7 @@
   <url><loc>https://uslist.info/virginia/newport-news/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/newport-news/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/newport-news/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/newport-news/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/newport-news/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/newport-news/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/newport-news/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/newport-news/professional/funeral-services</loc></url>
@@ -4136,6 +4190,7 @@
   <url><loc>https://uslist.info/virginia/newport-news/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/newport-news/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/newport-news/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/newport-news/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/newport-news/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/newport-news/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/newport-news/shopping/bikes</loc></url>
@@ -4196,12 +4251,13 @@
   <url><loc>https://uslist.info/virginia/norfolk/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/virginia/norfolk/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/norfolk/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/norfolk/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/norfolk/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/norfolk/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/norfolk/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/norfolk/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/norfolk/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/norfolk/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/norfolk/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/norfolk/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/norfolk/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/norfolk/shopping/bikes</loc></url>
@@ -4242,9 +4298,9 @@
   <url><loc>https://uslist.info/virginia/oak-hill/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/oak-hill/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/oak-hill/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/oak-hill/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/oak-hill/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/oak-hill/professional/it-services</loc></url>
-  <url><loc>https://uslist.info/virginia/oak-hill/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/oakton</loc></url>
   <url><loc>https://uslist.info/virginia/oakton/automotive</loc></url>
   <url><loc>https://uslist.info/virginia/oakton/automotive/auto-parts</loc></url>
@@ -4275,9 +4331,9 @@
   <url><loc>https://uslist.info/virginia/oakton/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/oakton/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/oakton/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/oakton/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/oakton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/oakton/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/oakton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/oakton/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/oakton/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/virginia/oakton/shopping/cannabis-vape</loc></url>
@@ -4323,11 +4379,12 @@
   <url><loc>https://uslist.info/virginia/petersburg/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/petersburg/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/petersburg/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/petersburg/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/petersburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/petersburg/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/petersburg/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/petersburg/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/petersburg/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/petersburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/petersburg/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/petersburg/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/petersburg/shopping/cannabis-vape</loc></url>
@@ -4388,13 +4445,14 @@
   <url><loc>https://uslist.info/virginia/poquoson/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/poquoson/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/poquoson/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/poquoson/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/poquoson/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/poquoson/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/poquoson/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/poquoson/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/virginia/poquoson/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/poquoson/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/poquoson/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/poquoson/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/poquoson/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/poquoson/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/poquoson/shopping/bikes</loc></url>
@@ -4458,7 +4516,7 @@
   <url><loc>https://uslist.info/virginia/portsmouth/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/virginia/portsmouth/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/portsmouth/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/portsmouth/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/portsmouth/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/portsmouth/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/portsmouth/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/portsmouth/professional/funeral-services</loc></url>
@@ -4467,6 +4525,7 @@
   <url><loc>https://uslist.info/virginia/portsmouth/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/portsmouth/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/portsmouth/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/portsmouth/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/portsmouth/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/portsmouth/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/portsmouth/shopping/bikes</loc></url>
@@ -4558,11 +4617,12 @@
   <url><loc>https://uslist.info/virginia/reston/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/reston/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/reston/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/reston/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/reston/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/reston/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/reston/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/reston/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/reston/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/reston/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/reston/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/reston/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/reston/shopping/bikes</loc></url>
@@ -4626,7 +4686,7 @@
   <url><loc>https://uslist.info/virginia/richmond/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/richmond/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/richmond/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/richmond/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/richmond/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/richmond/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/richmond/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/richmond/professional/funeral-services</loc></url>
@@ -4635,6 +4695,7 @@
   <url><loc>https://uslist.info/virginia/richmond/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/richmond/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/richmond/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/richmond/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/richmond/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/richmond/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/richmond/shopping/bikes</loc></url>
@@ -4686,12 +4747,13 @@
   <url><loc>https://uslist.info/virginia/roanoke/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/roanoke/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/roanoke/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/roanoke/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/roanoke/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/roanoke/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/roanoke/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/roanoke/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/roanoke/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/roanoke/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/roanoke/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/roanoke/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/roanoke/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/roanoke/shopping/bikes</loc></url>
@@ -4733,9 +4795,9 @@
   <url><loc>https://uslist.info/virginia/rose-hill/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/rose-hill/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/rose-hill/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/rose-hill/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/rose-hill/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/virginia/rose-hill/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/rose-hill/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/rose-hill/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/rose-hill/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/virginia/rose-hill/shopping/department-stores</loc></url>
@@ -4776,6 +4838,7 @@
   <url><loc>https://uslist.info/virginia/salem/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/virginia/salem/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/salem/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/salem/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/salem/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/salem/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/salem/professional/funeral-services</loc></url>
@@ -4838,12 +4901,13 @@
   <url><loc>https://uslist.info/virginia/short-pump/home-services/painters</loc></url>
   <url><loc>https://uslist.info/virginia/short-pump/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/short-pump/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/short-pump/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/short-pump/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/short-pump/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/short-pump/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/short-pump/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/short-pump/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/short-pump/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/short-pump/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/short-pump/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/short-pump/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/short-pump/shopping/bikes</loc></url>
@@ -4893,9 +4957,9 @@
   <url><loc>https://uslist.info/virginia/south-riding/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/south-riding/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/south-riding/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/south-riding/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/south-riding/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/south-riding/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/south-riding/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/south-riding/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/south-riding/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/south-riding/shopping/department-stores</loc></url>
@@ -4942,11 +5006,11 @@
   <url><loc>https://uslist.info/virginia/springfield/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/springfield/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/springfield/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/springfield/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/springfield/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/virginia/springfield/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/springfield/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/springfield/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/springfield/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/springfield/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/springfield/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/springfield/shopping/books-music</loc></url>
@@ -5004,7 +5068,7 @@
   <url><loc>https://uslist.info/virginia/staunton/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/staunton/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/staunton/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/staunton/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/staunton/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/staunton/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/staunton/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/staunton/professional/funeral-services</loc></url>
@@ -5012,6 +5076,7 @@
   <url><loc>https://uslist.info/virginia/staunton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/staunton/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/staunton/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/staunton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/staunton/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/staunton/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/staunton/shopping/bikes</loc></url>
@@ -5060,9 +5125,10 @@
   <url><loc>https://uslist.info/virginia/sterling/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/virginia/sterling/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/virginia/sterling/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/sterling/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/sterling/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/sterling/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/sterling/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/sterling/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/sterling/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/sterling/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/virginia/sterling/shopping/electronics</loc></url>
@@ -5098,8 +5164,8 @@
   <url><loc>https://uslist.info/virginia/stone-ridge/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/virginia/stone-ridge/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/stone-ridge/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/stone-ridge/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/stone-ridge/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/stone-ridge/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/stone-ridge/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/stone-ridge/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/virginia/stone-ridge/shopping/hardware-garden</loc></url>
@@ -5159,10 +5225,11 @@
   <url><loc>https://uslist.info/virginia/sudley/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/sudley/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/sudley/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/sudley/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/sudley/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/sudley/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/sudley/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/sudley/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/sudley/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/sudley/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/sudley/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/virginia/sudley/shopping/clothing</loc></url>
@@ -5211,13 +5278,14 @@
   <url><loc>https://uslist.info/virginia/suffolk/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/suffolk/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/suffolk/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/suffolk/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/suffolk/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/suffolk/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/suffolk/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/suffolk/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/suffolk/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/suffolk/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/suffolk/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/suffolk/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/suffolk/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/suffolk/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/virginia/suffolk/shopping/cannabis-vape</loc></url>
@@ -5300,7 +5368,7 @@
   <url><loc>https://uslist.info/virginia/timberlake/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/timberlake/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/timberlake/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/timberlake/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/timberlake/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/timberlake/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/timberlake/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/timberlake/professional/funeral-services</loc></url>
@@ -5310,6 +5378,7 @@
   <url><loc>https://uslist.info/virginia/timberlake/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/timberlake/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/timberlake/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/timberlake/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/timberlake/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/timberlake/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/timberlake/shopping/books-music</loc></url>
@@ -5363,11 +5432,12 @@
   <url><loc>https://uslist.info/virginia/tuckahoe/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/tuckahoe/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/tuckahoe/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/tuckahoe/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/tuckahoe/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/tuckahoe/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/tuckahoe/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/tuckahoe/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/tuckahoe/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/tuckahoe/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/tuckahoe/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/tuckahoe/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/tuckahoe/shopping/books-music</loc></url>
@@ -5415,12 +5485,13 @@
   <url><loc>https://uslist.info/virginia/tysons/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/tysons/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/tysons/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/tysons/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/tysons/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/tysons/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/tysons/professional/it-services</loc></url>
   <url><loc>https://uslist.info/virginia/tysons/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/tysons/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/tysons/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/tysons/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/tysons/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/tysons/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/virginia/tysons/shopping/clothing</loc></url>
@@ -5466,12 +5537,12 @@
   <url><loc>https://uslist.info/virginia/vienna/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/virginia/vienna/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/vienna/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/vienna/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/vienna/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/vienna/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/vienna/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/vienna/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/vienna/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/vienna/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/vienna/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/vienna/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/vienna/shopping/bikes</loc></url>
@@ -5526,7 +5597,7 @@
   <url><loc>https://uslist.info/virginia/virginia-beach/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/virginia-beach/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/virginia-beach/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/virginia-beach/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/virginia-beach/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/virginia-beach/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/virginia-beach/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/virginia-beach/professional/it-services</loc></url>
@@ -5534,6 +5605,7 @@
   <url><loc>https://uslist.info/virginia/virginia-beach/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/virginia-beach/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/virginia-beach/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/virginia-beach/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/virginia-beach/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/virginia-beach/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/virginia-beach/shopping/bikes</loc></url>
@@ -5629,10 +5701,11 @@
   <url><loc>https://uslist.info/virginia/warrenton/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/virginia/warrenton/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/virginia/warrenton/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/warrenton/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/warrenton/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/warrenton/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/warrenton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/warrenton/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/warrenton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/warrenton/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/warrenton/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/warrenton/shopping/books-music</loc></url>
@@ -5688,7 +5761,7 @@
   <url><loc>https://uslist.info/virginia/waynesboro/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/waynesboro/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/waynesboro/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/waynesboro/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/waynesboro/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/waynesboro/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/waynesboro/professional/employment</loc></url>
   <url><loc>https://uslist.info/virginia/waynesboro/professional/funeral-services</loc></url>
@@ -5696,6 +5769,7 @@
   <url><loc>https://uslist.info/virginia/waynesboro/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/waynesboro/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/waynesboro/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/waynesboro/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/waynesboro/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/waynesboro/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/waynesboro/shopping/books-music</loc></url>
@@ -5737,8 +5811,8 @@
   <url><loc>https://uslist.info/virginia/west-falls-church/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/west-falls-church/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/west-falls-church/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/west-falls-church/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/west-falls-church/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/virginia/west-falls-church/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/west-falls-church/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/west-falls-church/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/virginia/west-falls-church/shopping/gifts-florists</loc></url>
@@ -5775,11 +5849,11 @@
   <url><loc>https://uslist.info/virginia/west-springfield/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/west-springfield/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/west-springfield/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/west-springfield/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/west-springfield/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/west-springfield/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/virginia/west-springfield/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/west-springfield/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/west-springfield/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/west-springfield/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/west-springfield/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/virginia/west-springfield/shopping/clothing</loc></url>
@@ -5829,13 +5903,14 @@
   <url><loc>https://uslist.info/virginia/williamsburg/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/virginia/williamsburg/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/williamsburg/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/williamsburg/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/williamsburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/williamsburg/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/williamsburg/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/williamsburg/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/williamsburg/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/williamsburg/professional/photography</loc></url>
   <url><loc>https://uslist.info/virginia/williamsburg/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/williamsburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/williamsburg/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/williamsburg/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/williamsburg/shopping/bikes</loc></url>
@@ -5893,6 +5968,7 @@
   <url><loc>https://uslist.info/virginia/winchester/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/virginia/winchester/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/virginia/winchester/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/winchester/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/winchester/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/winchester/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/winchester/professional/nonprofits</loc></url>
@@ -5924,8 +6000,8 @@
   <url><loc>https://uslist.info/virginia/wolf-trap/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/virginia/wolf-trap/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/virginia/wolf-trap/professional</loc></url>
+  <url><loc>https://uslist.info/virginia/wolf-trap/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/wolf-trap/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/virginia/wolf-trap/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/wolf-trap/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/wolf-trap/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/virginia/woodbridge</loc></url>
@@ -5966,12 +6042,13 @@
   <url><loc>https://uslist.info/virginia/woodbridge/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/woodbridge/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/virginia/woodbridge/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/woodbridge/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/woodbridge/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/virginia/woodbridge/professional/coworking</loc></url>
   <url><loc>https://uslist.info/virginia/woodbridge/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/virginia/woodbridge/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/virginia/woodbridge/professional/other-services</loc></url>
   <url><loc>https://uslist.info/virginia/woodbridge/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/virginia/woodbridge/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/woodbridge/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/woodbridge/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/virginia/woodbridge/shopping/cannabis-vape</loc></url>
@@ -6014,8 +6091,8 @@
   <url><loc>https://uslist.info/virginia/woodlawn/home-services</loc></url>
   <url><loc>https://uslist.info/virginia/woodlawn/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/woodlawn/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/woodlawn/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/woodlawn/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/woodlawn/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/woodlawn/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/woodlawn/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/virginia/woodlawn/shopping/department-stores</loc></url>
@@ -6050,9 +6127,10 @@
   <url><loc>https://uslist.info/virginia/wyndham/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/wyndham/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/wyndham/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/wyndham/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/virginia/wyndham/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/virginia/wyndham/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/virginia/wyndham/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/virginia/wyndham/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/wyndham/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/wyndham/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/virginia/wyndham/shopping/thrift-antiques</loc></url>
@@ -6078,7 +6156,7 @@
   <url><loc>https://uslist.info/virginia/yorkshire/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/virginia/yorkshire/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/virginia/yorkshire/professional</loc></url>
-  <url><loc>https://uslist.info/virginia/yorkshire/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/virginia/yorkshire/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/virginia/yorkshire/shopping</loc></url>
   <url><loc>https://uslist.info/virginia/yorkshire/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/virginia/yorkshire/shopping/furniture-home</loc></url>

@@ -95,7 +95,7 @@
   <url><loc>https://uslist.info/iowa/ames/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/iowa/ames/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/iowa/ames/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/ames/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/ames/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/ames/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/ames/professional/employment</loc></url>
   <url><loc>https://uslist.info/iowa/ames/professional/funeral-services</loc></url>
@@ -104,6 +104,7 @@
   <url><loc>https://uslist.info/iowa/ames/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/ames/professional/photography</loc></url>
   <url><loc>https://uslist.info/iowa/ames/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/ames/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/ames/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/ames/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/ames/shopping/bikes</loc></url>
@@ -167,12 +168,13 @@
   <url><loc>https://uslist.info/iowa/ankeny/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/iowa/ankeny/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/iowa/ankeny/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/ankeny/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/ankeny/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/ankeny/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/ankeny/professional/employment</loc></url>
   <url><loc>https://uslist.info/iowa/ankeny/professional/it-services</loc></url>
   <url><loc>https://uslist.info/iowa/ankeny/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/ankeny/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/ankeny/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/ankeny/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/ankeny/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/ankeny/shopping/bikes</loc></url>
@@ -253,9 +255,9 @@
   <url><loc>https://uslist.info/iowa/boone/health/hospitals</loc></url>
   <url><loc>https://uslist.info/iowa/boone/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/iowa/boone/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/boone/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/iowa/boone/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/iowa/boone/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/iowa/boone/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/boone/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/boone/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/iowa/boone/shopping/cannabis-vape</loc></url>
@@ -290,6 +292,7 @@
   <url><loc>https://uslist.info/iowa/burlington/health/hospitals</loc></url>
   <url><loc>https://uslist.info/iowa/burlington/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/iowa/burlington/professional</loc></url>
+  <url><loc>https://uslist.info/iowa/burlington/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/burlington/professional/employment</loc></url>
   <url><loc>https://uslist.info/iowa/burlington/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/burlington/professional/photography</loc></url>
@@ -431,14 +434,16 @@
   <url><loc>https://uslist.info/iowa/cedar-rapids/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/cedar-rapids/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/cedar-rapids/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/professional/employment</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/professional/it-services</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/professional/marketing-agencies</loc></url>
+  <url><loc>https://uslist.info/iowa/cedar-rapids/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/cedar-rapids/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/cedar-rapids/shopping/bikes</loc></url>
@@ -535,12 +540,13 @@
   <url><loc>https://uslist.info/iowa/clive/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/iowa/clive/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/iowa/clive/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/clive/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/clive/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/clive/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/clive/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/iowa/clive/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/iowa/clive/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/clive/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/clive/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/clive/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/clive/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/clive/shopping/books-music</loc></url>
@@ -592,6 +598,7 @@
   <url><loc>https://uslist.info/iowa/coralville/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/iowa/coralville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/iowa/coralville/professional</loc></url>
+  <url><loc>https://uslist.info/iowa/coralville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/coralville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/coralville/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/iowa/coralville/professional/nonprofits</loc></url>
@@ -651,10 +658,11 @@
   <url><loc>https://uslist.info/iowa/council-bluffs/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/iowa/council-bluffs/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/iowa/council-bluffs/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/council-bluffs/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/council-bluffs/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/council-bluffs/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/iowa/council-bluffs/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/council-bluffs/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/council-bluffs/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/council-bluffs/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/council-bluffs/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/iowa/council-bluffs/shopping/books-music</loc></url>
@@ -705,12 +713,13 @@
   <url><loc>https://uslist.info/iowa/davenport/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/iowa/davenport/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/iowa/davenport/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/davenport/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/davenport/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/davenport/professional/it-services</loc></url>
   <url><loc>https://uslist.info/iowa/davenport/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/iowa/davenport/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/iowa/davenport/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/davenport/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/davenport/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/davenport/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/davenport/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/iowa/davenport/shopping/cannabis-vape</loc></url>
@@ -769,7 +778,7 @@
   <url><loc>https://uslist.info/iowa/des-moines/home-services/painters</loc></url>
   <url><loc>https://uslist.info/iowa/des-moines/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/iowa/des-moines/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/des-moines/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/des-moines/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/des-moines/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/des-moines/professional/employment</loc></url>
   <url><loc>https://uslist.info/iowa/des-moines/professional/funeral-services</loc></url>
@@ -779,6 +788,7 @@
   <url><loc>https://uslist.info/iowa/des-moines/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/des-moines/professional/photography</loc></url>
   <url><loc>https://uslist.info/iowa/des-moines/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/des-moines/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/des-moines/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/des-moines/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/des-moines/shopping/bikes</loc></url>
@@ -842,7 +852,7 @@
   <url><loc>https://uslist.info/iowa/dubuque/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/iowa/dubuque/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/iowa/dubuque/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/dubuque/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/dubuque/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/dubuque/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/dubuque/professional/employment</loc></url>
   <url><loc>https://uslist.info/iowa/dubuque/professional/funeral-services</loc></url>
@@ -850,6 +860,7 @@
   <url><loc>https://uslist.info/iowa/dubuque/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/iowa/dubuque/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/dubuque/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/dubuque/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/dubuque/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/dubuque/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/dubuque/shopping/bikes</loc></url>
@@ -893,11 +904,12 @@
   <url><loc>https://uslist.info/iowa/fort-dodge/home-services</loc></url>
   <url><loc>https://uslist.info/iowa/fort-dodge/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/iowa/fort-dodge/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/fort-dodge/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/fort-dodge/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/fort-dodge/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/fort-dodge/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/fort-dodge/professional/photography</loc></url>
   <url><loc>https://uslist.info/iowa/fort-dodge/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/fort-dodge/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/fort-dodge/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/fort-dodge/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/fort-dodge/shopping/department-stores</loc></url>
@@ -967,9 +979,9 @@
   <url><loc>https://uslist.info/iowa/grimes/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/iowa/grimes/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/iowa/grimes/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/grimes/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/iowa/grimes/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/grimes/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/iowa/grimes/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/grimes/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/grimes/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/iowa/grimes/shopping/clothing</loc></url>
@@ -1049,10 +1061,11 @@
   <url><loc>https://uslist.info/iowa/iowa-city/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/iowa/iowa-city/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/iowa/iowa-city/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/iowa-city/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/iowa-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/iowa-city/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/iowa-city/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/iowa/iowa-city/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/iowa/iowa-city/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/iowa-city/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/iowa-city/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/iowa/iowa-city/shopping/books-music</loc></url>
@@ -1099,12 +1112,13 @@
   <url><loc>https://uslist.info/iowa/johnston/home-services</loc></url>
   <url><loc>https://uslist.info/iowa/johnston/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/iowa/johnston/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/johnston/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/johnston/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/johnston/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/johnston/professional/it-services</loc></url>
   <url><loc>https://uslist.info/iowa/johnston/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/iowa/johnston/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/iowa/johnston/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/iowa/johnston/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/johnston/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/johnston/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/iowa/johnston/shopping/hardware-garden</loc></url>
@@ -1182,13 +1196,13 @@
   <url><loc>https://uslist.info/iowa/marion/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/iowa/marion/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/iowa/marion/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/marion/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/iowa/marion/professional/employment</loc></url>
   <url><loc>https://uslist.info/iowa/marion/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/iowa/marion/professional/it-services</loc></url>
   <url><loc>https://uslist.info/iowa/marion/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/iowa/marion/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/marion/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/marion/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/marion/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/marion/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/marion/shopping/bikes</loc></url>
@@ -1231,8 +1245,8 @@
   <url><loc>https://uslist.info/iowa/marshalltown/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/iowa/marshalltown/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/iowa/marshalltown/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/marshalltown/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/iowa/marshalltown/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/iowa/marshalltown/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/marshalltown/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/marshalltown/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/marshalltown/shopping/department-stores</loc></url>
@@ -1277,12 +1291,12 @@
   <url><loc>https://uslist.info/iowa/mason-city/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/iowa/mason-city/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/iowa/mason-city/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/mason-city/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/iowa/mason-city/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/mason-city/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/iowa/mason-city/professional/it-services</loc></url>
   <url><loc>https://uslist.info/iowa/mason-city/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/mason-city/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/mason-city/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/mason-city/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/mason-city/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/iowa/mason-city/shopping/clothing</loc></url>
@@ -1316,8 +1330,8 @@
   <url><loc>https://uslist.info/iowa/muscatine/home-services</loc></url>
   <url><loc>https://uslist.info/iowa/muscatine/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/iowa/muscatine/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/muscatine/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/iowa/muscatine/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/iowa/muscatine/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/muscatine/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/muscatine/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/iowa/muscatine/shopping/department-stores</loc></url>
@@ -1350,6 +1364,7 @@
   <url><loc>https://uslist.info/iowa/newton/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/iowa/newton/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/iowa/newton/professional</loc></url>
+  <url><loc>https://uslist.info/iowa/newton/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/newton/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/iowa/newton/professional/it-services</loc></url>
   <url><loc>https://uslist.info/iowa/newton/professional/other-services</loc></url>
@@ -1390,9 +1405,10 @@
   <url><loc>https://uslist.info/iowa/north-liberty/health/hospitals</loc></url>
   <url><loc>https://uslist.info/iowa/north-liberty/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/iowa/north-liberty/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/north-liberty/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/north-liberty/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/north-liberty/professional/it-services</loc></url>
   <url><loc>https://uslist.info/iowa/north-liberty/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/iowa/north-liberty/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/north-liberty/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/north-liberty/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/iowa/north-liberty/shopping/cannabis-vape</loc></url>
@@ -1418,9 +1434,9 @@
   <url><loc>https://uslist.info/iowa/norwalk/health/optometrists</loc></url>
   <url><loc>https://uslist.info/iowa/norwalk/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/iowa/norwalk/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/norwalk/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/iowa/norwalk/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/iowa/norwalk/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/iowa/norwalk/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/norwalk/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/norwalk/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/iowa/norwalk/shopping/gifts-florists</loc></url>
@@ -1508,7 +1524,7 @@
   <url><loc>https://uslist.info/iowa/ottumwa/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/iowa/ottumwa/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/iowa/ottumwa/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/ottumwa/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/ottumwa/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/ottumwa/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/ottumwa/professional/employment</loc></url>
   <url><loc>https://uslist.info/iowa/ottumwa/professional/funeral-services</loc></url>
@@ -1517,6 +1533,7 @@
   <url><loc>https://uslist.info/iowa/ottumwa/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/ottumwa/professional/photography</loc></url>
   <url><loc>https://uslist.info/iowa/ottumwa/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/ottumwa/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/ottumwa/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/ottumwa/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/ottumwa/shopping/bikes</loc></url>
@@ -1564,11 +1581,11 @@
   <url><loc>https://uslist.info/iowa/pella/home-services</loc></url>
   <url><loc>https://uslist.info/iowa/pella/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/iowa/pella/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/pella/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/iowa/pella/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/iowa/pella/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/pella/professional/photography</loc></url>
   <url><loc>https://uslist.info/iowa/pella/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/pella/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/pella/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/pella/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/iowa/pella/shopping/books-music</loc></url>
@@ -1606,9 +1623,9 @@
   <url><loc>https://uslist.info/iowa/pleasant-hill/home-services</loc></url>
   <url><loc>https://uslist.info/iowa/pleasant-hill/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/iowa/pleasant-hill/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/pleasant-hill/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/iowa/pleasant-hill/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/pleasant-hill/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/pleasant-hill/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/pleasant-hill/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/pleasant-hill/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/iowa/pleasant-hill/shopping/hardware-garden</loc></url>
@@ -1650,12 +1667,13 @@
   <url><loc>https://uslist.info/iowa/sioux-city/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/iowa/sioux-city/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/iowa/sioux-city/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/sioux-city/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/sioux-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/sioux-city/professional/it-services</loc></url>
   <url><loc>https://uslist.info/iowa/sioux-city/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/iowa/sioux-city/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/sioux-city/professional/photography</loc></url>
   <url><loc>https://uslist.info/iowa/sioux-city/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/sioux-city/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/sioux-city/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/sioux-city/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/sioux-city/shopping/bikes</loc></url>
@@ -1697,9 +1715,9 @@
   <url><loc>https://uslist.info/iowa/spencer/health/hospitals</loc></url>
   <url><loc>https://uslist.info/iowa/spencer/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/iowa/spencer/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/spencer/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/iowa/spencer/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/spencer/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/iowa/spencer/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/spencer/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/spencer/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/iowa/spencer/shopping/department-stores</loc></url>
@@ -1781,7 +1799,7 @@
   <url><loc>https://uslist.info/iowa/urbandale/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/iowa/urbandale/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/iowa/urbandale/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/urbandale/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/urbandale/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/urbandale/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/urbandale/professional/employment</loc></url>
   <url><loc>https://uslist.info/iowa/urbandale/professional/funeral-services</loc></url>
@@ -1790,6 +1808,7 @@
   <url><loc>https://uslist.info/iowa/urbandale/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/urbandale/professional/photography</loc></url>
   <url><loc>https://uslist.info/iowa/urbandale/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/urbandale/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/urbandale/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/urbandale/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/urbandale/shopping/bikes</loc></url>
@@ -1845,12 +1864,13 @@
   <url><loc>https://uslist.info/iowa/waterloo/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/iowa/waterloo/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/iowa/waterloo/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/waterloo/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/waterloo/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/waterloo/professional/employment</loc></url>
   <url><loc>https://uslist.info/iowa/waterloo/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/iowa/waterloo/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/iowa/waterloo/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/waterloo/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/waterloo/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/waterloo/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/waterloo/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/waterloo/shopping/bikes</loc></url>
@@ -1897,10 +1917,11 @@
   <url><loc>https://uslist.info/iowa/waukee/home-services</loc></url>
   <url><loc>https://uslist.info/iowa/waukee/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/iowa/waukee/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/waukee/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/waukee/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/waukee/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/iowa/waukee/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/waukee/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/waukee/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/waukee/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/waukee/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/iowa/waukee/shopping/department-stores</loc></url>
@@ -1935,6 +1956,7 @@
   <url><loc>https://uslist.info/iowa/waverly/home-services</loc></url>
   <url><loc>https://uslist.info/iowa/waverly/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/iowa/waverly/professional</loc></url>
+  <url><loc>https://uslist.info/iowa/waverly/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/waverly/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/waverly/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/iowa/waverly/shopping</loc></url>
@@ -1987,7 +2009,7 @@
   <url><loc>https://uslist.info/iowa/west-des-moines/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/iowa/west-des-moines/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/iowa/west-des-moines/professional</loc></url>
-  <url><loc>https://uslist.info/iowa/west-des-moines/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/iowa/west-des-moines/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/iowa/west-des-moines/professional/coworking</loc></url>
   <url><loc>https://uslist.info/iowa/west-des-moines/professional/employment</loc></url>
   <url><loc>https://uslist.info/iowa/west-des-moines/professional/funeral-services</loc></url>
@@ -1995,6 +2017,7 @@
   <url><loc>https://uslist.info/iowa/west-des-moines/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/iowa/west-des-moines/professional/other-services</loc></url>
   <url><loc>https://uslist.info/iowa/west-des-moines/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/iowa/west-des-moines/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/iowa/west-des-moines/shopping</loc></url>
   <url><loc>https://uslist.info/iowa/west-des-moines/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/iowa/west-des-moines/shopping/bikes</loc></url>

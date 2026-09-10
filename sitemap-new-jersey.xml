@@ -36,9 +36,9 @@
   <url><loc>https://uslist.info/new-jersey/aberdeen-township/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-jersey/aberdeen-township/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/aberdeen-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/aberdeen-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/aberdeen-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/aberdeen-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/aberdeen-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/aberdeen-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/aberdeen-township/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/aberdeen-township/shopping/department-stores</loc></url>
@@ -114,6 +114,7 @@
   <url><loc>https://uslist.info/new-jersey/atlantic-city/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/atlantic-city/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/atlantic-city/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/atlantic-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/atlantic-city/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/atlantic-city/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/atlantic-city/professional/nonprofits</loc></url>
@@ -188,9 +189,10 @@
   <url><loc>https://uslist.info/new-jersey/bayonne/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/bayonne/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/bayonne/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/bayonne/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/bayonne/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/bayonne/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/bayonne/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/bayonne/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/bayonne/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/bayonne/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/bayonne/shopping/department-stores</loc></url>
@@ -227,10 +229,10 @@
   <url><loc>https://uslist.info/new-jersey/beachwood/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/beachwood/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/beachwood/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/beachwood/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/beachwood/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/beachwood/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/beachwood/professional/photography</loc></url>
+  <url><loc>https://uslist.info/new-jersey/beachwood/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/beachwood/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/beachwood/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/beachwood/shopping/clothing</loc></url>
@@ -277,10 +279,10 @@
   <url><loc>https://uslist.info/new-jersey/belleville/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/belleville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/belleville/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/belleville/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/belleville/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/belleville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/belleville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/belleville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/belleville/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/belleville/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/belleville/shopping/cannabis-vape</loc></url>
@@ -404,6 +406,7 @@
   <url><loc>https://uslist.info/new-jersey/berkeley-township/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/berkeley-township/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/berkeley-township/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/berkeley-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/berkeley-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/berkeley-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/berkeley-township/shopping</loc></url>
@@ -448,10 +451,11 @@
   <url><loc>https://uslist.info/new-jersey/bloomfield/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/bloomfield/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/bloomfield/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/bloomfield/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/bloomfield/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/bloomfield/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/bloomfield/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/bloomfield/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/bloomfield/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/bloomfield/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/bloomfield/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/bloomfield/shopping/clothing</loc></url>
@@ -485,9 +489,9 @@
   <url><loc>https://uslist.info/new-jersey/bordentown-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/bordentown-township/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/bordentown-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/bordentown-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/bordentown-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/bordentown-township/professional/photography</loc></url>
+  <url><loc>https://uslist.info/new-jersey/bordentown-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/bordentown-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/bordentown-township/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/bordentown-township/shopping/furniture-home</loc></url>
@@ -523,11 +527,11 @@
   <url><loc>https://uslist.info/new-jersey/bound-brook/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/bound-brook/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/bound-brook/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/bound-brook/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/bound-brook/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/bound-brook/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/bound-brook/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/bound-brook/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/bound-brook/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/bound-brook/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/bound-brook/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/bound-brook/shopping/cannabis-vape</loc></url>
@@ -576,11 +580,11 @@
   <url><loc>https://uslist.info/new-jersey/brick-township/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/brick-township/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-jersey/brick-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/brick-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/brick-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/brick-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/brick-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/brick-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/brick-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/brick-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/brick-township/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/brick-township/shopping/bikes</loc></url>
@@ -622,9 +626,10 @@
   <url><loc>https://uslist.info/new-jersey/bridgeton/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/bridgeton/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-jersey/bridgeton/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/bridgeton/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/bridgeton/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/bridgeton/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/bridgeton/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/bridgeton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/bridgeton/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/bridgeton/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-jersey/bridgeton/shopping/department-stores</loc></url>
@@ -728,12 +733,13 @@
   <url><loc>https://uslist.info/new-jersey/camden/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/camden/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/camden/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/camden/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/camden/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/camden/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/camden/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/camden/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/camden/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/camden/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/camden/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/camden/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/camden/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/camden/shopping/clothing</loc></url>
@@ -764,8 +770,8 @@
   <url><loc>https://uslist.info/new-jersey/carteret/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/carteret/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/carteret/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/carteret/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/carteret/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/carteret/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/carteret/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/carteret/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/carteret/shopping/electronics</loc></url>
@@ -851,9 +857,10 @@
   <url><loc>https://uslist.info/new-jersey/cherry-hill/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/cherry-hill/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/cherry-hill/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/cherry-hill/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/cherry-hill/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/cherry-hill/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/cherry-hill/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/cherry-hill/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/cherry-hill/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/cherry-hill/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/cherry-hill/shopping/books-music</loc></url>
@@ -1036,8 +1043,8 @@
   <url><loc>https://uslist.info/new-jersey/collingswood/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/collingswood/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/collingswood/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/collingswood/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/collingswood/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/collingswood/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/collingswood/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/collingswood/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/collingswood/shopping/furniture-home</loc></url>
@@ -1085,9 +1092,10 @@
   <url><loc>https://uslist.info/new-jersey/cranford/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/cranford/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/cranford/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/cranford/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/cranford/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/cranford/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/cranford/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/cranford/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/cranford/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/cranford/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/cranford/shopping/clothing</loc></url>
@@ -1122,9 +1130,9 @@
   <url><loc>https://uslist.info/new-jersey/delran-township/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-jersey/delran-township/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/delran-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/delran-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/delran-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/delran-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/delran-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/delran-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/delran-township/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/delran-township/shopping/department-stores</loc></url>
@@ -1164,8 +1172,8 @@
   <url><loc>https://uslist.info/new-jersey/denville-township/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/denville-township/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/denville-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/denville-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/denville-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/denville-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/denville-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/denville-township/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/denville-township/shopping/cannabis-vape</loc></url>
@@ -1309,10 +1317,10 @@
   <url><loc>https://uslist.info/new-jersey/east-brunswick/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-brunswick/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-brunswick/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/east-brunswick/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-brunswick/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-brunswick/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-brunswick/professional/photography</loc></url>
+  <url><loc>https://uslist.info/new-jersey/east-brunswick/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-brunswick/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-brunswick/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-brunswick/shopping/electronics</loc></url>
@@ -1378,9 +1386,10 @@
   <url><loc>https://uslist.info/new-jersey/east-orange/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-orange/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-orange/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/east-orange/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/east-orange/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-orange/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-orange/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/east-orange/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-orange/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-orange/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-orange/shopping/clothing</loc></url>
@@ -1417,10 +1426,10 @@
   <url><loc>https://uslist.info/new-jersey/east-windsor/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-windsor/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-windsor/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/east-windsor/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-windsor/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-windsor/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-windsor/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/east-windsor/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-windsor/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-windsor/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/east-windsor/shopping/department-stores</loc></url>
@@ -1465,6 +1474,7 @@
   <url><loc>https://uslist.info/new-jersey/eatontown/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/eatontown/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/eatontown/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/eatontown/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/eatontown/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/eatontown/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/eatontown/professional/other-services</loc></url>
@@ -1530,8 +1540,9 @@
   <url><loc>https://uslist.info/new-jersey/edison/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/new-jersey/edison/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/edison/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/edison/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/edison/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/edison/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/edison/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/edison/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/edison/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/edison/shopping/clothing</loc></url>
@@ -1566,6 +1577,7 @@
   <url><loc>https://uslist.info/new-jersey/egg-harbor-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/egg-harbor-township/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/egg-harbor-township/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/egg-harbor-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/egg-harbor-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/egg-harbor-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/egg-harbor-township/shopping/art-craft-supplies</loc></url>
@@ -1615,6 +1627,7 @@
   <url><loc>https://uslist.info/new-jersey/elizabeth/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/elizabeth/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/elizabeth/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/elizabeth/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/elizabeth/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/elizabeth/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/elizabeth/professional/other-services</loc></url>
@@ -1655,8 +1668,8 @@
   <url><loc>https://uslist.info/new-jersey/elmwood-park/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/elmwood-park/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/elmwood-park/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/elmwood-park/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/elmwood-park/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/elmwood-park/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/elmwood-park/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/elmwood-park/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/elmwood-park/shopping/electronics</loc></url>
@@ -1683,8 +1696,8 @@
   <url><loc>https://uslist.info/new-jersey/englewood/health/hospitals</loc></url>
   <url><loc>https://uslist.info/new-jersey/englewood/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/englewood/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/englewood/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/englewood/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/new-jersey/englewood/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/englewood/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/englewood/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/englewood/shopping/cannabis-vape</loc></url>
@@ -1722,9 +1735,10 @@
   <url><loc>https://uslist.info/new-jersey/ewing-township/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/new-jersey/ewing-township/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/ewing-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/ewing-township/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/ewing-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/ewing-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/ewing-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/ewing-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/ewing-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/ewing-township/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/ewing-township/shopping/clothing</loc></url>
@@ -1801,6 +1815,7 @@
   <url><loc>https://uslist.info/new-jersey/fairview/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/fairview/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/fairview/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/fairview/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/fairview/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/fairview/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/fairview/shopping/clothing</loc></url>
@@ -1901,8 +1916,8 @@
   <url><loc>https://uslist.info/new-jersey/franklin-lakes/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/franklin-lakes/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/franklin-lakes/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/franklin-lakes/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/franklin-lakes/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/new-jersey/franklin-lakes/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/franklin-lakes/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/franklin-lakes/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-jersey/franklin-township</loc></url>
@@ -1979,8 +1994,9 @@
   <url><loc>https://uslist.info/new-jersey/freehold/health</loc></url>
   <url><loc>https://uslist.info/new-jersey/freehold/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-jersey/freehold/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/freehold/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/freehold/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/freehold/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/freehold/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/freehold/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/freehold/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/freehold/shopping/department-stores</loc></url>
@@ -2053,6 +2069,7 @@
   <url><loc>https://uslist.info/new-jersey/glassboro/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/glassboro/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/glassboro/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/glassboro/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/glassboro/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/glassboro/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/glassboro/professional/printing-signs</loc></url>
@@ -2093,9 +2110,9 @@
   <url><loc>https://uslist.info/new-jersey/glen-rock/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/glen-rock/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/glen-rock/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/glen-rock/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/glen-rock/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/glen-rock/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/glen-rock/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/glen-rock/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/glen-rock/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/glen-rock/shopping/clothing</loc></url>
@@ -2121,9 +2138,9 @@
   <url><loc>https://uslist.info/new-jersey/gloucester-city/health</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-city/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-city/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/gloucester-city/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-city/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-city/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/gloucester-city/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-city/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-city/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-city/shopping/furniture-home</loc></url>
@@ -2159,8 +2176,8 @@
   <url><loc>https://uslist.info/new-jersey/gloucester-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-township/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/gloucester-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/gloucester-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-township/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/gloucester-township/shopping/clothing</loc></url>
@@ -2265,6 +2282,7 @@
   <url><loc>https://uslist.info/new-jersey/hackettstown/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/hackettstown/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/hackettstown/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hackettstown/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/hackettstown/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/hackettstown/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hackettstown/professional/it-services</loc></url>
@@ -2307,9 +2325,9 @@
   <url><loc>https://uslist.info/new-jersey/haddon-township/health/dentists</loc></url>
   <url><loc>https://uslist.info/new-jersey/haddon-township/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/haddon-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/haddon-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/haddon-township/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/haddon-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/haddon-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/haddon-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/haddon-township/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-jersey/haddon-township/shopping/department-stores</loc></url>
@@ -2387,6 +2405,7 @@
   <url><loc>https://uslist.info/new-jersey/hamilton-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hamilton-township/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/hamilton-township/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hamilton-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/hamilton-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/hamilton-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hamilton-township/professional/other-services</loc></url>
@@ -2426,8 +2445,8 @@
   <url><loc>https://uslist.info/new-jersey/hammonton/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-jersey/hammonton/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/new-jersey/hammonton/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/hammonton/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hammonton/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hammonton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hammonton/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/hammonton/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/hammonton/shopping/clothing</loc></url>
@@ -2511,12 +2530,13 @@
   <url><loc>https://uslist.info/new-jersey/harrison/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/new-jersey/harrison/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/harrison/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/harrison/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/harrison/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/harrison/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/harrison/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/harrison/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/harrison/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/harrison/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/harrison/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/harrison/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/harrison/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/harrison/shopping/clothing</loc></url>
@@ -2584,9 +2604,9 @@
   <url><loc>https://uslist.info/new-jersey/hawthorne/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-jersey/hawthorne/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/hawthorne/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/hawthorne/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hawthorne/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hawthorne/professional/photography</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hawthorne/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hawthorne/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/hawthorne/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/hawthorne/shopping/clothing</loc></url>
@@ -2624,12 +2644,13 @@
   <url><loc>https://uslist.info/new-jersey/hazlet/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/hazlet/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/hazlet/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/hazlet/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hazlet/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/hazlet/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/hazlet/professional/it-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hazlet/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/hazlet/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hazlet/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hazlet/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hazlet/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/hazlet/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/hazlet/shopping/books-music</loc></url>
@@ -2671,6 +2692,7 @@
   <url><loc>https://uslist.info/new-jersey/highland-park/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/highland-park/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/highland-park/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/highland-park/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/highland-park/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/highland-park/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/new-jersey/highland-park/professional/other-services</loc></url>
@@ -2711,11 +2733,12 @@
   <url><loc>https://uslist.info/new-jersey/hillsborough-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsborough-township/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsborough-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/hillsborough-township/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hillsborough-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsborough-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsborough-township/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsborough-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsborough-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hillsborough-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsborough-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsborough-township/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsborough-township/shopping/books-music</loc></url>
@@ -2749,9 +2772,9 @@
   <url><loc>https://uslist.info/new-jersey/hillsdale/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsdale/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsdale/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/hillsdale/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsdale/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsdale/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hillsdale/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsdale/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsdale/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/hillsdale/shopping/electronics</loc></url>
@@ -2827,13 +2850,13 @@
   <url><loc>https://uslist.info/new-jersey/hoboken/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/hoboken/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/hoboken/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/hoboken/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hoboken/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/hoboken/professional/it-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hoboken/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/hoboken/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hoboken/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/hoboken/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hoboken/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hoboken/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/hoboken/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/hoboken/shopping/books-music</loc></url>
@@ -2868,10 +2891,10 @@
   <url><loc>https://uslist.info/new-jersey/holmdel-township/health/dentists</loc></url>
   <url><loc>https://uslist.info/new-jersey/holmdel-township/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-jersey/holmdel-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/holmdel-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/holmdel-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/holmdel-township/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/holmdel-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/holmdel-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/holmdel-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/holmdel-township/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-jersey/holmdel-township/shopping/gifts-florists</loc></url>
@@ -2906,9 +2929,9 @@
   <url><loc>https://uslist.info/new-jersey/hopatcong/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopatcong/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopatcong/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/hopatcong/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopatcong/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopatcong/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hopatcong/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopatcong/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopatcong/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopatcong/shopping/cannabis-vape</loc></url>
@@ -2949,6 +2972,7 @@
   <url><loc>https://uslist.info/new-jersey/hopewell-township/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopewell-township/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopewell-township/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/hopewell-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopewell-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopewell-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/hopewell-township/professional/printing-signs</loc></url>
@@ -3028,8 +3052,8 @@
   <url><loc>https://uslist.info/new-jersey/irvington/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/irvington/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/irvington/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/irvington/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/irvington/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/irvington/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/irvington/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/irvington/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/irvington/shopping/clothing</loc></url>
@@ -3093,12 +3117,13 @@
   <url><loc>https://uslist.info/new-jersey/jersey-city/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-jersey/jersey-city/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/jersey-city/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/jersey-city/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/jersey-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/jersey-city/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/jersey-city/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/jersey-city/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/jersey-city/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/jersey-city/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/jersey-city/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/jersey-city/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/jersey-city/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/jersey-city/shopping/books-music</loc></url>
@@ -3176,9 +3201,9 @@
   <url><loc>https://uslist.info/new-jersey/kearny/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/kearny/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/kearny/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/kearny/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/kearny/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/kearny/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/kearny/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/kearny/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/kearny/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/kearny/shopping/clothing</loc></url>
@@ -3333,10 +3358,11 @@
   <url><loc>https://uslist.info/new-jersey/lawrence-township/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/lawrence-township/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/lawrence-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/lawrence-township/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/lawrence-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/lawrence-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/lawrence-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/lawrence-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/lawrence-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/lawrence-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/lawrence-township/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/lawrence-township/shopping/books-music</loc></url>
@@ -3393,7 +3419,7 @@
   <url><loc>https://uslist.info/new-jersey/lincoln-park/home-services/painters</loc></url>
   <url><loc>https://uslist.info/new-jersey/lincoln-park/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/lincoln-park/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/lincoln-park/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/lincoln-park/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/lincoln-park/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/lincoln-park/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/lincoln-park/professional/it-services</loc></url>
@@ -3402,6 +3428,7 @@
   <url><loc>https://uslist.info/new-jersey/lincoln-park/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/lincoln-park/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/lincoln-park/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/lincoln-park/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/lincoln-park/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/lincoln-park/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/lincoln-park/shopping/books-music</loc></url>
@@ -3436,10 +3463,10 @@
   <url><loc>https://uslist.info/new-jersey/linden/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/linden/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/linden/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/linden/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/linden/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/linden/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/linden/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/linden/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/linden/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/linden/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/linden/shopping/department-stores</loc></url>
@@ -3475,8 +3502,9 @@
   <url><loc>https://uslist.info/new-jersey/lindenwold/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/lindenwold/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/lindenwold/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/lindenwold/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/lindenwold/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/lindenwold/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/lindenwold/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/lindenwold/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/lindenwold/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/lindenwold/shopping/department-stores</loc></url>
@@ -3543,7 +3571,7 @@
   <url><loc>https://uslist.info/new-jersey/little-falls/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/little-falls/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/little-falls/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/little-falls/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/little-falls/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/little-falls/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/little-falls/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/little-falls/professional/it-services</loc></url>
@@ -3552,6 +3580,7 @@
   <url><loc>https://uslist.info/new-jersey/little-falls/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/little-falls/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/little-falls/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/little-falls/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/little-falls/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/little-falls/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/little-falls/shopping/bikes</loc></url>
@@ -3610,10 +3639,11 @@
   <url><loc>https://uslist.info/new-jersey/livingston/health/hospitals</loc></url>
   <url><loc>https://uslist.info/new-jersey/livingston/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/livingston/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/livingston/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/livingston/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/new-jersey/livingston/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/livingston/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/livingston/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/livingston/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/livingston/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/livingston/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/livingston/shopping/furniture-home</loc></url>
@@ -3730,8 +3760,8 @@
   <url><loc>https://uslist.info/new-jersey/lumberton/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/lumberton/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/lumberton/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/lumberton/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/lumberton/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/new-jersey/lumberton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/lumberton/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/lumberton/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/new-jersey/lumberton/shopping/furniture-home</loc></url>
@@ -3756,9 +3786,9 @@
   <url><loc>https://uslist.info/new-jersey/lyndhurst/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/lyndhurst/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/new-jersey/lyndhurst/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/lyndhurst/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/lyndhurst/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/lyndhurst/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/lyndhurst/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/lyndhurst/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/lyndhurst/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/lyndhurst/shopping/furniture-home</loc></url>
@@ -3787,11 +3817,12 @@
   <url><loc>https://uslist.info/new-jersey/madison/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-jersey/madison/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/madison/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/madison/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/madison/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/madison/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/madison/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/madison/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/madison/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/madison/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/madison/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/madison/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/madison/shopping/books-music</loc></url>
@@ -3887,9 +3918,9 @@
   <url><loc>https://uslist.info/new-jersey/manchester-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/manchester-township/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/manchester-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/manchester-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/manchester-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/manchester-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/manchester-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/manchester-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/manchester-township/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/manchester-township/shopping/department-stores</loc></url>
@@ -3920,9 +3951,10 @@
   <url><loc>https://uslist.info/new-jersey/mantua-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/mantua-township/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/mantua-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/mantua-township/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/mantua-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/mantua-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/mantua-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/mantua-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/mantua-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/mantua-township/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/mantua-township/shopping/furniture-home</loc></url>
@@ -4008,10 +4040,10 @@
   <url><loc>https://uslist.info/new-jersey/maple-shade/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/maple-shade/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/new-jersey/maple-shade/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/maple-shade/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/maple-shade/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/maple-shade/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/maple-shade/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/maple-shade/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/maple-shade/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/maple-shade/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/maple-shade/shopping/books-music</loc></url>
@@ -4050,11 +4082,11 @@
   <url><loc>https://uslist.info/new-jersey/maplewood/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/maplewood/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/maplewood/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/maplewood/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/maplewood/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/maplewood/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/maplewood/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/maplewood/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/maplewood/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/maplewood/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/maplewood/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/maplewood/shopping/books-music</loc></url>
@@ -4084,8 +4116,8 @@
   <url><loc>https://uslist.info/new-jersey/marlboro-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlboro-township/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlboro-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/marlboro-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlboro-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/marlboro-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlboro-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlboro-township/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlton</loc></url>
@@ -4125,12 +4157,12 @@
   <url><loc>https://uslist.info/new-jersey/marlton/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlton/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlton/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/marlton/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlton/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlton/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlton/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlton/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/marlton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlton/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlton/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/marlton/shopping/books-music</loc></url>
@@ -4259,7 +4291,6 @@
   <url><loc>https://uslist.info/new-jersey/metuchen/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/metuchen/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/metuchen/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/metuchen/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/metuchen/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/metuchen/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/metuchen/professional/it-services</loc></url>
@@ -4268,6 +4299,7 @@
   <url><loc>https://uslist.info/new-jersey/metuchen/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/metuchen/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/metuchen/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/metuchen/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/metuchen/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/metuchen/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/metuchen/shopping/cannabis-vape</loc></url>
@@ -4301,6 +4333,7 @@
   <url><loc>https://uslist.info/new-jersey/middle-township/health/hospitals</loc></url>
   <url><loc>https://uslist.info/new-jersey/middle-township/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/new-jersey/middle-township/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/middle-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/middle-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/middle-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/middle-township/shopping</loc></url>
@@ -4339,8 +4372,8 @@
   <url><loc>https://uslist.info/new-jersey/middlesex/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/middlesex/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/middlesex/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/middlesex/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/middlesex/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/middlesex/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/middlesex/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/middlesex/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-jersey/middlesex/shopping/department-stores</loc></url>
@@ -4378,6 +4411,7 @@
   <url><loc>https://uslist.info/new-jersey/middletown-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/middletown-township/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/middletown-township/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/middletown-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/middletown-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/middletown-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/middletown-township/professional/printing-signs</loc></url>
@@ -4496,6 +4530,7 @@
   <url><loc>https://uslist.info/new-jersey/monroe-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/monroe-township/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/monroe-township/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/monroe-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/monroe-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/monroe-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/monroe-township/shopping</loc></url>
@@ -4539,7 +4574,6 @@
   <url><loc>https://uslist.info/new-jersey/montclair/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/montclair/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/montclair/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/montclair/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/montclair/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/montclair/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/montclair/professional/it-services</loc></url>
@@ -4547,6 +4581,7 @@
   <url><loc>https://uslist.info/new-jersey/montclair/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/montclair/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/montclair/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/montclair/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/montclair/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/montclair/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/montclair/shopping/bikes</loc></url>
@@ -4622,10 +4657,10 @@
   <url><loc>https://uslist.info/new-jersey/montville/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/montville/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/montville/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/montville/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/montville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/montville/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/montville/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/montville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/montville/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/montville/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/montville/shopping/clothing</loc></url>
@@ -4714,12 +4749,13 @@
   <url><loc>https://uslist.info/new-jersey/morristown/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/new-jersey/morristown/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/morristown/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/morristown/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/morristown/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/morristown/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/morristown/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/morristown/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/morristown/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/morristown/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/morristown/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/morristown/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/morristown/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/morristown/shopping/bikes</loc></url>
@@ -4770,9 +4806,10 @@
   <url><loc>https://uslist.info/new-jersey/mount-holly/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-holly/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-holly/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/mount-holly/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/mount-holly/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-holly/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-holly/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/mount-holly/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-holly/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-holly/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-holly/shopping/books-music</loc></url>
@@ -4806,8 +4843,8 @@
   <url><loc>https://uslist.info/new-jersey/mount-laurel/health/dentists</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-laurel/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-laurel/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/mount-laurel/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-laurel/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/mount-laurel/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-laurel/travel-leisure</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-laurel/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-olive-township</loc></url>
@@ -4850,12 +4887,12 @@
   <url><loc>https://uslist.info/new-jersey/mount-olive-township/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-olive-township/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-olive-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/mount-olive-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-olive-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-olive-township/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-olive-township/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-olive-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-olive-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/mount-olive-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-olive-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-olive-township/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/mount-olive-township/shopping/books-music</loc></url>
@@ -4898,9 +4935,9 @@
   <url><loc>https://uslist.info/new-jersey/neptune-township/health/hospitals</loc></url>
   <url><loc>https://uslist.info/new-jersey/neptune-township/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/neptune-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/neptune-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/neptune-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/neptune-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/neptune-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/neptune-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/neptune-township/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/neptune-township/shopping/cannabis-vape</loc></url>
@@ -4940,8 +4977,9 @@
   <url><loc>https://uslist.info/new-jersey/new-brunswick/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/new-brunswick/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/new-brunswick/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/new-brunswick/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/new-brunswick/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/new-brunswick/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/new-brunswick/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/new-brunswick/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/new-brunswick/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/new-brunswick/shopping/books-music</loc></url>
@@ -5013,11 +5051,12 @@
   <url><loc>https://uslist.info/new-jersey/newark/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/newark/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/newark/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/newark/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/newark/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/newark/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/newark/professional/it-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/newark/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/newark/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/newark/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/newark/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/newark/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/newark/shopping/cannabis-vape</loc></url>
@@ -5053,6 +5092,7 @@
   <url><loc>https://uslist.info/new-jersey/north-arlington/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-arlington/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-arlington/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/north-arlington/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-arlington/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-arlington/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-arlington/shopping</loc></url>
@@ -5105,11 +5145,11 @@
   <url><loc>https://uslist.info/new-jersey/north-brunswick/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-brunswick/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-brunswick/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/north-brunswick/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-brunswick/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-brunswick/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-brunswick/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-brunswick/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/north-brunswick/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-brunswick/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-brunswick/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-brunswick/shopping/cannabis-vape</loc></url>
@@ -5138,9 +5178,9 @@
   <url><loc>https://uslist.info/new-jersey/north-plainfield/health</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-plainfield/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-plainfield/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/north-plainfield/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-plainfield/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-plainfield/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/north-plainfield/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-plainfield/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-plainfield/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/north-plainfield/shopping/department-stores</loc></url>
@@ -5178,11 +5218,11 @@
   <url><loc>https://uslist.info/new-jersey/nutley/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/nutley/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/nutley/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/nutley/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/nutley/professional/it-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/nutley/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/nutley/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/nutley/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/nutley/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/nutley/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/nutley/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/nutley/shopping/bikes</loc></url>
@@ -5208,7 +5248,7 @@
   <url><loc>https://uslist.info/new-jersey/oakland/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/oakland/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/new-jersey/oakland/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/oakland/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/oakland/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/oakland/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/new-jersey/oakland/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/oakland/shopping/department-stores</loc></url>
@@ -5309,10 +5349,11 @@
   <url><loc>https://uslist.info/new-jersey/old-bridge-township/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge-township/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/old-bridge-township/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/old-bridge-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge-township/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/old-bridge-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge-township/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge-township/shopping/department-stores</loc></url>
@@ -5349,10 +5390,11 @@
   <url><loc>https://uslist.info/new-jersey/old-bridge/health/hospitals</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/old-bridge/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/old-bridge/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/old-bridge/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/old-bridge/shopping/electronics</loc></url>
@@ -5382,9 +5424,9 @@
   <url><loc>https://uslist.info/new-jersey/orange/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/orange/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/orange/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/orange/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/orange/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/orange/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/orange/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/orange/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/orange/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/orange/travel-leisure</loc></url>
@@ -5413,11 +5455,11 @@
   <url><loc>https://uslist.info/new-jersey/palisades-park/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/palisades-park/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/new-jersey/palisades-park/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/palisades-park/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/palisades-park/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/palisades-park/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/new-jersey/palisades-park/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/palisades-park/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/palisades-park/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/palisades-park/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/palisades-park/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/palisades-park/shopping/clothing</loc></url>
@@ -5455,9 +5497,9 @@
   <url><loc>https://uslist.info/new-jersey/paramus/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/new-jersey/paramus/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/paramus/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/paramus/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/paramus/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/paramus/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/paramus/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/paramus/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/paramus/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/paramus/shopping/clothing</loc></url>
@@ -5496,10 +5538,10 @@
   <url><loc>https://uslist.info/new-jersey/parsippany-troy-hills/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/parsippany-troy-hills/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/parsippany-troy-hills/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/parsippany-troy-hills/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/parsippany-troy-hills/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/parsippany-troy-hills/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/parsippany-troy-hills/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/parsippany-troy-hills/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/parsippany-troy-hills/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/parsippany-troy-hills/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/parsippany-troy-hills/shopping/clothing</loc></url>
@@ -5523,10 +5565,10 @@
   <url><loc>https://uslist.info/new-jersey/passaic/health/hospitals</loc></url>
   <url><loc>https://uslist.info/new-jersey/passaic/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/passaic/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/passaic/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/passaic/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/passaic/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/passaic/professional/photography</loc></url>
+  <url><loc>https://uslist.info/new-jersey/passaic/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/passaic/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/passaic/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/passaic/shopping/department-stores</loc></url>
@@ -5559,9 +5601,9 @@
   <url><loc>https://uslist.info/new-jersey/paterson/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/paterson/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/paterson/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/paterson/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/paterson/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/paterson/professional/marketing-agencies</loc></url>
-  <url><loc>https://uslist.info/new-jersey/paterson/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/paterson/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/paterson/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/paterson/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-jersey/paterson/shopping/department-stores</loc></url>
@@ -5601,12 +5643,12 @@
   <url><loc>https://uslist.info/new-jersey/pennsauken-township/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsauken-township/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsauken-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/pennsauken-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsauken-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsauken-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsauken-township/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsauken-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsauken-township/professional/photography</loc></url>
+  <url><loc>https://uslist.info/new-jersey/pennsauken-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsauken-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsauken-township/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsauken-township/shopping/department-stores</loc></url>
@@ -5657,9 +5699,10 @@
   <url><loc>https://uslist.info/new-jersey/pennsville/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsville/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsville/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/pennsville/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/pennsville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsville/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsville/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/pennsville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsville/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsville/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/pennsville/shopping/cannabis-vape</loc></url>
@@ -5713,12 +5756,12 @@
   <url><loc>https://uslist.info/new-jersey/pequannock-township/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/pequannock-township/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/pequannock-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/pequannock-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/pequannock-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/pequannock-township/professional/it-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/pequannock-township/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/pequannock-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/pequannock-township/professional/photography</loc></url>
+  <url><loc>https://uslist.info/new-jersey/pequannock-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/pequannock-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/pequannock-township/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/pequannock-township/shopping/department-stores</loc></url>
@@ -5755,6 +5798,7 @@
   <url><loc>https://uslist.info/new-jersey/perth-amboy/health/hospitals</loc></url>
   <url><loc>https://uslist.info/new-jersey/perth-amboy/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/perth-amboy/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/perth-amboy/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/perth-amboy/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/perth-amboy/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/perth-amboy/professional/other-services</loc></url>
@@ -5807,11 +5851,12 @@
   <url><loc>https://uslist.info/new-jersey/phillipsburg/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/phillipsburg/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/phillipsburg/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/phillipsburg/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/phillipsburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/phillipsburg/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/phillipsburg/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/phillipsburg/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/phillipsburg/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/phillipsburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/phillipsburg/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/phillipsburg/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/phillipsburg/shopping/books-music</loc></url>
@@ -5938,11 +5983,12 @@
   <url><loc>https://uslist.info/new-jersey/plainsboro-township/health/hospitals</loc></url>
   <url><loc>https://uslist.info/new-jersey/plainsboro-township/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/plainsboro-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/plainsboro-township/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/plainsboro-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/plainsboro-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/plainsboro-township/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/plainsboro-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/plainsboro-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/plainsboro-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/plainsboro-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/plainsboro-township/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/plainsboro-township/travel-leisure</loc></url>
@@ -5977,12 +6023,13 @@
   <url><loc>https://uslist.info/new-jersey/pleasantville/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/pleasantville/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/pleasantville/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/pleasantville/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/pleasantville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/pleasantville/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/pleasantville/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/pleasantville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/pleasantville/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/pleasantville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/pleasantville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/pleasantville/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/pleasantville/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/pleasantville/shopping/cannabis-vape</loc></url>
@@ -6067,7 +6114,7 @@
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/pompton-lakes/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/pompton-lakes/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/professional/it-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/professional/marketing-agencies</loc></url>
@@ -6075,6 +6122,7 @@
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/pompton-lakes/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/pompton-lakes/shopping/bikes</loc></url>
@@ -6123,11 +6171,11 @@
   <url><loc>https://uslist.info/new-jersey/princeton/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/princeton/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/princeton/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/princeton/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/princeton/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/princeton/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/princeton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/princeton/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/princeton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/princeton/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/princeton/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/princeton/shopping/bikes</loc></url>
@@ -6171,6 +6219,7 @@
   <url><loc>https://uslist.info/new-jersey/rahway/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/rahway/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/rahway/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/rahway/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/rahway/professional/it-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/rahway/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/rahway/shopping</loc></url>
@@ -6213,10 +6262,11 @@
   <url><loc>https://uslist.info/new-jersey/ramsey/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/ramsey/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/ramsey/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/ramsey/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/ramsey/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/ramsey/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/ramsey/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/ramsey/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/ramsey/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/ramsey/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/ramsey/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/ramsey/shopping/cannabis-vape</loc></url>
@@ -6259,9 +6309,10 @@
   <url><loc>https://uslist.info/new-jersey/raritan-township/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/raritan-township/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/raritan-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/raritan-township/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/raritan-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/raritan-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/raritan-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/raritan-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/raritan-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/raritan-township/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/raritan-township/shopping/department-stores</loc></url>
@@ -6374,9 +6425,9 @@
   <url><loc>https://uslist.info/new-jersey/ridgefield-park/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgefield-park/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgefield-park/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/ridgefield-park/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgefield-park/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgefield-park/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/ridgefield-park/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgefield-park/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgefield-park/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgefield-park/travel-leisure</loc></url>
@@ -6423,10 +6474,10 @@
   <url><loc>https://uslist.info/new-jersey/ridgewood/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgewood/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgewood/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/ridgewood/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgewood/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgewood/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgewood/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/ridgewood/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgewood/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgewood/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/ridgewood/shopping/bikes</loc></url>
@@ -6450,8 +6501,8 @@
   <url><loc>https://uslist.info/new-jersey/ringwood/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/new-jersey/ringwood/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/new-jersey/ringwood/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/ringwood/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/ringwood/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/new-jersey/ringwood/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/river-edge</loc></url>
   <url><loc>https://uslist.info/new-jersey/river-edge/automotive</loc></url>
   <url><loc>https://uslist.info/new-jersey/river-edge/automotive/auto-repair</loc></url>
@@ -6514,9 +6565,10 @@
   <url><loc>https://uslist.info/new-jersey/robbinsville-township/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-jersey/robbinsville-township/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/robbinsville-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/robbinsville-township/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/robbinsville-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/robbinsville-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/robbinsville-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/robbinsville-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/robbinsville-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/robbinsville-township/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/robbinsville-township/shopping/bikes</loc></url>
@@ -6543,8 +6595,8 @@
   <url><loc>https://uslist.info/new-jersey/rockaway-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/rockaway-township/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/rockaway-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/rockaway-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/rockaway-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/rockaway-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/rockaway-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/rockaway-township/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/new-jersey/rockaway-township/travel-leisure</loc></url>
@@ -6585,6 +6637,7 @@
   <url><loc>https://uslist.info/new-jersey/roselle/health/dentists</loc></url>
   <url><loc>https://uslist.info/new-jersey/roselle/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-jersey/roselle/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/roselle/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/roselle/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/roselle/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/roselle/shopping/department-stores</loc></url>
@@ -6622,12 +6675,13 @@
   <url><loc>https://uslist.info/new-jersey/roxbury-township/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/roxbury-township/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/roxbury-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/roxbury-township/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/roxbury-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/roxbury-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/roxbury-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/roxbury-township/professional/it-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/roxbury-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/roxbury-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/roxbury-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/roxbury-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/roxbury-township/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/roxbury-township/shopping/books-music</loc></url>
@@ -6671,9 +6725,9 @@
   <url><loc>https://uslist.info/new-jersey/rutherford/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/rutherford/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/rutherford/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/rutherford/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/rutherford/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/rutherford/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/rutherford/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/rutherford/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/rutherford/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/rutherford/shopping/clothing</loc></url>
@@ -6715,11 +6769,11 @@
   <url><loc>https://uslist.info/new-jersey/saddle-brook/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/saddle-brook/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/saddle-brook/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/saddle-brook/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/saddle-brook/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/saddle-brook/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/saddle-brook/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/saddle-brook/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/saddle-brook/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/saddle-brook/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/saddle-brook/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/saddle-brook/shopping/department-stores</loc></url>
@@ -6762,10 +6816,10 @@
   <url><loc>https://uslist.info/new-jersey/sayreville/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/new-jersey/sayreville/home-services/painters</loc></url>
   <url><loc>https://uslist.info/new-jersey/sayreville/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/sayreville/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/sayreville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/sayreville/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/sayreville/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/sayreville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/sayreville/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/sayreville/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/sayreville/shopping/department-stores</loc></url>
@@ -6954,7 +7008,7 @@
   <url><loc>https://uslist.info/new-jersey/somerville/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/somerville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/somerville/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/somerville/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/somerville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/somerville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/somerville/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/somerville/professional/funeral-services</loc></url>
@@ -6962,6 +7016,7 @@
   <url><loc>https://uslist.info/new-jersey/somerville/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/new-jersey/somerville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/somerville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/somerville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/somerville/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/somerville/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/somerville/shopping/cannabis-vape</loc></url>
@@ -7005,10 +7060,10 @@
   <url><loc>https://uslist.info/new-jersey/south-brunswick/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-brunswick/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-brunswick/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/south-brunswick/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-brunswick/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-brunswick/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-brunswick/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/south-brunswick/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-brunswick/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-brunswick/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-brunswick/shopping/electronics</loc></url>
@@ -7040,6 +7095,7 @@
   <url><loc>https://uslist.info/new-jersey/south-plainfield/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-plainfield/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-plainfield/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/south-plainfield/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-plainfield/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-plainfield/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-plainfield/shopping</loc></url>
@@ -7084,11 +7140,11 @@
   <url><loc>https://uslist.info/new-jersey/south-river/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-river/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-river/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/south-river/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-river/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-river/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-river/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-river/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/south-river/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-river/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-river/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/south-river/shopping/cannabis-vape</loc></url>
@@ -7131,6 +7187,7 @@
   <url><loc>https://uslist.info/new-jersey/southampton-township/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/southampton-township/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/southampton-township/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/southampton-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/southampton-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/southampton-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/southampton-township/shopping</loc></url>
@@ -7170,10 +7227,11 @@
   <url><loc>https://uslist.info/new-jersey/sparta-township/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/sparta-township/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/sparta-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/sparta-township/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/sparta-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/sparta-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/sparta-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/sparta-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/sparta-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/sparta-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/sparta-township/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/sparta-township/shopping/cannabis-vape</loc></url>
@@ -7214,10 +7272,11 @@
   <url><loc>https://uslist.info/new-jersey/springfield-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/springfield-township/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/springfield-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/springfield-township/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/springfield-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/springfield-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/springfield-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/springfield-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/springfield-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/springfield-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/springfield-township/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/springfield-township/shopping/department-stores</loc></url>
@@ -7294,6 +7353,7 @@
   <url><loc>https://uslist.info/new-jersey/succasunna/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/succasunna/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/succasunna/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/succasunna/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/succasunna/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/succasunna/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/succasunna/shopping</loc></url>
@@ -7364,6 +7424,7 @@
   <url><loc>https://uslist.info/new-jersey/teaneck/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/teaneck/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/new-jersey/teaneck/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/teaneck/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/teaneck/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/teaneck/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/teaneck/shopping/cannabis-vape</loc></url>
@@ -7427,11 +7488,12 @@
   <url><loc>https://uslist.info/new-jersey/the-ironbound/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/the-ironbound/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/the-ironbound/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/the-ironbound/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/the-ironbound/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/the-ironbound/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/the-ironbound/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/the-ironbound/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/the-ironbound/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/the-ironbound/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/the-ironbound/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/the-ironbound/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/the-ironbound/shopping/clothing</loc></url>
@@ -7491,10 +7553,11 @@
   <url><loc>https://uslist.info/new-jersey/toms-river/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/toms-river/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/toms-river/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/toms-river/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/toms-river/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/toms-river/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/toms-river/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/toms-river/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/toms-river/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/toms-river/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/toms-river/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/toms-river/shopping/books-music</loc></url>
@@ -7538,12 +7601,13 @@
   <url><loc>https://uslist.info/new-jersey/totowa/home-services/painters</loc></url>
   <url><loc>https://uslist.info/new-jersey/totowa/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/totowa/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/totowa/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/totowa/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/totowa/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/totowa/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/new-jersey/totowa/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/totowa/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/totowa/professional/photography</loc></url>
+  <url><loc>https://uslist.info/new-jersey/totowa/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/totowa/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/totowa/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-jersey/totowa/shopping/department-stores</loc></url>
@@ -7608,7 +7672,7 @@
   <url><loc>https://uslist.info/new-jersey/trenton/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/trenton/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/trenton/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/trenton/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/trenton/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/trenton/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/trenton/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/trenton/professional/funeral-services</loc></url>
@@ -7616,6 +7680,7 @@
   <url><loc>https://uslist.info/new-jersey/trenton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/trenton/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/trenton/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/trenton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/trenton/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/trenton/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/trenton/shopping/books-music</loc></url>
@@ -7691,9 +7756,9 @@
   <url><loc>https://uslist.info/new-jersey/union/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/union/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/union/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/union/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/union/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/union/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/union/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/union/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/union/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/union/shopping/department-stores</loc></url>
@@ -7759,9 +7824,11 @@
   <url><loc>https://uslist.info/new-jersey/ventnor-city/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/ventnor-city/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/ventnor-city/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/ventnor-city/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/ventnor-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/ventnor-city/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/ventnor-city/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/ventnor-city/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/ventnor-city/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/ventnor-city/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/ventnor-city/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/ventnor-city/shopping/clothing</loc></url>
@@ -7799,11 +7866,11 @@
   <url><loc>https://uslist.info/new-jersey/vernon-township/home-services/painters</loc></url>
   <url><loc>https://uslist.info/new-jersey/vernon-township/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/vernon-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/vernon-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/vernon-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/vernon-township/professional/it-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/vernon-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/vernon-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/vernon-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/vernon-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/vernon-township/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/new-jersey/vernon-township/shopping/cannabis-vape</loc></url>
@@ -7839,10 +7906,10 @@
   <url><loc>https://uslist.info/new-jersey/verona/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/verona/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/new-jersey/verona/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/verona/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/verona/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/verona/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/new-jersey/verona/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/verona/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/verona/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/verona/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/verona/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-jersey/verona/shopping/department-stores</loc></url>
@@ -7872,10 +7939,10 @@
   <url><loc>https://uslist.info/new-jersey/vineland/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/vineland/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/new-jersey/vineland/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/vineland/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/vineland/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/vineland/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/vineland/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/vineland/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/vineland/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/vineland/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/new-jersey/vineland/shopping/clothing</loc></url>
@@ -7917,6 +7984,7 @@
   <url><loc>https://uslist.info/new-jersey/voorhees-township/professional</loc></url>
   <url><loc>https://uslist.info/new-jersey/voorhees-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/voorhees-township/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/voorhees-township/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/voorhees-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/voorhees-township/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/new-jersey/voorhees-township/shopping</loc></url>
@@ -7969,9 +8037,9 @@
   <url><loc>https://uslist.info/new-jersey/waldwick/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/waldwick/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/waldwick/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/waldwick/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/waldwick/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/waldwick/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/waldwick/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/waldwick/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/waldwick/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/waldwick/shopping/cannabis-vape</loc></url>
@@ -8027,6 +8095,7 @@
   <url><loc>https://uslist.info/new-jersey/wall-township/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/wall-township/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/new-jersey/wall-township/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/new-jersey/wall-township/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/new-jersey/wall-township/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/new-jersey/wall-township/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/new-jersey/wallington</loc></url>
@@ -8043,7 +8112,7 @@
   <url><loc>https://uslist.info/new-jersey/wallington/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/new-jersey/wallington/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/new-jersey/wallington/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/wallington/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/wallington/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/wallington/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/wallington/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-jersey/wallington/shopping/pet-stores</loc></url>
@@ -8075,6 +8144,7 @@
   <url><loc>https://uslist.info/new-jersey/wantage-township/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-jersey/wantage-township/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/wantage-township/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/wantage-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/wantage-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/wantage-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/wantage-township/shopping/department-stores</loc></url>
@@ -8114,10 +8184,10 @@
   <url><loc>https://uslist.info/new-jersey/washington-township/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/washington-township/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-jersey/washington-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/washington-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/washington-township/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/washington-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/washington-township/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/washington-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/washington-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/washington-township/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/washington-township/shopping/furniture-home</loc></url>
@@ -8175,7 +8245,7 @@
   <url><loc>https://uslist.info/new-jersey/wayne/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-jersey/wayne/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/wayne/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/wayne/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/wayne/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/wayne/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/wayne/professional/employment</loc></url>
   <url><loc>https://uslist.info/new-jersey/wayne/professional/funeral-services</loc></url>
@@ -8185,6 +8255,7 @@
   <url><loc>https://uslist.info/new-jersey/wayne/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/wayne/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-jersey/wayne/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/wayne/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/wayne/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/wayne/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-jersey/wayne/shopping/books-music</loc></url>
@@ -8225,7 +8296,7 @@
   <url><loc>https://uslist.info/new-jersey/weehawken/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/weehawken/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/weehawken/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/weehawken/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/weehawken/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/weehawken/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/weehawken/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/weehawken/shopping/furniture-home</loc></url>
@@ -8258,10 +8329,10 @@
   <url><loc>https://uslist.info/new-jersey/west-caldwell/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-caldwell/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-caldwell/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/west-caldwell/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-caldwell/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-caldwell/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-caldwell/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/west-caldwell/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-caldwell/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-caldwell/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-caldwell/shopping/furniture-home</loc></url>
@@ -8286,7 +8357,7 @@
   <url><loc>https://uslist.info/new-jersey/west-deptford-township/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-deptford-township/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-deptford-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/west-deptford-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/west-deptford-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-deptford-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-deptford-township/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-deptford-township/travel-leisure</loc></url>
@@ -8305,8 +8376,8 @@
   <url><loc>https://uslist.info/new-jersey/west-milford/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-milford/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-milford/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/west-milford/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-milford/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/west-milford/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-milford/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-milford/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-milford/shopping/electronics</loc></url>
@@ -8386,10 +8457,10 @@
   <url><loc>https://uslist.info/new-jersey/west-windsor/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-windsor/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-windsor/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/west-windsor/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-windsor/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-windsor/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-windsor/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/new-jersey/west-windsor/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-windsor/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-windsor/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-jersey/west-windsor/shopping/department-stores</loc></url>
@@ -8423,9 +8494,10 @@
   <url><loc>https://uslist.info/new-jersey/westfield/home-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/westfield/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-jersey/westfield/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/westfield/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/new-jersey/westfield/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/westfield/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/new-jersey/westfield/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/westfield/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/westfield/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/westfield/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/westfield/shopping/clothing</loc></url>
@@ -8516,8 +8588,8 @@
   <url><loc>https://uslist.info/new-jersey/willingboro-township/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/willingboro-township/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/willingboro-township/professional</loc></url>
-  <url><loc>https://uslist.info/new-jersey/willingboro-township/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/willingboro-township/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/new-jersey/willingboro-township/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-jersey/willingboro-township/shopping</loc></url>
   <url><loc>https://uslist.info/new-jersey/willingboro-township/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/new-jersey/willingboro-township/shopping/cannabis-vape</loc></url>
@@ -8573,6 +8645,7 @@
   <url><loc>https://uslist.info/new-jersey/woodbridge-township/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-jersey/woodbridge-township/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-jersey/woodbridge-township/professional</loc></url>
+  <url><loc>https://uslist.info/new-jersey/woodbridge-township/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-jersey/woodbridge-township/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-jersey/woodbridge-township/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-jersey/woodbridge-township/professional/printing-signs</loc></url>

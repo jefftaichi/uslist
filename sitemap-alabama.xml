@@ -141,6 +141,7 @@
   <url><loc>https://uslist.info/alabama/anniston/home-services</loc></url>
   <url><loc>https://uslist.info/alabama/anniston/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/alabama/anniston/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/anniston/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/anniston/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/anniston/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/alabama/anniston/professional/other-services</loc></url>
@@ -192,10 +193,11 @@
   <url><loc>https://uslist.info/alabama/athens/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/alabama/athens/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/alabama/athens/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/athens/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/athens/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/athens/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/athens/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/athens/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/athens/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/athens/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/athens/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/athens/shopping/books-music</loc></url>
@@ -250,12 +252,13 @@
   <url><loc>https://uslist.info/alabama/auburn/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/alabama/auburn/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/alabama/auburn/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/auburn/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/auburn/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/auburn/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/auburn/professional/it-services</loc></url>
   <url><loc>https://uslist.info/alabama/auburn/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/auburn/professional/photography</loc></url>
   <url><loc>https://uslist.info/alabama/auburn/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/auburn/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/auburn/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/auburn/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/auburn/shopping/bikes</loc></url>
@@ -346,7 +349,7 @@
   <url><loc>https://uslist.info/alabama/birmingham/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/alabama/birmingham/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/birmingham/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/birmingham/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/birmingham/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/birmingham/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/birmingham/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/birmingham/professional/marketing-agencies</loc></url>
@@ -354,6 +357,7 @@
   <url><loc>https://uslist.info/alabama/birmingham/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/birmingham/professional/photography</loc></url>
   <url><loc>https://uslist.info/alabama/birmingham/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/birmingham/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/birmingham/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/birmingham/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/birmingham/shopping/bikes</loc></url>
@@ -417,9 +421,9 @@
   <url><loc>https://uslist.info/alabama/calera/health/doctors</loc></url>
   <url><loc>https://uslist.info/alabama/calera/health/optometrists</loc></url>
   <url><loc>https://uslist.info/alabama/calera/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/calera/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/alabama/calera/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/calera/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/alabama/calera/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/calera/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/calera/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/alabama/calera/shopping/electronics</loc></url>
@@ -489,6 +493,7 @@
   <url><loc>https://uslist.info/alabama/chelsea/health/optometrists</loc></url>
   <url><loc>https://uslist.info/alabama/chelsea/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/alabama/chelsea/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/chelsea/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/chelsea/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/chelsea/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/chelsea/shopping/clothing</loc></url>
@@ -526,6 +531,7 @@
   <url><loc>https://uslist.info/alabama/cullman/health/hospitals</loc></url>
   <url><loc>https://uslist.info/alabama/cullman/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/alabama/cullman/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/cullman/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/cullman/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/cullman/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/alabama/cullman/professional/other-services</loc></url>
@@ -610,6 +616,7 @@
   <url><loc>https://uslist.info/alabama/decatur/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/decatur/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/alabama/decatur/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/decatur/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/decatur/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/decatur/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/alabama/decatur/professional/other-services</loc></url>
@@ -671,7 +678,7 @@
   <url><loc>https://uslist.info/alabama/dothan/home-services/painters</loc></url>
   <url><loc>https://uslist.info/alabama/dothan/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/alabama/dothan/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/dothan/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/dothan/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/dothan/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/dothan/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/dothan/professional/it-services</loc></url>
@@ -679,6 +686,7 @@
   <url><loc>https://uslist.info/alabama/dothan/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/dothan/professional/photography</loc></url>
   <url><loc>https://uslist.info/alabama/dothan/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/dothan/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/dothan/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/dothan/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/dothan/shopping/bikes</loc></url>
@@ -892,7 +900,7 @@
   <url><loc>https://uslist.info/alabama/florence/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/alabama/florence/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/alabama/florence/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/florence/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/florence/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/florence/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/florence/professional/employment</loc></url>
   <url><loc>https://uslist.info/alabama/florence/professional/funeral-services</loc></url>
@@ -901,6 +909,7 @@
   <url><loc>https://uslist.info/alabama/florence/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/florence/professional/photography</loc></url>
   <url><loc>https://uslist.info/alabama/florence/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/florence/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/florence/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/florence/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/florence/shopping/bikes</loc></url>
@@ -956,11 +965,11 @@
   <url><loc>https://uslist.info/alabama/foley/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/alabama/foley/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/foley/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/foley/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/alabama/foley/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/foley/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/foley/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/foley/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/foley/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/foley/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/foley/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/foley/shopping/bikes</loc></url>
@@ -1063,6 +1072,7 @@
   <url><loc>https://uslist.info/alabama/gadsden/health/hospitals</loc></url>
   <url><loc>https://uslist.info/alabama/gadsden/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/alabama/gadsden/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/gadsden/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/gadsden/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/gadsden/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/gadsden/shopping/cannabis-vape</loc></url>
@@ -1107,10 +1117,10 @@
   <url><loc>https://uslist.info/alabama/gardendale/home-services</loc></url>
   <url><loc>https://uslist.info/alabama/gardendale/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/gardendale/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/gardendale/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/alabama/gardendale/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/gardendale/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/gardendale/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/gardendale/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/gardendale/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/gardendale/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/gardendale/shopping/clothing</loc></url>
@@ -1162,11 +1172,12 @@
   <url><loc>https://uslist.info/alabama/gulf-shores/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/gulf-shores/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/alabama/gulf-shores/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/gulf-shores/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/gulf-shores/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/gulf-shores/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/gulf-shores/professional/it-services</loc></url>
   <url><loc>https://uslist.info/alabama/gulf-shores/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/gulf-shores/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/gulf-shores/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/gulf-shores/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/gulf-shores/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/gulf-shores/shopping/bikes</loc></url>
@@ -1267,10 +1278,10 @@
   <url><loc>https://uslist.info/alabama/homewood/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/alabama/homewood/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/alabama/homewood/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/homewood/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/alabama/homewood/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/homewood/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/homewood/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/homewood/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/homewood/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/homewood/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/homewood/shopping/bikes</loc></url>
@@ -1328,12 +1339,13 @@
   <url><loc>https://uslist.info/alabama/hoover/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/alabama/hoover/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/alabama/hoover/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/hoover/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/hoover/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/hoover/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/hoover/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/hoover/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/alabama/hoover/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/hoover/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/hoover/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/hoover/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/hoover/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/alabama/hoover/shopping/clothing</loc></url>
@@ -1420,7 +1432,7 @@
   <url><loc>https://uslist.info/alabama/huntsville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/alabama/huntsville/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/alabama/huntsville/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/huntsville/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/huntsville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/huntsville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/huntsville/professional/employment</loc></url>
   <url><loc>https://uslist.info/alabama/huntsville/professional/funeral-services</loc></url>
@@ -1429,6 +1441,7 @@
   <url><loc>https://uslist.info/alabama/huntsville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/huntsville/professional/photography</loc></url>
   <url><loc>https://uslist.info/alabama/huntsville/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/huntsville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/huntsville/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/huntsville/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/huntsville/shopping/bikes</loc></url>
@@ -1517,6 +1530,7 @@
   <url><loc>https://uslist.info/alabama/jacksonville/home-services</loc></url>
   <url><loc>https://uslist.info/alabama/jacksonville/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/alabama/jacksonville/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/jacksonville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/jacksonville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/jacksonville/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/jacksonville/shopping/books-music</loc></url>
@@ -1545,6 +1559,7 @@
   <url><loc>https://uslist.info/alabama/jasper/health/hospitals</loc></url>
   <url><loc>https://uslist.info/alabama/jasper/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/alabama/jasper/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/jasper/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/jasper/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/jasper/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/jasper/shopping/cannabis-vape</loc></url>
@@ -1616,11 +1631,12 @@
   <url><loc>https://uslist.info/alabama/madison/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/alabama/madison/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/alabama/madison/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/madison/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/madison/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/madison/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/madison/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/madison/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/madison/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/madison/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/madison/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/madison/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/madison/shopping/bikes</loc></url>
@@ -1745,12 +1761,13 @@
   <url><loc>https://uslist.info/alabama/mobile/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/mobile/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/alabama/mobile/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/mobile/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/mobile/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/mobile/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/mobile/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/mobile/professional/it-services</loc></url>
   <url><loc>https://uslist.info/alabama/mobile/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/mobile/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/mobile/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/mobile/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/mobile/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/mobile/shopping/bikes</loc></url>
@@ -1803,12 +1820,13 @@
   <url><loc>https://uslist.info/alabama/montgomery/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/alabama/montgomery/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/alabama/montgomery/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/montgomery/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/montgomery/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/montgomery/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/montgomery/professional/it-services</loc></url>
   <url><loc>https://uslist.info/alabama/montgomery/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/alabama/montgomery/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/montgomery/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/montgomery/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/montgomery/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/montgomery/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/alabama/montgomery/shopping/books-music</loc></url>
@@ -1876,8 +1894,8 @@
   <url><loc>https://uslist.info/alabama/mountain-brook/home-services</loc></url>
   <url><loc>https://uslist.info/alabama/mountain-brook/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/alabama/mountain-brook/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/mountain-brook/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/alabama/mountain-brook/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/alabama/mountain-brook/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/mountain-brook/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/mountain-brook/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/alabama/mountain-brook/shopping/cannabis-vape</loc></url>
@@ -1916,6 +1934,7 @@
   <url><loc>https://uslist.info/alabama/muscle-shoals/home-services</loc></url>
   <url><loc>https://uslist.info/alabama/muscle-shoals/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/muscle-shoals/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/muscle-shoals/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/muscle-shoals/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/muscle-shoals/professional/photography</loc></url>
   <url><loc>https://uslist.info/alabama/muscle-shoals/shopping</loc></url>
@@ -1957,11 +1976,12 @@
   <url><loc>https://uslist.info/alabama/northport/health/hospitals</loc></url>
   <url><loc>https://uslist.info/alabama/northport/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/alabama/northport/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/northport/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/northport/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/northport/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/northport/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/northport/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/northport/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/northport/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/northport/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/northport/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/alabama/northport/shopping/department-stores</loc></url>
@@ -2011,7 +2031,7 @@
   <url><loc>https://uslist.info/alabama/opelika/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/opelika/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/alabama/opelika/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/opelika/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/opelika/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/opelika/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/opelika/professional/employment</loc></url>
   <url><loc>https://uslist.info/alabama/opelika/professional/funeral-services</loc></url>
@@ -2020,6 +2040,7 @@
   <url><loc>https://uslist.info/alabama/opelika/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/alabama/opelika/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/opelika/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/opelika/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/opelika/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/opelika/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/alabama/opelika/shopping/cannabis-vape</loc></url>
@@ -2090,9 +2111,10 @@
   <url><loc>https://uslist.info/alabama/ozark/home-services</loc></url>
   <url><loc>https://uslist.info/alabama/ozark/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/alabama/ozark/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/ozark/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/ozark/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/ozark/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/alabama/ozark/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/alabama/ozark/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/ozark/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/ozark/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/alabama/ozark/shopping/hardware-garden</loc></url>
@@ -2168,6 +2190,7 @@
   <url><loc>https://uslist.info/alabama/pell-city/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/alabama/pell-city/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/alabama/pell-city/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/pell-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/pell-city/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/pell-city/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/alabama/pell-city/professional/other-services</loc></url>
@@ -2217,11 +2240,11 @@
   <url><loc>https://uslist.info/alabama/phenix-city/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/alabama/phenix-city/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/phenix-city/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/phenix-city/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/alabama/phenix-city/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/phenix-city/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/phenix-city/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/phenix-city/professional/photography</loc></url>
+  <url><loc>https://uslist.info/alabama/phenix-city/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/phenix-city/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/phenix-city/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/alabama/phenix-city/shopping/clothing</loc></url>
@@ -2254,6 +2277,7 @@
   <url><loc>https://uslist.info/alabama/prattville/home-services</loc></url>
   <url><loc>https://uslist.info/alabama/prattville/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/alabama/prattville/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/prattville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/prattville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/prattville/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/prattville/shopping/department-stores</loc></url>
@@ -2284,10 +2308,10 @@
   <url><loc>https://uslist.info/alabama/prichard/home-services</loc></url>
   <url><loc>https://uslist.info/alabama/prichard/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/prichard/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/prichard/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/alabama/prichard/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/prichard/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/prichard/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/prichard/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/prichard/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/prichard/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/alabama/prichard/shopping/department-stores</loc></url>
@@ -2399,6 +2423,7 @@
   <url><loc>https://uslist.info/alabama/scottsboro/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/alabama/scottsboro/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/scottsboro/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/scottsboro/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/scottsboro/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/scottsboro/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/scottsboro/professional/other-services</loc></url>
@@ -2436,9 +2461,9 @@
   <url><loc>https://uslist.info/alabama/selma/home-services</loc></url>
   <url><loc>https://uslist.info/alabama/selma/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/selma/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/selma/professional/childcare-education</loc></url>
   <url><loc>https://uslist.info/alabama/selma/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/alabama/selma/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/alabama/selma/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/selma/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/selma/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/alabama/selma/shopping/department-stores</loc></url>
@@ -2615,6 +2640,7 @@
   <url><loc>https://uslist.info/alabama/trussville/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/alabama/trussville/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/trussville/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/trussville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/trussville/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/alabama/trussville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/trussville/professional/printing-signs</loc></url>
@@ -2671,10 +2697,11 @@
   <url><loc>https://uslist.info/alabama/tuscaloosa/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/alabama/tuscaloosa/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/alabama/tuscaloosa/professional</loc></url>
-  <url><loc>https://uslist.info/alabama/tuscaloosa/professional/childcare-education</loc></url>
+  <url><loc>https://uslist.info/alabama/tuscaloosa/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/tuscaloosa/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alabama/tuscaloosa/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/tuscaloosa/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/alabama/tuscaloosa/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/alabama/tuscaloosa/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/tuscaloosa/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/alabama/tuscaloosa/shopping/bikes</loc></url>
@@ -2710,6 +2737,7 @@
   <url><loc>https://uslist.info/alabama/valley/health/doctors</loc></url>
   <url><loc>https://uslist.info/alabama/valley/health/hospitals</loc></url>
   <url><loc>https://uslist.info/alabama/valley/professional</loc></url>
+  <url><loc>https://uslist.info/alabama/valley/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/alabama/valley/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alabama/valley/shopping</loc></url>
   <url><loc>https://uslist.info/alabama/valley/shopping/clothing</loc></url>
