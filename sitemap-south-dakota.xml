@@ -34,13 +34,13 @@
   <url><loc>https://uslist.info/south-dakota/aberdeen/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/home-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/south-dakota/aberdeen/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/professional</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/professional/coworking</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/professional/it-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/professional/marketing-agencies</loc></url>
-  <url><loc>https://uslist.info/south-dakota/aberdeen/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/shopping/art-craft-supplies</loc></url>
@@ -50,6 +50,7 @@
   <url><loc>https://uslist.info/south-dakota/aberdeen/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-dakota/aberdeen/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-dakota/aberdeen/shopping/sporting-goods</loc></url>
@@ -96,6 +97,7 @@
   <url><loc>https://uslist.info/south-dakota/brandon/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/south-dakota/brandon/shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/brandon/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/south-dakota/brandon/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/brandon/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-dakota/brandon/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings</loc></url>
@@ -132,6 +134,7 @@
   <url><loc>https://uslist.info/south-dakota/brookings/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/home-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/south-dakota/brookings/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/home-services/plumbers</loc></url>
@@ -153,6 +156,7 @@
   <url><loc>https://uslist.info/south-dakota/brookings/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-dakota/brookings/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/shopping/thrift-antiques</loc></url>
@@ -173,10 +177,9 @@
   <url><loc>https://uslist.info/south-dakota/huron/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/south-dakota/huron/health</loc></url>
   <url><loc>https://uslist.info/south-dakota/huron/health/hospitals</loc></url>
-  <url><loc>https://uslist.info/south-dakota/huron/professional</loc></url>
-  <url><loc>https://uslist.info/south-dakota/huron/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/huron/shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/huron/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/south-dakota/huron/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/huron/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-dakota/huron/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/south-dakota/huron/travel-leisure/hotels</loc></url>
@@ -207,6 +210,8 @@
   <url><loc>https://uslist.info/south-dakota/mitchell/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-dakota/mitchell/home-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/mitchell/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/south-dakota/mitchell/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/south-dakota/mitchell/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/mitchell/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/south-dakota/mitchell/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-dakota/mitchell/professional</loc></url>
@@ -256,7 +261,6 @@
   <url><loc>https://uslist.info/south-dakota/pierre/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-dakota/pierre/professional</loc></url>
   <url><loc>https://uslist.info/south-dakota/pierre/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/south-dakota/pierre/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/pierre/shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/pierre/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/south-dakota/pierre/shopping/furniture-home</loc></url>
@@ -294,6 +298,7 @@
   <url><loc>https://uslist.info/south-dakota/rapid-city/health/doctors</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/health/hospitals</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/south-dakota/rapid-city/health/other-health</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/home-services</loc></url>
@@ -301,6 +306,7 @@
   <url><loc>https://uslist.info/south-dakota/rapid-city/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-dakota/rapid-city/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/home-services/roofers</loc></url>
@@ -326,6 +332,7 @@
   <url><loc>https://uslist.info/south-dakota/rapid-city/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-dakota/rapid-city/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/shopping/sporting-goods</loc></url>
@@ -365,6 +372,7 @@
   <url><loc>https://uslist.info/south-dakota/sioux-falls/health/doctors</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/health/hospitals</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/south-dakota/sioux-falls/health/other-health</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/home-services</loc></url>
@@ -372,6 +380,8 @@
   <url><loc>https://uslist.info/south-dakota/sioux-falls/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-dakota/sioux-falls/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/south-dakota/sioux-falls/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/professional</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/professional/coworking</loc></url>
@@ -396,6 +406,7 @@
   <url><loc>https://uslist.info/south-dakota/sioux-falls/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-dakota/sioux-falls/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-dakota/sioux-falls/shopping/sporting-goods</loc></url>
@@ -438,8 +449,10 @@
   <url><loc>https://uslist.info/south-dakota/spearfish/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/home-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/south-dakota/spearfish/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-dakota/spearfish/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/professional</loc></url>
@@ -461,6 +474,7 @@
   <url><loc>https://uslist.info/south-dakota/spearfish/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-dakota/spearfish/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/shopping/sporting-goods</loc></url>
@@ -492,6 +506,7 @@
   <url><loc>https://uslist.info/south-dakota/vermillion/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/south-dakota/vermillion/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/health</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/health/dentists</loc></url>
@@ -503,6 +518,7 @@
   <url><loc>https://uslist.info/south-dakota/vermillion/home-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/south-dakota/vermillion/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/professional</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/professional/civic-government</loc></url>
@@ -554,7 +570,6 @@
   <url><loc>https://uslist.info/south-dakota/watertown/professional</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/south-dakota/watertown/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/shopping/books-music</loc></url>
@@ -564,6 +579,7 @@
   <url><loc>https://uslist.info/south-dakota/watertown/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-dakota/watertown/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/travel-leisure</loc></url>
@@ -592,6 +608,9 @@
   <url><loc>https://uslist.info/south-dakota/yankton/health/doctors</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/health/hospitals</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/south-dakota/yankton/home-services</loc></url>
+  <url><loc>https://uslist.info/south-dakota/yankton/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/south-dakota/yankton/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/professional</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/professional/other-services</loc></url>
@@ -599,9 +618,12 @@
   <url><loc>https://uslist.info/south-dakota/yankton/shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/south-dakota/yankton/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/south-dakota/yankton/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-dakota/yankton/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/south-dakota/yankton/travel-leisure</loc></url>

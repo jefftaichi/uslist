@@ -26,6 +26,7 @@
   <url><loc>https://uslist.info/north-dakota/bismarck/health/dentists</loc></url>
   <url><loc>https://uslist.info/north-dakota/bismarck/health/doctors</loc></url>
   <url><loc>https://uslist.info/north-dakota/bismarck/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/north-dakota/bismarck/health/other-health</loc></url>
   <url><loc>https://uslist.info/north-dakota/bismarck/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/north-dakota/bismarck/home-services</loc></url>
   <url><loc>https://uslist.info/north-dakota/bismarck/home-services/movers-storage</loc></url>
@@ -45,6 +46,7 @@
   <url><loc>https://uslist.info/north-dakota/bismarck/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/north-dakota/bismarck/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/north-dakota/bismarck/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/north-dakota/bismarck/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/north-dakota/bismarck/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/north-dakota/bismarck/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/north-dakota/bismarck/shopping/sporting-goods</loc></url>
@@ -82,11 +84,14 @@
   <url><loc>https://uslist.info/north-dakota/dickinson/health/doctors</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/health/hospitals</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/north-dakota/dickinson/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/home-services</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/north-dakota/dickinson/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/north-dakota/dickinson/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/professional</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/professional/coworking</loc></url>
@@ -106,6 +111,7 @@
   <url><loc>https://uslist.info/north-dakota/dickinson/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/north-dakota/dickinson/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/north-dakota/dickinson/travel-leisure</loc></url>
@@ -164,6 +170,7 @@
   <url><loc>https://uslist.info/north-dakota/fargo/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/north-dakota/fargo/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/north-dakota/fargo/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/north-dakota/fargo/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/north-dakota/fargo/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/north-dakota/fargo/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/north-dakota/fargo/shopping/thrift-antiques</loc></url>
@@ -201,6 +208,7 @@
   <url><loc>https://uslist.info/north-dakota/grand-forks/home-services</loc></url>
   <url><loc>https://uslist.info/north-dakota/grand-forks/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/north-dakota/grand-forks/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/north-dakota/grand-forks/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/north-dakota/grand-forks/professional</loc></url>
   <url><loc>https://uslist.info/north-dakota/grand-forks/professional/coworking</loc></url>
   <url><loc>https://uslist.info/north-dakota/grand-forks/professional/other-services</loc></url>
@@ -217,6 +225,7 @@
   <url><loc>https://uslist.info/north-dakota/grand-forks/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/north-dakota/grand-forks/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/north-dakota/grand-forks/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/north-dakota/grand-forks/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/north-dakota/grand-forks/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/north-dakota/grand-forks/travel-leisure</loc></url>
   <url><loc>https://uslist.info/north-dakota/grand-forks/travel-leisure/arts-entertainment</loc></url>
@@ -233,8 +242,6 @@
   <url><loc>https://uslist.info/north-dakota/jamestown/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/north-dakota/jamestown/health</loc></url>
   <url><loc>https://uslist.info/north-dakota/jamestown/health/hospitals</loc></url>
-  <url><loc>https://uslist.info/north-dakota/jamestown/professional</loc></url>
-  <url><loc>https://uslist.info/north-dakota/jamestown/professional/other-services</loc></url>
   <url><loc>https://uslist.info/north-dakota/jamestown/shopping</loc></url>
   <url><loc>https://uslist.info/north-dakota/jamestown/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/north-dakota/jamestown/shopping/hardware-garden</loc></url>
@@ -259,6 +266,8 @@
   <url><loc>https://uslist.info/north-dakota/mandan/health</loc></url>
   <url><loc>https://uslist.info/north-dakota/mandan/health/doctors</loc></url>
   <url><loc>https://uslist.info/north-dakota/mandan/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/north-dakota/mandan/home-services</loc></url>
+  <url><loc>https://uslist.info/north-dakota/mandan/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/north-dakota/mandan/professional</loc></url>
   <url><loc>https://uslist.info/north-dakota/mandan/professional/coworking</loc></url>
   <url><loc>https://uslist.info/north-dakota/mandan/professional/funeral-services</loc></url>
@@ -297,6 +306,7 @@
   <url><loc>https://uslist.info/north-dakota/minot/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/north-dakota/minot/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/north-dakota/minot/home-services</loc></url>
+  <url><loc>https://uslist.info/north-dakota/minot/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/north-dakota/minot/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/north-dakota/minot/professional</loc></url>
   <url><loc>https://uslist.info/north-dakota/minot/professional/civic-government</loc></url>
@@ -313,6 +323,7 @@
   <url><loc>https://uslist.info/north-dakota/minot/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/north-dakota/minot/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/north-dakota/minot/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/north-dakota/minot/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/north-dakota/minot/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/north-dakota/minot/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/north-dakota/minot/travel-leisure</loc></url>
@@ -348,6 +359,7 @@
   <url><loc>https://uslist.info/north-dakota/west-fargo/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/north-dakota/west-fargo/home-services</loc></url>
   <url><loc>https://uslist.info/north-dakota/west-fargo/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/north-dakota/west-fargo/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/north-dakota/west-fargo/professional</loc></url>
   <url><loc>https://uslist.info/north-dakota/west-fargo/professional/coworking</loc></url>
   <url><loc>https://uslist.info/north-dakota/west-fargo/professional/nonprofits</loc></url>
@@ -360,6 +372,7 @@
   <url><loc>https://uslist.info/north-dakota/west-fargo/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/north-dakota/west-fargo/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/north-dakota/west-fargo/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/north-dakota/west-fargo/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/north-dakota/west-fargo/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/north-dakota/west-fargo/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/north-dakota/west-fargo/travel-leisure</loc></url>
@@ -383,7 +396,6 @@
   <url><loc>https://uslist.info/north-dakota/williston/professional</loc></url>
   <url><loc>https://uslist.info/north-dakota/williston/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/north-dakota/williston/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/north-dakota/williston/professional/other-services</loc></url>
   <url><loc>https://uslist.info/north-dakota/williston/shopping</loc></url>
   <url><loc>https://uslist.info/north-dakota/williston/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/north-dakota/williston/shopping/furniture-home</loc></url>

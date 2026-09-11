@@ -47,6 +47,8 @@
   <url><loc>https://uslist.info/nevada/boulder-city/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/boulder-city/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/boulder-city/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/boulder-city/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/nevada/boulder-city/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/nevada/boulder-city/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/nevada/boulder-city/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nevada/boulder-city/travel-leisure/arts-entertainment</loc></url>
@@ -81,14 +83,17 @@
   <url><loc>https://uslist.info/nevada/carson-city/health/dentists</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/health/doctors</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/nevada/carson-city/health/other-health</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/home-services</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nevada/carson-city/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/home-services/painters</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/nevada/carson-city/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/professional</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/professional/coworking</loc></url>
@@ -109,6 +114,7 @@
   <url><loc>https://uslist.info/nevada/carson-city/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/carson-city/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nevada/carson-city/shopping/sporting-goods</loc></url>
@@ -182,7 +188,9 @@
   <url><loc>https://uslist.info/nevada/elko/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/nevada/elko/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nevada/elko/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nevada/elko/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/elko/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/nevada/elko/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/nevada/elko/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nevada/elko/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/nevada/elko/travel-leisure/hotels</loc></url>
@@ -225,6 +233,7 @@
   <url><loc>https://uslist.info/nevada/enterprise/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/nevada/enterprise/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/nevada/enterprise/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nevada/enterprise/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nevada/enterprise/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/nevada/enterprise/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nevada/enterprise/professional</loc></url>
@@ -247,6 +256,7 @@
   <url><loc>https://uslist.info/nevada/enterprise/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/enterprise/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/enterprise/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/enterprise/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/enterprise/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/enterprise/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/nevada/enterprise/shopping/thrift-antiques</loc></url>
@@ -277,8 +287,11 @@
   <url><loc>https://uslist.info/nevada/fernley/shopping</loc></url>
   <url><loc>https://uslist.info/nevada/fernley/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/nevada/fernley/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/nevada/fernley/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/fernley/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nevada/fernley/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/fernley/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/nevada/fernley/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/nevada/fernley/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/nevada/fernley/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nevada/fernley/travel-leisure/hotels</loc></url>
@@ -304,10 +317,10 @@
   <url><loc>https://uslist.info/nevada/gardnerville-ranchos/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/nevada/gardnerville-ranchos/professional</loc></url>
   <url><loc>https://uslist.info/nevada/gardnerville-ranchos/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/nevada/gardnerville-ranchos/professional/other-services</loc></url>
   <url><loc>https://uslist.info/nevada/gardnerville-ranchos/shopping</loc></url>
   <url><loc>https://uslist.info/nevada/gardnerville-ranchos/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/nevada/gardnerville-ranchos/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nevada/gardnerville-ranchos/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/gardnerville-ranchos/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/nevada/gardnerville-ranchos/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/nevada/gardnerville-ranchos/travel-leisure</loc></url>
@@ -350,6 +363,7 @@
   <url><loc>https://uslist.info/nevada/henderson/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/nevada/henderson/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/nevada/henderson/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nevada/henderson/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nevada/henderson/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/nevada/henderson/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nevada/henderson/professional</loc></url>
@@ -371,6 +385,7 @@
   <url><loc>https://uslist.info/nevada/henderson/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nevada/henderson/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/henderson/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nevada/henderson/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/henderson/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/henderson/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nevada/henderson/shopping/sporting-goods</loc></url>
@@ -418,6 +433,7 @@
   <url><loc>https://uslist.info/nevada/las-vegas/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/nevada/las-vegas/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/nevada/las-vegas/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nevada/las-vegas/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nevada/las-vegas/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nevada/las-vegas/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/nevada/las-vegas/professional</loc></url>
@@ -442,6 +458,7 @@
   <url><loc>https://uslist.info/nevada/las-vegas/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/las-vegas/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/las-vegas/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/las-vegas/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/las-vegas/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/las-vegas/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nevada/las-vegas/shopping/sporting-goods</loc></url>
@@ -495,6 +512,7 @@
   <url><loc>https://uslist.info/nevada/mesquite/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nevada/mesquite/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/mesquite/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nevada/mesquite/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/mesquite/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/nevada/mesquite/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nevada/mesquite/travel-leisure/arts-entertainment</loc></url>
@@ -534,7 +552,9 @@
   <url><loc>https://uslist.info/nevada/north-las-vegas/home-services</loc></url>
   <url><loc>https://uslist.info/nevada/north-las-vegas/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/nevada/north-las-vegas/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nevada/north-las-vegas/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nevada/north-las-vegas/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/nevada/north-las-vegas/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nevada/north-las-vegas/professional</loc></url>
   <url><loc>https://uslist.info/nevada/north-las-vegas/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/nevada/north-las-vegas/professional/coworking</loc></url>
@@ -552,6 +572,7 @@
   <url><loc>https://uslist.info/nevada/north-las-vegas/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nevada/north-las-vegas/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/north-las-vegas/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nevada/north-las-vegas/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/north-las-vegas/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/north-las-vegas/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nevada/north-las-vegas/shopping/sporting-goods</loc></url>
@@ -574,6 +595,7 @@
   <url><loc>https://uslist.info/nevada/pahrump/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/nevada/pahrump/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/health</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/health/doctors</loc></url>
@@ -583,11 +605,13 @@
   <url><loc>https://uslist.info/nevada/pahrump/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/professional</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/nevada/pahrump/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/nevada/pahrump/professional/coworking</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/shopping</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nevada/pahrump/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/nevada/pahrump/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/nevada/pahrump/travel-leisure/hotels</loc></url>
@@ -629,6 +653,7 @@
   <url><loc>https://uslist.info/nevada/paradise/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/nevada/paradise/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/nevada/paradise/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nevada/paradise/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nevada/paradise/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nevada/paradise/professional</loc></url>
   <url><loc>https://uslist.info/nevada/paradise/professional/coworking</loc></url>
@@ -649,6 +674,7 @@
   <url><loc>https://uslist.info/nevada/paradise/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/paradise/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/paradise/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/paradise/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/paradise/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/paradise/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nevada/paradise/shopping/sporting-goods</loc></url>
@@ -690,6 +716,7 @@
   <url><loc>https://uslist.info/nevada/reno/health/doctors</loc></url>
   <url><loc>https://uslist.info/nevada/reno/health/hospitals</loc></url>
   <url><loc>https://uslist.info/nevada/reno/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/nevada/reno/health/other-health</loc></url>
   <url><loc>https://uslist.info/nevada/reno/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/nevada/reno/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/nevada/reno/home-services</loc></url>
@@ -697,6 +724,7 @@
   <url><loc>https://uslist.info/nevada/reno/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/nevada/reno/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/nevada/reno/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nevada/reno/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nevada/reno/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/nevada/reno/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nevada/reno/home-services/roofers</loc></url>
@@ -722,6 +750,7 @@
   <url><loc>https://uslist.info/nevada/reno/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/reno/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/reno/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/reno/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/reno/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/reno/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nevada/reno/shopping/sporting-goods</loc></url>
@@ -804,6 +833,7 @@
   <url><loc>https://uslist.info/nevada/sparks/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/sparks/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/sparks/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/sparks/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/sparks/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/sparks/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/nevada/sparks/travel-leisure</loc></url>
@@ -848,12 +878,15 @@
   <url><loc>https://uslist.info/nevada/spring-valley/health/dentists</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/health/doctors</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/nevada/spring-valley/health/other-health</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/home-services</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/nevada/spring-valley/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nevada/spring-valley/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/professional</loc></url>
@@ -878,6 +911,7 @@
   <url><loc>https://uslist.info/nevada/spring-valley/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/spring-valley/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/nevada/spring-valley/shopping/thrift-antiques</loc></url>
@@ -920,11 +954,14 @@
   <url><loc>https://uslist.info/nevada/summerlin-south/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/home-services</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/nevada/summerlin-south/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nevada/summerlin-south/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/professional</loc></url>
+  <url><loc>https://uslist.info/nevada/summerlin-south/professional/coworking</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/professional/employment</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/professional/marketing-agencies</loc></url>
@@ -943,6 +980,7 @@
   <url><loc>https://uslist.info/nevada/summerlin-south/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/summerlin-south/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nevada/summerlin-south/shopping/sporting-goods</loc></url>
@@ -986,8 +1024,10 @@
   <url><loc>https://uslist.info/nevada/sun-valley/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nevada/sun-valley/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/professional</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/nevada/sun-valley/professional/coworking</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/professional/other-services</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/professional/schools-education</loc></url>
@@ -1002,6 +1042,7 @@
   <url><loc>https://uslist.info/nevada/sun-valley/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/sun-valley/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/nevada/sun-valley/shopping/thrift-antiques</loc></url>
@@ -1038,11 +1079,11 @@
   <url><loc>https://uslist.info/nevada/sunrise-manor/home-services</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/nevada/sunrise-manor/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/professional</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/professional/coworking</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/professional/employment</loc></url>
-  <url><loc>https://uslist.info/nevada/sunrise-manor/professional/other-services</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/shopping</loc></url>
@@ -1052,6 +1093,7 @@
   <url><loc>https://uslist.info/nevada/sunrise-manor/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nevada/sunrise-manor/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nevada/sunrise-manor/travel-leisure/arts-entertainment</loc></url>
@@ -1089,10 +1131,12 @@
   <url><loc>https://uslist.info/nevada/whitney/health/doctors</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/health/hospitals</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/nevada/whitney/health/other-health</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/home-services</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/nevada/whitney/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/home-services/plumbers</loc></url>
@@ -1118,6 +1162,7 @@
   <url><loc>https://uslist.info/nevada/whitney/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/whitney/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nevada/whitney/shopping/sporting-goods</loc></url>
@@ -1180,8 +1225,10 @@
   <url><loc>https://uslist.info/nevada/winchester/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nevada/winchester/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nevada/winchester/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nevada/winchester/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nevada/winchester/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nevada/winchester/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/nevada/winchester/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/nevada/winchester/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nevada/winchester/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/nevada/winchester/travel-leisure/hotels</loc></url>

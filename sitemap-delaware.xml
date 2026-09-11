@@ -49,6 +49,7 @@
   <url><loc>https://uslist.info/delaware/bear/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/delaware/bear/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/delaware/bear/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/delaware/bear/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/delaware/bear/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/delaware/bear/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/delaware/bear/shopping/sporting-goods</loc></url>
@@ -89,6 +90,7 @@
   <url><loc>https://uslist.info/delaware/brookside/home-services</loc></url>
   <url><loc>https://uslist.info/delaware/brookside/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/delaware/brookside/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/delaware/brookside/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/delaware/brookside/professional</loc></url>
   <url><loc>https://uslist.info/delaware/brookside/professional/coworking</loc></url>
   <url><loc>https://uslist.info/delaware/brookside/professional/other-services</loc></url>
@@ -101,6 +103,7 @@
   <url><loc>https://uslist.info/delaware/brookside/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/delaware/brookside/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/delaware/brookside/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/delaware/brookside/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/delaware/brookside/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/delaware/brookside/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/delaware/brookside/shopping/thrift-antiques</loc></url>
@@ -133,13 +136,15 @@
   <url><loc>https://uslist.info/delaware/dover/health/hospitals</loc></url>
   <url><loc>https://uslist.info/delaware/dover/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/delaware/dover/home-services</loc></url>
+  <url><loc>https://uslist.info/delaware/dover/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/delaware/dover/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/delaware/dover/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/delaware/dover/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/delaware/dover/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/delaware/dover/professional</loc></url>
   <url><loc>https://uslist.info/delaware/dover/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/delaware/dover/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/delaware/dover/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/delaware/dover/professional/other-services</loc></url>
   <url><loc>https://uslist.info/delaware/dover/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/delaware/dover/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/delaware/dover/shopping</loc></url>
@@ -151,6 +156,7 @@
   <url><loc>https://uslist.info/delaware/dover/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/delaware/dover/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/delaware/dover/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/delaware/dover/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/delaware/dover/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/delaware/dover/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/delaware/dover/shopping/thrift-antiques</loc></url>
@@ -192,7 +198,6 @@
   <url><loc>https://uslist.info/delaware/hockessin/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/delaware/hockessin/professional</loc></url>
   <url><loc>https://uslist.info/delaware/hockessin/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/delaware/hockessin/professional/other-services</loc></url>
   <url><loc>https://uslist.info/delaware/hockessin/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/delaware/hockessin/shopping</loc></url>
   <url><loc>https://uslist.info/delaware/hockessin/shopping/bikes</loc></url>
@@ -204,6 +209,7 @@
   <url><loc>https://uslist.info/delaware/hockessin/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/delaware/hockessin/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/delaware/hockessin/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/delaware/hockessin/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/delaware/hockessin/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/delaware/hockessin/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/delaware/hockessin/travel-leisure</loc></url>
@@ -240,9 +246,10 @@
   <url><loc>https://uslist.info/delaware/middletown/home-services</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/delaware/middletown/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/delaware/middletown/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/professional</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/delaware/middletown/professional/other-services</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/shopping</loc></url>
@@ -254,6 +261,7 @@
   <url><loc>https://uslist.info/delaware/middletown/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/delaware/middletown/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/delaware/middletown/travel-leisure</loc></url>
@@ -288,6 +296,7 @@
   <url><loc>https://uslist.info/delaware/milford/health/doctors</loc></url>
   <url><loc>https://uslist.info/delaware/milford/health/hospitals</loc></url>
   <url><loc>https://uslist.info/delaware/milford/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/delaware/milford/health/other-health</loc></url>
   <url><loc>https://uslist.info/delaware/milford/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/delaware/milford/home-services</loc></url>
   <url><loc>https://uslist.info/delaware/milford/home-services/cleaning-laundry</loc></url>
@@ -299,7 +308,6 @@
   <url><loc>https://uslist.info/delaware/milford/professional/coworking</loc></url>
   <url><loc>https://uslist.info/delaware/milford/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/delaware/milford/professional/it-services</loc></url>
-  <url><loc>https://uslist.info/delaware/milford/professional/other-services</loc></url>
   <url><loc>https://uslist.info/delaware/milford/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/delaware/milford/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/delaware/milford/shopping</loc></url>
@@ -312,6 +320,7 @@
   <url><loc>https://uslist.info/delaware/milford/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/delaware/milford/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/delaware/milford/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/delaware/milford/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/delaware/milford/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/delaware/milford/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/delaware/milford/travel-leisure</loc></url>
@@ -345,11 +354,14 @@
   <url><loc>https://uslist.info/delaware/newark/health</loc></url>
   <url><loc>https://uslist.info/delaware/newark/health/doctors</loc></url>
   <url><loc>https://uslist.info/delaware/newark/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/delaware/newark/health/other-health</loc></url>
   <url><loc>https://uslist.info/delaware/newark/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/delaware/newark/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/delaware/newark/home-services</loc></url>
   <url><loc>https://uslist.info/delaware/newark/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/delaware/newark/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/delaware/newark/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/delaware/newark/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/delaware/newark/professional</loc></url>
   <url><loc>https://uslist.info/delaware/newark/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/delaware/newark/professional/funeral-services</loc></url>
@@ -369,6 +381,7 @@
   <url><loc>https://uslist.info/delaware/newark/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/delaware/newark/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/delaware/newark/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/delaware/newark/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/delaware/newark/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/delaware/newark/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/delaware/newark/shopping/thrift-antiques</loc></url>
@@ -400,7 +413,6 @@
   <url><loc>https://uslist.info/delaware/smyrna/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/delaware/smyrna/professional</loc></url>
   <url><loc>https://uslist.info/delaware/smyrna/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/delaware/smyrna/professional/other-services</loc></url>
   <url><loc>https://uslist.info/delaware/smyrna/shopping</loc></url>
   <url><loc>https://uslist.info/delaware/smyrna/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/delaware/smyrna/shopping/department-stores</loc></url>
@@ -438,6 +450,7 @@
   <url><loc>https://uslist.info/delaware/wilmington/health/doctors</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/health/hospitals</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/delaware/wilmington/health/other-health</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/home-services</loc></url>
@@ -446,6 +459,7 @@
   <url><loc>https://uslist.info/delaware/wilmington/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/delaware/wilmington/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/professional</loc></url>
@@ -470,6 +484,7 @@
   <url><loc>https://uslist.info/delaware/wilmington/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/delaware/wilmington/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/delaware/wilmington/shopping/sporting-goods</loc></url>

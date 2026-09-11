@@ -46,6 +46,8 @@
   <url><loc>https://uslist.info/utah/american-fork/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/utah/american-fork/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/utah/american-fork/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/american-fork/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/utah/american-fork/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/american-fork/professional</loc></url>
   <url><loc>https://uslist.info/utah/american-fork/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/utah/american-fork/professional/coworking</loc></url>
@@ -63,6 +65,7 @@
   <url><loc>https://uslist.info/utah/american-fork/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/american-fork/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/american-fork/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/american-fork/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/american-fork/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/american-fork/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/american-fork/shopping/sporting-goods</loc></url>
@@ -86,6 +89,7 @@
   <url><loc>https://uslist.info/utah/bluffdale/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/utah/bluffdale/health</loc></url>
   <url><loc>https://uslist.info/utah/bluffdale/health/dentists</loc></url>
+  <url><loc>https://uslist.info/utah/bluffdale/health/doctors</loc></url>
   <url><loc>https://uslist.info/utah/bluffdale/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/utah/bluffdale/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/bluffdale/home-services</loc></url>
@@ -151,6 +155,7 @@
   <url><loc>https://uslist.info/utah/bountiful/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/bountiful/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/bountiful/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/bountiful/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/bountiful/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/bountiful/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/bountiful/shopping/sporting-goods</loc></url>
@@ -186,10 +191,12 @@
   <url><loc>https://uslist.info/utah/brigham-city/health/hospitals</loc></url>
   <url><loc>https://uslist.info/utah/brigham-city/health/optometrists</loc></url>
   <url><loc>https://uslist.info/utah/brigham-city/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/utah/brigham-city/home-services</loc></url>
+  <url><loc>https://uslist.info/utah/brigham-city/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/utah/brigham-city/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/brigham-city/professional</loc></url>
   <url><loc>https://uslist.info/utah/brigham-city/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/utah/brigham-city/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/utah/brigham-city/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/brigham-city/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/utah/brigham-city/shopping</loc></url>
   <url><loc>https://uslist.info/utah/brigham-city/shopping/cannabis-vape</loc></url>
@@ -233,7 +240,9 @@
   <url><loc>https://uslist.info/utah/cedar-city/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/home-services</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/utah/cedar-city/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/cedar-city/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/professional</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/professional/it-services</loc></url>
@@ -249,8 +258,10 @@
   <url><loc>https://uslist.info/utah/cedar-city/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/utah/cedar-city/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/cedar-city/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/cedar-city/shopping/sporting-goods</loc></url>
@@ -285,7 +296,9 @@
   <url><loc>https://uslist.info/utah/centerville/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/centerville/home-services</loc></url>
   <url><loc>https://uslist.info/utah/centerville/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/utah/centerville/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/centerville/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/centerville/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/centerville/professional</loc></url>
   <url><loc>https://uslist.info/utah/centerville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/centerville/professional/employment</loc></url>
@@ -298,6 +311,7 @@
   <url><loc>https://uslist.info/utah/centerville/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/utah/centerville/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/centerville/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/centerville/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/centerville/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/centerville/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/centerville/shopping/sporting-goods</loc></url>
@@ -326,7 +340,6 @@
   <url><loc>https://uslist.info/utah/clearfield/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/utah/clearfield/professional</loc></url>
   <url><loc>https://uslist.info/utah/clearfield/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/utah/clearfield/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/clearfield/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/utah/clearfield/shopping</loc></url>
   <url><loc>https://uslist.info/utah/clearfield/shopping/art-craft-supplies</loc></url>
@@ -396,6 +409,7 @@
   <url><loc>https://uslist.info/utah/cottonwood-heights/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/cottonwood-heights/home-services</loc></url>
   <url><loc>https://uslist.info/utah/cottonwood-heights/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/utah/cottonwood-heights/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/cottonwood-heights/professional</loc></url>
   <url><loc>https://uslist.info/utah/cottonwood-heights/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/cottonwood-heights/professional/it-services</loc></url>
@@ -414,6 +428,7 @@
   <url><loc>https://uslist.info/utah/cottonwood-heights/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/cottonwood-heights/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/cottonwood-heights/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/cottonwood-heights/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/cottonwood-heights/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/cottonwood-heights/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/cottonwood-heights/shopping/sporting-goods</loc></url>
@@ -458,6 +473,7 @@
   <url><loc>https://uslist.info/utah/draper/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/utah/draper/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/draper/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/draper/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/draper/professional</loc></url>
   <url><loc>https://uslist.info/utah/draper/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/utah/draper/professional/coworking</loc></url>
@@ -475,8 +491,11 @@
   <url><loc>https://uslist.info/utah/draper/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/draper/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/draper/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/utah/draper/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/draper/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/draper/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/draper/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/utah/draper/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/draper/travel-leisure</loc></url>
   <url><loc>https://uslist.info/utah/draper/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/utah/draper/travel-leisure/hotels</loc></url>
@@ -496,6 +515,7 @@
   <url><loc>https://uslist.info/utah/eagle-mountain/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/eagle-mountain/shopping</loc></url>
   <url><loc>https://uslist.info/utah/eagle-mountain/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/eagle-mountain/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/farmington</loc></url>
   <url><loc>https://uslist.info/utah/farmington/automotive</loc></url>
   <url><loc>https://uslist.info/utah/farmington/automotive/gas-stations</loc></url>
@@ -533,6 +553,7 @@
   <url><loc>https://uslist.info/utah/farmington/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/farmington/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/farmington/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/farmington/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/farmington/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/farmington/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/farmington/shopping/sporting-goods</loc></url>
@@ -589,6 +610,7 @@
   <url><loc>https://uslist.info/utah/heber-city/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/utah/heber-city/home-services</loc></url>
   <url><loc>https://uslist.info/utah/heber-city/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/utah/heber-city/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/heber-city/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/utah/heber-city/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/heber-city/professional</loc></url>
@@ -604,6 +626,7 @@
   <url><loc>https://uslist.info/utah/heber-city/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/heber-city/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/heber-city/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/heber-city/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/heber-city/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/heber-city/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/heber-city/shopping/thrift-antiques</loc></url>
@@ -644,6 +667,7 @@
   <url><loc>https://uslist.info/utah/herriman/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/herriman/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/utah/herriman/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/herriman/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/herriman/professional</loc></url>
   <url><loc>https://uslist.info/utah/herriman/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/herriman/professional/marketing-agencies</loc></url>
@@ -660,6 +684,7 @@
   <url><loc>https://uslist.info/utah/herriman/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/herriman/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/herriman/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/herriman/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/herriman/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/herriman/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/herriman/travel-leisure</loc></url>
@@ -726,6 +751,7 @@
   <url><loc>https://uslist.info/utah/holladay/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/utah/holladay/home-services</loc></url>
   <url><loc>https://uslist.info/utah/holladay/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/utah/holladay/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/holladay/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/holladay/professional</loc></url>
   <url><loc>https://uslist.info/utah/holladay/professional/coworking</loc></url>
@@ -742,6 +768,7 @@
   <url><loc>https://uslist.info/utah/holladay/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/holladay/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/holladay/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/holladay/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/holladay/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/holladay/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/holladay/shopping/thrift-antiques</loc></url>
@@ -782,6 +809,7 @@
   <url><loc>https://uslist.info/utah/hurricane/shopping</loc></url>
   <url><loc>https://uslist.info/utah/hurricane/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/utah/hurricane/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/hurricane/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/hurricane/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/hurricane/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/utah/hurricane/travel-leisure</loc></url>
@@ -802,8 +830,10 @@
   <url><loc>https://uslist.info/utah/ivins/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/utah/ivins/health</loc></url>
   <url><loc>https://uslist.info/utah/ivins/health/doctors</loc></url>
+  <url><loc>https://uslist.info/utah/ivins/home-services</loc></url>
+  <url><loc>https://uslist.info/utah/ivins/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/utah/ivins/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/ivins/professional</loc></url>
-  <url><loc>https://uslist.info/utah/ivins/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/ivins/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/utah/ivins/shopping</loc></url>
   <url><loc>https://uslist.info/utah/ivins/shopping/art-craft-supplies</loc></url>
@@ -813,6 +843,7 @@
   <url><loc>https://uslist.info/utah/ivins/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/ivins/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/ivins/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/ivins/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/ivins/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/ivins/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/utah/ivins/travel-leisure</loc></url>
@@ -841,16 +872,18 @@
   <url><loc>https://uslist.info/utah/kaysville/health</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/health/doctors</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/utah/kaysville/home-services</loc></url>
+  <url><loc>https://uslist.info/utah/kaysville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/professional</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/utah/kaysville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/shopping</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/kaysville/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/travel-leisure</loc></url>
   <url><loc>https://uslist.info/utah/kaysville/travel-leisure/arts-entertainment</loc></url>
@@ -886,9 +919,9 @@
   <url><loc>https://uslist.info/utah/kearns/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/utah/kearns/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/utah/kearns/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/kearns/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/kearns/professional</loc></url>
   <url><loc>https://uslist.info/utah/kearns/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/utah/kearns/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/kearns/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/utah/kearns/shopping</loc></url>
   <url><loc>https://uslist.info/utah/kearns/shopping/bikes</loc></url>
@@ -900,6 +933,7 @@
   <url><loc>https://uslist.info/utah/kearns/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/kearns/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/kearns/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/kearns/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/kearns/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/kearns/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/utah/kearns/travel-leisure</loc></url>
@@ -944,6 +978,7 @@
   <url><loc>https://uslist.info/utah/layton/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/utah/layton/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/utah/layton/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/layton/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/layton/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/utah/layton/professional</loc></url>
   <url><loc>https://uslist.info/utah/layton/professional/coworking</loc></url>
@@ -964,6 +999,7 @@
   <url><loc>https://uslist.info/utah/layton/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/layton/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/layton/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/layton/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/layton/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/layton/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/layton/shopping/sporting-goods</loc></url>
@@ -1031,6 +1067,7 @@
   <url><loc>https://uslist.info/utah/lehi/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/lehi/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/lehi/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/lehi/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/lehi/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/lehi/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/lehi/travel-leisure</loc></url>
@@ -1074,6 +1111,7 @@
   <url><loc>https://uslist.info/utah/logan/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/utah/logan/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/utah/logan/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/logan/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/logan/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/logan/professional</loc></url>
   <url><loc>https://uslist.info/utah/logan/professional/civic-government</loc></url>
@@ -1097,6 +1135,7 @@
   <url><loc>https://uslist.info/utah/logan/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/logan/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/logan/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/logan/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/logan/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/logan/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/logan/shopping/thrift-antiques</loc></url>
@@ -1124,6 +1163,7 @@
   <url><loc>https://uslist.info/utah/magna/health/doctors</loc></url>
   <url><loc>https://uslist.info/utah/magna/home-services</loc></url>
   <url><loc>https://uslist.info/utah/magna/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/magna/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/magna/professional</loc></url>
   <url><loc>https://uslist.info/utah/magna/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/magna/professional/funeral-services</loc></url>
@@ -1209,6 +1249,7 @@
   <url><loc>https://uslist.info/utah/midvale/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/midvale/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/midvale/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/midvale/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/midvale/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/midvale/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/midvale/shopping/thrift-antiques</loc></url>
@@ -1252,6 +1293,7 @@
   <url><loc>https://uslist.info/utah/millcreek/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/utah/millcreek/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/utah/millcreek/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/millcreek/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/millcreek/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/millcreek/professional</loc></url>
   <url><loc>https://uslist.info/utah/millcreek/professional/coworking</loc></url>
@@ -1271,6 +1313,7 @@
   <url><loc>https://uslist.info/utah/millcreek/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/millcreek/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/millcreek/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/millcreek/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/millcreek/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/millcreek/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/millcreek/shopping/sporting-goods</loc></url>
@@ -1316,7 +1359,9 @@
   <url><loc>https://uslist.info/utah/murray/home-services</loc></url>
   <url><loc>https://uslist.info/utah/murray/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/murray/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/murray/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/murray/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/utah/murray/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/murray/professional</loc></url>
   <url><loc>https://uslist.info/utah/murray/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/utah/murray/professional/coworking</loc></url>
@@ -1338,6 +1383,7 @@
   <url><loc>https://uslist.info/utah/murray/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/murray/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/murray/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/murray/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/murray/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/murray/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/murray/shopping/thrift-antiques</loc></url>
@@ -1373,7 +1419,9 @@
   <url><loc>https://uslist.info/utah/north-ogden/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/utah/north-ogden/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/north-ogden/home-services</loc></url>
+  <url><loc>https://uslist.info/utah/north-ogden/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/north-ogden/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/north-ogden/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/north-ogden/professional</loc></url>
   <url><loc>https://uslist.info/utah/north-ogden/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/north-ogden/professional/printing-signs</loc></url>
@@ -1384,6 +1432,7 @@
   <url><loc>https://uslist.info/utah/north-ogden/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/north-ogden/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/north-ogden/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/north-ogden/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/north-ogden/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/north-ogden/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/north-ogden/travel-leisure</loc></url>
@@ -1411,6 +1460,7 @@
   <url><loc>https://uslist.info/utah/north-salt-lake/health/doctors</loc></url>
   <url><loc>https://uslist.info/utah/north-salt-lake/home-services</loc></url>
   <url><loc>https://uslist.info/utah/north-salt-lake/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/utah/north-salt-lake/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/north-salt-lake/professional</loc></url>
   <url><loc>https://uslist.info/utah/north-salt-lake/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/utah/north-salt-lake/professional/coworking</loc></url>
@@ -1420,6 +1470,7 @@
   <url><loc>https://uslist.info/utah/north-salt-lake/shopping</loc></url>
   <url><loc>https://uslist.info/utah/north-salt-lake/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/utah/north-salt-lake/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/north-salt-lake/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/north-salt-lake/travel-leisure</loc></url>
   <url><loc>https://uslist.info/utah/north-salt-lake/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/utah/north-salt-lake/travel-leisure/travel-agents</loc></url>
@@ -1453,6 +1504,7 @@
   <url><loc>https://uslist.info/utah/ogden/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/ogden/home-services</loc></url>
   <url><loc>https://uslist.info/utah/ogden/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/utah/ogden/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/ogden/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/utah/ogden/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/utah/ogden/home-services/painters</loc></url>
@@ -1470,8 +1522,10 @@
   <url><loc>https://uslist.info/utah/ogden/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/utah/ogden/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/ogden/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/utah/ogden/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/ogden/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/ogden/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/ogden/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/ogden/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/ogden/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/ogden/shopping/thrift-antiques</loc></url>
@@ -1514,6 +1568,7 @@
   <url><loc>https://uslist.info/utah/orem/home-services</loc></url>
   <url><loc>https://uslist.info/utah/orem/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/utah/orem/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/utah/orem/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/orem/professional</loc></url>
   <url><loc>https://uslist.info/utah/orem/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/orem/professional/employment</loc></url>
@@ -1533,6 +1588,7 @@
   <url><loc>https://uslist.info/utah/orem/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/orem/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/orem/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/orem/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/orem/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/orem/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/orem/shopping/sporting-goods</loc></url>
@@ -1572,7 +1628,7 @@
   <url><loc>https://uslist.info/utah/payson/home-services</loc></url>
   <url><loc>https://uslist.info/utah/payson/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/utah/payson/professional</loc></url>
-  <url><loc>https://uslist.info/utah/payson/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/utah/payson/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/payson/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/utah/payson/shopping</loc></url>
   <url><loc>https://uslist.info/utah/payson/shopping/cannabis-vape</loc></url>
@@ -1619,6 +1675,8 @@
   <url><loc>https://uslist.info/utah/pleasant-grove/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-grove/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-grove/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/pleasant-grove/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/utah/pleasant-grove/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-grove/professional</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-grove/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-grove/professional/funeral-services</loc></url>
@@ -1635,6 +1693,7 @@
   <url><loc>https://uslist.info/utah/pleasant-grove/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-grove/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-grove/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/pleasant-grove/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-grove/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-grove/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-grove/shopping/thrift-antiques</loc></url>
@@ -1664,10 +1723,9 @@
   <url><loc>https://uslist.info/utah/pleasant-view/health/doctors</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-view/home-services</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-view/home-services/plumbers</loc></url>
-  <url><loc>https://uslist.info/utah/pleasant-view/professional</loc></url>
-  <url><loc>https://uslist.info/utah/pleasant-view/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-view/shopping</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-view/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/utah/pleasant-view/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-view/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-view/travel-leisure</loc></url>
   <url><loc>https://uslist.info/utah/pleasant-view/travel-leisure/hotels</loc></url>
@@ -1708,6 +1766,7 @@
   <url><loc>https://uslist.info/utah/provo/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/utah/provo/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/provo/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/provo/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/provo/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/utah/provo/professional</loc></url>
   <url><loc>https://uslist.info/utah/provo/professional/civic-government</loc></url>
@@ -1727,6 +1786,7 @@
   <url><loc>https://uslist.info/utah/provo/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/provo/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/provo/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/provo/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/provo/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/provo/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/provo/shopping/thrift-antiques</loc></url>
@@ -1763,10 +1823,10 @@
   <url><loc>https://uslist.info/utah/riverton/health/hospitals</loc></url>
   <url><loc>https://uslist.info/utah/riverton/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/utah/riverton/home-services</loc></url>
+  <url><loc>https://uslist.info/utah/riverton/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/riverton/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/utah/riverton/professional</loc></url>
   <url><loc>https://uslist.info/utah/riverton/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/utah/riverton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/riverton/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/utah/riverton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/utah/riverton/shopping</loc></url>
@@ -1777,6 +1837,7 @@
   <url><loc>https://uslist.info/utah/riverton/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/riverton/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/riverton/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/riverton/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/riverton/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/riverton/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/utah/riverton/travel-leisure</loc></url>
@@ -1873,6 +1934,7 @@
   <url><loc>https://uslist.info/utah/salt-lake-city/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/salt-lake-city/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/utah/salt-lake-city/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/salt-lake-city/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/salt-lake-city/home-services/painters</loc></url>
   <url><loc>https://uslist.info/utah/salt-lake-city/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/salt-lake-city/professional</loc></url>
@@ -1899,6 +1961,7 @@
   <url><loc>https://uslist.info/utah/salt-lake-city/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/salt-lake-city/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/salt-lake-city/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/salt-lake-city/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/salt-lake-city/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/salt-lake-city/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/salt-lake-city/shopping/sporting-goods</loc></url>
@@ -1945,13 +2008,13 @@
   <url><loc>https://uslist.info/utah/sandy/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/utah/sandy/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/sandy/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/sandy/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/sandy/home-services/painters</loc></url>
   <url><loc>https://uslist.info/utah/sandy/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/utah/sandy/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/sandy/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/utah/sandy/professional</loc></url>
   <url><loc>https://uslist.info/utah/sandy/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/utah/sandy/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/sandy/professional/photography</loc></url>
   <url><loc>https://uslist.info/utah/sandy/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/utah/sandy/shopping</loc></url>
@@ -1966,6 +2029,7 @@
   <url><loc>https://uslist.info/utah/sandy/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/sandy/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/sandy/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/sandy/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/sandy/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/sandy/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/sandy/shopping/sporting-goods</loc></url>
@@ -2019,6 +2083,7 @@
   <url><loc>https://uslist.info/utah/saratoga-springs/health/doctors</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/health/hospitals</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/utah/saratoga-springs/health/other-health</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/home-services</loc></url>
@@ -2040,8 +2105,10 @@
   <url><loc>https://uslist.info/utah/saratoga-springs/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/utah/saratoga-springs/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/saratoga-springs/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/saratoga-springs/shopping/sporting-goods</loc></url>
@@ -2074,6 +2141,7 @@
   <url><loc>https://uslist.info/utah/south-jordan/health/dentists</loc></url>
   <url><loc>https://uslist.info/utah/south-jordan/health/doctors</loc></url>
   <url><loc>https://uslist.info/utah/south-jordan/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/utah/south-jordan/health/other-health</loc></url>
   <url><loc>https://uslist.info/utah/south-jordan/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/utah/south-jordan/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/south-jordan/home-services</loc></url>
@@ -2096,6 +2164,7 @@
   <url><loc>https://uslist.info/utah/south-jordan/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/south-jordan/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/south-jordan/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/south-jordan/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/south-jordan/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/south-jordan/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/south-jordan/shopping/sporting-goods</loc></url>
@@ -2132,12 +2201,12 @@
   <url><loc>https://uslist.info/utah/south-ogden/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/home-services</loc></url>
+  <url><loc>https://uslist.info/utah/south-ogden/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/professional</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/utah/south-ogden/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/professional/photography</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/shopping</loc></url>
@@ -2151,6 +2220,7 @@
   <url><loc>https://uslist.info/utah/south-ogden/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/south-ogden/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/south-ogden/shopping/sporting-goods</loc></url>
@@ -2196,6 +2266,8 @@
   <url><loc>https://uslist.info/utah/south-salt-lake/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/utah/south-salt-lake/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/utah/south-salt-lake/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/south-salt-lake/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/utah/south-salt-lake/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/south-salt-lake/professional</loc></url>
   <url><loc>https://uslist.info/utah/south-salt-lake/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/utah/south-salt-lake/professional/coworking</loc></url>
@@ -2218,6 +2290,7 @@
   <url><loc>https://uslist.info/utah/south-salt-lake/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/south-salt-lake/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/south-salt-lake/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/south-salt-lake/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/south-salt-lake/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/south-salt-lake/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/south-salt-lake/shopping/sporting-goods</loc></url>
@@ -2260,7 +2333,6 @@
   <url><loc>https://uslist.info/utah/spanish-fork/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/utah/spanish-fork/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/spanish-fork/professional/employment</loc></url>
-  <url><loc>https://uslist.info/utah/spanish-fork/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/spanish-fork/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/utah/spanish-fork/shopping</loc></url>
   <url><loc>https://uslist.info/utah/spanish-fork/shopping/bikes</loc></url>
@@ -2270,6 +2342,7 @@
   <url><loc>https://uslist.info/utah/spanish-fork/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/spanish-fork/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/spanish-fork/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/spanish-fork/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/spanish-fork/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/spanish-fork/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/spanish-fork/shopping/sporting-goods</loc></url>
@@ -2305,7 +2378,6 @@
   <url><loc>https://uslist.info/utah/springville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/springville/professional</loc></url>
   <url><loc>https://uslist.info/utah/springville/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/utah/springville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/springville/shopping</loc></url>
   <url><loc>https://uslist.info/utah/springville/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/springville/shopping/furniture-home</loc></url>
@@ -2345,11 +2417,13 @@
   <url><loc>https://uslist.info/utah/st-george/health/doctors</loc></url>
   <url><loc>https://uslist.info/utah/st-george/health/hospitals</loc></url>
   <url><loc>https://uslist.info/utah/st-george/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/utah/st-george/health/other-health</loc></url>
   <url><loc>https://uslist.info/utah/st-george/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/utah/st-george/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/st-george/home-services</loc></url>
   <url><loc>https://uslist.info/utah/st-george/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/utah/st-george/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/st-george/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/st-george/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/utah/st-george/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/st-george/professional</loc></url>
@@ -2371,6 +2445,7 @@
   <url><loc>https://uslist.info/utah/st-george/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/st-george/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/st-george/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/st-george/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/st-george/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/st-george/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/st-george/shopping/sporting-goods</loc></url>
@@ -2399,8 +2474,6 @@
   <url><loc>https://uslist.info/utah/syracuse/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/syracuse/home-services</loc></url>
   <url><loc>https://uslist.info/utah/syracuse/home-services/movers-storage</loc></url>
-  <url><loc>https://uslist.info/utah/syracuse/professional</loc></url>
-  <url><loc>https://uslist.info/utah/syracuse/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/syracuse/shopping</loc></url>
   <url><loc>https://uslist.info/utah/syracuse/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/utah/syracuse/shopping/department-stores</loc></url>
@@ -2440,7 +2513,9 @@
   <url><loc>https://uslist.info/utah/taylorsville/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/taylorsville/home-services</loc></url>
   <url><loc>https://uslist.info/utah/taylorsville/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/utah/taylorsville/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/taylorsville/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/taylorsville/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/taylorsville/professional</loc></url>
   <url><loc>https://uslist.info/utah/taylorsville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/utah/taylorsville/professional/employment</loc></url>
@@ -2459,6 +2534,7 @@
   <url><loc>https://uslist.info/utah/taylorsville/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/taylorsville/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/taylorsville/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/taylorsville/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/taylorsville/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/taylorsville/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/taylorsville/shopping/sporting-goods</loc></url>
@@ -2533,9 +2609,9 @@
   <url><loc>https://uslist.info/utah/vernal/health/hospitals</loc></url>
   <url><loc>https://uslist.info/utah/vernal/home-services</loc></url>
   <url><loc>https://uslist.info/utah/vernal/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/utah/vernal/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/vernal/professional</loc></url>
   <url><loc>https://uslist.info/utah/vernal/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/utah/vernal/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/vernal/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/utah/vernal/shopping</loc></url>
   <url><loc>https://uslist.info/utah/vernal/shopping/bikes</loc></url>
@@ -2544,6 +2620,7 @@
   <url><loc>https://uslist.info/utah/vernal/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/vernal/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/vernal/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/vernal/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/vernal/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/vernal/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/vernal/travel-leisure</loc></url>
@@ -2574,6 +2651,7 @@
   <url><loc>https://uslist.info/utah/vineyard/health/dentists</loc></url>
   <url><loc>https://uslist.info/utah/vineyard/health/doctors</loc></url>
   <url><loc>https://uslist.info/utah/vineyard/home-services</loc></url>
+  <url><loc>https://uslist.info/utah/vineyard/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/vineyard/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/utah/vineyard/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/utah/vineyard/home-services/plumbers</loc></url>
@@ -2585,7 +2663,10 @@
   <url><loc>https://uslist.info/utah/vineyard/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/utah/vineyard/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/vineyard/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/vineyard/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/vineyard/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/utah/vineyard/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/utah/vineyard/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/utah/vineyard/travel-leisure</loc></url>
   <url><loc>https://uslist.info/utah/vineyard/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/utah/vineyard/travel-leisure/hotels</loc></url>
@@ -2631,6 +2712,7 @@
   <url><loc>https://uslist.info/utah/washington/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/washington/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/washington/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/washington/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/washington/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/washington/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/washington/shopping/sporting-goods</loc></url>
@@ -2670,13 +2752,13 @@
   <url><loc>https://uslist.info/utah/west-jordan/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/home-services</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/utah/west-jordan/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/professional</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/professional/coworking</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/professional/employment</loc></url>
-  <url><loc>https://uslist.info/utah/west-jordan/professional/other-services</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/shopping</loc></url>
@@ -2690,6 +2772,7 @@
   <url><loc>https://uslist.info/utah/west-jordan/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/utah/west-jordan/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/west-jordan/shopping/thrift-antiques</loc></url>
@@ -2748,6 +2831,7 @@
   <url><loc>https://uslist.info/utah/west-valley-city/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/utah/west-valley-city/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/utah/west-valley-city/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/west-valley-city/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/west-valley-city/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/west-valley-city/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/utah/west-valley-city/professional</loc></url>
@@ -2769,6 +2853,7 @@
   <url><loc>https://uslist.info/utah/west-valley-city/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/west-valley-city/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/west-valley-city/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/west-valley-city/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/west-valley-city/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/west-valley-city/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/utah/west-valley-city/shopping/sporting-goods</loc></url>
@@ -2812,6 +2897,7 @@
   <url><loc>https://uslist.info/utah/woods-cross/home-services</loc></url>
   <url><loc>https://uslist.info/utah/woods-cross/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/utah/woods-cross/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/utah/woods-cross/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/utah/woods-cross/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/utah/woods-cross/professional</loc></url>
   <url><loc>https://uslist.info/utah/woods-cross/professional/coworking</loc></url>
@@ -2828,6 +2914,7 @@
   <url><loc>https://uslist.info/utah/woods-cross/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/utah/woods-cross/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/utah/woods-cross/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/utah/woods-cross/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/utah/woods-cross/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/utah/woods-cross/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/utah/woods-cross/travel-leisure</loc></url>

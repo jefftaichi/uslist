@@ -33,12 +33,14 @@
   <url><loc>https://uslist.info/alaska/anchorage/health/doctors</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/health/hospitals</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/alaska/anchorage/health/other-health</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/home-services</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/alaska/anchorage/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/professional</loc></url>
@@ -63,6 +65,7 @@
   <url><loc>https://uslist.info/alaska/anchorage/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/alaska/anchorage/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/alaska/anchorage/shopping/thrift-antiques</loc></url>
@@ -115,6 +118,7 @@
   <url><loc>https://uslist.info/alaska/college/home-services</loc></url>
   <url><loc>https://uslist.info/alaska/college/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/alaska/college/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/alaska/college/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/alaska/college/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/alaska/college/professional</loc></url>
   <url><loc>https://uslist.info/alaska/college/professional/civic-government</loc></url>
@@ -131,6 +135,7 @@
   <url><loc>https://uslist.info/alaska/college/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/alaska/college/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/alaska/college/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/alaska/college/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/alaska/college/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/alaska/college/travel-leisure</loc></url>
   <url><loc>https://uslist.info/alaska/college/travel-leisure/hotels</loc></url>
@@ -167,6 +172,7 @@
   <url><loc>https://uslist.info/alaska/fairbanks/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/alaska/fairbanks/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/alaska/fairbanks/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/alaska/fairbanks/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/alaska/fairbanks/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/alaska/fairbanks/professional</loc></url>
   <url><loc>https://uslist.info/alaska/fairbanks/professional/civic-government</loc></url>
@@ -185,6 +191,7 @@
   <url><loc>https://uslist.info/alaska/fairbanks/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/alaska/fairbanks/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/alaska/fairbanks/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/alaska/fairbanks/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/alaska/fairbanks/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/alaska/fairbanks/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/alaska/fairbanks/shopping/sporting-goods</loc></url>
@@ -220,8 +227,8 @@
   <url><loc>https://uslist.info/alaska/juneau/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/alaska/juneau/professional</loc></url>
   <url><loc>https://uslist.info/alaska/juneau/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/alaska/juneau/professional/coworking</loc></url>
   <url><loc>https://uslist.info/alaska/juneau/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/alaska/juneau/professional/other-services</loc></url>
   <url><loc>https://uslist.info/alaska/juneau/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/alaska/juneau/shopping</loc></url>
   <url><loc>https://uslist.info/alaska/juneau/shopping/bikes</loc></url>
@@ -232,6 +239,7 @@
   <url><loc>https://uslist.info/alaska/juneau/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/alaska/juneau/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/alaska/juneau/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/alaska/juneau/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/alaska/juneau/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/alaska/juneau/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/alaska/juneau/shopping/thrift-antiques</loc></url>

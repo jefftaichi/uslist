@@ -25,12 +25,12 @@
   <url><loc>https://uslist.info/nebraska/beatrice/professional</loc></url>
   <url><loc>https://uslist.info/nebraska/beatrice/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/nebraska/beatrice/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/nebraska/beatrice/professional/other-services</loc></url>
   <url><loc>https://uslist.info/nebraska/beatrice/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/nebraska/beatrice/shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/beatrice/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/nebraska/beatrice/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nebraska/beatrice/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nebraska/beatrice/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/beatrice/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nebraska/beatrice/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/nebraska/beatrice/travel-leisure/hotels</loc></url>
@@ -82,8 +82,10 @@
   <url><loc>https://uslist.info/nebraska/bellevue/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nebraska/bellevue/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nebraska/bellevue/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nebraska/bellevue/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/bellevue/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nebraska/bellevue/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/nebraska/bellevue/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/nebraska/bellevue/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/nebraska/bellevue/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nebraska/bellevue/travel-leisure/arts-entertainment</loc></url>
@@ -154,7 +156,6 @@
   <url><loc>https://uslist.info/nebraska/fremont/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/nebraska/fremont/professional/coworking</loc></url>
   <url><loc>https://uslist.info/nebraska/fremont/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/nebraska/fremont/professional/other-services</loc></url>
   <url><loc>https://uslist.info/nebraska/fremont/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/nebraska/fremont/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/nebraska/fremont/shopping</loc></url>
@@ -166,6 +167,7 @@
   <url><loc>https://uslist.info/nebraska/fremont/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nebraska/fremont/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nebraska/fremont/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nebraska/fremont/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/fremont/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nebraska/fremont/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/nebraska/fremont/travel-leisure/hotels</loc></url>
@@ -201,6 +203,7 @@
   <url><loc>https://uslist.info/nebraska/grand-island/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/nebraska/grand-island/home-services</loc></url>
   <url><loc>https://uslist.info/nebraska/grand-island/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/nebraska/grand-island/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nebraska/grand-island/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/nebraska/grand-island/professional</loc></url>
   <url><loc>https://uslist.info/nebraska/grand-island/professional/coworking</loc></url>
@@ -217,6 +220,7 @@
   <url><loc>https://uslist.info/nebraska/grand-island/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nebraska/grand-island/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nebraska/grand-island/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nebraska/grand-island/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/grand-island/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nebraska/grand-island/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/nebraska/grand-island/travel-leisure</loc></url>
@@ -240,10 +244,9 @@
   <url><loc>https://uslist.info/nebraska/hastings/health/doctors</loc></url>
   <url><loc>https://uslist.info/nebraska/hastings/health/hospitals</loc></url>
   <url><loc>https://uslist.info/nebraska/hastings/health/pharmacies</loc></url>
-  <url><loc>https://uslist.info/nebraska/hastings/professional</loc></url>
-  <url><loc>https://uslist.info/nebraska/hastings/professional/other-services</loc></url>
   <url><loc>https://uslist.info/nebraska/hastings/shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/hastings/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/nebraska/hastings/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/nebraska/hastings/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/nebraska/hastings/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nebraska/hastings/travel-leisure</loc></url>
@@ -281,6 +284,7 @@
   <url><loc>https://uslist.info/nebraska/kearney/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/nebraska/kearney/home-services</loc></url>
   <url><loc>https://uslist.info/nebraska/kearney/home-services/landscaping</loc></url>
+  <url><loc>https://uslist.info/nebraska/kearney/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nebraska/kearney/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/nebraska/kearney/professional</loc></url>
   <url><loc>https://uslist.info/nebraska/kearney/professional/funeral-services</loc></url>
@@ -297,6 +301,7 @@
   <url><loc>https://uslist.info/nebraska/kearney/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nebraska/kearney/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nebraska/kearney/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nebraska/kearney/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/kearney/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/nebraska/kearney/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/nebraska/kearney/travel-leisure</loc></url>
@@ -334,6 +339,7 @@
   <url><loc>https://uslist.info/nebraska/la-vista/health/doctors</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/health/hospitals</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/nebraska/la-vista/health/other-health</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/home-services</loc></url>
@@ -342,6 +348,7 @@
   <url><loc>https://uslist.info/nebraska/la-vista/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nebraska/la-vista/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/home-services/roofers</loc></url>
@@ -364,6 +371,7 @@
   <url><loc>https://uslist.info/nebraska/la-vista/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nebraska/la-vista/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nebraska/la-vista/shopping/sporting-goods</loc></url>
@@ -392,8 +400,6 @@
   <url><loc>https://uslist.info/nebraska/lexington/health/doctors</loc></url>
   <url><loc>https://uslist.info/nebraska/lexington/health/hospitals</loc></url>
   <url><loc>https://uslist.info/nebraska/lexington/health/veterinarians</loc></url>
-  <url><loc>https://uslist.info/nebraska/lexington/professional</loc></url>
-  <url><loc>https://uslist.info/nebraska/lexington/professional/other-services</loc></url>
   <url><loc>https://uslist.info/nebraska/lexington/shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/lexington/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/nebraska/lexington/travel-leisure</loc></url>
@@ -440,6 +446,7 @@
   <url><loc>https://uslist.info/nebraska/lincoln/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/nebraska/lincoln/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/nebraska/lincoln/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nebraska/lincoln/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nebraska/lincoln/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/nebraska/lincoln/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nebraska/lincoln/home-services/roofers</loc></url>
@@ -467,6 +474,7 @@
   <url><loc>https://uslist.info/nebraska/lincoln/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nebraska/lincoln/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nebraska/lincoln/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nebraska/lincoln/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/lincoln/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nebraska/lincoln/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nebraska/lincoln/shopping/sporting-goods</loc></url>
@@ -496,13 +504,13 @@
   <url><loc>https://uslist.info/nebraska/norfolk/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/nebraska/norfolk/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/nebraska/norfolk/professional</loc></url>
-  <url><loc>https://uslist.info/nebraska/norfolk/professional/other-services</loc></url>
   <url><loc>https://uslist.info/nebraska/norfolk/professional/photography</loc></url>
   <url><loc>https://uslist.info/nebraska/norfolk/shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/norfolk/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/nebraska/norfolk/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/nebraska/norfolk/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/nebraska/norfolk/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nebraska/norfolk/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/norfolk/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nebraska/norfolk/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/nebraska/norfolk/travel-leisure/recreation</loc></url>
@@ -541,7 +549,6 @@
   <url><loc>https://uslist.info/nebraska/north-platte/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/nebraska/north-platte/professional/coworking</loc></url>
   <url><loc>https://uslist.info/nebraska/north-platte/professional/employment</loc></url>
-  <url><loc>https://uslist.info/nebraska/north-platte/professional/other-services</loc></url>
   <url><loc>https://uslist.info/nebraska/north-platte/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/nebraska/north-platte/shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/north-platte/shopping/cannabis-vape</loc></url>
@@ -551,6 +558,7 @@
   <url><loc>https://uslist.info/nebraska/north-platte/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nebraska/north-platte/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nebraska/north-platte/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/nebraska/north-platte/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/north-platte/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/nebraska/north-platte/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/nebraska/north-platte/travel-leisure</loc></url>
@@ -596,7 +604,9 @@
   <url><loc>https://uslist.info/nebraska/omaha/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/nebraska/omaha/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/nebraska/omaha/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/nebraska/omaha/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/nebraska/omaha/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/nebraska/omaha/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/nebraska/omaha/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/nebraska/omaha/professional</loc></url>
   <url><loc>https://uslist.info/nebraska/omaha/professional/civic-government</loc></url>
@@ -619,6 +629,7 @@
   <url><loc>https://uslist.info/nebraska/omaha/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nebraska/omaha/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nebraska/omaha/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nebraska/omaha/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/omaha/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nebraska/omaha/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/nebraska/omaha/shopping/sporting-goods</loc></url>
@@ -680,6 +691,7 @@
   <url><loc>https://uslist.info/nebraska/papillion/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/nebraska/papillion/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nebraska/papillion/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nebraska/papillion/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/papillion/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nebraska/papillion/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/nebraska/papillion/shopping/thrift-antiques</loc></url>
@@ -735,6 +747,7 @@
   <url><loc>https://uslist.info/nebraska/scottsbluff/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/nebraska/scottsbluff/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/nebraska/scottsbluff/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/nebraska/scottsbluff/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/nebraska/scottsbluff/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/nebraska/scottsbluff/travel-leisure</loc></url>
   <url><loc>https://uslist.info/nebraska/scottsbluff/travel-leisure/arts-entertainment</loc></url>

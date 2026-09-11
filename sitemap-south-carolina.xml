@@ -36,6 +36,8 @@
   <url><loc>https://uslist.info/south-carolina/aiken/home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/aiken/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/south-carolina/aiken/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/aiken/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/south-carolina/aiken/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/aiken/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/aiken/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/aiken/professional/coworking</loc></url>
@@ -57,6 +59,7 @@
   <url><loc>https://uslist.info/south-carolina/aiken/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/aiken/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/aiken/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/aiken/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/aiken/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/aiken/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/aiken/shopping/sporting-goods</loc></url>
@@ -102,6 +105,7 @@
   <url><loc>https://uslist.info/south-carolina/anderson/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/south-carolina/anderson/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/anderson/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/anderson/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/anderson/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/anderson/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/south-carolina/anderson/professional</loc></url>
@@ -124,6 +128,7 @@
   <url><loc>https://uslist.info/south-carolina/anderson/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/anderson/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/anderson/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/anderson/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/anderson/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/anderson/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/anderson/shopping/sporting-goods</loc></url>
@@ -187,6 +192,7 @@
   <url><loc>https://uslist.info/south-carolina/beaufort/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/beaufort/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/beaufort/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/beaufort/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/beaufort/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/beaufort/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/beaufort/shopping/thrift-antiques</loc></url>
@@ -240,6 +246,7 @@
   <url><loc>https://uslist.info/south-carolina/berea/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/berea/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/south-carolina/berea/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/berea/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/berea/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/south-carolina/berea/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/south-carolina/berea/professional</loc></url>
@@ -257,6 +264,7 @@
   <url><loc>https://uslist.info/south-carolina/berea/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/berea/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/berea/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/berea/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/berea/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/berea/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/berea/shopping/thrift-antiques</loc></url>
@@ -292,9 +300,9 @@
   <url><loc>https://uslist.info/south-carolina/bluffton/health/doctors</loc></url>
   <url><loc>https://uslist.info/south-carolina/bluffton/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/bluffton/home-services</loc></url>
+  <url><loc>https://uslist.info/south-carolina/bluffton/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/bluffton/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/south-carolina/bluffton/professional</loc></url>
-  <url><loc>https://uslist.info/south-carolina/bluffton/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/bluffton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/south-carolina/bluffton/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/bluffton/shopping/clothing</loc></url>
@@ -352,8 +360,10 @@
   <url><loc>https://uslist.info/south-carolina/boiling-springs/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/boiling-springs/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/boiling-springs/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/boiling-springs/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/boiling-springs/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/boiling-springs/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/south-carolina/boiling-springs/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/boiling-springs/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/south-carolina/boiling-springs/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-carolina/boiling-springs/travel-leisure/arts-entertainment</loc></url>
@@ -426,13 +436,13 @@
   <url><loc>https://uslist.info/south-carolina/cayce/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/cayce/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/cayce/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/south-carolina/cayce/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/cayce/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/cayce/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/south-carolina/cayce/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/cayce/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/south-carolina/cayce/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/cayce/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/cayce/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/cayce/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/south-carolina/cayce/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-carolina/cayce/travel-leisure/hotels</loc></url>
@@ -467,6 +477,7 @@
   <url><loc>https://uslist.info/south-carolina/charleston/health/doctors</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/health/hospitals</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/south-carolina/charleston/health/other-health</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/home-services</loc></url>
@@ -475,6 +486,7 @@
   <url><loc>https://uslist.info/south-carolina/charleston/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/charleston/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/home-services/roofers</loc></url>
@@ -501,6 +513,7 @@
   <url><loc>https://uslist.info/south-carolina/charleston/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/charleston/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/charleston/shopping/sporting-goods</loc></url>
@@ -547,6 +560,7 @@
   <url><loc>https://uslist.info/south-carolina/clemson/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/clemson/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/clemson/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/clemson/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/clemson/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/south-carolina/clemson/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/south-carolina/clemson/professional</loc></url>
@@ -569,6 +583,7 @@
   <url><loc>https://uslist.info/south-carolina/clemson/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/clemson/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/clemson/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/clemson/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/clemson/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/clemson/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/clemson/shopping/sporting-goods</loc></url>
@@ -618,6 +633,7 @@
   <url><loc>https://uslist.info/south-carolina/columbia/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/columbia/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/south-carolina/columbia/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/columbia/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/columbia/home-services/painters</loc></url>
   <url><loc>https://uslist.info/south-carolina/columbia/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/south-carolina/columbia/home-services/repair-shops</loc></url>
@@ -646,6 +662,7 @@
   <url><loc>https://uslist.info/south-carolina/columbia/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/columbia/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/columbia/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/columbia/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/columbia/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/columbia/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/columbia/shopping/sporting-goods</loc></url>
@@ -679,8 +696,10 @@
   <url><loc>https://uslist.info/south-carolina/conway/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/conway/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/south-carolina/conway/professional/coworking</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/shopping/art-craft-supplies</loc></url>
@@ -688,7 +707,9 @@
   <url><loc>https://uslist.info/south-carolina/conway/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/south-carolina/conway/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/conway/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/conway/shopping/thrift-antiques</loc></url>
@@ -729,6 +750,9 @@
   <url><loc>https://uslist.info/south-carolina/easley/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/easley/home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/easley/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/easley/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/south-carolina/easley/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/south-carolina/easley/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/easley/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/easley/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/easley/professional/coworking</loc></url>
@@ -750,6 +774,7 @@
   <url><loc>https://uslist.info/south-carolina/easley/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/easley/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/easley/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/easley/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/easley/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/easley/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/easley/shopping/sporting-goods</loc></url>
@@ -790,8 +815,11 @@
   <url><loc>https://uslist.info/south-carolina/five-forks/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/five-forks/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/five-forks/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/south-carolina/five-forks/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/professional/coworking</loc></url>
@@ -811,6 +839,7 @@
   <url><loc>https://uslist.info/south-carolina/five-forks/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/five-forks/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/five-forks/shopping/sporting-goods</loc></url>
@@ -850,6 +879,8 @@
   <url><loc>https://uslist.info/south-carolina/florence/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/florence/home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/florence/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/florence/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/south-carolina/florence/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/florence/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/florence/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/florence/professional/employment</loc></url>
@@ -865,6 +896,7 @@
   <url><loc>https://uslist.info/south-carolina/florence/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/florence/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/florence/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/florence/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/florence/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/florence/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/florence/shopping/sporting-goods</loc></url>
@@ -905,6 +937,7 @@
   <url><loc>https://uslist.info/south-carolina/fort-mill/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/south-carolina/fort-mill/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/fort-mill/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/fort-mill/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/fort-mill/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/fort-mill/professional/coworking</loc></url>
   <url><loc>https://uslist.info/south-carolina/fort-mill/professional/funeral-services</loc></url>
@@ -919,6 +952,7 @@
   <url><loc>https://uslist.info/south-carolina/fort-mill/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/fort-mill/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/fort-mill/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/fort-mill/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/fort-mill/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/fort-mill/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-carolina/fort-mill/travel-leisure/arts-entertainment</loc></url>
@@ -956,7 +990,6 @@
   <url><loc>https://uslist.info/south-carolina/fountain-inn/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/fountain-inn/professional/coworking</loc></url>
   <url><loc>https://uslist.info/south-carolina/fountain-inn/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/south-carolina/fountain-inn/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/fountain-inn/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/fountain-inn/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/south-carolina/fountain-inn/shopping/department-stores</loc></url>
@@ -964,6 +997,7 @@
   <url><loc>https://uslist.info/south-carolina/fountain-inn/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/fountain-inn/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/fountain-inn/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/fountain-inn/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/fountain-inn/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-carolina/fountain-inn/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/south-carolina/gaffney</loc></url>
@@ -979,6 +1013,8 @@
   <url><loc>https://uslist.info/south-carolina/gaffney/health/doctors</loc></url>
   <url><loc>https://uslist.info/south-carolina/gaffney/health/hospitals</loc></url>
   <url><loc>https://uslist.info/south-carolina/gaffney/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/south-carolina/gaffney/home-services</loc></url>
+  <url><loc>https://uslist.info/south-carolina/gaffney/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/gaffney/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/gaffney/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/gaffney/professional/marketing-agencies</loc></url>
@@ -1037,6 +1073,7 @@
   <url><loc>https://uslist.info/south-carolina/gantt/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/gantt/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/gantt/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/gantt/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/gantt/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/gantt/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/gantt/shopping/thrift-antiques</loc></url>
@@ -1084,6 +1121,7 @@
   <url><loc>https://uslist.info/south-carolina/garden-city-beach/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/garden-city-beach/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/garden-city-beach/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/garden-city-beach/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/garden-city-beach/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/garden-city-beach/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/garden-city-beach/shopping/thrift-antiques</loc></url>
@@ -1121,7 +1159,6 @@
   <url><loc>https://uslist.info/south-carolina/goose-creek/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/goose-creek/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/goose-creek/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/south-carolina/goose-creek/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/goose-creek/professional/photography</loc></url>
   <url><loc>https://uslist.info/south-carolina/goose-creek/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/south-carolina/goose-creek/shopping</loc></url>
@@ -1130,6 +1167,7 @@
   <url><loc>https://uslist.info/south-carolina/goose-creek/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/south-carolina/goose-creek/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/goose-creek/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/goose-creek/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/goose-creek/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/south-carolina/goose-creek/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-carolina/goose-creek/travel-leisure/hotels</loc></url>
@@ -1173,6 +1211,7 @@
   <url><loc>https://uslist.info/south-carolina/greenville/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenville/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenville/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/greenville/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenville/home-services/painters</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenville/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenville/home-services/repair-shops</loc></url>
@@ -1201,6 +1240,7 @@
   <url><loc>https://uslist.info/south-carolina/greenville/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenville/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenville/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/greenville/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenville/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenville/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenville/shopping/sporting-goods</loc></url>
@@ -1242,8 +1282,10 @@
   <url><loc>https://uslist.info/south-carolina/greenwood/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/greenwood/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/greenwood/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/professional/coworking</loc></url>
@@ -1261,6 +1303,7 @@
   <url><loc>https://uslist.info/south-carolina/greenwood/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/greenwood/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/greenwood/shopping/thrift-antiques</loc></url>
@@ -1303,10 +1346,13 @@
   <url><loc>https://uslist.info/south-carolina/greer/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/greer/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/greer/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/home-services/painters</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/south-carolina/greer/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/professional/coworking</loc></url>
@@ -1328,6 +1374,7 @@
   <url><loc>https://uslist.info/south-carolina/greer/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/greer/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/greer/shopping/sporting-goods</loc></url>
@@ -1360,7 +1407,6 @@
   <url><loc>https://uslist.info/south-carolina/hanahan/health/doctors</loc></url>
   <url><loc>https://uslist.info/south-carolina/hanahan/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-carolina/hanahan/professional</loc></url>
-  <url><loc>https://uslist.info/south-carolina/hanahan/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/hanahan/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/south-carolina/hanahan/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/south-carolina/hanahan/shopping</loc></url>
@@ -1371,6 +1417,7 @@
   <url><loc>https://uslist.info/south-carolina/hanahan/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/south-carolina/hanahan/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/hanahan/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/hanahan/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/hanahan/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/hanahan/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/south-carolina/hanahan/travel-leisure</loc></url>
@@ -1400,6 +1447,7 @@
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/hilton-head-island/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/professional/coworking</loc></url>
@@ -1413,6 +1461,7 @@
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/hilton-head-island/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-carolina/hilton-head-island/travel-leisure/hotels</loc></url>
@@ -1447,10 +1496,10 @@
   <url><loc>https://uslist.info/south-carolina/james-island/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/south-carolina/james-island/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/james-island/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/south-carolina/james-island/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/james-island/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/james-island/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/james-island/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/south-carolina/james-island/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/james-island/professional/photography</loc></url>
   <url><loc>https://uslist.info/south-carolina/james-island/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/james-island/shopping/art-craft-supplies</loc></url>
@@ -1500,8 +1549,10 @@
   <url><loc>https://uslist.info/south-carolina/lexington/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/home-services</loc></url>
+  <url><loc>https://uslist.info/south-carolina/lexington/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/lexington/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/professional</loc></url>
@@ -1523,6 +1574,7 @@
   <url><loc>https://uslist.info/south-carolina/lexington/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/lexington/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/lexington/shopping/sporting-goods</loc></url>
@@ -1563,12 +1615,12 @@
   <url><loc>https://uslist.info/south-carolina/little-river/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/south-carolina/little-river/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/south-carolina/little-river/professional</loc></url>
-  <url><loc>https://uslist.info/south-carolina/little-river/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/little-river/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/south-carolina/little-river/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/little-river/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/south-carolina/little-river/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/south-carolina/little-river/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/south-carolina/little-river/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/little-river/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/little-river/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-carolina/little-river/travel-leisure/hotels</loc></url>
@@ -1604,6 +1656,7 @@
   <url><loc>https://uslist.info/south-carolina/mauldin/health/dentists</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/health/doctors</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/south-carolina/mauldin/health/other-health</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/home-services</loc></url>
@@ -1611,6 +1664,7 @@
   <url><loc>https://uslist.info/south-carolina/mauldin/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/mauldin/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/professional</loc></url>
@@ -1633,6 +1687,7 @@
   <url><loc>https://uslist.info/south-carolina/mauldin/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/mauldin/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/mauldin/shopping/sporting-goods</loc></url>
@@ -1673,6 +1728,7 @@
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/health/doctors</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/health/hospitals</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/south-carolina/mount-pleasant/health/other-health</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/home-services</loc></url>
@@ -1681,6 +1737,7 @@
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/mount-pleasant/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/home-services/painters</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/professional</loc></url>
@@ -1704,6 +1761,7 @@
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/mount-pleasant/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/mount-pleasant/shopping/sporting-goods</loc></url>
@@ -1743,6 +1801,7 @@
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/health/doctors</loc></url>
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/health/hospitals</loc></url>
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/south-carolina/myrtle-beach/health/other-health</loc></url>
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/home-services</loc></url>
@@ -1767,6 +1826,7 @@
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/myrtle-beach/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/myrtle-beach/shopping/thrift-antiques</loc></url>
@@ -1810,7 +1870,6 @@
   <url><loc>https://uslist.info/south-carolina/newberry/professional/coworking</loc></url>
   <url><loc>https://uslist.info/south-carolina/newberry/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/newberry/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/south-carolina/newberry/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/newberry/professional/photography</loc></url>
   <url><loc>https://uslist.info/south-carolina/newberry/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/newberry/shopping/art-craft-supplies</loc></url>
@@ -1853,11 +1912,11 @@
   <url><loc>https://uslist.info/south-carolina/north-augusta/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-augusta/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-augusta/home-services</loc></url>
+  <url><loc>https://uslist.info/south-carolina/north-augusta/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-augusta/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-augusta/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-augusta/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-augusta/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/south-carolina/north-augusta/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-augusta/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-augusta/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-augusta/shopping/clothing</loc></url>
@@ -1905,6 +1964,7 @@
   <url><loc>https://uslist.info/south-carolina/north-charleston/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-charleston/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-charleston/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/north-charleston/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-charleston/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-charleston/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-charleston/professional/coworking</loc></url>
@@ -1923,6 +1983,7 @@
   <url><loc>https://uslist.info/south-carolina/north-charleston/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-charleston/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-charleston/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/north-charleston/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-charleston/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-charleston/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-charleston/travel-leisure/arts-entertainment</loc></url>
@@ -1976,6 +2037,7 @@
   <url><loc>https://uslist.info/south-carolina/north-myrtle-beach/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-myrtle-beach/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-myrtle-beach/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/north-myrtle-beach/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-myrtle-beach/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-myrtle-beach/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/north-myrtle-beach/shopping/sporting-goods</loc></url>
@@ -2056,12 +2118,12 @@
   <url><loc>https://uslist.info/south-carolina/parker/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/parker/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/professional/coworking</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/professional/employment</loc></url>
-  <url><loc>https://uslist.info/south-carolina/parker/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/shopping/art-craft-supplies</loc></url>
@@ -2072,6 +2134,7 @@
   <url><loc>https://uslist.info/south-carolina/parker/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/parker/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-carolina/parker/travel-leisure/recreation</loc></url>
@@ -2132,6 +2195,8 @@
   <url><loc>https://uslist.info/south-carolina/powdersville/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/powdersville/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/south-carolina/powdersville/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/powdersville/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/south-carolina/powdersville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/powdersville/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/powdersville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/powdersville/professional/photography</loc></url>
@@ -2141,6 +2206,7 @@
   <url><loc>https://uslist.info/south-carolina/powdersville/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/south-carolina/powdersville/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/powdersville/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/powdersville/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/powdersville/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/south-carolina/powdersville/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-carolina/powdersville/travel-leisure/hotels</loc></url>
@@ -2170,8 +2236,8 @@
   <url><loc>https://uslist.info/south-carolina/red-bank/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/south-carolina/red-bank/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/red-bank/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/red-bank/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/red-bank/professional</loc></url>
-  <url><loc>https://uslist.info/south-carolina/red-bank/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/red-bank/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/south-carolina/red-bank/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/red-bank/shopping/cannabis-vape</loc></url>
@@ -2202,8 +2268,7 @@
   <url><loc>https://uslist.info/south-carolina/red-hill/health/hospitals</loc></url>
   <url><loc>https://uslist.info/south-carolina/red-hill/home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/red-hill/home-services/movers-storage</loc></url>
-  <url><loc>https://uslist.info/south-carolina/red-hill/professional</loc></url>
-  <url><loc>https://uslist.info/south-carolina/red-hill/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/south-carolina/red-hill/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/red-hill/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/red-hill/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/red-hill/shopping/hardware-garden</loc></url>
@@ -2236,6 +2301,7 @@
   <url><loc>https://uslist.info/south-carolina/rock-hill/health/dentists</loc></url>
   <url><loc>https://uslist.info/south-carolina/rock-hill/health/doctors</loc></url>
   <url><loc>https://uslist.info/south-carolina/rock-hill/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/south-carolina/rock-hill/health/other-health</loc></url>
   <url><loc>https://uslist.info/south-carolina/rock-hill/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/south-carolina/rock-hill/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/south-carolina/rock-hill/home-services</loc></url>
@@ -2258,6 +2324,7 @@
   <url><loc>https://uslist.info/south-carolina/rock-hill/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/rock-hill/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/rock-hill/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/rock-hill/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/rock-hill/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/rock-hill/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/rock-hill/travel-leisure</loc></url>
@@ -2299,6 +2366,7 @@
   <url><loc>https://uslist.info/south-carolina/simpsonville/home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/simpsonville/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/south-carolina/simpsonville/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/simpsonville/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/simpsonville/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/south-carolina/simpsonville/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/simpsonville/professional/civic-government</loc></url>
@@ -2318,6 +2386,7 @@
   <url><loc>https://uslist.info/south-carolina/simpsonville/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/simpsonville/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/simpsonville/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/simpsonville/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/simpsonville/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/simpsonville/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/simpsonville/shopping/sporting-goods</loc></url>
@@ -2368,7 +2437,6 @@
   <url><loc>https://uslist.info/south-carolina/socastee/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/south-carolina/socastee/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/socastee/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/south-carolina/socastee/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/socastee/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/south-carolina/socastee/shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/socastee/shopping/bikes</loc></url>
@@ -2380,6 +2448,7 @@
   <url><loc>https://uslist.info/south-carolina/socastee/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/socastee/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/socastee/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/socastee/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/socastee/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/socastee/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/socastee/shopping/sporting-goods</loc></url>
@@ -2427,6 +2496,7 @@
   <url><loc>https://uslist.info/south-carolina/spartanburg/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/south-carolina/spartanburg/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/spartanburg/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/spartanburg/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/spartanburg/home-services/painters</loc></url>
   <url><loc>https://uslist.info/south-carolina/spartanburg/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/south-carolina/spartanburg/professional</loc></url>
@@ -2453,6 +2523,7 @@
   <url><loc>https://uslist.info/south-carolina/spartanburg/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/spartanburg/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/spartanburg/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/spartanburg/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/spartanburg/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/spartanburg/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/spartanburg/shopping/sporting-goods</loc></url>
@@ -2493,6 +2564,7 @@
   <url><loc>https://uslist.info/south-carolina/summerville/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/south-carolina/summerville/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/summerville/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/summerville/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/summerville/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/south-carolina/summerville/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/summerville/professional/funeral-services</loc></url>
@@ -2510,6 +2582,7 @@
   <url><loc>https://uslist.info/south-carolina/summerville/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/summerville/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/summerville/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/summerville/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/summerville/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/summerville/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/summerville/shopping/sporting-goods</loc></url>
@@ -2561,6 +2634,7 @@
   <url><loc>https://uslist.info/south-carolina/sumter/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/south-carolina/sumter/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/sumter/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/sumter/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/sumter/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/sumter/travel-leisure</loc></url>
   <url><loc>https://uslist.info/south-carolina/sumter/travel-leisure/arts-entertainment</loc></url>
@@ -2602,6 +2676,7 @@
   <url><loc>https://uslist.info/south-carolina/taylors/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/taylors/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/south-carolina/taylors/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/taylors/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/taylors/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/taylors/professional/coworking</loc></url>
   <url><loc>https://uslist.info/south-carolina/taylors/professional/employment</loc></url>
@@ -2617,6 +2692,7 @@
   <url><loc>https://uslist.info/south-carolina/taylors/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/south-carolina/taylors/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/south-carolina/taylors/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/taylors/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/taylors/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/taylors/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/taylors/shopping/thrift-antiques</loc></url>
@@ -2660,6 +2736,7 @@
   <url><loc>https://uslist.info/south-carolina/tega-cay/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/south-carolina/tega-cay/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/tega-cay/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/tega-cay/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/tega-cay/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/tega-cay/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/south-carolina/tega-cay/travel-leisure</loc></url>
@@ -2702,6 +2779,7 @@
   <url><loc>https://uslist.info/south-carolina/wade-hampton/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/south-carolina/wade-hampton/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/south-carolina/wade-hampton/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/wade-hampton/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/wade-hampton/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/south-carolina/wade-hampton/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/wade-hampton/professional/civic-government</loc></url>
@@ -2724,6 +2802,7 @@
   <url><loc>https://uslist.info/south-carolina/wade-hampton/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/wade-hampton/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/south-carolina/wade-hampton/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/south-carolina/wade-hampton/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/wade-hampton/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/wade-hampton/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/wade-hampton/shopping/sporting-goods</loc></url>
@@ -2765,13 +2844,13 @@
   <url><loc>https://uslist.info/south-carolina/west-columbia/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/south-carolina/west-columbia/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/professional</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/professional/coworking</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/professional/employment</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/south-carolina/west-columbia/professional/other-services</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/shopping</loc></url>
@@ -2782,7 +2861,9 @@
   <url><loc>https://uslist.info/south-carolina/west-columbia/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/south-carolina/west-columbia/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/south-carolina/west-columbia/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/south-carolina/west-columbia/shopping/thrift-antiques</loc></url>

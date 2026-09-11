@@ -9,14 +9,16 @@
   <url><loc>https://uslist.info/new-hampshire/amherst/food-drink</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/amherst/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/health</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/health/dentists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/amherst/home-services</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/amherst/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/professional/it-services</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/amherst/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/amherst/shopping/hardware-garden</loc></url>
@@ -49,6 +51,7 @@
   <url><loc>https://uslist.info/new-hampshire/bedford/home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/bedford/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-hampshire/bedford/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/bedford/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/bedford/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/bedford/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-hampshire/bedford/professional/nonprofits</loc></url>
@@ -85,11 +88,11 @@
   <url><loc>https://uslist.info/new-hampshire/claremont/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/health</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/claremont/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/health/hospitals</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/claremont/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/shopping/bikes</loc></url>
@@ -99,6 +102,7 @@
   <url><loc>https://uslist.info/new-hampshire/claremont/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/claremont/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/travel-leisure</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/travel-leisure/hotels</loc></url>
@@ -136,8 +140,10 @@
   <url><loc>https://uslist.info/new-hampshire/concord/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/concord/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/concord/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/home-services/painters</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/professional</loc></url>
@@ -161,6 +167,7 @@
   <url><loc>https://uslist.info/new-hampshire/concord/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/concord/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/new-hampshire/concord/shopping/thrift-antiques</loc></url>
@@ -223,6 +230,7 @@
   <url><loc>https://uslist.info/new-hampshire/derry/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/derry/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/derry/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/derry/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/derry/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/derry/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/new-hampshire/derry/shopping/thrift-antiques</loc></url>
@@ -285,8 +293,10 @@
   <url><loc>https://uslist.info/new-hampshire/dover/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/dover/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/dover/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/dover/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/dover/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/dover/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/dover/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/new-hampshire/dover/travel-leisure</loc></url>
   <url><loc>https://uslist.info/new-hampshire/dover/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/new-hampshire/dover/travel-leisure/hotels</loc></url>
@@ -324,6 +334,7 @@
   <url><loc>https://uslist.info/new-hampshire/durham/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/durham/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/new-hampshire/durham/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/durham/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-hampshire/durham/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/durham/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-hampshire/durham/professional/coworking</loc></url>
@@ -341,6 +352,7 @@
   <url><loc>https://uslist.info/new-hampshire/durham/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/new-hampshire/durham/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/durham/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/durham/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/durham/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/durham/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/new-hampshire/durham/travel-leisure</loc></url>
@@ -388,6 +400,7 @@
   <url><loc>https://uslist.info/new-hampshire/exeter/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-hampshire/exeter/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/exeter/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/exeter/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/exeter/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-hampshire/exeter/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/exeter/professional/civic-government</loc></url>
@@ -410,6 +423,7 @@
   <url><loc>https://uslist.info/new-hampshire/exeter/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/exeter/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/exeter/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/exeter/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/exeter/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/exeter/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/new-hampshire/exeter/shopping/sporting-goods</loc></url>
@@ -448,13 +462,13 @@
   <url><loc>https://uslist.info/new-hampshire/goffstown/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/professional/it-services</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/goffstown/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/travel-leisure</loc></url>
@@ -493,6 +507,7 @@
   <url><loc>https://uslist.info/new-hampshire/hampton/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hampton/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/professional/coworking</loc></url>
@@ -512,6 +527,7 @@
   <url><loc>https://uslist.info/new-hampshire/hampton/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hampton/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/shopping/sporting-goods</loc></url>
@@ -551,6 +567,7 @@
   <url><loc>https://uslist.info/new-hampshire/hanover/home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hanover/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hanover/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hanover/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hanover/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hanover/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hanover/professional/funeral-services</loc></url>
@@ -569,6 +586,7 @@
   <url><loc>https://uslist.info/new-hampshire/hanover/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hanover/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hanover/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hanover/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hanover/travel-leisure</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hanover/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hanover/travel-leisure/hotels</loc></url>
@@ -609,7 +627,6 @@
   <url><loc>https://uslist.info/new-hampshire/hooksett/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hooksett/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hooksett/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/hooksett/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hooksett/shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hooksett/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hooksett/shopping/books-music</loc></url>
@@ -618,6 +635,7 @@
   <url><loc>https://uslist.info/new-hampshire/hooksett/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hooksett/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hooksett/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hooksett/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hooksett/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hooksett/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hooksett/travel-leisure</loc></url>
@@ -657,11 +675,11 @@
   <url><loc>https://uslist.info/new-hampshire/hudson/home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hudson/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/home-services/painters</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/hudson/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/professional/photography</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/professional/schools-education</loc></url>
@@ -677,6 +695,7 @@
   <url><loc>https://uslist.info/new-hampshire/hudson/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hudson/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hudson/shopping/sporting-goods</loc></url>
@@ -715,10 +734,12 @@
   <url><loc>https://uslist.info/new-hampshire/keene/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/keene/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/keene/professional/coworking</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/professional/schools-education</loc></url>
@@ -732,6 +753,7 @@
   <url><loc>https://uslist.info/new-hampshire/keene/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/keene/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/new-hampshire/keene/travel-leisure</loc></url>
@@ -772,6 +794,7 @@
   <url><loc>https://uslist.info/new-hampshire/laconia/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-hampshire/laconia/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/laconia/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/laconia/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/laconia/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/new-hampshire/laconia/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/laconia/professional/civic-government</loc></url>
@@ -791,6 +814,7 @@
   <url><loc>https://uslist.info/new-hampshire/laconia/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/laconia/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/laconia/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/laconia/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/laconia/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/laconia/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/new-hampshire/laconia/shopping/sporting-goods</loc></url>
@@ -838,6 +862,7 @@
   <url><loc>https://uslist.info/new-hampshire/lebanon/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lebanon/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lebanon/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/lebanon/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lebanon/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lebanon/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lebanon/professional</loc></url>
@@ -863,6 +888,7 @@
   <url><loc>https://uslist.info/new-hampshire/lebanon/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lebanon/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lebanon/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/lebanon/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lebanon/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lebanon/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lebanon/shopping/sporting-goods</loc></url>
@@ -902,7 +928,6 @@
   <url><loc>https://uslist.info/new-hampshire/londonderry/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/londonderry/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/londonderry/professional/marketing-agencies</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/londonderry/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/londonderry/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/new-hampshire/londonderry/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-hampshire/londonderry/shopping</loc></url>
@@ -913,6 +938,7 @@
   <url><loc>https://uslist.info/new-hampshire/londonderry/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/londonderry/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/londonderry/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/londonderry/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/londonderry/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/londonderry/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/new-hampshire/londonderry/shopping/thrift-antiques</loc></url>
@@ -961,6 +987,7 @@
   <url><loc>https://uslist.info/new-hampshire/manchester/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/new-hampshire/manchester/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-hampshire/manchester/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/manchester/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/manchester/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/new-hampshire/manchester/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-hampshire/manchester/home-services/roofers</loc></url>
@@ -987,6 +1014,7 @@
   <url><loc>https://uslist.info/new-hampshire/manchester/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/manchester/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/manchester/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/manchester/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/manchester/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/manchester/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/new-hampshire/manchester/shopping/sporting-goods</loc></url>
@@ -1033,7 +1061,9 @@
   <url><loc>https://uslist.info/new-hampshire/merrimack/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-hampshire/merrimack/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/merrimack/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/merrimack/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/merrimack/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/merrimack/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/merrimack/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/merrimack/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/new-hampshire/merrimack/travel-leisure</loc></url>
@@ -1093,6 +1123,7 @@
   <url><loc>https://uslist.info/new-hampshire/milford/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/milford/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/milford/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/milford/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/milford/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/milford/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/new-hampshire/milford/shopping/sporting-goods</loc></url>
@@ -1140,6 +1171,7 @@
   <url><loc>https://uslist.info/new-hampshire/nashua/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-hampshire/nashua/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/nashua/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/nashua/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/nashua/home-services/painters</loc></url>
   <url><loc>https://uslist.info/new-hampshire/nashua/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-hampshire/nashua/professional</loc></url>
@@ -1164,6 +1196,7 @@
   <url><loc>https://uslist.info/new-hampshire/nashua/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/nashua/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/nashua/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/nashua/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/nashua/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/nashua/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/new-hampshire/nashua/shopping/sporting-goods</loc></url>
@@ -1196,7 +1229,6 @@
   <url><loc>https://uslist.info/new-hampshire/pelham/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/pelham/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping/art-craft-supplies</loc></url>
@@ -1205,6 +1237,7 @@
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/pelham/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/travel-leisure</loc></url>
@@ -1247,8 +1280,10 @@
   <url><loc>https://uslist.info/new-hampshire/portsmouth/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/portsmouth/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/home-services/painters</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/portsmouth/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/professional/coworking</loc></url>
@@ -1270,6 +1305,7 @@
   <url><loc>https://uslist.info/new-hampshire/portsmouth/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/portsmouth/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/new-hampshire/portsmouth/shopping/thrift-antiques</loc></url>
@@ -1309,6 +1345,7 @@
   <url><loc>https://uslist.info/new-hampshire/raymond/home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/raymond/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/professional/coworking</loc></url>
@@ -1323,8 +1360,10 @@
   <url><loc>https://uslist.info/new-hampshire/raymond/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/raymond/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/raymond/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/new-hampshire/raymond/travel-leisure</loc></url>
@@ -1356,6 +1395,7 @@
   <url><loc>https://uslist.info/new-hampshire/rochester/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-hampshire/rochester/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/new-hampshire/rochester/home-services</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/rochester/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/rochester/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/new-hampshire/rochester/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/rochester/professional/civic-government</loc></url>
@@ -1368,6 +1408,7 @@
   <url><loc>https://uslist.info/new-hampshire/rochester/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/new-hampshire/rochester/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/rochester/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/rochester/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/rochester/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/rochester/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/new-hampshire/rochester/travel-leisure</loc></url>
@@ -1407,6 +1448,8 @@
   <url><loc>https://uslist.info/new-hampshire/salem/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/salem/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/new-hampshire/salem/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/salem/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/salem/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/new-hampshire/salem/professional</loc></url>
   <url><loc>https://uslist.info/new-hampshire/salem/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/new-hampshire/salem/professional/coworking</loc></url>
@@ -1428,6 +1471,7 @@
   <url><loc>https://uslist.info/new-hampshire/salem/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/salem/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/new-hampshire/salem/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/salem/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/salem/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/new-hampshire/salem/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/new-hampshire/salem/shopping/sporting-goods</loc></url>
@@ -1487,18 +1531,19 @@
   <url><loc>https://uslist.info/new-hampshire/windham/health/dentists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/health/doctors</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/windham/health/other-health</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/home-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/professional</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/windham/professional/other-services</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/windham/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/travel-leisure</loc></url>
   <url><loc>https://uslist.info/new-hampshire/windham/travel-leisure/hotels</loc></url>

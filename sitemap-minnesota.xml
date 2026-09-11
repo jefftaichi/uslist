@@ -21,6 +21,7 @@
   <url><loc>https://uslist.info/minnesota/albert-lea/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/minnesota/albert-lea/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/minnesota/albert-lea/health</loc></url>
+  <url><loc>https://uslist.info/minnesota/albert-lea/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/albert-lea/health/hospitals</loc></url>
   <url><loc>https://uslist.info/minnesota/albert-lea/health/optometrists</loc></url>
   <url><loc>https://uslist.info/minnesota/albert-lea/health/pharmacies</loc></url>
@@ -28,7 +29,6 @@
   <url><loc>https://uslist.info/minnesota/albert-lea/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/minnesota/albert-lea/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/albert-lea/professional/marketing-agencies</loc></url>
-  <url><loc>https://uslist.info/minnesota/albert-lea/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/albert-lea/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/albert-lea/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/minnesota/albert-lea/shopping/clothing</loc></url>
@@ -68,7 +68,6 @@
   <url><loc>https://uslist.info/minnesota/alexandria/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/alexandria/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/alexandria/professional/employment</loc></url>
-  <url><loc>https://uslist.info/minnesota/alexandria/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/alexandria/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/alexandria/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/alexandria/shopping/art-craft-supplies</loc></url>
@@ -78,6 +77,7 @@
   <url><loc>https://uslist.info/minnesota/alexandria/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/alexandria/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/alexandria/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/alexandria/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/alexandria/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/alexandria/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/alexandria/travel-leisure/arts-entertainment</loc></url>
@@ -147,6 +147,7 @@
   <url><loc>https://uslist.info/minnesota/anoka/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/anoka/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/anoka/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/anoka/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/anoka/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/anoka/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/anoka/shopping/thrift-antiques</loc></url>
@@ -199,6 +200,7 @@
   <url><loc>https://uslist.info/minnesota/apple-valley/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/apple-valley/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/apple-valley/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/apple-valley/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/apple-valley/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/apple-valley/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/apple-valley/travel-leisure</loc></url>
@@ -227,12 +229,12 @@
   <url><loc>https://uslist.info/minnesota/austin/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/minnesota/austin/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/austin/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/minnesota/austin/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/austin/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/austin/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/austin/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/minnesota/austin/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/austin/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/austin/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/austin/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/austin/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/minnesota/austin/travel-leisure/hotels</loc></url>
@@ -268,6 +270,7 @@
   <url><loc>https://uslist.info/minnesota/bemidji/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/bemidji/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/bemidji/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/minnesota/bemidji/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/bemidji/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/minnesota/bemidji/home-services/painters</loc></url>
   <url><loc>https://uslist.info/minnesota/bemidji/professional</loc></url>
@@ -290,6 +293,7 @@
   <url><loc>https://uslist.info/minnesota/bemidji/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/bemidji/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/bemidji/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/bemidji/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/bemidji/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/bemidji/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/bemidji/shopping/thrift-antiques</loc></url>
@@ -321,11 +325,13 @@
   <url><loc>https://uslist.info/minnesota/blaine/health</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/health/doctors</loc></url>
+  <url><loc>https://uslist.info/minnesota/blaine/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/minnesota/blaine/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/professional/other-services</loc></url>
@@ -340,6 +346,7 @@
   <url><loc>https://uslist.info/minnesota/blaine/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/blaine/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/blaine/travel-leisure/hotels</loc></url>
@@ -382,7 +389,6 @@
   <url><loc>https://uslist.info/minnesota/bloomington/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/bloomington/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/bloomington/professional/employment</loc></url>
-  <url><loc>https://uslist.info/minnesota/bloomington/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/bloomington/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/bloomington/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/bloomington/shopping/art-craft-supplies</loc></url>
@@ -393,6 +399,7 @@
   <url><loc>https://uslist.info/minnesota/bloomington/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/bloomington/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/bloomington/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/bloomington/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/bloomington/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/bloomington/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/bloomington/shopping/thrift-antiques</loc></url>
@@ -431,7 +438,6 @@
   <url><loc>https://uslist.info/minnesota/brainerd/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/brainerd/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/brainerd/professional/employment</loc></url>
-  <url><loc>https://uslist.info/minnesota/brainerd/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/brainerd/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/brainerd/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/minnesota/brainerd/shopping/books-music</loc></url>
@@ -442,6 +448,7 @@
   <url><loc>https://uslist.info/minnesota/brainerd/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/brainerd/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/brainerd/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/brainerd/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/brainerd/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/brainerd/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/brainerd/shopping/thrift-antiques</loc></url>
@@ -466,14 +473,15 @@
   <url><loc>https://uslist.info/minnesota/brooklyn-center/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/minnesota/brooklyn-center/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/brooklyn-center/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/professional/marketing-agencies</loc></url>
-  <url><loc>https://uslist.info/minnesota/brooklyn-center/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-center/shopping/department-stores</loc></url>
@@ -521,6 +529,7 @@
   <url><loc>https://uslist.info/minnesota/brooklyn-park/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-park/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-park/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/brooklyn-park/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-park/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-park/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/brooklyn-park/travel-leisure/hotels</loc></url>
@@ -561,8 +570,10 @@
   <url><loc>https://uslist.info/minnesota/buffalo/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/minnesota/buffalo/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/buffalo/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/home-services/roofers</loc></url>
@@ -590,6 +601,8 @@
   <url><loc>https://uslist.info/minnesota/buffalo/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/buffalo/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/minnesota/buffalo/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/buffalo/travel-leisure/hotels</loc></url>
@@ -624,12 +637,12 @@
   <url><loc>https://uslist.info/minnesota/burnsville/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/burnsville/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/professional/it-services</loc></url>
-  <url><loc>https://uslist.info/minnesota/burnsville/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/shopping</loc></url>
@@ -641,8 +654,10 @@
   <url><loc>https://uslist.info/minnesota/burnsville/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/minnesota/burnsville/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/burnsville/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/burnsville/shopping/sporting-goods</loc></url>
@@ -673,16 +688,18 @@
   <url><loc>https://uslist.info/minnesota/champlin/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/minnesota/champlin/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/professional</loc></url>
-  <url><loc>https://uslist.info/minnesota/champlin/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/professional/photography</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/minnesota/champlin/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/champlin/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/champlin/travel-leisure/arts-entertainment</loc></url>
@@ -721,7 +738,6 @@
   <url><loc>https://uslist.info/minnesota/chanhassen/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/chanhassen/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/chanhassen/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/minnesota/chanhassen/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/chanhassen/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/minnesota/chanhassen/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/chanhassen/shopping/books-music</loc></url>
@@ -732,6 +748,7 @@
   <url><loc>https://uslist.info/minnesota/chanhassen/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/chanhassen/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/chanhassen/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/chanhassen/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/chanhassen/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/chanhassen/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/chanhassen/shopping/thrift-antiques</loc></url>
@@ -761,8 +778,8 @@
   <url><loc>https://uslist.info/minnesota/chaska/health</loc></url>
   <url><loc>https://uslist.info/minnesota/chaska/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/chaska/health/doctors</loc></url>
+  <url><loc>https://uslist.info/minnesota/chaska/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/chaska/professional</loc></url>
-  <url><loc>https://uslist.info/minnesota/chaska/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/chaska/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/minnesota/chaska/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/chaska/shopping/cannabis-vape</loc></url>
@@ -803,10 +820,12 @@
   <url><loc>https://uslist.info/minnesota/cloquet/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/health/hospitals</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/minnesota/cloquet/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/minnesota/cloquet/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/professional/civic-government</loc></url>
@@ -825,6 +844,7 @@
   <url><loc>https://uslist.info/minnesota/cloquet/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/cloquet/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/cloquet/travel-leisure</loc></url>
@@ -864,6 +884,7 @@
   <url><loc>https://uslist.info/minnesota/columbia-heights/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/minnesota/columbia-heights/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/columbia-heights/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/columbia-heights/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/columbia-heights/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/columbia-heights/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/columbia-heights/professional/employment</loc></url>
@@ -885,6 +906,7 @@
   <url><loc>https://uslist.info/minnesota/columbia-heights/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/columbia-heights/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/columbia-heights/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/columbia-heights/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/columbia-heights/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/columbia-heights/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/columbia-heights/travel-leisure/arts-entertainment</loc></url>
@@ -919,7 +941,9 @@
   <url><loc>https://uslist.info/minnesota/coon-rapids/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/minnesota/coon-rapids/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/coon-rapids/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/minnesota/coon-rapids/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/coon-rapids/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/coon-rapids/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/coon-rapids/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/coon-rapids/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/coon-rapids/travel-leisure/arts-entertainment</loc></url>
@@ -982,8 +1006,6 @@
   <url><loc>https://uslist.info/minnesota/crystal/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/minnesota/crystal/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/crystal/home-services/movers-storage</loc></url>
-  <url><loc>https://uslist.info/minnesota/crystal/professional</loc></url>
-  <url><loc>https://uslist.info/minnesota/crystal/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/crystal/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/crystal/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/minnesota/crystal/shopping/clothing</loc></url>
@@ -1023,15 +1045,19 @@
   <url><loc>https://uslist.info/minnesota/duluth/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/health/hospitals</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/minnesota/duluth/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/minnesota/duluth/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/duluth/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/minnesota/duluth/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/professional/employment</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/professional/it-services</loc></url>
@@ -1051,6 +1077,7 @@
   <url><loc>https://uslist.info/minnesota/duluth/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/duluth/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/duluth/shopping/sporting-goods</loc></url>
@@ -1088,14 +1115,17 @@
   <url><loc>https://uslist.info/minnesota/eagan/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/minnesota/eagan/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/minnesota/eagan/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/professional</loc></url>
+  <url><loc>https://uslist.info/minnesota/eagan/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/professional/employment</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/professional/other-services</loc></url>
@@ -1113,6 +1143,7 @@
   <url><loc>https://uslist.info/minnesota/eagan/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/eagan/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/eagan/shopping/thrift-antiques</loc></url>
@@ -1127,8 +1158,10 @@
   <url><loc>https://uslist.info/minnesota/east-bethel/food-drink/bars-nightlife</loc></url>
   <url><loc>https://uslist.info/minnesota/east-bethel/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/minnesota/east-bethel/food-drink/restaurants</loc></url>
-  <url><loc>https://uslist.info/minnesota/east-bethel/professional</loc></url>
-  <url><loc>https://uslist.info/minnesota/east-bethel/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/east-bethel/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/east-bethel/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/east-bethel/shopping</loc></url>
+  <url><loc>https://uslist.info/minnesota/east-bethel/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/east-bethel/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/east-bethel/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/minnesota/eden-prairie</loc></url>
@@ -1158,6 +1191,7 @@
   <url><loc>https://uslist.info/minnesota/eden-prairie/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/eden-prairie/health/hospitals</loc></url>
   <url><loc>https://uslist.info/minnesota/eden-prairie/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/minnesota/eden-prairie/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/eden-prairie/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/eden-prairie/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/eden-prairie/home-services</loc></url>
@@ -1166,6 +1200,7 @@
   <url><loc>https://uslist.info/minnesota/eden-prairie/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/minnesota/eden-prairie/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/minnesota/eden-prairie/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/eden-prairie/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/eden-prairie/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/eden-prairie/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/eden-prairie/professional/coworking</loc></url>
@@ -1224,6 +1259,7 @@
   <url><loc>https://uslist.info/minnesota/edina/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/minnesota/edina/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/edina/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/edina/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/edina/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/edina/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/edina/professional/employment</loc></url>
@@ -1244,6 +1280,7 @@
   <url><loc>https://uslist.info/minnesota/edina/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/edina/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/edina/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/edina/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/edina/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/edina/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/edina/shopping/thrift-antiques</loc></url>
@@ -1277,11 +1314,11 @@
   <url><loc>https://uslist.info/minnesota/elk-river/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/minnesota/elk-river/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/elk-river/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/minnesota/elk-river/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/elk-river/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/elk-river/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/elk-river/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/elk-river/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/elk-river/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/elk-river/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/elk-river/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/elk-river/travel-leisure</loc></url>
@@ -1301,10 +1338,9 @@
   <url><loc>https://uslist.info/minnesota/fairmont/health</loc></url>
   <url><loc>https://uslist.info/minnesota/fairmont/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/fairmont/health/hospitals</loc></url>
-  <url><loc>https://uslist.info/minnesota/fairmont/professional</loc></url>
-  <url><loc>https://uslist.info/minnesota/fairmont/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/fairmont/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/fairmont/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/fairmont/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/fairmont/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/fairmont/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/minnesota/fairmont/travel-leisure/hotels</loc></url>
@@ -1332,12 +1368,12 @@
   <url><loc>https://uslist.info/minnesota/faribault/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/minnesota/faribault/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/faribault/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/minnesota/faribault/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/faribault/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/minnesota/faribault/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/faribault/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/minnesota/faribault/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/faribault/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/faribault/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/faribault/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/faribault/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/faribault/travel-leisure</loc></url>
@@ -1373,6 +1409,7 @@
   <url><loc>https://uslist.info/minnesota/farmington/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/farmington/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/farmington/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/farmington/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/farmington/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/minnesota/farmington/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/farmington/professional/civic-government</loc></url>
@@ -1386,6 +1423,7 @@
   <url><loc>https://uslist.info/minnesota/farmington/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/farmington/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/farmington/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/farmington/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/farmington/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/farmington/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/farmington/travel-leisure</loc></url>
@@ -1417,8 +1455,10 @@
   <url><loc>https://uslist.info/minnesota/fergus-falls/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/fergus-falls/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/fergus-falls/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/fergus-falls/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/fergus-falls/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/fergus-falls/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/fergus-falls/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/fergus-falls/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/fergus-falls/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/fergus-falls/professional/coworking</loc></url>
@@ -1451,6 +1491,7 @@
   <url><loc>https://uslist.info/minnesota/fridley/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/fridley/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/fridley/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/fridley/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/fridley/home-services/painters</loc></url>
   <url><loc>https://uslist.info/minnesota/fridley/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/fridley/professional/coworking</loc></url>
@@ -1503,6 +1544,7 @@
   <url><loc>https://uslist.info/minnesota/golden-valley/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/minnesota/golden-valley/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/golden-valley/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/golden-valley/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/golden-valley/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/minnesota/golden-valley/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/golden-valley/professional/coworking</loc></url>
@@ -1518,7 +1560,9 @@
   <url><loc>https://uslist.info/minnesota/golden-valley/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/minnesota/golden-valley/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/golden-valley/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/minnesota/golden-valley/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/golden-valley/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/golden-valley/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/golden-valley/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/golden-valley/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/golden-valley/shopping/thrift-antiques</loc></url>
@@ -1550,8 +1594,9 @@
   <url><loc>https://uslist.info/minnesota/grand-forks/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/minnesota/grand-forks/health</loc></url>
   <url><loc>https://uslist.info/minnesota/grand-forks/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/minnesota/grand-forks/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/grand-forks/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/grand-forks/professional</loc></url>
-  <url><loc>https://uslist.info/minnesota/grand-forks/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/grand-forks/professional/photography</loc></url>
   <url><loc>https://uslist.info/minnesota/grand-forks/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/minnesota/grand-forks/shopping</loc></url>
@@ -1559,6 +1604,7 @@
   <url><loc>https://uslist.info/minnesota/grand-forks/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/minnesota/grand-forks/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/grand-forks/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/minnesota/grand-forks/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/grand-forks/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/grand-forks/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/grand-forks/travel-leisure/arts-entertainment</loc></url>
@@ -1616,6 +1662,7 @@
   <url><loc>https://uslist.info/minnesota/hastings/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/hastings/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/hastings/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/hastings/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/hastings/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/hastings/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/minnesota/hastings/travel-leisure/hotels</loc></url>
@@ -1641,6 +1688,7 @@
   <url><loc>https://uslist.info/minnesota/hibbing/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/hibbing/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/hibbing/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/minnesota/hibbing/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/hibbing/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/hibbing/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/hibbing/travel-leisure/arts-entertainment</loc></url>
@@ -1671,10 +1719,13 @@
   <url><loc>https://uslist.info/minnesota/hopkins/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/minnesota/hopkins/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/hopkins/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/home-services/landscaping</loc></url>
+  <url><loc>https://uslist.info/minnesota/hopkins/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/professional</loc></url>
@@ -1691,7 +1742,9 @@
   <url><loc>https://uslist.info/minnesota/hopkins/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/minnesota/hopkins/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/hopkins/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/hopkins/travel-leisure/arts-entertainment</loc></url>
@@ -1724,11 +1777,11 @@
   <url><loc>https://uslist.info/minnesota/hugo/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/minnesota/hugo/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/minnesota/hugo/professional</loc></url>
-  <url><loc>https://uslist.info/minnesota/hugo/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/hugo/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/hugo/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/hugo/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/hugo/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/hugo/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/hugo/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/hugo/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/hugo/travel-leisure/arts-entertainment</loc></url>
@@ -1764,7 +1817,6 @@
   <url><loc>https://uslist.info/minnesota/hutchinson/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/hutchinson/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/hutchinson/professional/employment</loc></url>
-  <url><loc>https://uslist.info/minnesota/hutchinson/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/hutchinson/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/minnesota/hutchinson/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/hutchinson/shopping/art-craft-supplies</loc></url>
@@ -1776,6 +1828,7 @@
   <url><loc>https://uslist.info/minnesota/hutchinson/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/hutchinson/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/hutchinson/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/hutchinson/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/hutchinson/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/hutchinson/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/hutchinson/shopping/thrift-antiques</loc></url>
@@ -1815,7 +1868,6 @@
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/minnesota/inver-grove-heights/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/shopping/bikes</loc></url>
@@ -1823,7 +1875,9 @@
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/minnesota/inver-grove-heights/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/inver-grove-heights/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/inver-grove-heights/travel-leisure/arts-entertainment</loc></url>
@@ -1862,7 +1916,9 @@
   <url><loc>https://uslist.info/minnesota/lakeville/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/lakeville/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/minnesota/lakeville/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/lakeville/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/lakeville/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/minnesota/lakeville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/lakeville/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/lakeville/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/lakeville/professional/employment</loc></url>
@@ -1879,6 +1935,7 @@
   <url><loc>https://uslist.info/minnesota/lakeville/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/lakeville/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/lakeville/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/lakeville/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/lakeville/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/lakeville/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/lakeville/travel-leisure</loc></url>
@@ -1908,10 +1965,10 @@
   <url><loc>https://uslist.info/minnesota/lino-lakes/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/minnesota/lino-lakes/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/home-services/painters</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/minnesota/lino-lakes/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/shopping/clothing</loc></url>
@@ -1919,6 +1976,7 @@
   <url><loc>https://uslist.info/minnesota/lino-lakes/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/lino-lakes/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/minnesota/lino-lakes/travel-leisure/recreation</loc></url>
@@ -1982,6 +2040,7 @@
   <url><loc>https://uslist.info/minnesota/mankato/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/mankato/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/mankato/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/mankato/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/mankato/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/mankato/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/mankato/shopping/sporting-goods</loc></url>
@@ -2021,6 +2080,7 @@
   <url><loc>https://uslist.info/minnesota/maple-grove/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/maple-grove/health/hospitals</loc></url>
   <url><loc>https://uslist.info/minnesota/maple-grove/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/minnesota/maple-grove/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/maple-grove/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/maple-grove/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/maple-grove/home-services</loc></url>
@@ -2048,6 +2108,7 @@
   <url><loc>https://uslist.info/minnesota/maple-grove/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/maple-grove/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/maple-grove/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/maple-grove/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/maple-grove/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/maple-grove/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/maple-grove/shopping/sporting-goods</loc></url>
@@ -2085,10 +2146,12 @@
   <url><loc>https://uslist.info/minnesota/maplewood/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/minnesota/maplewood/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/minnesota/maplewood/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/professional/coworking</loc></url>
@@ -2104,6 +2167,7 @@
   <url><loc>https://uslist.info/minnesota/maplewood/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/maplewood/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/maplewood/shopping/thrift-antiques</loc></url>
@@ -2151,6 +2215,7 @@
   <url><loc>https://uslist.info/minnesota/marshall/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/marshall/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/marshall/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/marshall/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/marshall/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/marshall/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/marshall/travel-leisure/hotels</loc></url>
@@ -2202,6 +2267,7 @@
   <url><loc>https://uslist.info/minnesota/mendota-heights/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/mendota-heights/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/mendota-heights/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/mendota-heights/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/mendota-heights/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/mendota-heights/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/mendota-heights/travel-leisure</loc></url>
@@ -2240,6 +2306,7 @@
   <url><loc>https://uslist.info/minnesota/minneapolis/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/health/hospitals</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/minnesota/minneapolis/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/home-services</loc></url>
@@ -2247,6 +2314,7 @@
   <url><loc>https://uslist.info/minnesota/minneapolis/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/minneapolis/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/home-services/painters</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/home-services/roofers</loc></url>
@@ -2274,6 +2342,7 @@
   <url><loc>https://uslist.info/minnesota/minneapolis/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/minneapolis/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/minneapolis/shopping/sporting-goods</loc></url>
@@ -2309,9 +2378,11 @@
   <url><loc>https://uslist.info/minnesota/minnetonka/health</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/health/doctors</loc></url>
+  <url><loc>https://uslist.info/minnesota/minnetonka/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/minnetonka/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/professional/civic-government</loc></url>
@@ -2324,6 +2395,7 @@
   <url><loc>https://uslist.info/minnesota/minnetonka/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/minnetonka/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/minnetonka/travel-leisure</loc></url>
@@ -2365,7 +2437,9 @@
   <url><loc>https://uslist.info/minnesota/monticello/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/minnesota/monticello/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/monticello/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/minnesota/monticello/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/monticello/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/monticello/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/monticello/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/monticello/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/monticello/travel-leisure/arts-entertainment</loc></url>
@@ -2413,6 +2487,7 @@
   <url><loc>https://uslist.info/minnesota/moorhead/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/moorhead/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/moorhead/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/moorhead/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/moorhead/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/moorhead/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/moorhead/travel-leisure/arts-entertainment</loc></url>
@@ -2436,6 +2511,8 @@
   <url><loc>https://uslist.info/minnesota/mounds-view/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/mounds-view/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/mounds-view/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/minnesota/mounds-view/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/mounds-view/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/mounds-view/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/mounds-view/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/mounds-view/professional/coworking</loc></url>
@@ -2443,6 +2520,7 @@
   <url><loc>https://uslist.info/minnesota/mounds-view/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/mounds-view/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/minnesota/mounds-view/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/minnesota/mounds-view/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/mounds-view/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/mounds-view/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/mounds-view/travel-leisure</loc></url>
@@ -2490,6 +2568,7 @@
   <url><loc>https://uslist.info/minnesota/new-brighton/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/new-brighton/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/new-brighton/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/minnesota/new-brighton/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/new-brighton/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/new-brighton/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/new-brighton/travel-leisure/hotels</loc></url>
@@ -2536,6 +2615,7 @@
   <url><loc>https://uslist.info/minnesota/new-hope/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/new-hope/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/new-hope/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/new-hope/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/new-hope/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/new-hope/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/new-hope/travel-leisure/recreation</loc></url>
@@ -2566,7 +2646,6 @@
   <url><loc>https://uslist.info/minnesota/new-ulm/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/new-ulm/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/new-ulm/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/minnesota/new-ulm/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/new-ulm/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/minnesota/new-ulm/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/new-ulm/shopping</loc></url>
@@ -2576,6 +2655,7 @@
   <url><loc>https://uslist.info/minnesota/new-ulm/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/new-ulm/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/new-ulm/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/new-ulm/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/new-ulm/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/new-ulm/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/minnesota/new-ulm/travel-leisure/hotels</loc></url>
@@ -2590,6 +2670,7 @@
   <url><loc>https://uslist.info/minnesota/north-branch/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/minnesota/north-branch/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/minnesota/north-branch/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/minnesota/north-branch/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/north-branch/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/minnesota/north-branch/health</loc></url>
   <url><loc>https://uslist.info/minnesota/north-branch/health/doctors</loc></url>
@@ -2632,6 +2713,7 @@
   <url><loc>https://uslist.info/minnesota/north-mankato/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/minnesota/north-mankato/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/north-mankato/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/north-mankato/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/north-mankato/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/north-mankato/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/north-mankato/travel-leisure/hotels</loc></url>
@@ -2684,6 +2766,7 @@
   <url><loc>https://uslist.info/minnesota/northfield/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/northfield/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/northfield/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/northfield/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/northfield/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/northfield/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/northfield/travel-leisure/arts-entertainment</loc></url>
@@ -2724,6 +2807,7 @@
   <url><loc>https://uslist.info/minnesota/oakdale/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/oakdale/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/oakdale/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/oakdale/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/oakdale/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/minnesota/oakdale/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/oakdale/professional/civic-government</loc></url>
@@ -2738,6 +2822,7 @@
   <url><loc>https://uslist.info/minnesota/oakdale/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/oakdale/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/oakdale/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/oakdale/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/oakdale/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/oakdale/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/oakdale/shopping/thrift-antiques</loc></url>
@@ -2750,10 +2835,12 @@
   <url><loc>https://uslist.info/minnesota/otsego/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/minnesota/otsego/food-drink</loc></url>
   <url><loc>https://uslist.info/minnesota/otsego/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/minnesota/otsego/health</loc></url>
+  <url><loc>https://uslist.info/minnesota/otsego/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/otsego/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/otsego/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/otsego/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/minnesota/otsego/professional</loc></url>
-  <url><loc>https://uslist.info/minnesota/otsego/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/otsego/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/owatonna</loc></url>
   <url><loc>https://uslist.info/minnesota/owatonna/automotive</loc></url>
@@ -2810,6 +2897,8 @@
   <url><loc>https://uslist.info/minnesota/plymouth/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/plymouth/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/plymouth/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/plymouth/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/minnesota/plymouth/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/plymouth/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/minnesota/plymouth/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/plymouth/professional/coworking</loc></url>
@@ -2879,14 +2968,16 @@
   <url><loc>https://uslist.info/minnesota/ramsey/health</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/health/doctors</loc></url>
+  <url><loc>https://uslist.info/minnesota/ramsey/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/ramsey/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/minnesota/ramsey/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/professional/photography</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/minnesota/ramsey/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/ramsey/travel-leisure/hotels</loc></url>
@@ -2912,8 +3003,8 @@
   <url><loc>https://uslist.info/minnesota/red-wing/health/hospitals</loc></url>
   <url><loc>https://uslist.info/minnesota/red-wing/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/red-wing/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/minnesota/red-wing/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/red-wing/professional</loc></url>
-  <url><loc>https://uslist.info/minnesota/red-wing/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/red-wing/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/minnesota/red-wing/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/red-wing/shopping/books-music</loc></url>
@@ -2965,6 +3056,7 @@
   <url><loc>https://uslist.info/minnesota/richfield/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/richfield/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/richfield/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/richfield/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/richfield/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/richfield/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/richfield/professional/coworking</loc></url>
@@ -2986,6 +3078,7 @@
   <url><loc>https://uslist.info/minnesota/richfield/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/richfield/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/richfield/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/richfield/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/richfield/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/richfield/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/richfield/shopping/sporting-goods</loc></url>
@@ -3021,17 +3114,18 @@
   <url><loc>https://uslist.info/minnesota/robbinsdale/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/minnesota/robbinsdale/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/minnesota/robbinsdale/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/professional/marketing-agencies</loc></url>
-  <url><loc>https://uslist.info/minnesota/robbinsdale/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/shopping/bikes</loc></url>
@@ -3043,6 +3137,7 @@
   <url><loc>https://uslist.info/minnesota/robbinsdale/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/robbinsdale/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/robbinsdale/travel-leisure</loc></url>
@@ -3077,6 +3172,7 @@
   <url><loc>https://uslist.info/minnesota/rochester/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/minnesota/rochester/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/home-services</loc></url>
@@ -3084,6 +3180,7 @@
   <url><loc>https://uslist.info/minnesota/rochester/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/rochester/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/professional</loc></url>
@@ -3105,6 +3202,7 @@
   <url><loc>https://uslist.info/minnesota/rochester/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/rochester/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/rochester/shopping/sporting-goods</loc></url>
@@ -3150,6 +3248,7 @@
   <url><loc>https://uslist.info/minnesota/rogers/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/rogers/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/rogers/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/rogers/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/rogers/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/rogers/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/rogers/travel-leisure</loc></url>
@@ -3178,13 +3277,13 @@
   <url><loc>https://uslist.info/minnesota/rosemount/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/rosemount/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/rosemount/professional/it-services</loc></url>
-  <url><loc>https://uslist.info/minnesota/rosemount/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/rosemount/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/rosemount/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/rosemount/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/minnesota/rosemount/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/rosemount/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/rosemount/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/rosemount/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/rosemount/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/rosemount/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/rosemount/travel-leisure/arts-entertainment</loc></url>
@@ -3219,6 +3318,7 @@
   <url><loc>https://uslist.info/minnesota/roseville/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/minnesota/roseville/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/home-services</loc></url>
@@ -3226,7 +3326,9 @@
   <url><loc>https://uslist.info/minnesota/roseville/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/roseville/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/minnesota/roseville/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/professional/civic-government</loc></url>
@@ -3252,6 +3354,7 @@
   <url><loc>https://uslist.info/minnesota/roseville/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/roseville/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/roseville/shopping/sporting-goods</loc></url>
@@ -3290,10 +3393,12 @@
   <url><loc>https://uslist.info/minnesota/saint-cloud/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/health/hospitals</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/minnesota/saint-cloud/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/saint-cloud/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/professional/employment</loc></url>
@@ -3315,6 +3420,7 @@
   <url><loc>https://uslist.info/minnesota/saint-cloud/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/saint-cloud/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-cloud/shopping/sporting-goods</loc></url>
@@ -3361,6 +3467,7 @@
   <url><loc>https://uslist.info/minnesota/saint-louis-park/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-louis-park/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-louis-park/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/saint-louis-park/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-louis-park/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-louis-park/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-louis-park/home-services/roofers</loc></url>
@@ -3388,6 +3495,7 @@
   <url><loc>https://uslist.info/minnesota/saint-louis-park/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-louis-park/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-louis-park/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/saint-louis-park/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-louis-park/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-louis-park/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-louis-park/shopping/sporting-goods</loc></url>
@@ -3419,7 +3527,6 @@
   <url><loc>https://uslist.info/minnesota/saint-michael/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-michael/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-michael/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/minnesota/saint-michael/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-michael/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-michael/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-michael/shopping/clothing</loc></url>
@@ -3470,6 +3577,7 @@
   <url><loc>https://uslist.info/minnesota/saint-paul/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-paul/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-paul/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/saint-paul/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-paul/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-paul/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-paul/professional</loc></url>
@@ -3494,6 +3602,7 @@
   <url><loc>https://uslist.info/minnesota/saint-paul/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-paul/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-paul/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/saint-paul/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-paul/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-paul/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-paul/shopping/sporting-goods</loc></url>
@@ -3525,14 +3634,16 @@
   <url><loc>https://uslist.info/minnesota/saint-peter/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/health/hospitals</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/minnesota/saint-peter/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/saint-peter/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/professional</loc></url>
-  <url><loc>https://uslist.info/minnesota/saint-peter/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/minnesota/saint-peter/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/saint-peter/travel-leisure/hotels</loc></url>
@@ -3615,11 +3726,13 @@
   <url><loc>https://uslist.info/minnesota/savage/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/minnesota/savage/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/home-services/landscaping</loc></url>
+  <url><loc>https://uslist.info/minnesota/savage/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/professional/coworking</loc></url>
@@ -3634,6 +3747,7 @@
   <url><loc>https://uslist.info/minnesota/savage/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/savage/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/savage/travel-leisure</loc></url>
@@ -3672,8 +3786,10 @@
   <url><loc>https://uslist.info/minnesota/shakopee/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/home-services</loc></url>
+  <url><loc>https://uslist.info/minnesota/shakopee/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/shakopee/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/professional/civic-government</loc></url>
@@ -3695,6 +3811,7 @@
   <url><loc>https://uslist.info/minnesota/shakopee/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/shakopee/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/shakopee/shopping/sporting-goods</loc></url>
@@ -3723,6 +3840,7 @@
   <url><loc>https://uslist.info/minnesota/shoreview/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/minnesota/shoreview/health</loc></url>
   <url><loc>https://uslist.info/minnesota/shoreview/health/doctors</loc></url>
+  <url><loc>https://uslist.info/minnesota/shoreview/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/shoreview/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/shoreview/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/shoreview/home-services</loc></url>
@@ -3741,6 +3859,7 @@
   <url><loc>https://uslist.info/minnesota/shoreview/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/shoreview/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/shoreview/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/minnesota/shoreview/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/shoreview/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/shoreview/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/shoreview/travel-leisure/arts-entertainment</loc></url>
@@ -3775,6 +3894,7 @@
   <url><loc>https://uslist.info/minnesota/south-saint-paul/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/minnesota/south-saint-paul/home-services/painters</loc></url>
   <url><loc>https://uslist.info/minnesota/south-saint-paul/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/minnesota/south-saint-paul/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/south-saint-paul/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/south-saint-paul/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/minnesota/south-saint-paul/professional/other-services</loc></url>
@@ -3782,7 +3902,9 @@
   <url><loc>https://uslist.info/minnesota/south-saint-paul/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/south-saint-paul/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/minnesota/south-saint-paul/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/minnesota/south-saint-paul/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/south-saint-paul/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/south-saint-paul/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/south-saint-paul/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/minnesota/south-saint-paul/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/south-saint-paul/travel-leisure/hotels</loc></url>
@@ -3817,10 +3939,10 @@
   <url><loc>https://uslist.info/minnesota/stillwater/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/stillwater/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/minnesota/stillwater/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/stillwater/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/stillwater/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/stillwater/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/stillwater/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/minnesota/stillwater/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/stillwater/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/stillwater/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/minnesota/stillwater/shopping/cannabis-vape</loc></url>
@@ -3878,6 +4000,7 @@
   <url><loc>https://uslist.info/minnesota/vadnais-heights/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/vadnais-heights/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/vadnais-heights/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/vadnais-heights/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/vadnais-heights/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/vadnais-heights/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/vadnais-heights/travel-leisure/hotels</loc></url>
@@ -3916,7 +4039,6 @@
   <url><loc>https://uslist.info/minnesota/west-saint-paul/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/west-saint-paul/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/west-saint-paul/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/minnesota/west-saint-paul/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/west-saint-paul/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/minnesota/west-saint-paul/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/west-saint-paul/shopping/art-craft-supplies</loc></url>
@@ -3927,6 +4049,7 @@
   <url><loc>https://uslist.info/minnesota/west-saint-paul/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/minnesota/west-saint-paul/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/west-saint-paul/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/west-saint-paul/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/west-saint-paul/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/west-saint-paul/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/minnesota/west-saint-paul/travel-leisure</loc></url>
@@ -3946,6 +4069,7 @@
   <url><loc>https://uslist.info/minnesota/white-bear-lake/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/minnesota/white-bear-lake/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/health</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/health/doctors</loc></url>
@@ -3954,12 +4078,11 @@
   <url><loc>https://uslist.info/minnesota/white-bear-lake/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/home-services/movers-storage</loc></url>
-  <url><loc>https://uslist.info/minnesota/white-bear-lake/professional</loc></url>
-  <url><loc>https://uslist.info/minnesota/white-bear-lake/professional/other-services</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/minnesota/white-bear-lake/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/travel-leisure</loc></url>
   <url><loc>https://uslist.info/minnesota/white-bear-lake/travel-leisure/hotels</loc></url>
@@ -4025,8 +4148,10 @@
   <url><loc>https://uslist.info/minnesota/willmar/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/willmar/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/willmar/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/minnesota/willmar/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/minnesota/willmar/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/minnesota/willmar/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/minnesota/willmar/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/willmar/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/minnesota/willmar/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/willmar/professional/funeral-services</loc></url>
@@ -4122,11 +4247,13 @@
   <url><loc>https://uslist.info/minnesota/woodbury/health/dentists</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/health/doctors</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/minnesota/woodbury/health/other-health</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/home-services</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/minnesota/woodbury/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/professional</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/professional/coworking</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/professional/employment</loc></url>
@@ -4144,6 +4271,7 @@
   <url><loc>https://uslist.info/minnesota/woodbury/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/minnesota/woodbury/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/minnesota/woodbury/shopping/sporting-goods</loc></url>

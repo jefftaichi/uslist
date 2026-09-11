@@ -37,6 +37,8 @@
   <url><loc>https://uslist.info/hawaii/aiea/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/hawaii/aiea/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/hawaii/aiea/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/hawaii/aiea/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/hawaii/aiea/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/hawaii/aiea/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/aiea/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/hawaii/aiea/professional/coworking</loc></url>
@@ -57,6 +59,7 @@
   <url><loc>https://uslist.info/hawaii/aiea/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/hawaii/aiea/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/hawaii/aiea/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/hawaii/aiea/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/aiea/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/aiea/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/hawaii/aiea/travel-leisure</loc></url>
@@ -91,6 +94,7 @@
   <url><loc>https://uslist.info/hawaii/east-honolulu/home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/hawaii/east-honolulu/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/professional/other-services</loc></url>
@@ -103,7 +107,9 @@
   <url><loc>https://uslist.info/hawaii/east-honolulu/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/hawaii/east-honolulu/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/hawaii/east-honolulu/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/travel-leisure/hotels</loc></url>
@@ -174,7 +180,10 @@
   <url><loc>https://uslist.info/hawaii/hilo/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/hawaii/hilo/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/hawaii/hilo/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/hawaii/hilo/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/professional/coworking</loc></url>
@@ -195,6 +204,7 @@
   <url><loc>https://uslist.info/hawaii/hilo/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/hawaii/hilo/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/shopping/sporting-goods</loc></url>
@@ -243,6 +253,7 @@
   <url><loc>https://uslist.info/hawaii/honolulu/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/hawaii/honolulu/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/hawaii/honolulu/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/hawaii/honolulu/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/honolulu/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/hawaii/honolulu/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/hawaii/honolulu/professional</loc></url>
@@ -267,6 +278,7 @@
   <url><loc>https://uslist.info/hawaii/honolulu/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/hawaii/honolulu/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/hawaii/honolulu/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/hawaii/honolulu/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/honolulu/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/honolulu/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/hawaii/honolulu/shopping/sporting-goods</loc></url>
@@ -309,6 +321,7 @@
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/hawaii/k-ne-ohe/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/travel-leisure/arts-entertainment</loc></url>
@@ -334,13 +347,13 @@
   <url><loc>https://uslist.info/hawaii/kahului/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/hawaii/kahului/professional/other-services</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/hawaii/kahului/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/travel-leisure/arts-entertainment</loc></url>
@@ -368,16 +381,17 @@
   <url><loc>https://uslist.info/hawaii/kailua/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/home-services</loc></url>
+  <url><loc>https://uslist.info/hawaii/kailua/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/professional/it-services</loc></url>
-  <url><loc>https://uslist.info/hawaii/kailua/professional/other-services</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/hawaii/kailua/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/travel-leisure/arts-entertainment</loc></url>
@@ -406,7 +420,6 @@
   <url><loc>https://uslist.info/hawaii/kapolei/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/hawaii/kapolei/professional/other-services</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/professional/photography</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/shopping/cannabis-vape</loc></url>
@@ -414,6 +427,7 @@
   <url><loc>https://uslist.info/hawaii/kapolei/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/hawaii/kapolei/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/travel-leisure/hotels</loc></url>
@@ -439,13 +453,13 @@
   <url><loc>https://uslist.info/hawaii/kihei/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/professional/coworking</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/hawaii/kihei/professional/other-services</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/professional/photography</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/hawaii/kihei/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/travel-leisure/arts-entertainment</loc></url>
@@ -485,7 +499,9 @@
   <url><loc>https://uslist.info/hawaii/lahaina/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/hawaii/lahaina/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/hawaii/lahaina/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/travel-leisure/hotels</loc></url>
@@ -525,6 +541,7 @@
   <url><loc>https://uslist.info/hawaii/mililani/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/hawaii/mililani/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/home-services/painters</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/home-services/roofers</loc></url>
@@ -544,6 +561,7 @@
   <url><loc>https://uslist.info/hawaii/mililani/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/hawaii/mililani/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/shopping/sporting-goods</loc></url>
@@ -569,17 +587,18 @@
   <url><loc>https://uslist.info/hawaii/n-n-kuli/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/health</loc></url>
+  <url><loc>https://uslist.info/hawaii/n-n-kuli/health/doctors</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/hawaii/n-n-kuli/professional/other-services</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/hawaii/n-n-kuli/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city</loc></url>
@@ -612,6 +631,7 @@
   <url><loc>https://uslist.info/hawaii/pearl-city/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/hawaii/pearl-city/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/home-services/roofers</loc></url>
@@ -633,6 +653,7 @@
   <url><loc>https://uslist.info/hawaii/pearl-city/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/hawaii/pearl-city/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/travel-leisure</loc></url>
@@ -659,12 +680,12 @@
   <url><loc>https://uslist.info/hawaii/wai-anae/health/dentists</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/health/doctors</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/hawaii/wai-anae/health/other-health</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/hawaii/wai-anae/professional/other-services</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping/cannabis-vape</loc></url>
@@ -672,6 +693,7 @@
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/hawaii/wai-anae/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/travel-leisure</loc></url>
@@ -700,6 +722,7 @@
   <url><loc>https://uslist.info/hawaii/wailuku/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailuku/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/travel-leisure/recreation</loc></url>
@@ -734,6 +757,7 @@
   <url><loc>https://uslist.info/hawaii/waipahu/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/hawaii/waipahu/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/professional/civic-government</loc></url>
@@ -750,6 +774,7 @@
   <url><loc>https://uslist.info/hawaii/waipahu/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/hawaii/waipahu/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/shopping/sporting-goods</loc></url>

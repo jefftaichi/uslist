@@ -18,11 +18,12 @@
   <url><loc>https://uslist.info/rhode-island/barrington/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/rhode-island/barrington/health</loc></url>
   <url><loc>https://uslist.info/rhode-island/barrington/health/pharmacies</loc></url>
-  <url><loc>https://uslist.info/rhode-island/barrington/professional</loc></url>
-  <url><loc>https://uslist.info/rhode-island/barrington/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/rhode-island/barrington/home-services</loc></url>
+  <url><loc>https://uslist.info/rhode-island/barrington/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/rhode-island/barrington/shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/barrington/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/rhode-island/barrington/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/rhode-island/barrington/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/barrington/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/barrington/travel-leisure</loc></url>
   <url><loc>https://uslist.info/rhode-island/barrington/travel-leisure/recreation</loc></url>
@@ -37,10 +38,13 @@
   <url><loc>https://uslist.info/rhode-island/bristol/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/rhode-island/bristol/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/rhode-island/bristol/home-services</loc></url>
+  <url><loc>https://uslist.info/rhode-island/bristol/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/rhode-island/bristol/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/rhode-island/bristol/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/bristol/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/rhode-island/bristol/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/rhode-island/bristol/shopping</loc></url>
+  <url><loc>https://uslist.info/rhode-island/bristol/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/bristol/travel-leisure</loc></url>
   <url><loc>https://uslist.info/rhode-island/bristol/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/rhode-island/bristol/travel-leisure/recreation</loc></url>
@@ -133,6 +137,8 @@
   <url><loc>https://uslist.info/rhode-island/cranston/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/rhode-island/cranston/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/rhode-island/cranston/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/rhode-island/cranston/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/rhode-island/cranston/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/rhode-island/cranston/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/cranston/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/rhode-island/cranston/professional/coworking</loc></url>
@@ -149,6 +155,7 @@
   <url><loc>https://uslist.info/rhode-island/cranston/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/rhode-island/cranston/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/rhode-island/cranston/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/rhode-island/cranston/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/cranston/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/cranston/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/rhode-island/cranston/shopping/thrift-antiques</loc></url>
@@ -211,6 +218,7 @@
   <url><loc>https://uslist.info/rhode-island/east-greenwich/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-greenwich/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-greenwich/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/rhode-island/east-greenwich/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-greenwich/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-greenwich/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-greenwich/professional/civic-government</loc></url>
@@ -232,6 +240,7 @@
   <url><loc>https://uslist.info/rhode-island/east-greenwich/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-greenwich/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-greenwich/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/rhode-island/east-greenwich/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-greenwich/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-greenwich/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-greenwich/shopping/sporting-goods</loc></url>
@@ -266,7 +275,9 @@
   <url><loc>https://uslist.info/rhode-island/east-providence/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-providence/home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-providence/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/rhode-island/east-providence/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-providence/home-services/painters</loc></url>
+  <url><loc>https://uslist.info/rhode-island/east-providence/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-providence/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-providence/professional/coworking</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-providence/professional/nonprofits</loc></url>
@@ -283,6 +294,7 @@
   <url><loc>https://uslist.info/rhode-island/east-providence/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-providence/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-providence/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/rhode-island/east-providence/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-providence/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-providence/travel-leisure</loc></url>
   <url><loc>https://uslist.info/rhode-island/east-providence/travel-leisure/hotels</loc></url>
@@ -316,13 +328,13 @@
   <url><loc>https://uslist.info/rhode-island/johnston/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/johnston/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/rhode-island/johnston/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/rhode-island/johnston/professional/other-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/johnston/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/rhode-island/johnston/shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/johnston/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/johnston/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/rhode-island/johnston/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/rhode-island/johnston/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/rhode-island/johnston/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/johnston/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/lincoln</loc></url>
   <url><loc>https://uslist.info/rhode-island/lincoln/automotive</loc></url>
@@ -369,11 +381,11 @@
   <url><loc>https://uslist.info/rhode-island/middletown/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/rhode-island/middletown/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/rhode-island/middletown/professional/other-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/shopping</loc></url>
@@ -416,11 +428,11 @@
   <url><loc>https://uslist.info/rhode-island/narragansett/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/rhode-island/narragansett/professional/other-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/travel-leisure</loc></url>
@@ -455,6 +467,7 @@
   <url><loc>https://uslist.info/rhode-island/newport/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/rhode-island/newport/home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/newport/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/rhode-island/newport/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/newport/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/newport/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/rhode-island/newport/professional/coworking</loc></url>
@@ -470,6 +483,7 @@
   <url><loc>https://uslist.info/rhode-island/newport/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/rhode-island/newport/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/rhode-island/newport/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/rhode-island/newport/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/newport/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/rhode-island/newport/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/rhode-island/newport/shopping/thrift-antiques</loc></url>
@@ -510,6 +524,7 @@
   <url><loc>https://uslist.info/rhode-island/north-kingstown/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-kingstown/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-kingstown/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/rhode-island/north-kingstown/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-kingstown/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-kingstown/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-kingstown/travel-leisure</loc></url>
@@ -548,6 +563,7 @@
   <url><loc>https://uslist.info/rhode-island/north-providence/home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-providence/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-providence/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/rhode-island/north-providence/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-providence/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-providence/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-providence/professional/funeral-services</loc></url>
@@ -562,6 +578,7 @@
   <url><loc>https://uslist.info/rhode-island/north-providence/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-providence/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-providence/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/rhode-island/north-providence/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-providence/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-providence/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-providence/shopping/thrift-antiques</loc></url>
@@ -606,12 +623,12 @@
   <url><loc>https://uslist.info/rhode-island/pawtucket/professional/coworking</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/professional/marketing-agencies</loc></url>
-  <url><loc>https://uslist.info/rhode-island/pawtucket/professional/other-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/rhode-island/pawtucket/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/travel-leisure</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/travel-leisure/recreation</loc></url>
@@ -687,6 +704,7 @@
   <url><loc>https://uslist.info/rhode-island/providence/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/rhode-island/providence/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/rhode-island/providence/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/rhode-island/providence/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/providence/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/providence/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/rhode-island/providence/shopping/sporting-goods</loc></url>
@@ -736,6 +754,7 @@
   <url><loc>https://uslist.info/rhode-island/south-kingstown/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/rhode-island/south-kingstown/home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/south-kingstown/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/rhode-island/south-kingstown/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/south-kingstown/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/south-kingstown/professional/it-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/south-kingstown/professional/other-services</loc></url>
@@ -745,6 +764,7 @@
   <url><loc>https://uslist.info/rhode-island/south-kingstown/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/south-kingstown/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/rhode-island/south-kingstown/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/rhode-island/south-kingstown/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/rhode-island/south-kingstown/travel-leisure</loc></url>
   <url><loc>https://uslist.info/rhode-island/south-kingstown/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/rhode-island/tiverton</loc></url>
@@ -825,6 +845,7 @@
   <url><loc>https://uslist.info/rhode-island/warwick/health/doctors</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/health/hospitals</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/rhode-island/warwick/health/other-health</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/home-services</loc></url>
@@ -845,8 +866,10 @@
   <url><loc>https://uslist.info/rhode-island/warwick/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/rhode-island/warwick/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/rhode-island/warwick/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/travel-leisure</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/rhode-island/warwick/travel-leisure/recreation</loc></url>
@@ -879,12 +902,12 @@
   <url><loc>https://uslist.info/rhode-island/west-warwick/home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/rhode-island/west-warwick/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/professional/coworking</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/professional/marketing-agencies</loc></url>
-  <url><loc>https://uslist.info/rhode-island/west-warwick/professional/other-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/professional/photography</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/professional/schools-education</loc></url>
@@ -897,8 +920,10 @@
   <url><loc>https://uslist.info/rhode-island/west-warwick/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/rhode-island/west-warwick/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/rhode-island/west-warwick/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/travel-leisure</loc></url>
   <url><loc>https://uslist.info/rhode-island/west-warwick/travel-leisure/hotels</loc></url>
@@ -927,7 +952,6 @@
   <url><loc>https://uslist.info/rhode-island/westerly/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/rhode-island/westerly/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/westerly/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/rhode-island/westerly/professional/other-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/westerly/professional/photography</loc></url>
   <url><loc>https://uslist.info/rhode-island/westerly/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/rhode-island/westerly/shopping</loc></url>
@@ -967,13 +991,13 @@
   <url><loc>https://uslist.info/rhode-island/woonsocket/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/rhode-island/woonsocket/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/woonsocket/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/rhode-island/woonsocket/professional/other-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/woonsocket/shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/woonsocket/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/woonsocket/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/rhode-island/woonsocket/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/rhode-island/woonsocket/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/rhode-island/woonsocket/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/rhode-island/woonsocket/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/woonsocket/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/woonsocket/travel-leisure</loc></url>
   <url><loc>https://uslist.info/rhode-island/woonsocket/travel-leisure/arts-entertainment</loc></url>
