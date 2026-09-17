@@ -3,7 +3,6 @@
   <url><loc>https://uslist.info/oregon</loc></url>
   <url><loc>https://uslist.info/oregon/albany</loc></url>
   <url><loc>https://uslist.info/oregon/albany/automotive</loc></url>
-  <url><loc>https://uslist.info/oregon/albany/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/oregon/albany/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/oregon/albany/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/oregon/albany/automotive/car-wash</loc></url>
@@ -42,7 +41,6 @@
   <url><loc>https://uslist.info/oregon/albany/professional</loc></url>
   <url><loc>https://uslist.info/oregon/albany/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/albany/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/oregon/albany/professional/it-services</loc></url>
   <url><loc>https://uslist.info/oregon/albany/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/albany/professional/other-services</loc></url>
   <url><loc>https://uslist.info/oregon/albany/professional/schools-education</loc></url>
@@ -93,6 +91,7 @@
   <url><loc>https://uslist.info/oregon/altamont/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/oregon/altamont/professional</loc></url>
   <url><loc>https://uslist.info/oregon/altamont/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/altamont/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/altamont/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/oregon/altamont/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/altamont/shopping</loc></url>
@@ -112,12 +111,10 @@
   <url><loc>https://uslist.info/oregon/ashland/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/automotive/car-dealers</loc></url>
-  <url><loc>https://uslist.info/oregon/ashland/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/beauty-wellness/hair-beauty</loc></url>
-  <url><loc>https://uslist.info/oregon/ashland/beauty-wellness/spas-massage</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/financial-legal</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/financial-legal/banks</loc></url>
@@ -134,18 +131,13 @@
   <url><loc>https://uslist.info/oregon/ashland/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/health</loc></url>
-  <url><loc>https://uslist.info/oregon/ashland/health/dentists</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/health/doctors</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/health/hospitals</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/health/optometrists</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/home-services</loc></url>
-  <url><loc>https://uslist.info/oregon/ashland/home-services/electricians</loc></url>
-  <url><loc>https://uslist.info/oregon/ashland/home-services/hvac</loc></url>
-  <url><loc>https://uslist.info/oregon/ashland/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/home-services/movers-storage</loc></url>
-  <url><loc>https://uslist.info/oregon/ashland/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/professional</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/professional/civic-government</loc></url>
@@ -153,7 +145,6 @@
   <url><loc>https://uslist.info/oregon/ashland/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/professional/other-services</loc></url>
-  <url><loc>https://uslist.info/oregon/ashland/professional/photography</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/ashland/shopping</loc></url>
@@ -217,6 +208,7 @@
   <url><loc>https://uslist.info/oregon/astoria/professional/coworking</loc></url>
   <url><loc>https://uslist.info/oregon/astoria/professional/employment</loc></url>
   <url><loc>https://uslist.info/oregon/astoria/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/oregon/astoria/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/astoria/professional/other-services</loc></url>
   <url><loc>https://uslist.info/oregon/astoria/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/astoria/shopping</loc></url>
@@ -240,6 +232,50 @@
   <url><loc>https://uslist.info/oregon/astoria/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/astoria/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/astoria/travel-leisure/travel-agents</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/financial-legal/accountants</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/financial-legal/financial-services</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/health</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/shopping/art-craft-supplies</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/shopping/bikes</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/baker-city/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/beaverton</loc></url>
   <url><loc>https://uslist.info/oregon/beaverton/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/beaverton/automotive/auto-parts</loc></url>
@@ -396,6 +432,66 @@
   <url><loc>https://uslist.info/oregon/bend/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/bend/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/bend/travel-leisure/vacation-rentals</loc></url>
+  <url><loc>https://uslist.info/oregon/boring</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/boring/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/health</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/shopping/art-craft-supplies</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/brookings/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/canby</loc></url>
   <url><loc>https://uslist.info/oregon/canby/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/canby/automotive/auto-parts</loc></url>
@@ -481,7 +577,6 @@
   <url><loc>https://uslist.info/oregon/central-point/health</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/health/dentists</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/health/doctors</loc></url>
-  <url><loc>https://uslist.info/oregon/central-point/health/hospitals</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/health/optometrists</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/health/veterinarians</loc></url>
@@ -490,24 +585,21 @@
   <url><loc>https://uslist.info/oregon/central-point/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/home-services/painters</loc></url>
-  <url><loc>https://uslist.info/oregon/central-point/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/professional</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/professional/coworking</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/professional/employment</loc></url>
+  <url><loc>https://uslist.info/oregon/central-point/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/professional/other-services</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/shopping</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/shopping/art-craft-supplies</loc></url>
-  <url><loc>https://uslist.info/oregon/central-point/shopping/cannabis-vape</loc></url>
-  <url><loc>https://uslist.info/oregon/central-point/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/shopping/other-shopping</loc></url>
-  <url><loc>https://uslist.info/oregon/central-point/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/oregon/central-point/travel-leisure</loc></url>
@@ -529,43 +621,32 @@
   <url><loc>https://uslist.info/oregon/coos-bay/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/financial-legal/real-estate</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/food-drink</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/food-drink/bakeries-desserts</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/food-drink/bars-nightlife</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/health</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/health/dentists</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/health/doctors</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/health/hospitals</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/health/other-health</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/home-services</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/home-services/contractors</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/professional</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/professional/employment</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/oregon/coos-bay/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/professional/other-services</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/shopping</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/shopping/electronics</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/shopping/jewelry</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/shopping/other-shopping</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/shopping/shoes</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/shopping/sporting-goods</loc></url>
-  <url><loc>https://uslist.info/oregon/coos-bay/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/travel-leisure</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/coos-bay/travel-leisure/hotels</loc></url>
@@ -592,7 +673,10 @@
   <url><loc>https://uslist.info/oregon/cornelius/home-services</loc></url>
   <url><loc>https://uslist.info/oregon/cornelius/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/oregon/cornelius/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/cornelius/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/cornelius/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/oregon/cornelius/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/cornelius/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/cornelius/shopping</loc></url>
   <url><loc>https://uslist.info/oregon/cornelius/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/oregon/cornelius/shopping/furniture-home</loc></url>
@@ -642,8 +726,6 @@
   <url><loc>https://uslist.info/oregon/corvallis/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/oregon/corvallis/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/oregon/corvallis/home-services/other-home-services</loc></url>
-  <url><loc>https://uslist.info/oregon/corvallis/home-services/painters</loc></url>
-  <url><loc>https://uslist.info/oregon/corvallis/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/oregon/corvallis/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/oregon/corvallis/professional</loc></url>
   <url><loc>https://uslist.info/oregon/corvallis/professional/civic-government</loc></url>
@@ -753,7 +835,6 @@
   <url><loc>https://uslist.info/oregon/cottage-grove/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/dallas</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/automotive</loc></url>
-  <url><loc>https://uslist.info/oregon/dallas/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/beauty-wellness/gyms-fitness</loc></url>
@@ -769,14 +850,84 @@
   <url><loc>https://uslist.info/oregon/dallas/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/professional</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/dallas/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/shopping</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/shopping/department-stores</loc></url>
-  <url><loc>https://uslist.info/oregon/dallas/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/travel-leisure</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/dallas/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/financial-legal/accountants</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/health</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/damascus/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/financial-legal/accountants</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/health</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/eagle-point/travel-leisure/vacation-rentals</loc></url>
   <url><loc>https://uslist.info/oregon/eugene</loc></url>
   <url><loc>https://uslist.info/oregon/eugene/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/eugene/automotive/auto-parts</loc></url>
@@ -926,6 +1077,66 @@
   <url><loc>https://uslist.info/oregon/fairview/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/fairview/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/fairview/travel-leisure/vacation-rentals</loc></url>
+  <url><loc>https://uslist.info/oregon/florence</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/automotive/car-wash</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/financial-legal/accountants</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/financial-legal/financial-services</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/health</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/home-services/repair-shops</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/professional/employment</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/florence/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/forest-grove</loc></url>
   <url><loc>https://uslist.info/oregon/forest-grove/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/forest-grove/automotive/auto-repair</loc></url>
@@ -957,6 +1168,7 @@
   <url><loc>https://uslist.info/oregon/forest-grove/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/oregon/forest-grove/professional</loc></url>
   <url><loc>https://uslist.info/oregon/forest-grove/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/forest-grove/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/forest-grove/professional/other-services</loc></url>
   <url><loc>https://uslist.info/oregon/forest-grove/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/forest-grove/shopping</loc></url>
@@ -1073,6 +1285,7 @@
   <url><loc>https://uslist.info/oregon/grants-pass/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/grants-pass/professional/coworking</loc></url>
   <url><loc>https://uslist.info/oregon/grants-pass/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/oregon/grants-pass/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/grants-pass/professional/other-services</loc></url>
   <url><loc>https://uslist.info/oregon/grants-pass/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/oregon/grants-pass/professional/schools-education</loc></url>
@@ -1094,6 +1307,36 @@
   <url><loc>https://uslist.info/oregon/grants-pass/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/grants-pass/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/grants-pass/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/green</loc></url>
+  <url><loc>https://uslist.info/oregon/green/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/green/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/green/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/green/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/green/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/green/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/green/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/green/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/green/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/green/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/green/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/green/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/green/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/green/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/green/health</loc></url>
+  <url><loc>https://uslist.info/oregon/green/health/other-health</loc></url>
+  <url><loc>https://uslist.info/oregon/green/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/green/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/green/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/green/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/green/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/green/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/green/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/green/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/green/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/green/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/green/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/green/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/green/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/gresham</loc></url>
   <url><loc>https://uslist.info/oregon/gresham/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/gresham/automotive/auto-parts</loc></url>
@@ -1172,7 +1415,6 @@
   <url><loc>https://uslist.info/oregon/happy-valley/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/beauty-wellness/spas-massage</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/financial-legal</loc></url>
-  <url><loc>https://uslist.info/oregon/happy-valley/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/financial-legal/financial-services</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/financial-legal/insurance</loc></url>
@@ -1195,34 +1437,31 @@
   <url><loc>https://uslist.info/oregon/happy-valley/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/home-services</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/home-services/cleaning-laundry</loc></url>
-  <url><loc>https://uslist.info/oregon/happy-valley/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/home-services/movers-storage</loc></url>
-  <url><loc>https://uslist.info/oregon/happy-valley/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/happy-valley/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/professional/coworking</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/oregon/happy-valley/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/professional/other-services</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/shopping</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/shopping/cannabis-vape</loc></url>
-  <url><loc>https://uslist.info/oregon/happy-valley/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/shopping/electronics</loc></url>
-  <url><loc>https://uslist.info/oregon/happy-valley/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/shopping/jewelry</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/shopping/pet-stores</loc></url>
-  <url><loc>https://uslist.info/oregon/happy-valley/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/happy-valley/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/happy-valley/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/hermiston</loc></url>
   <url><loc>https://uslist.info/oregon/hermiston/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/hermiston/automotive/auto-parts</loc></url>
-  <url><loc>https://uslist.info/oregon/hermiston/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/oregon/hermiston/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/oregon/hermiston/automotive/car-rental</loc></url>
   <url><loc>https://uslist.info/oregon/hermiston/beauty-wellness</loc></url>
@@ -1245,6 +1484,7 @@
   <url><loc>https://uslist.info/oregon/hermiston/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/oregon/hermiston/professional</loc></url>
   <url><loc>https://uslist.info/oregon/hermiston/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/hermiston/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/hermiston/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/hermiston/shopping</loc></url>
   <url><loc>https://uslist.info/oregon/hermiston/shopping/books-music</loc></url>
@@ -1325,6 +1565,116 @@
   <url><loc>https://uslist.info/oregon/hillsboro/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/hillsboro/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/hillsboro/travel-leisure/travel-agents</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/beauty-wellness/spas-massage</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/health</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/shopping/bikes</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/hood-river/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/independence</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/independence/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/automotive/car-rental</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/financial-legal/accountants</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/financial-legal/lawyers</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/health</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/junction-city/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/keizer</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/automotive/auto-parts</loc></url>
@@ -1361,7 +1711,9 @@
   <url><loc>https://uslist.info/oregon/keizer/professional</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/professional/marketing-agencies</loc></url>
+  <url><loc>https://uslist.info/oregon/keizer/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/oregon/keizer/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/shopping</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/shopping/books-music</loc></url>
@@ -1378,8 +1730,69 @@
   <url><loc>https://uslist.info/oregon/keizer/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/keizer/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/keizer/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/automotive/car-wash</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/beauty-wellness/spas-massage</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/financial-legal/accountants</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/financial-legal/financial-services</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/health</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/home-services/landscaping</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/professional/employment</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/professional/marketing-agencies</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/art-craft-supplies</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/bikes</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/king-city/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/klamath-falls</loc></url>
   <url><loc>https://uslist.info/oregon/klamath-falls/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/klamath-falls/automotive/auto-repair</loc></url>
@@ -1451,6 +1864,7 @@
   <url><loc>https://uslist.info/oregon/la-grande/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/oregon/la-grande/professional</loc></url>
   <url><loc>https://uslist.info/oregon/la-grande/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/la-grande/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/la-grande/professional/other-services</loc></url>
   <url><loc>https://uslist.info/oregon/la-grande/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/la-grande/shopping</loc></url>
@@ -1552,6 +1966,8 @@
   <url><loc>https://uslist.info/oregon/lebanon/health/hospitals</loc></url>
   <url><loc>https://uslist.info/oregon/lebanon/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/oregon/lebanon/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/lebanon/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/lebanon/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/lebanon/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/oregon/lebanon/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/lebanon/shopping</loc></url>
@@ -1560,6 +1976,109 @@
   <url><loc>https://uslist.info/oregon/lebanon/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/lebanon/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/lebanon/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/beauty-wellness/spas-massage</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/financial-legal/accountants</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/financial-legal/financial-services</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/financial-legal/lawyers</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/health</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/home-services/electricians</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/home-services/repair-shops</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/home-services/roofers</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/professional/employment</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/professional/photography</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/art-craft-supplies</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/travel-leisure/travel-agents</loc></url>
+  <url><loc>https://uslist.info/oregon/lincoln-city/travel-leisure/vacation-rentals</loc></url>
+  <url><loc>https://uslist.info/oregon/madras</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/financial-legal/financial-services</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/health</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/professional/employment</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/madras/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/mcminnville</loc></url>
   <url><loc>https://uslist.info/oregon/mcminnville/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/mcminnville/automotive/auto-parts</loc></url>
@@ -1655,9 +2174,7 @@
   <url><loc>https://uslist.info/oregon/medford/home-services</loc></url>
   <url><loc>https://uslist.info/oregon/medford/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/oregon/medford/home-services/contractors</loc></url>
-  <url><loc>https://uslist.info/oregon/medford/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/oregon/medford/home-services/hvac</loc></url>
-  <url><loc>https://uslist.info/oregon/medford/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/oregon/medford/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/oregon/medford/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/oregon/medford/home-services/painters</loc></url>
@@ -1668,7 +2185,6 @@
   <url><loc>https://uslist.info/oregon/medford/professional/employment</loc></url>
   <url><loc>https://uslist.info/oregon/medford/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/oregon/medford/professional/it-services</loc></url>
-  <url><loc>https://uslist.info/oregon/medford/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/oregon/medford/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/medford/professional/other-services</loc></url>
   <url><loc>https://uslist.info/oregon/medford/professional/photography</loc></url>
@@ -1695,7 +2211,32 @@
   <url><loc>https://uslist.info/oregon/medford/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/medford/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/medford/travel-leisure/recreation</loc></url>
-  <url><loc>https://uslist.info/oregon/medford/travel-leisure/vacation-rentals</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/home-services/repair-shops</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/milton-freewater/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/milwaukie</loc></url>
   <url><loc>https://uslist.info/oregon/milwaukie/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/milwaukie/automotive/auto-parts</loc></url>
@@ -1798,6 +2339,7 @@
   <url><loc>https://uslist.info/oregon/molalla/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/oregon/molalla/professional</loc></url>
   <url><loc>https://uslist.info/oregon/molalla/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/molalla/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/molalla/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/molalla/shopping</loc></url>
   <url><loc>https://uslist.info/oregon/molalla/shopping/department-stores</loc></url>
@@ -1808,6 +2350,23 @@
   <url><loc>https://uslist.info/oregon/molalla/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/molalla/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/molalla/travel-leisure/vacation-rentals</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/monmouth/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/newberg</loc></url>
   <url><loc>https://uslist.info/oregon/newberg/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/newberg/automotive/auto-parts</loc></url>
@@ -1844,6 +2403,7 @@
   <url><loc>https://uslist.info/oregon/newberg/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/oregon/newberg/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/oregon/newberg/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/newberg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/newberg/professional/coworking</loc></url>
   <url><loc>https://uslist.info/oregon/newberg/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/newberg/professional/other-services</loc></url>
@@ -1862,6 +2422,111 @@
   <url><loc>https://uslist.info/oregon/newberg/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/newberg/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/newberg/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/newport</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/automotive/car-rental</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/automotive/car-wash</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/financial-legal/financial-services</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/health</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/health/other-health</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/home-services/landscaping</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/art-craft-supplies</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/bikes</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/newport/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/health</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/health/other-health</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/north-bend/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/ontario</loc></url>
   <url><loc>https://uslist.info/oregon/ontario/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/ontario/automotive/auto-parts</loc></url>
@@ -1882,6 +2547,7 @@
   <url><loc>https://uslist.info/oregon/ontario/professional</loc></url>
   <url><loc>https://uslist.info/oregon/ontario/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/ontario/professional/marketing-agencies</loc></url>
+  <url><loc>https://uslist.info/oregon/ontario/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/ontario/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/oregon/ontario/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/ontario/shopping</loc></url>
@@ -1897,6 +2563,7 @@
   <url><loc>https://uslist.info/oregon/ontario/travel-leisure</loc></url>
   <url><loc>https://uslist.info/oregon/ontario/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/ontario/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/ontario/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/oregon-city</loc></url>
   <url><loc>https://uslist.info/oregon/oregon-city/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/oregon-city/automotive/auto-parts</loc></url>
@@ -2011,6 +2678,39 @@
   <url><loc>https://uslist.info/oregon/pendleton/travel-leisure</loc></url>
   <url><loc>https://uslist.info/oregon/pendleton/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/pendleton/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/pendleton/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/health</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/home-services/painters</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/philomath/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/portland</loc></url>
   <url><loc>https://uslist.info/oregon/portland/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/portland/automotive/auto-parts</loc></url>
@@ -2091,6 +2791,37 @@
   <url><loc>https://uslist.info/oregon/portland/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/portland/travel-leisure/travel-agents</loc></url>
   <url><loc>https://uslist.info/oregon/portland/travel-leisure/vacation-rentals</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/health</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/prineville/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/redmond</loc></url>
   <url><loc>https://uslist.info/oregon/redmond/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/redmond/automotive/auto-parts</loc></url>
@@ -2310,7 +3041,6 @@
   <url><loc>https://uslist.info/oregon/salem/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/oregon/salem/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/oregon/salem/home-services/repair-shops</loc></url>
-  <url><loc>https://uslist.info/oregon/salem/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/oregon/salem/professional</loc></url>
   <url><loc>https://uslist.info/oregon/salem/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/salem/professional/coworking</loc></url>
@@ -2372,10 +3102,9 @@
   <url><loc>https://uslist.info/oregon/sandy/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/oregon/sandy/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/oregon/sandy/home-services/movers-storage</loc></url>
-  <url><loc>https://uslist.info/oregon/sandy/home-services/other-home-services</loc></url>
-  <url><loc>https://uslist.info/oregon/sandy/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/oregon/sandy/professional</loc></url>
   <url><loc>https://uslist.info/oregon/sandy/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/sandy/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/sandy/professional/other-services</loc></url>
   <url><loc>https://uslist.info/oregon/sandy/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/sandy/shopping</loc></url>
@@ -2392,6 +3121,102 @@
   <url><loc>https://uslist.info/oregon/sandy/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/sandy/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/sandy/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/health</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/scappoose/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/financial-legal/lawyers</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/health</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/health/other-health</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/home-services/roofers</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/art-craft-supplies</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/seaside/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan/shopping/art-craft-supplies</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/sheridan/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/sherwood</loc></url>
   <url><loc>https://uslist.info/oregon/sherwood/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/sherwood/automotive/auto-parts</loc></url>
@@ -2429,6 +3254,7 @@
   <url><loc>https://uslist.info/oregon/sherwood/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/sherwood/professional/coworking</loc></url>
   <url><loc>https://uslist.info/oregon/sherwood/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/oregon/sherwood/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/sherwood/professional/other-services</loc></url>
   <url><loc>https://uslist.info/oregon/sherwood/professional/photography</loc></url>
   <url><loc>https://uslist.info/oregon/sherwood/professional/printing-signs</loc></url>
@@ -2448,6 +3274,41 @@
   <url><loc>https://uslist.info/oregon/sherwood/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/sherwood/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/sherwood/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/health</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/home-services/electricians</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/home-services/roofers</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/silverton/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/springdale</loc></url>
   <url><loc>https://uslist.info/oregon/springdale/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/oregon/springdale/beauty-wellness/hair-beauty</loc></url>
@@ -2459,6 +3320,7 @@
   <url><loc>https://uslist.info/oregon/springdale/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/oregon/springdale/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/oregon/springdale/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/springdale/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/springdale/professional/coworking</loc></url>
   <url><loc>https://uslist.info/oregon/springdale/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/springfield</loc></url>
@@ -2536,6 +3398,159 @@
   <url><loc>https://uslist.info/oregon/springfield/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/springfield/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/springfield/travel-leisure/travel-agents</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/beauty-wellness/spas-massage</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/health</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/stayton/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/health</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/sutherlin/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/sweet-home/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/talent</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/automotive/car-wash</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/beauty-wellness/spas-massage</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/health</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/health/dentists</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/home-services/electricians</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/home-services/landscaping</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/home-services/repair-shops</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/professional/employment</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/professional/marketing-agencies</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/professional/photography</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping/art-craft-supplies</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping/bikes</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/talent/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/the-dalles</loc></url>
   <url><loc>https://uslist.info/oregon/the-dalles/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/the-dalles/automotive/auto-parts</loc></url>
@@ -2560,6 +3575,7 @@
   <url><loc>https://uslist.info/oregon/the-dalles/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/oregon/the-dalles/professional</loc></url>
   <url><loc>https://uslist.info/oregon/the-dalles/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/the-dalles/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/the-dalles/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/oregon/the-dalles/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/the-dalles/shopping</loc></url>
@@ -2673,7 +3689,10 @@
   <url><loc>https://uslist.info/oregon/troutdale/home-services</loc></url>
   <url><loc>https://uslist.info/oregon/troutdale/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/oregon/troutdale/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/troutdale/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/troutdale/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/oregon/troutdale/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/troutdale/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/troutdale/shopping</loc></url>
   <url><loc>https://uslist.info/oregon/troutdale/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/oregon/troutdale/shopping/bikes</loc></url>
@@ -2765,6 +3784,17 @@
   <url><loc>https://uslist.info/oregon/tualatin/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/tualatin/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/tualatin/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/umatilla</loc></url>
+  <url><loc>https://uslist.info/oregon/umatilla/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/umatilla/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/umatilla/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/umatilla/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/umatilla/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/umatilla/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/umatilla/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/umatilla/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/umatilla/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/umatilla/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn/automotive/auto-repair</loc></url>
@@ -2795,8 +3825,10 @@
   <url><loc>https://uslist.info/oregon/west-linn/home-services</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/west-linn/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn/professional/coworking</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/oregon/west-linn/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn/professional/other-services</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn/professional/schools-education</loc></url>
@@ -2817,6 +3849,45 @@
   <url><loc>https://uslist.info/oregon/west-linn/travel-leisure</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/west-linn/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/automotive</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/beauty-wellness/spas-massage</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/financial-legal</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/food-drink</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/health</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/health/doctors</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/home-services/repair-shops</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/professional</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/oregon/white-city/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/wilsonville</loc></url>
   <url><loc>https://uslist.info/oregon/wilsonville/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/wilsonville/automotive/auto-parts</loc></url>
@@ -2875,7 +3946,9 @@
   <url><loc>https://uslist.info/oregon/wilsonville/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/oregon/wilsonville/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/oregon/wilsonville/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/wilsonville/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/wilsonville/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/oregon/wilsonville/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/automotive</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/automotive/auto-repair</loc></url>
@@ -2887,8 +3960,6 @@
   <url><loc>https://uslist.info/oregon/woodburn/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/food-drink</loc></url>
-  <url><loc>https://uslist.info/oregon/woodburn/food-drink/bakeries-desserts</loc></url>
-  <url><loc>https://uslist.info/oregon/woodburn/food-drink/bars-nightlife</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/food-drink/grocery</loc></url>
@@ -2903,7 +3974,7 @@
   <url><loc>https://uslist.info/oregon/woodburn/professional</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/oregon/woodburn/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/oregon/woodburn/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/shopping</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/shopping/clothing</loc></url>
@@ -2915,6 +3986,7 @@
   <url><loc>https://uslist.info/oregon/woodburn/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/oregon/woodburn/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/oregon/woodburn/travel-leisure/recreation</loc></url>
 </urlset>

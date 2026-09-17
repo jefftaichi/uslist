@@ -29,8 +29,11 @@
   <url><loc>https://uslist.info/idaho/ammon/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/idaho/ammon/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/idaho/ammon/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/ammon/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/ammon/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/ammon/professional/other-services</loc></url>
   <url><loc>https://uslist.info/idaho/ammon/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/idaho/ammon/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/ammon/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/ammon/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/idaho/ammon/shopping/clothing</loc></url>
@@ -43,6 +46,7 @@
   <url><loc>https://uslist.info/idaho/ammon/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/idaho/ammon/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/idaho/ammon/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/idaho/ammon/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/idaho/ammon/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/idaho/blackfoot</loc></url>
   <url><loc>https://uslist.info/idaho/blackfoot/automotive</loc></url>
@@ -71,9 +75,12 @@
   <url><loc>https://uslist.info/idaho/blackfoot/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/idaho/blackfoot/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/idaho/blackfoot/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/blackfoot/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/idaho/blackfoot/professional/coworking</loc></url>
   <url><loc>https://uslist.info/idaho/blackfoot/professional/marketing-agencies</loc></url>
+  <url><loc>https://uslist.info/idaho/blackfoot/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/blackfoot/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/idaho/blackfoot/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/blackfoot/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/blackfoot/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/idaho/blackfoot/shopping/gifts-florists</loc></url>
@@ -179,6 +186,8 @@
   <url><loc>https://uslist.info/idaho/burley/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/idaho/burley/professional</loc></url>
   <url><loc>https://uslist.info/idaho/burley/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/idaho/burley/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/idaho/burley/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/burley/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/burley/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/idaho/burley/shopping/hardware-garden</loc></url>
@@ -192,7 +201,6 @@
   <url><loc>https://uslist.info/idaho/caldwell/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/automotive/car-dealers</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/beauty-wellness/gyms-fitness</loc></url>
@@ -202,8 +210,6 @@
   <url><loc>https://uslist.info/idaho/caldwell/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/financial-legal/insurance</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/financial-legal/lawyers</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/financial-legal/real-estate</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/food-drink</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/food-drink/bars-nightlife</loc></url>
@@ -215,32 +221,23 @@
   <url><loc>https://uslist.info/idaho/caldwell/health/dentists</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/health/doctors</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/health/hospitals</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/health/optometrists</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/health/pharmacies</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/home-services</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/home-services/cleaning-laundry</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/home-services/contractors</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/professional</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/professional/coworking</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/professional/other-services</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/shopping/department-stores</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/shopping/jewelry</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/shopping/other-shopping</loc></url>
-  <url><loc>https://uslist.info/idaho/caldwell/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/travel-leisure</loc></url>
   <url><loc>https://uslist.info/idaho/caldwell/travel-leisure/arts-entertainment</loc></url>
@@ -269,7 +266,9 @@
   <url><loc>https://uslist.info/idaho/chubbuck/home-services</loc></url>
   <url><loc>https://uslist.info/idaho/chubbuck/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/idaho/chubbuck/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/chubbuck/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/idaho/chubbuck/professional/marketing-agencies</loc></url>
+  <url><loc>https://uslist.info/idaho/chubbuck/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/chubbuck/professional/other-services</loc></url>
   <url><loc>https://uslist.info/idaho/chubbuck/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/idaho/chubbuck/professional/schools-education</loc></url>
@@ -335,6 +334,7 @@
   <url><loc>https://uslist.info/idaho/coeur-d-alene/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/coeur-d-alene/professional/other-services</loc></url>
   <url><loc>https://uslist.info/idaho/coeur-d-alene/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/idaho/coeur-d-alene/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/coeur-d-alene/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/coeur-d-alene/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/idaho/coeur-d-alene/shopping/bikes</loc></url>
@@ -421,6 +421,60 @@
   <url><loc>https://uslist.info/idaho/eagle/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/idaho/eagle/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/idaho/eagle/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/automotive</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/financial-legal</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/food-drink</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/health</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/health/doctors</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/shopping</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/shopping/art-craft-supplies</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/idaho/emmett/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/automotive</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/food-drink</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/health</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/health/doctors</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/shopping</loc></url>
+  <url><loc>https://uslist.info/idaho/fruitland/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/idaho/garden-city</loc></url>
   <url><loc>https://uslist.info/idaho/garden-city/automotive</loc></url>
   <url><loc>https://uslist.info/idaho/garden-city/automotive/auto-parts</loc></url>
@@ -524,7 +578,9 @@
   <url><loc>https://uslist.info/idaho/hailey/health/other-health</loc></url>
   <url><loc>https://uslist.info/idaho/hailey/professional</loc></url>
   <url><loc>https://uslist.info/idaho/hailey/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/hailey/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/hailey/professional/photography</loc></url>
+  <url><loc>https://uslist.info/idaho/hailey/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/hailey/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/hailey/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/idaho/hailey/shopping/other-shopping</loc></url>
@@ -538,7 +594,6 @@
   <url><loc>https://uslist.info/idaho/hayden/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/automotive/car-dealers</loc></url>
-  <url><loc>https://uslist.info/idaho/hayden/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/beauty-wellness/gyms-fitness</loc></url>
@@ -546,7 +601,6 @@
   <url><loc>https://uslist.info/idaho/hayden/financial-legal</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/financial-legal/banks</loc></url>
-  <url><loc>https://uslist.info/idaho/hayden/financial-legal/financial-services</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/food-drink</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/food-drink/bakeries-desserts</loc></url>
@@ -557,18 +611,17 @@
   <url><loc>https://uslist.info/idaho/hayden/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/health</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/health/dentists</loc></url>
-  <url><loc>https://uslist.info/idaho/hayden/health/doctors</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/home-services</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/home-services/hvac</loc></url>
-  <url><loc>https://uslist.info/idaho/hayden/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/professional</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/professional/coworking</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/idaho/hayden/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/hayden/shopping</loc></url>
@@ -626,7 +679,6 @@
   <url><loc>https://uslist.info/idaho/idaho-falls/professional</loc></url>
   <url><loc>https://uslist.info/idaho/idaho-falls/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/idaho/idaho-falls/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/idaho/idaho-falls/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/idaho/idaho-falls/professional/it-services</loc></url>
   <url><loc>https://uslist.info/idaho/idaho-falls/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/idaho/idaho-falls/professional/nonprofits</loc></url>
@@ -677,8 +729,11 @@
   <url><loc>https://uslist.info/idaho/jerome/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/idaho/jerome/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/idaho/jerome/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/jerome/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/idaho/jerome/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/idaho/jerome/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/jerome/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/idaho/jerome/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/jerome/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/jerome/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/idaho/jerome/shopping/hardware-garden</loc></url>
@@ -725,6 +780,8 @@
   <url><loc>https://uslist.info/idaho/kuna/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/idaho/kuna/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/idaho/kuna/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/kuna/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/kuna/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/kuna/professional/other-services</loc></url>
   <url><loc>https://uslist.info/idaho/kuna/professional/photography</loc></url>
   <url><loc>https://uslist.info/idaho/kuna/professional/printing-signs</loc></url>
@@ -741,6 +798,7 @@
   <url><loc>https://uslist.info/idaho/kuna/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/idaho/kuna/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/idaho/kuna/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/idaho/kuna/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/idaho/kuna/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/automotive</loc></url>
@@ -770,13 +828,16 @@
   <url><loc>https://uslist.info/idaho/lewiston/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/professional</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/lewiston/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/idaho/lewiston/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/idaho/lewiston/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/idaho/lewiston/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/idaho/meridian</loc></url>
@@ -856,6 +917,55 @@
   <url><loc>https://uslist.info/idaho/meridian/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/idaho/meridian/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/idaho/meridian/travel-leisure/vacation-rentals</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/automotive</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/automotive/car-wash</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/financial-legal</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/financial-legal/accountants</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/financial-legal/lawyers</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/food-drink</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/health</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/health/dentists</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/health/doctors</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/shopping</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/shopping/thrift-antiques</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/idaho/middleton/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/idaho/moscow</loc></url>
   <url><loc>https://uslist.info/idaho/moscow/automotive</loc></url>
   <url><loc>https://uslist.info/idaho/moscow/automotive/auto-parts</loc></url>
@@ -892,6 +1002,7 @@
   <url><loc>https://uslist.info/idaho/moscow/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/moscow/professional/other-services</loc></url>
   <url><loc>https://uslist.info/idaho/moscow/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/idaho/moscow/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/moscow/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/moscow/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/idaho/moscow/shopping/books-music</loc></url>
@@ -927,6 +1038,10 @@
   <url><loc>https://uslist.info/idaho/mountain-home/health</loc></url>
   <url><loc>https://uslist.info/idaho/mountain-home/health/hospitals</loc></url>
   <url><loc>https://uslist.info/idaho/mountain-home/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/idaho/mountain-home/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/mountain-home/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/mountain-home/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/idaho/mountain-home/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/mountain-home/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/mountain-home/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/idaho/mountain-home/shopping/electronics</loc></url>
@@ -978,6 +1093,7 @@
   <url><loc>https://uslist.info/idaho/nampa/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/idaho/nampa/professional/it-services</loc></url>
   <url><loc>https://uslist.info/idaho/nampa/professional/marketing-agencies</loc></url>
+  <url><loc>https://uslist.info/idaho/nampa/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/nampa/professional/other-services</loc></url>
   <url><loc>https://uslist.info/idaho/nampa/professional/photography</loc></url>
   <url><loc>https://uslist.info/idaho/nampa/professional/printing-signs</loc></url>
@@ -1003,6 +1119,13 @@
   <url><loc>https://uslist.info/idaho/nampa/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/idaho/nampa/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/idaho/nampa/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/idaho/payette</loc></url>
+  <url><loc>https://uslist.info/idaho/payette/food-drink</loc></url>
+  <url><loc>https://uslist.info/idaho/payette/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/idaho/payette/home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/payette/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/idaho/payette/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/payette/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/pocatello</loc></url>
   <url><loc>https://uslist.info/idaho/pocatello/automotive</loc></url>
   <url><loc>https://uslist.info/idaho/pocatello/automotive/auto-parts</loc></url>
@@ -1040,6 +1163,7 @@
   <url><loc>https://uslist.info/idaho/pocatello/professional/it-services</loc></url>
   <url><loc>https://uslist.info/idaho/pocatello/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/pocatello/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/idaho/pocatello/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/pocatello/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/pocatello/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/idaho/pocatello/shopping/bikes</loc></url>
@@ -1101,6 +1225,7 @@
   <url><loc>https://uslist.info/idaho/post-falls/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/idaho/post-falls/professional/it-services</loc></url>
   <url><loc>https://uslist.info/idaho/post-falls/professional/marketing-agencies</loc></url>
+  <url><loc>https://uslist.info/idaho/post-falls/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/post-falls/professional/other-services</loc></url>
   <url><loc>https://uslist.info/idaho/post-falls/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/post-falls/shopping</loc></url>
@@ -1115,7 +1240,70 @@
   <url><loc>https://uslist.info/idaho/post-falls/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/idaho/post-falls/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/idaho/post-falls/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/idaho/post-falls/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/idaho/post-falls/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/idaho/post-falls/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/idaho/preston</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/automotive</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/financial-legal</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/food-drink</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/health</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/health/doctors</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/shopping</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/idaho/preston/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/automotive</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/automotive/car-wash</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/financial-legal</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/financial-legal/accountants</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/financial-legal/financial-services</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/food-drink</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/health</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/health/doctors</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/shopping</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/idaho/rathdrum/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/automotive</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/automotive/auto-parts</loc></url>
@@ -1151,18 +1339,17 @@
   <url><loc>https://uslist.info/idaho/rexburg/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/home-services</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/home-services/cleaning-laundry</loc></url>
-  <url><loc>https://uslist.info/idaho/rexburg/home-services/contractors</loc></url>
-  <url><loc>https://uslist.info/idaho/rexburg/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/home-services/repair-shops</loc></url>
-  <url><loc>https://uslist.info/idaho/rexburg/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/professional</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/idaho/rexburg/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/professional/other-services</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/professional/photography</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/idaho/rexburg/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/shopping/books-music</loc></url>
@@ -1179,6 +1366,53 @@
   <url><loc>https://uslist.info/idaho/rexburg/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/idaho/rexburg/travel-leisure/vacation-rentals</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/automotive</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/automotive/car-wash</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/financial-legal</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/food-drink</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/home-services/repair-shops</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/home-services/roofers</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/shopping</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/idaho/rigby/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/financial-legal</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/health</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/home-services/roofers</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/idaho/rupert/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/automotive</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/automotive/auto-parts</loc></url>
@@ -1213,10 +1447,13 @@
   <url><loc>https://uslist.info/idaho/sandpoint/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/sandpoint/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/professional/coworking</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/idaho/sandpoint/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/professional/other-services</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/idaho/sandpoint/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/shopping/bikes</loc></url>
@@ -1230,6 +1467,37 @@
   <url><loc>https://uslist.info/idaho/sandpoint/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/idaho/sandpoint/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/automotive</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/financial-legal</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/food-drink</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/health</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/health/dentists</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/health/doctors</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/professional/funeral-services</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/shopping</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/idaho/shelley/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/idaho/star</loc></url>
   <url><loc>https://uslist.info/idaho/star/automotive</loc></url>
   <url><loc>https://uslist.info/idaho/star/automotive/auto-parts</loc></url>
@@ -1263,8 +1531,10 @@
   <url><loc>https://uslist.info/idaho/star/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/idaho/star/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/idaho/star/professional</loc></url>
-  <url><loc>https://uslist.info/idaho/star/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/idaho/star/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/star/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/idaho/star/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/idaho/star/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/idaho/star/shopping</loc></url>
   <url><loc>https://uslist.info/idaho/star/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/idaho/star/shopping/furniture-home</loc></url>
@@ -1341,4 +1611,25 @@
   <url><loc>https://uslist.info/idaho/twin-falls/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/idaho/twin-falls/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/idaho/twin-falls/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/automotive</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/food-drink</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/health</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/home-services</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/professional</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/shopping</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/idaho/weiser/travel-leisure/hotels</loc></url>
 </urlset>

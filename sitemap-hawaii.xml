@@ -97,8 +97,10 @@
   <url><loc>https://uslist.info/hawaii/east-honolulu/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/hawaii/east-honolulu/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/professional/other-services</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/hawaii/east-honolulu/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/hawaii/east-honolulu/shopping/clothing</loc></url>
@@ -131,9 +133,12 @@
   <url><loc>https://uslist.info/hawaii/ewa-beach/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/hawaii/ewa-beach/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/ewa-beach/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/hawaii/ewa-beach/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/hawaii/ewa-beach/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/ewa-beach/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/ewa-beach/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/hawaii/ewa-beach/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/hawaii/ewa-beach/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/hawaii/hawaiian-paradise-park</loc></url>
   <url><loc>https://uslist.info/hawaii/hawaiian-paradise-park/automotive</loc></url>
   <url><loc>https://uslist.info/hawaii/hawaiian-paradise-park/automotive/auto-repair</loc></url>
@@ -143,6 +148,8 @@
   <url><loc>https://uslist.info/hawaii/hawaiian-paradise-park/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/hawaii/hawaiian-paradise-park/health</loc></url>
   <url><loc>https://uslist.info/hawaii/hawaiian-paradise-park/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/hawaii/hawaiian-paradise-park/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/hawaiian-paradise-park/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/hawaii/hawaiian-paradise-park/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/hawaiian-paradise-park/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/hawaii/hawaiian-paradise-park/travel-leisure/vacation-rentals</loc></url>
@@ -192,6 +199,7 @@
   <url><loc>https://uslist.info/hawaii/hilo/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/professional/other-services</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/professional/printing-signs</loc></url>
+  <url><loc>https://uslist.info/hawaii/hilo/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/hawaii/hilo/shopping/bikes</loc></url>
@@ -310,6 +318,8 @@
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/health/doctors</loc></url>
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/k-ne-ohe/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/hawaii/k-ne-ohe/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/professional/other-services</loc></url>
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/professional/photography</loc></url>
   <url><loc>https://uslist.info/hawaii/k-ne-ohe/professional/schools-education</loc></url>
@@ -346,7 +356,10 @@
   <url><loc>https://uslist.info/hawaii/kahului/health/doctors</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/kahului/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/hawaii/kahului/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/hawaii/kahului/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/clothing</loc></url>
@@ -384,7 +397,10 @@
   <url><loc>https://uslist.info/hawaii/kailua/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/kailua/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/professional/it-services</loc></url>
+  <url><loc>https://uslist.info/hawaii/kailua/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/hawaii/kailua/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping/clothing</loc></url>
@@ -420,7 +436,9 @@
   <url><loc>https://uslist.info/hawaii/kapolei/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/hawaii/kapolei/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/professional/photography</loc></url>
+  <url><loc>https://uslist.info/hawaii/kapolei/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/hawaii/kapolei/shopping/clothing</loc></url>
@@ -448,12 +466,12 @@
   <url><loc>https://uslist.info/hawaii/kihei/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/health</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/health/doctors</loc></url>
-  <url><loc>https://uslist.info/hawaii/kihei/health/hospitals</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/kihei/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/professional/coworking</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/hawaii/kihei/professional/photography</loc></url>
+  <url><loc>https://uslist.info/hawaii/kihei/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/shopping/clothing</loc></url>
@@ -464,7 +482,56 @@
   <url><loc>https://uslist.info/hawaii/kihei/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/hawaii/kihei/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/hawaii/kihei/travel-leisure/vacation-rentals</loc></url>
+  <url><loc>https://uslist.info/hawaii/kula</loc></url>
+  <url><loc>https://uslist.info/hawaii/kula/food-drink</loc></url>
+  <url><loc>https://uslist.info/hawaii/kula/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/hawaii/kula/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/kula/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/hawaii/kula/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/hawaii/kula/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/hawaii/kula/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/automotive</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/automotive/car-rental</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/food-drink</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/health</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/home-services</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/home-services/roofers</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/shopping</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/shopping/bikes</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/hawaii/l-hu-e/travel-leisure/travel-agents</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/automotive</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/automotive/car-dealers</loc></url>
@@ -489,7 +556,9 @@
   <url><loc>https://uslist.info/hawaii/lahaina/health/doctors</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/health/optometrists</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/lahaina/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/hawaii/lahaina/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/professional/other-services</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/shopping</loc></url>
@@ -505,7 +574,37 @@
   <url><loc>https://uslist.info/hawaii/lahaina/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/hawaii/lahaina/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/travel-leisure/vacation-rentals</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/beauty-wellness/spas-massage</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/financial-legal</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/financial-legal/real-estate</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/food-drink</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/health</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/shopping</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/hawaii/makawao/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/automotive</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/automotive/auto-parts</loc></url>
@@ -546,6 +645,7 @@
   <url><loc>https://uslist.info/hawaii/mililani/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/mililani/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/professional/coworking</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/hawaii/mililani/professional/other-services</loc></url>
@@ -592,6 +692,7 @@
   <url><loc>https://uslist.info/hawaii/n-n-kuli/home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/n-n-kuli/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/n-n-kuli/shopping</loc></url>
@@ -659,6 +760,21 @@
   <url><loc>https://uslist.info/hawaii/pearl-city/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/hawaii/pearl-city/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/automotive</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/food-drink</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/hawaii/pukalani/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/automotive</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/automotive/auto-parts</loc></url>
@@ -686,6 +802,8 @@
   <url><loc>https://uslist.info/hawaii/wai-anae/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/hawaii/wai-anae/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/hawaii/wai-anae/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping/cannabis-vape</loc></url>
@@ -698,6 +816,22 @@
   <url><loc>https://uslist.info/hawaii/wai-anae/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/wai-anae/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/food-drink</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/health</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/health/doctors</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/professional/photography</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/shopping</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailea/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/beauty-wellness/hair-beauty</loc></url>
@@ -715,17 +849,56 @@
   <url><loc>https://uslist.info/hawaii/wailuku/home-services</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailuku/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/professional/other-services</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/professional/photography</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailuku/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/hawaii/wailuku/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/hawaii/wailuku/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/automotive</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/food-drink</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/shopping</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimanalo/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/food-drink</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/health</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/professional</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/shopping</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/hawaii/waimea/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/automotive</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/automotive/auto-parts</loc></url>
@@ -780,5 +953,6 @@
   <url><loc>https://uslist.info/hawaii/waipahu/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/hawaii/waipahu/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/hawaii/waipahu/travel-leisure/recreation</loc></url>
 </urlset>
