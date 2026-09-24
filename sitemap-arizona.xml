@@ -163,6 +163,7 @@
   <url><loc>https://uslist.info/arizona/avondale/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/arizona/avondale/beauty-wellness/spas-massage</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/financial-legal</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/financial-legal/financial-services</loc></url>
@@ -180,6 +181,7 @@
   <url><loc>https://uslist.info/arizona/avondale/health</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/health/dentists</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/health/doctors</loc></url>
+  <url><loc>https://uslist.info/arizona/avondale/health/hospitals</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/health/optometrists</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/health/veterinarians</loc></url>
@@ -196,8 +198,7 @@
   <url><loc>https://uslist.info/arizona/avondale/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/shopping</loc></url>
-  <url><loc>https://uslist.info/arizona/avondale/shopping/bikes</loc></url>
-  <url><loc>https://uslist.info/arizona/avondale/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/arizona/avondale/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/shopping/furniture-home</loc></url>
@@ -207,7 +208,6 @@
   <url><loc>https://uslist.info/arizona/avondale/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/shopping/sporting-goods</loc></url>
-  <url><loc>https://uslist.info/arizona/avondale/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/travel-leisure</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/arizona/avondale/travel-leisure/hotels</loc></url>
@@ -393,6 +393,7 @@
   <url><loc>https://uslist.info/arizona/casa-grande/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/beauty-wellness/spas-massage</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/financial-legal</loc></url>
+  <url><loc>https://uslist.info/arizona/casa-grande/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/arizona/casa-grande/financial-legal/lawyers</loc></url>
@@ -1213,6 +1214,7 @@
   <url><loc>https://uslist.info/arizona/goodyear/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/arizona/goodyear/automotive/car-rental</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/beauty-wellness</loc></url>
@@ -1242,7 +1244,9 @@
   <url><loc>https://uslist.info/arizona/goodyear/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/home-services</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/arizona/goodyear/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/arizona/goodyear/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/professional</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/professional/coworking</loc></url>
@@ -1254,6 +1258,7 @@
   <url><loc>https://uslist.info/arizona/goodyear/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/shopping</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/shopping/art-craft-supplies</loc></url>
+  <url><loc>https://uslist.info/arizona/goodyear/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/arizona/goodyear/shopping/clothing</loc></url>
@@ -2598,6 +2603,7 @@
   <url><loc>https://uslist.info/arizona/scottsdale/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/home-services/painters</loc></url>
+  <url><loc>https://uslist.info/arizona/scottsdale/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/professional</loc></url>
   <url><loc>https://uslist.info/arizona/scottsdale/professional/civic-government</loc></url>
@@ -3230,6 +3236,8 @@
   <url><loc>https://uslist.info/arizona/thatcher/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arizona/thatcher/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arizona/thatcher/shopping</loc></url>
+  <url><loc>https://uslist.info/arizona/thatcher/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/arizona/thatcher/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/arizona/thatcher/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/arizona/thatcher/travel-leisure</loc></url>
   <url><loc>https://uslist.info/arizona/thatcher/travel-leisure/arts-entertainment</loc></url>
@@ -3240,7 +3248,6 @@
   <url><loc>https://uslist.info/arizona/tolleson/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/arizona/tolleson/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/arizona/tolleson/automotive/car-dealers</loc></url>
-  <url><loc>https://uslist.info/arizona/tolleson/automotive/car-rental</loc></url>
   <url><loc>https://uslist.info/arizona/tolleson/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/arizona/tolleson/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/arizona/tolleson/beauty-wellness</loc></url>
