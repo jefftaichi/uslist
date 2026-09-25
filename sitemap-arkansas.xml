@@ -1057,6 +1057,8 @@
   <url><loc>https://uslist.info/arkansas/hot-springs-village/health/doctors</loc></url>
   <url><loc>https://uslist.info/arkansas/hot-springs-village/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/arkansas/hot-springs-village/health/veterinarians</loc></url>
+  <url><loc>https://uslist.info/arkansas/hot-springs-village/home-services</loc></url>
+  <url><loc>https://uslist.info/arkansas/hot-springs-village/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/arkansas/hot-springs-village/professional</loc></url>
   <url><loc>https://uslist.info/arkansas/hot-springs-village/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arkansas/hot-springs-village/professional/funeral-services</loc></url>
@@ -1453,6 +1455,8 @@
   <url><loc>https://uslist.info/arkansas/maumelle/automotive</loc></url>
   <url><loc>https://uslist.info/arkansas/maumelle/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/arkansas/maumelle/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/arkansas/maumelle/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/arkansas/maumelle/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/arkansas/maumelle/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/arkansas/maumelle/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/arkansas/maumelle/beauty-wellness/hair-beauty</loc></url>
@@ -1483,6 +1487,7 @@
   <url><loc>https://uslist.info/arkansas/maumelle/professional</loc></url>
   <url><loc>https://uslist.info/arkansas/maumelle/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arkansas/maumelle/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/arkansas/maumelle/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/arkansas/maumelle/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arkansas/maumelle/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arkansas/maumelle/professional/schools-education</loc></url>
@@ -1682,6 +1687,7 @@
   <url><loc>https://uslist.info/arkansas/north-little-rock/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/arkansas/north-little-rock/professional/employment</loc></url>
   <url><loc>https://uslist.info/arkansas/north-little-rock/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/arkansas/north-little-rock/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arkansas/north-little-rock/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/arkansas/north-little-rock/shopping</loc></url>
   <url><loc>https://uslist.info/arkansas/north-little-rock/shopping/books-music</loc></url>
@@ -2268,6 +2274,8 @@
   <url><loc>https://uslist.info/arkansas/stuttgart/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/arkansas/stuttgart/professional/other-services</loc></url>
   <url><loc>https://uslist.info/arkansas/stuttgart/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/arkansas/stuttgart/shopping</loc></url>
+  <url><loc>https://uslist.info/arkansas/stuttgart/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/arkansas/stuttgart/travel-leisure</loc></url>
   <url><loc>https://uslist.info/arkansas/stuttgart/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/arkansas/stuttgart/travel-leisure/hotels</loc></url>
@@ -2340,6 +2348,8 @@
   <url><loc>https://uslist.info/arkansas/van-buren/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/arkansas/van-buren/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/arkansas/van-buren/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/arkansas/van-buren/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/arkansas/van-buren/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/arkansas/van-buren/financial-legal</loc></url>
   <url><loc>https://uslist.info/arkansas/van-buren/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/arkansas/van-buren/food-drink</loc></url>
