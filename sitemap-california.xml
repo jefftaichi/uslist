@@ -640,6 +640,7 @@
   <url><loc>https://uslist.info/california/antioch/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/california/antioch/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/california/antioch/health</loc></url>
+  <url><loc>https://uslist.info/california/antioch/health/dentists</loc></url>
   <url><loc>https://uslist.info/california/antioch/health/doctors</loc></url>
   <url><loc>https://uslist.info/california/antioch/health/hospitals</loc></url>
   <url><loc>https://uslist.info/california/antioch/health/pharmacies</loc></url>
@@ -1239,6 +1240,7 @@
   <url><loc>https://uslist.info/california/bakersfield/financial-legal</loc></url>
   <url><loc>https://uslist.info/california/bakersfield/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/california/bakersfield/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/california/bakersfield/financial-legal/financial-services</loc></url>
   <url><loc>https://uslist.info/california/bakersfield/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/california/bakersfield/financial-legal/lawyers</loc></url>
   <url><loc>https://uslist.info/california/bakersfield/financial-legal/real-estate</loc></url>
@@ -1350,6 +1352,7 @@
   <url><loc>https://uslist.info/california/banning/shopping</loc></url>
   <url><loc>https://uslist.info/california/banning/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/california/banning/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/california/banning/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/california/banning/travel-leisure</loc></url>
   <url><loc>https://uslist.info/california/banning/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/california/banning/travel-leisure/hotels</loc></url>
@@ -1577,7 +1580,6 @@
   <url><loc>https://uslist.info/california/belmont/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/california/belmont/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/california/belmont/financial-legal/lawyers</loc></url>
-  <url><loc>https://uslist.info/california/belmont/financial-legal/real-estate</loc></url>
   <url><loc>https://uslist.info/california/belmont/food-drink</loc></url>
   <url><loc>https://uslist.info/california/belmont/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/california/belmont/food-drink/bars-nightlife</loc></url>
@@ -2555,18 +2557,14 @@
   <url><loc>https://uslist.info/california/calexico/automotive</loc></url>
   <url><loc>https://uslist.info/california/calexico/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/california/calexico/automotive/gas-stations</loc></url>
-  <url><loc>https://uslist.info/california/calexico/beauty-wellness</loc></url>
-  <url><loc>https://uslist.info/california/calexico/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/california/calexico/financial-legal</loc></url>
   <url><loc>https://uslist.info/california/calexico/financial-legal/banks</loc></url>
-  <url><loc>https://uslist.info/california/calexico/financial-legal/financial-services</loc></url>
   <url><loc>https://uslist.info/california/calexico/food-drink</loc></url>
   <url><loc>https://uslist.info/california/calexico/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/california/calexico/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/california/calexico/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/california/calexico/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/california/calexico/health</loc></url>
-  <url><loc>https://uslist.info/california/calexico/health/dentists</loc></url>
   <url><loc>https://uslist.info/california/calexico/health/doctors</loc></url>
   <url><loc>https://uslist.info/california/calexico/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/california/calexico/professional</loc></url>
@@ -2714,6 +2712,7 @@
   <url><loc>https://uslist.info/california/camarillo/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/california/camarillo/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/california/camarillo/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/california/camarillo/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/california/camarillo/travel-leisure</loc></url>
   <url><loc>https://uslist.info/california/camarillo/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/california/camarillo/travel-leisure/hotels</loc></url>
@@ -2963,7 +2962,6 @@
   <url><loc>https://uslist.info/california/carlsbad/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/beauty-wellness/hair-beauty</loc></url>
-  <url><loc>https://uslist.info/california/carlsbad/beauty-wellness/spas-massage</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/financial-legal</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/financial-legal/financial-services</loc></url>
@@ -2987,6 +2985,7 @@
   <url><loc>https://uslist.info/california/carlsbad/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/home-services</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/california/carlsbad/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/professional</loc></url>
@@ -2995,6 +2994,7 @@
   <url><loc>https://uslist.info/california/carlsbad/professional/it-services</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/california/carlsbad/professional/photography</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/shopping</loc></url>
   <url><loc>https://uslist.info/california/carlsbad/shopping/books-music</loc></url>
@@ -3147,6 +3147,7 @@
   <url><loc>https://uslist.info/california/castro-valley/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/california/castro-valley/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/california/castro-valley/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/california/castro-valley/travel-leisure/travel-agents</loc></url>
   <url><loc>https://uslist.info/california/castroville</loc></url>
   <url><loc>https://uslist.info/california/castroville/automotive</loc></url>
   <url><loc>https://uslist.info/california/castroville/automotive/auto-parts</loc></url>
@@ -3236,6 +3237,7 @@
   <url><loc>https://uslist.info/california/ceres/health/doctors</loc></url>
   <url><loc>https://uslist.info/california/ceres/health/hospitals</loc></url>
   <url><loc>https://uslist.info/california/ceres/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/california/ceres/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/california/ceres/home-services</loc></url>
   <url><loc>https://uslist.info/california/ceres/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/california/ceres/home-services/contractors</loc></url>
@@ -4323,7 +4325,6 @@
   <url><loc>https://uslist.info/california/coronado/shopping</loc></url>
   <url><loc>https://uslist.info/california/coronado/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/california/coronado/shopping/books-music</loc></url>
-  <url><loc>https://uslist.info/california/coronado/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/california/coronado/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/california/coronado/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/california/coronado/travel-leisure</loc></url>
@@ -4543,6 +4544,7 @@
   <url><loc>https://uslist.info/california/covina/professional</loc></url>
   <url><loc>https://uslist.info/california/covina/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/covina/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/california/covina/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/california/covina/professional/it-services</loc></url>
   <url><loc>https://uslist.info/california/covina/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/california/covina/professional/printing-signs</loc></url>
@@ -4566,6 +4568,8 @@
   <url><loc>https://uslist.info/california/crescent-city/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/california/crescent-city/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/california/crescent-city/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/california/crescent-city/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/california/crescent-city/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/california/crescent-city/financial-legal</loc></url>
   <url><loc>https://uslist.info/california/crescent-city/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/california/crescent-city/financial-legal/insurance</loc></url>
@@ -4698,6 +4702,7 @@
   <url><loc>https://uslist.info/california/culver-city/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/california/culver-city/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/california/culver-city/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/california/culver-city/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/california/culver-city/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/california/culver-city/professional</loc></url>
   <url><loc>https://uslist.info/california/culver-city/professional/civic-government</loc></url>
@@ -4730,6 +4735,7 @@
   <url><loc>https://uslist.info/california/culver-city/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/california/culver-city/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/california/culver-city/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/california/culver-city/travel-leisure/travel-agents</loc></url>
   <url><loc>https://uslist.info/california/culver-city/travel-leisure/vacation-rentals</loc></url>
   <url><loc>https://uslist.info/california/cupertino</loc></url>
   <url><loc>https://uslist.info/california/cupertino/automotive</loc></url>
@@ -6612,7 +6618,7 @@
   <url><loc>https://uslist.info/california/fontana/professional/coworking</loc></url>
   <url><loc>https://uslist.info/california/fontana/professional/employment</loc></url>
   <url><loc>https://uslist.info/california/fontana/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/california/fontana/professional/marketing-agencies</loc></url>
+  <url><loc>https://uslist.info/california/fontana/professional/it-services</loc></url>
   <url><loc>https://uslist.info/california/fontana/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/california/fontana/professional/other-services</loc></url>
   <url><loc>https://uslist.info/california/fontana/professional/photography</loc></url>
@@ -6678,6 +6684,7 @@
   <url><loc>https://uslist.info/california/fort-bragg/shopping/jewelry</loc></url>
   <url><loc>https://uslist.info/california/fort-bragg/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/california/fort-bragg/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/california/fort-bragg/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/california/fort-bragg/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/california/fort-bragg/travel-leisure</loc></url>
   <url><loc>https://uslist.info/california/fort-bragg/travel-leisure/arts-entertainment</loc></url>
@@ -7359,6 +7366,7 @@
   <url><loc>https://uslist.info/california/glendale/home-services</loc></url>
   <url><loc>https://uslist.info/california/glendale/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/california/glendale/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/california/glendale/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/california/glendale/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/california/glendale/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/california/glendale/home-services/other-home-services</loc></url>
@@ -7576,6 +7584,7 @@
   <url><loc>https://uslist.info/california/grass-valley/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/california/grass-valley/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/california/grass-valley/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/california/grass-valley/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/california/grass-valley/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/california/grass-valley/professional</loc></url>
   <url><loc>https://uslist.info/california/grass-valley/professional/civic-government</loc></url>
@@ -7941,6 +7950,7 @@
   <url><loc>https://uslist.info/california/hayward/health/optometrists</loc></url>
   <url><loc>https://uslist.info/california/hayward/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/california/hayward/home-services</loc></url>
+  <url><loc>https://uslist.info/california/hayward/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/california/hayward/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/california/hayward/professional</loc></url>
   <url><loc>https://uslist.info/california/hayward/professional/civic-government</loc></url>
@@ -8119,6 +8129,7 @@
   <url><loc>https://uslist.info/california/hermosa-beach/professional</loc></url>
   <url><loc>https://uslist.info/california/hermosa-beach/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/hermosa-beach/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/california/hermosa-beach/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/california/hermosa-beach/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/california/hermosa-beach/professional/other-services</loc></url>
   <url><loc>https://uslist.info/california/hermosa-beach/professional/printing-signs</loc></url>
@@ -8503,6 +8514,7 @@
   <url><loc>https://uslist.info/california/imperial-beach/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/california/imperial-beach/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/california/imperial-beach/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/california/imperial-beach/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/california/imperial-beach/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/california/imperial-beach/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/california/imperial-beach/shopping/electronics</loc></url>
@@ -8517,6 +8529,8 @@
   <url><loc>https://uslist.info/california/imperial-beach/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/california/imperial-beach/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/california/imperial-beach/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/california/imperial/automotive</loc></url>
+  <url><loc>https://uslist.info/california/imperial/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/california/imperial/food-drink</loc></url>
   <url><loc>https://uslist.info/california/imperial/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/california/imperial/professional</loc></url>
@@ -9014,6 +9028,7 @@
   <url><loc>https://uslist.info/california/king-city/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/california/king-city/health</loc></url>
   <url><loc>https://uslist.info/california/king-city/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/california/king-city/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/california/king-city/home-services</loc></url>
   <url><loc>https://uslist.info/california/king-city/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/california/king-city/home-services/repair-shops</loc></url>
@@ -9947,7 +9962,6 @@
   <url><loc>https://uslist.info/california/lake-san-marcos/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/automotive/car-dealers</loc></url>
-  <url><loc>https://uslist.info/california/lake-san-marcos/automotive/car-rental</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/beauty-wellness/gyms-fitness</loc></url>
@@ -9977,7 +9991,6 @@
   <url><loc>https://uslist.info/california/lake-san-marcos/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/home-services/landscaping</loc></url>
-  <url><loc>https://uslist.info/california/lake-san-marcos/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/professional</loc></url>
@@ -9987,12 +10000,10 @@
   <url><loc>https://uslist.info/california/lake-san-marcos/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/professional/other-services</loc></url>
-  <url><loc>https://uslist.info/california/lake-san-marcos/professional/photography</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/shopping</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/shopping/bikes</loc></url>
-  <url><loc>https://uslist.info/california/lake-san-marcos/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/california/lake-san-marcos/shopping/hardware-garden</loc></url>
@@ -10375,7 +10386,6 @@
   <url><loc>https://uslist.info/california/lawndale/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/lawndale/professional/coworking</loc></url>
   <url><loc>https://uslist.info/california/lawndale/professional/funeral-services</loc></url>
-  <url><loc>https://uslist.info/california/lawndale/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/california/lawndale/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/california/lawndale/professional/other-services</loc></url>
   <url><loc>https://uslist.info/california/lawndale/professional/printing-signs</loc></url>
@@ -10661,6 +10671,7 @@
   <url><loc>https://uslist.info/california/livermore/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/california/livermore/home-services</loc></url>
   <url><loc>https://uslist.info/california/livermore/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/california/livermore/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/california/livermore/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/california/livermore/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/california/livermore/home-services/other-home-services</loc></url>
@@ -10963,6 +10974,7 @@
   <url><loc>https://uslist.info/california/long-beach/home-services</loc></url>
   <url><loc>https://uslist.info/california/long-beach/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/california/long-beach/home-services/electricians</loc></url>
+  <url><loc>https://uslist.info/california/long-beach/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/california/long-beach/professional</loc></url>
   <url><loc>https://uslist.info/california/long-beach/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/long-beach/professional/marketing-agencies</loc></url>
@@ -11442,8 +11454,6 @@
   <url><loc>https://uslist.info/california/lynwood/health/doctors</loc></url>
   <url><loc>https://uslist.info/california/lynwood/health/hospitals</loc></url>
   <url><loc>https://uslist.info/california/lynwood/health/pharmacies</loc></url>
-  <url><loc>https://uslist.info/california/lynwood/home-services</loc></url>
-  <url><loc>https://uslist.info/california/lynwood/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/california/lynwood/professional</loc></url>
   <url><loc>https://uslist.info/california/lynwood/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/lynwood/professional/funeral-services</loc></url>
@@ -11639,6 +11649,7 @@
   <url><loc>https://uslist.info/california/manhattan-beach/health</loc></url>
   <url><loc>https://uslist.info/california/manhattan-beach/health/dentists</loc></url>
   <url><loc>https://uslist.info/california/manhattan-beach/health/doctors</loc></url>
+  <url><loc>https://uslist.info/california/manhattan-beach/health/optometrists</loc></url>
   <url><loc>https://uslist.info/california/manhattan-beach/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/california/manhattan-beach/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/california/manhattan-beach/home-services</loc></url>
@@ -12125,6 +12136,27 @@
   <url><loc>https://uslist.info/california/merced/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/california/merced/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/california/merced/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/california/mexicali</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/automotive</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/financial-legal</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/financial-legal/financial-services</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/food-drink</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/health</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/health/dentists</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/health/doctors</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/professional</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/shopping</loc></url>
+  <url><loc>https://uslist.info/california/mexicali/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/california/mill-valley</loc></url>
   <url><loc>https://uslist.info/california/mill-valley/automotive</loc></url>
   <url><loc>https://uslist.info/california/mill-valley/automotive/auto-repair</loc></url>
@@ -13083,6 +13115,7 @@
   <url><loc>https://uslist.info/california/murrieta/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/california/murrieta/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/california/murrieta/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/california/murrieta/beauty-wellness/spas-massage</loc></url>
   <url><loc>https://uslist.info/california/murrieta/financial-legal</loc></url>
   <url><loc>https://uslist.info/california/murrieta/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/california/murrieta/financial-legal/financial-services</loc></url>
@@ -13251,6 +13284,7 @@
   <url><loc>https://uslist.info/california/needles/financial-legal</loc></url>
   <url><loc>https://uslist.info/california/needles/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/california/needles/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/california/needles/financial-legal/lawyers</loc></url>
   <url><loc>https://uslist.info/california/needles/food-drink</loc></url>
   <url><loc>https://uslist.info/california/needles/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/california/needles/food-drink/bars-nightlife</loc></url>
@@ -13264,6 +13298,7 @@
   <url><loc>https://uslist.info/california/needles/health/hospitals</loc></url>
   <url><loc>https://uslist.info/california/needles/home-services</loc></url>
   <url><loc>https://uslist.info/california/needles/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/california/needles/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/california/needles/professional</loc></url>
   <url><loc>https://uslist.info/california/needles/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/needles/professional/nonprofits</loc></url>
@@ -13929,6 +13964,7 @@
   <url><loc>https://uslist.info/california/oceanside/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/california/oceanside/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/california/oceanside/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/california/oceanside/beauty-wellness/spas-massage</loc></url>
   <url><loc>https://uslist.info/california/oceanside/financial-legal</loc></url>
   <url><loc>https://uslist.info/california/oceanside/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/california/oceanside/food-drink</loc></url>
@@ -13957,9 +13993,12 @@
   <url><loc>https://uslist.info/california/oceanside/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/california/oceanside/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/california/oceanside/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/california/oceanside/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/california/oceanside/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/california/oceanside/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/california/oceanside/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/california/oceanside/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/california/oceanside/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/california/oceanside/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/california/oceanside/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/california/oceanside/travel-leisure</loc></url>
@@ -14329,7 +14368,6 @@
   <url><loc>https://uslist.info/california/oxnard/professional</loc></url>
   <url><loc>https://uslist.info/california/oxnard/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/oxnard/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/california/oxnard/professional/it-services</loc></url>
   <url><loc>https://uslist.info/california/oxnard/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/california/oxnard/professional/other-services</loc></url>
   <url><loc>https://uslist.info/california/oxnard/professional/printing-signs</loc></url>
@@ -14437,6 +14475,8 @@
   <url><loc>https://uslist.info/california/pacifica/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/california/pacifica/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/california/pacifica/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/california/pacifica/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/california/pacifica/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/california/pacifica/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/california/pacifica/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/california/pacifica/shopping/other-shopping</loc></url>
@@ -14591,6 +14631,7 @@
   <url><loc>https://uslist.info/california/palmdale/health/hospitals</loc></url>
   <url><loc>https://uslist.info/california/palmdale/health/optometrists</loc></url>
   <url><loc>https://uslist.info/california/palmdale/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/california/palmdale/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/california/palmdale/home-services</loc></url>
   <url><loc>https://uslist.info/california/palmdale/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/california/palmdale/home-services/contractors</loc></url>
@@ -15644,6 +15685,7 @@
   <url><loc>https://uslist.info/california/poway/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/california/poway/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/california/poway/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/california/poway/professional/photography</loc></url>
   <url><loc>https://uslist.info/california/poway/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/california/poway/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/california/poway/shopping</loc></url>
@@ -15667,6 +15709,7 @@
   <url><loc>https://uslist.info/california/poway/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/california/poway/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/california/poway/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/california/poway/travel-leisure/travel-agents</loc></url>
   <url><loc>https://uslist.info/california/poway/travel-leisure/vacation-rentals</loc></url>
   <url><loc>https://uslist.info/california/prunedale</loc></url>
   <url><loc>https://uslist.info/california/prunedale/automotive</loc></url>
@@ -15801,6 +15844,7 @@
   <url><loc>https://uslist.info/california/rancho-cordova/professional</loc></url>
   <url><loc>https://uslist.info/california/rancho-cordova/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/rancho-cordova/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/california/rancho-cordova/professional/it-services</loc></url>
   <url><loc>https://uslist.info/california/rancho-cordova/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/california/rancho-cordova/professional/other-services</loc></url>
   <url><loc>https://uslist.info/california/rancho-cordova/professional/printing-signs</loc></url>
@@ -16102,6 +16146,7 @@
   <url><loc>https://uslist.info/california/red-bluff/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/red-bluff/professional/coworking</loc></url>
   <url><loc>https://uslist.info/california/red-bluff/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/california/red-bluff/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/california/red-bluff/shopping</loc></url>
   <url><loc>https://uslist.info/california/red-bluff/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/california/red-bluff/shopping/department-stores</loc></url>
@@ -16405,6 +16450,7 @@
   <url><loc>https://uslist.info/california/reedley/health/hospitals</loc></url>
   <url><loc>https://uslist.info/california/reedley/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/california/reedley/professional</loc></url>
+  <url><loc>https://uslist.info/california/reedley/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/reedley/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/california/reedley/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/california/reedley/travel-leisure</loc></url>
@@ -16481,6 +16527,8 @@
   <url><loc>https://uslist.info/california/richmond/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/california/richmond/home-services</loc></url>
   <url><loc>https://uslist.info/california/richmond/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/california/richmond/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/california/richmond/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/california/richmond/professional</loc></url>
   <url><loc>https://uslist.info/california/richmond/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/richmond/professional/marketing-agencies</loc></url>
@@ -16580,6 +16628,7 @@
   <url><loc>https://uslist.info/california/rio-del-mar/health/doctors</loc></url>
   <url><loc>https://uslist.info/california/rio-del-mar/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/california/rio-del-mar/home-services</loc></url>
+  <url><loc>https://uslist.info/california/rio-del-mar/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/california/rio-del-mar/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/california/rio-del-mar/professional</loc></url>
   <url><loc>https://uslist.info/california/rio-del-mar/professional/civic-government</loc></url>
@@ -17303,6 +17352,7 @@
   <url><loc>https://uslist.info/california/san-bernardino/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/california/san-bernardino/home-services</loc></url>
   <url><loc>https://uslist.info/california/san-bernardino/home-services/electricians</loc></url>
+  <url><loc>https://uslist.info/california/san-bernardino/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/california/san-bernardino/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/california/san-bernardino/professional</loc></url>
   <url><loc>https://uslist.info/california/san-bernardino/professional/civic-government</loc></url>
@@ -17420,7 +17470,6 @@
   <url><loc>https://uslist.info/california/san-carlos/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/california/san-carlos/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/california/san-carlos/shopping/hardware-garden</loc></url>
-  <url><loc>https://uslist.info/california/san-carlos/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/california/san-carlos/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/california/san-carlos/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/california/san-carlos/shopping/sporting-goods</loc></url>
@@ -18192,6 +18241,7 @@
   <url><loc>https://uslist.info/california/san-marcos/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/california/san-marcos/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/california/san-marcos/home-services</loc></url>
+  <url><loc>https://uslist.info/california/san-marcos/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/california/san-marcos/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/california/san-marcos/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/california/san-marcos/home-services/hvac</loc></url>
@@ -18322,6 +18372,7 @@
   <url><loc>https://uslist.info/california/san-mateo/financial-legal</loc></url>
   <url><loc>https://uslist.info/california/san-mateo/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/california/san-mateo/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/california/san-mateo/financial-legal/financial-services</loc></url>
   <url><loc>https://uslist.info/california/san-mateo/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/california/san-mateo/financial-legal/lawyers</loc></url>
   <url><loc>https://uslist.info/california/san-mateo/financial-legal/real-estate</loc></url>
@@ -19261,7 +19312,6 @@
   <url><loc>https://uslist.info/california/santee/home-services</loc></url>
   <url><loc>https://uslist.info/california/santee/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/california/santee/home-services/contractors</loc></url>
-  <url><loc>https://uslist.info/california/santee/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/california/santee/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/california/santee/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/california/santee/home-services/roofers</loc></url>
@@ -20666,8 +20716,11 @@
   <url><loc>https://uslist.info/california/tehachapi/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/california/tehachapi/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/california/tehachapi/health</loc></url>
+  <url><loc>https://uslist.info/california/tehachapi/health/doctors</loc></url>
   <url><loc>https://uslist.info/california/tehachapi/health/hospitals</loc></url>
   <url><loc>https://uslist.info/california/tehachapi/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/california/tehachapi/home-services</loc></url>
+  <url><loc>https://uslist.info/california/tehachapi/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/california/tehachapi/professional</loc></url>
   <url><loc>https://uslist.info/california/tehachapi/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/tehachapi/professional/nonprofits</loc></url>
@@ -20692,6 +20745,7 @@
   <url><loc>https://uslist.info/california/temecula/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/california/temecula/financial-legal</loc></url>
   <url><loc>https://uslist.info/california/temecula/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/california/temecula/financial-legal/financial-services</loc></url>
   <url><loc>https://uslist.info/california/temecula/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/california/temecula/financial-legal/lawyers</loc></url>
   <url><loc>https://uslist.info/california/temecula/financial-legal/real-estate</loc></url>
@@ -22083,12 +22137,14 @@
   <url><loc>https://uslist.info/california/vista/health/hospitals</loc></url>
   <url><loc>https://uslist.info/california/vista/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/california/vista/home-services</loc></url>
+  <url><loc>https://uslist.info/california/vista/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/california/vista/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/california/vista/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/california/vista/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/california/vista/professional</loc></url>
   <url><loc>https://uslist.info/california/vista/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/california/vista/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/california/vista/professional/employment</loc></url>
   <url><loc>https://uslist.info/california/vista/professional/it-services</loc></url>
   <url><loc>https://uslist.info/california/vista/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/california/vista/professional/printing-signs</loc></url>
@@ -22096,6 +22152,7 @@
   <url><loc>https://uslist.info/california/vista/shopping</loc></url>
   <url><loc>https://uslist.info/california/vista/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/california/vista/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/california/vista/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/california/vista/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/california/vista/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/california/vista/shopping/electronics</loc></url>
@@ -22106,6 +22163,7 @@
   <url><loc>https://uslist.info/california/vista/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/california/vista/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/california/vista/shopping/shoes</loc></url>
+  <url><loc>https://uslist.info/california/vista/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/california/vista/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/california/vista/travel-leisure</loc></url>
   <url><loc>https://uslist.info/california/vista/travel-leisure/arts-entertainment</loc></url>
@@ -22173,6 +22231,7 @@
   <url><loc>https://uslist.info/california/walnut-creek/travel-leisure/vacation-rentals</loc></url>
   <url><loc>https://uslist.info/california/walnut/automotive</loc></url>
   <url><loc>https://uslist.info/california/walnut/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/california/walnut/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/california/walnut/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/california/walnut/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/california/walnut/beauty-wellness</loc></url>
@@ -22575,6 +22634,7 @@
   <url><loc>https://uslist.info/california/whittier/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/california/whittier/shopping</loc></url>
   <url><loc>https://uslist.info/california/whittier/shopping/bikes</loc></url>
+  <url><loc>https://uslist.info/california/whittier/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/california/whittier/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/california/whittier/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/california/whittier/shopping/other-shopping</loc></url>
