@@ -159,7 +159,6 @@
   <url><loc>https://uslist.info/connecticut/bethel/professional</loc></url>
   <url><loc>https://uslist.info/connecticut/bethel/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/connecticut/bethel/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/connecticut/bethel/professional/other-services</loc></url>
   <url><loc>https://uslist.info/connecticut/bethel/professional/photography</loc></url>
   <url><loc>https://uslist.info/connecticut/bethel/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/connecticut/bethel/shopping</loc></url>
@@ -368,11 +367,13 @@
   <url><loc>https://uslist.info/connecticut/brookfield/beauty-wellness/spas-massage</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/financial-legal</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/connecticut/brookfield/financial-legal/financial-services</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/food-drink</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/connecticut/brookfield/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/health</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/health/dentists</loc></url>
@@ -381,9 +382,12 @@
   <url><loc>https://uslist.info/connecticut/brookfield/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/home-services</loc></url>
+  <url><loc>https://uslist.info/connecticut/brookfield/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/home-services/other-home-services</loc></url>
+  <url><loc>https://uslist.info/connecticut/brookfield/home-services/repair-shops</loc></url>
+  <url><loc>https://uslist.info/connecticut/brookfield/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/professional</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/professional/coworking</loc></url>
@@ -395,12 +399,15 @@
   <url><loc>https://uslist.info/connecticut/brookfield/shopping</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/connecticut/brookfield/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/connecticut/brookfield/shopping/jewelry</loc></url>
+  <url><loc>https://uslist.info/connecticut/brookfield/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/connecticut/brookfield/shopping/thrift-antiques</loc></url>
@@ -676,16 +683,13 @@
   <url><loc>https://uslist.info/connecticut/danbury/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/automotive/car-rental</loc></url>
-  <url><loc>https://uslist.info/connecticut/danbury/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/beauty-wellness/hair-beauty</loc></url>
-  <url><loc>https://uslist.info/connecticut/danbury/beauty-wellness/spas-massage</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/financial-legal</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/financial-legal/banks</loc></url>
-  <url><loc>https://uslist.info/connecticut/danbury/financial-legal/financial-services</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/financial-legal/real-estate</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/food-drink</loc></url>
@@ -700,7 +704,6 @@
   <url><loc>https://uslist.info/connecticut/danbury/health/dentists</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/health/doctors</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/health/hospitals</loc></url>
-  <url><loc>https://uslist.info/connecticut/danbury/health/optometrists</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/home-services</loc></url>
@@ -723,7 +726,6 @@
   <url><loc>https://uslist.info/connecticut/danbury/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/shopping/furniture-home</loc></url>
-  <url><loc>https://uslist.info/connecticut/danbury/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/shopping/jewelry</loc></url>
   <url><loc>https://uslist.info/connecticut/danbury/shopping/other-shopping</loc></url>
@@ -1380,6 +1382,7 @@
   <url><loc>https://uslist.info/connecticut/greenwich/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/connecticut/greenwich/home-services</loc></url>
   <url><loc>https://uslist.info/connecticut/greenwich/home-services/contractors</loc></url>
+  <url><loc>https://uslist.info/connecticut/greenwich/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/connecticut/greenwich/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/connecticut/greenwich/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/connecticut/greenwich/professional</loc></url>
@@ -1684,6 +1687,7 @@
   <url><loc>https://uslist.info/connecticut/hazardville/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/connecticut/hazardville/shopping</loc></url>
   <url><loc>https://uslist.info/connecticut/hazardville/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/connecticut/hazardville/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/connecticut/hazardville/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/connecticut/hazardville/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/connecticut/hazardville/travel-leisure</loc></url>
@@ -1898,6 +1902,7 @@
   <url><loc>https://uslist.info/connecticut/litchfield/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/connecticut/litchfield/health</loc></url>
   <url><loc>https://uslist.info/connecticut/litchfield/health/doctors</loc></url>
+  <url><loc>https://uslist.info/connecticut/litchfield/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/connecticut/litchfield/home-services</loc></url>
   <url><loc>https://uslist.info/connecticut/litchfield/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/connecticut/litchfield/professional</loc></url>
@@ -2454,6 +2459,8 @@
   <url><loc>https://uslist.info/connecticut/new-fairfield/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/connecticut/new-fairfield/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/connecticut/new-fairfield/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/connecticut/new-fairfield/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/connecticut/new-fairfield/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/connecticut/new-haven</loc></url>
   <url><loc>https://uslist.info/connecticut/new-haven/automotive</loc></url>
   <url><loc>https://uslist.info/connecticut/new-haven/automotive/auto-parts</loc></url>
@@ -3522,11 +3529,14 @@
   <url><loc>https://uslist.info/connecticut/shelton/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/connecticut/shelton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/connecticut/shelton/shopping</loc></url>
+  <url><loc>https://uslist.info/connecticut/shelton/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/connecticut/shelton/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/connecticut/shelton/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/connecticut/shelton/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/connecticut/shelton/shopping/jewelry</loc></url>
   <url><loc>https://uslist.info/connecticut/shelton/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/connecticut/shelton/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/connecticut/shelton/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/connecticut/shelton/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/connecticut/shelton/travel-leisure</loc></url>
   <url><loc>https://uslist.info/connecticut/shelton/travel-leisure/arts-entertainment</loc></url>
@@ -3648,8 +3658,6 @@
   <url><loc>https://uslist.info/connecticut/southbury/health/dentists</loc></url>
   <url><loc>https://uslist.info/connecticut/southbury/health/doctors</loc></url>
   <url><loc>https://uslist.info/connecticut/southbury/health/pharmacies</loc></url>
-  <url><loc>https://uslist.info/connecticut/southbury/home-services</loc></url>
-  <url><loc>https://uslist.info/connecticut/southbury/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/connecticut/southbury/professional</loc></url>
   <url><loc>https://uslist.info/connecticut/southbury/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/connecticut/southbury/professional/nonprofits</loc></url>
@@ -3657,7 +3665,6 @@
   <url><loc>https://uslist.info/connecticut/southbury/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/connecticut/southbury/shopping</loc></url>
   <url><loc>https://uslist.info/connecticut/southbury/shopping/clothing</loc></url>
-  <url><loc>https://uslist.info/connecticut/southbury/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/connecticut/southbury/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/connecticut/southbury/shopping/jewelry</loc></url>
   <url><loc>https://uslist.info/connecticut/southbury/travel-leisure</loc></url>
@@ -4376,6 +4383,7 @@
   <url><loc>https://uslist.info/connecticut/west-haven/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/connecticut/west-haven/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/connecticut/west-haven/health</loc></url>
+  <url><loc>https://uslist.info/connecticut/west-haven/health/dentists</loc></url>
   <url><loc>https://uslist.info/connecticut/west-haven/health/hospitals</loc></url>
   <url><loc>https://uslist.info/connecticut/west-haven/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/connecticut/west-haven/home-services</loc></url>
@@ -4459,7 +4467,6 @@
   <url><loc>https://uslist.info/connecticut/westport/health</loc></url>
   <url><loc>https://uslist.info/connecticut/westport/health/dentists</loc></url>
   <url><loc>https://uslist.info/connecticut/westport/health/doctors</loc></url>
-  <url><loc>https://uslist.info/connecticut/westport/health/hospitals</loc></url>
   <url><loc>https://uslist.info/connecticut/westport/health/other-health</loc></url>
   <url><loc>https://uslist.info/connecticut/westport/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/connecticut/westport/home-services</loc></url>
@@ -4743,6 +4750,7 @@
   <url><loc>https://uslist.info/connecticut/windsor/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/connecticut/windsor/professional</loc></url>
   <url><loc>https://uslist.info/connecticut/windsor/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/connecticut/windsor/professional/coworking</loc></url>
   <url><loc>https://uslist.info/connecticut/windsor/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/connecticut/windsor/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/connecticut/windsor/shopping</loc></url>
