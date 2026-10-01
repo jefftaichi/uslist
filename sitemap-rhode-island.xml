@@ -57,16 +57,11 @@
   <url><loc>https://uslist.info/rhode-island/bristol/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/rhode-island/bristol/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/rhode-island/burrillville</loc></url>
-  <url><loc>https://uslist.info/rhode-island/burrillville/food-drink</loc></url>
-  <url><loc>https://uslist.info/rhode-island/burrillville/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/rhode-island/burrillville/health</loc></url>
-  <url><loc>https://uslist.info/rhode-island/burrillville/health/dentists</loc></url>
   <url><loc>https://uslist.info/rhode-island/burrillville/health/hospitals</loc></url>
   <url><loc>https://uslist.info/rhode-island/burrillville/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/burrillville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/rhode-island/burrillville/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/rhode-island/burrillville/travel-leisure</loc></url>
-  <url><loc>https://uslist.info/rhode-island/burrillville/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/rhode-island/central-falls</loc></url>
   <url><loc>https://uslist.info/rhode-island/central-falls/automotive</loc></url>
   <url><loc>https://uslist.info/rhode-island/central-falls/automotive/auto-parts</loc></url>
@@ -333,20 +328,27 @@
   <url><loc>https://uslist.info/rhode-island/exeter/travel-leisure</loc></url>
   <url><loc>https://uslist.info/rhode-island/exeter/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/rhode-island/exeter/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/rhode-island/foster</loc></url>
+  <url><loc>https://uslist.info/rhode-island/foster/automotive</loc></url>
+  <url><loc>https://uslist.info/rhode-island/foster/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/rhode-island/foster/food-drink</loc></url>
+  <url><loc>https://uslist.info/rhode-island/foster/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/rhode-island/foster/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/rhode-island/foster/professional</loc></url>
+  <url><loc>https://uslist.info/rhode-island/foster/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/rhode-island/foster/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/rhode-island/foster/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/automotive</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/automotive/auto-repair</loc></url>
-  <url><loc>https://uslist.info/rhode-island/glocester/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/food-drink</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/food-drink/grocery</loc></url>
-  <url><loc>https://uslist.info/rhode-island/glocester/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/health</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/professional/nonprofits</loc></url>
-  <url><loc>https://uslist.info/rhode-island/glocester/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/travel-leisure</loc></url>
   <url><loc>https://uslist.info/rhode-island/glocester/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/rhode-island/greenville</loc></url>
@@ -494,6 +496,25 @@
   <url><loc>https://uslist.info/rhode-island/lincoln/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/rhode-island/lincoln/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/rhode-island/lincoln/travel-leisure/recreation</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/automotive</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/food-drink</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/home-services</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/home-services/plumbers</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/professional</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/shopping</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/rhode-island/little-compton/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/automotive</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/automotive/auto-parts</loc></url>
@@ -523,7 +544,6 @@
   <url><loc>https://uslist.info/rhode-island/middletown/home-services</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/home-services/other-home-services</loc></url>
-  <url><loc>https://uslist.info/rhode-island/middletown/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/professional</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/professional/civic-government</loc></url>
@@ -546,10 +566,24 @@
   <url><loc>https://uslist.info/rhode-island/middletown/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/rhode-island/middletown/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/automotive</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/automotive/gas-stations</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/food-drink</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/food-drink/coffee-cafes</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/food-drink/liquor-stores</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/professional</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/rhode-island/narragansett-pier/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/automotive</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/automotive/car-dealers</loc></url>
-  <url><loc>https://uslist.info/rhode-island/narragansett/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/rhode-island/narragansett/beauty-wellness/hair-beauty</loc></url>
@@ -734,6 +768,15 @@
   <url><loc>https://uslist.info/rhode-island/north-smithfield/professional/coworking</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-smithfield/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/rhode-island/north-smithfield/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/rhode-island/pascoag</loc></url>
+  <url><loc>https://uslist.info/rhode-island/pascoag/food-drink</loc></url>
+  <url><loc>https://uslist.info/rhode-island/pascoag/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/rhode-island/pascoag/health</loc></url>
+  <url><loc>https://uslist.info/rhode-island/pascoag/health/dentists</loc></url>
+  <url><loc>https://uslist.info/rhode-island/pascoag/professional</loc></url>
+  <url><loc>https://uslist.info/rhode-island/pascoag/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/rhode-island/pascoag/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/rhode-island/pascoag/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/automotive</loc></url>
   <url><loc>https://uslist.info/rhode-island/pawtucket/automotive/auto-parts</loc></url>
@@ -885,7 +928,6 @@
   <url><loc>https://uslist.info/rhode-island/scituate/food-drink</loc></url>
   <url><loc>https://uslist.info/rhode-island/scituate/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/rhode-island/scituate/professional</loc></url>
-  <url><loc>https://uslist.info/rhode-island/scituate/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/rhode-island/scituate/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/rhode-island/scituate/shopping</loc></url>
   <url><loc>https://uslist.info/rhode-island/scituate/shopping/hardware-garden</loc></url>
