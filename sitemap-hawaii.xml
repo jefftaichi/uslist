@@ -173,6 +173,7 @@
   <url><loc>https://uslist.info/hawaii/east-honolulu/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/hawaii/ewa-beach</loc></url>
   <url><loc>https://uslist.info/hawaii/ewa-beach/automotive</loc></url>
+  <url><loc>https://uslist.info/hawaii/ewa-beach/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/hawaii/ewa-beach/automotive/car-rental</loc></url>
   <url><loc>https://uslist.info/hawaii/ewa-beach/financial-legal</loc></url>
   <url><loc>https://uslist.info/hawaii/ewa-beach/financial-legal/banks</loc></url>
@@ -447,18 +448,24 @@
   <url><loc>https://uslist.info/hawaii/kahului/health</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/health/doctors</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/hawaii/kahului/home-services</loc></url>
+  <url><loc>https://uslist.info/hawaii/kahului/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/professional/coworking</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/hawaii/kahului/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/hawaii/kahului/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/hawaii/kahului/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/hawaii/kahului/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/hawaii/kahului/travel-leisure/hotels</loc></url>
@@ -498,6 +505,7 @@
   <url><loc>https://uslist.info/hawaii/kailua/shopping/jewelry</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/hawaii/kailua/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/travel-leisure</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/hawaii/kailua/travel-leisure/recreation</loc></url>
@@ -750,6 +758,7 @@
   <url><loc>https://uslist.info/hawaii/lahaina/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/beauty-wellness/spas-massage</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/financial-legal</loc></url>
+  <url><loc>https://uslist.info/hawaii/lahaina/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/financial-legal/lawyers</loc></url>
   <url><loc>https://uslist.info/hawaii/lahaina/financial-legal/real-estate</loc></url>
@@ -1127,6 +1136,8 @@
   <url><loc>https://uslist.info/hawaii/waikapu/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/hawaii/waikapu/food-drink</loc></url>
   <url><loc>https://uslist.info/hawaii/waikapu/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/hawaii/waikapu/health</loc></url>
+  <url><loc>https://uslist.info/hawaii/waikapu/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/hawaii/waikapu/professional</loc></url>
   <url><loc>https://uslist.info/hawaii/waikapu/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/hawaii/waikapu/professional/schools-education</loc></url>
