@@ -584,6 +584,7 @@
   <url><loc>https://uslist.info/illinois/beach-park/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/illinois/beach-park/health</loc></url>
   <url><loc>https://uslist.info/illinois/beach-park/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/illinois/beach-park/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/illinois/beach-park/home-services</loc></url>
   <url><loc>https://uslist.info/illinois/beach-park/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/illinois/beach-park/home-services/movers-storage</loc></url>
@@ -671,6 +672,7 @@
   <url><loc>https://uslist.info/illinois/bellwood/automotive</loc></url>
   <url><loc>https://uslist.info/illinois/bellwood/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/illinois/bellwood/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/illinois/bellwood/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/illinois/bellwood/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/bellwood/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/illinois/bellwood/beauty-wellness/hair-beauty</loc></url>
@@ -777,6 +779,8 @@
   <url><loc>https://uslist.info/illinois/bensenville/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/illinois/bensenville/health</loc></url>
   <url><loc>https://uslist.info/illinois/bensenville/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/illinois/bensenville/home-services</loc></url>
+  <url><loc>https://uslist.info/illinois/bensenville/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/illinois/bensenville/professional</loc></url>
   <url><loc>https://uslist.info/illinois/bensenville/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/illinois/bensenville/professional/nonprofits</loc></url>
@@ -958,7 +962,6 @@
   <url><loc>https://uslist.info/illinois/bloomingdale/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/bloomingdale/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/illinois/bloomingdale/shopping/furniture-home</loc></url>
-  <url><loc>https://uslist.info/illinois/bloomingdale/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/illinois/bloomingdale/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/illinois/bloomingdale/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/illinois/bloomingdale/travel-leisure</loc></url>
@@ -1284,6 +1287,7 @@
   <url><loc>https://uslist.info/illinois/bridgeview</loc></url>
   <url><loc>https://uslist.info/illinois/bridgeview/automotive</loc></url>
   <url><loc>https://uslist.info/illinois/bridgeview/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/illinois/bridgeview/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/illinois/bridgeview/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/illinois/bridgeview/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/bridgeview/beauty-wellness</loc></url>
@@ -1313,6 +1317,7 @@
   <url><loc>https://uslist.info/illinois/bridgeview/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/illinois/bridgeview/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/bridgeview/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/illinois/bridgeview/shopping/jewelry</loc></url>
   <url><loc>https://uslist.info/illinois/bridgeview/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/illinois/bridgeview/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/bridgeview/travel-leisure/arts-entertainment</loc></url>
@@ -1851,6 +1856,9 @@
   <url><loc>https://uslist.info/illinois/carbondale/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/illinois/carlinville</loc></url>
   <url><loc>https://uslist.info/illinois/carlinville/automotive</loc></url>
+  <url><loc>https://uslist.info/illinois/carlinville/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/illinois/carlinville/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/illinois/carlinville/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/illinois/carlinville/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/carlinville/food-drink</loc></url>
   <url><loc>https://uslist.info/illinois/carlinville/food-drink/coffee-cafes</loc></url>
@@ -1909,6 +1917,7 @@
   <url><loc>https://uslist.info/illinois/carmi/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/automotive</loc></url>
+  <url><loc>https://uslist.info/illinois/carol-stream/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/automotive/gas-stations</loc></url>
@@ -1917,6 +1926,7 @@
   <url><loc>https://uslist.info/illinois/carol-stream/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/financial-legal</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/illinois/carol-stream/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/financial-legal/lawyers</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/food-drink</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/food-drink/bakeries-desserts</loc></url>
@@ -1939,11 +1949,13 @@
   <url><loc>https://uslist.info/illinois/carol-stream/professional</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/illinois/carol-stream/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/shopping</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/shopping/cannabis-vape</loc></url>
+  <url><loc>https://uslist.info/illinois/carol-stream/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/illinois/carol-stream/shopping/hardware-garden</loc></url>
@@ -2000,6 +2012,7 @@
   <url><loc>https://uslist.info/illinois/carthage/health/hospitals</loc></url>
   <url><loc>https://uslist.info/illinois/carthage/professional</loc></url>
   <url><loc>https://uslist.info/illinois/carthage/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/illinois/carthage/professional/coworking</loc></url>
   <url><loc>https://uslist.info/illinois/carthage/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/carthage/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/illinois/carthage/travel-leisure/recreation</loc></url>
@@ -2821,11 +2834,16 @@
   <url><loc>https://uslist.info/illinois/coral</loc></url>
   <url><loc>https://uslist.info/illinois/coral/food-drink</loc></url>
   <url><loc>https://uslist.info/illinois/coral/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/illinois/coral/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/illinois/coral/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/illinois/coral/home-services</loc></url>
   <url><loc>https://uslist.info/illinois/coral/home-services/landscaping</loc></url>
   <url><loc>https://uslist.info/illinois/coral/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/illinois/coral/professional</loc></url>
   <url><loc>https://uslist.info/illinois/coral/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/illinois/coral/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/illinois/coral/shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/coral/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/illinois/coral/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/coral/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/illinois/coral/travel-leisure/recreation</loc></url>
@@ -3029,6 +3047,7 @@
   <url><loc>https://uslist.info/illinois/crete/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/crete/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/illinois/crete/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/crete/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/illinois/crete/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/crete/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/illinois/creve-coeur</loc></url>
@@ -3171,6 +3190,7 @@
   <url><loc>https://uslist.info/illinois/darien/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/darien/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/illinois/darien/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/illinois/darien/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/illinois/darien/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/illinois/darien/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/illinois/darien/travel-leisure</loc></url>
@@ -3681,6 +3701,7 @@
   <url><loc>https://uslist.info/illinois/east-dundee/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/illinois/east-dundee/professional</loc></url>
   <url><loc>https://uslist.info/illinois/east-dundee/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/illinois/east-dundee/professional/coworking</loc></url>
   <url><loc>https://uslist.info/illinois/east-dundee/professional/it-services</loc></url>
   <url><loc>https://uslist.info/illinois/east-dundee/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/illinois/east-dundee/professional/schools-education</loc></url>
@@ -3694,6 +3715,7 @@
   <url><loc>https://uslist.info/illinois/east-dundee/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/illinois/east-moline</loc></url>
   <url><loc>https://uslist.info/illinois/east-moline/automotive</loc></url>
+  <url><loc>https://uslist.info/illinois/east-moline/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/illinois/east-moline/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/east-moline/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/illinois/east-moline/beauty-wellness/hair-beauty</loc></url>
@@ -3705,6 +3727,8 @@
   <url><loc>https://uslist.info/illinois/east-moline/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/illinois/east-moline/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/illinois/east-moline/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/illinois/east-moline/health</loc></url>
+  <url><loc>https://uslist.info/illinois/east-moline/health/doctors</loc></url>
   <url><loc>https://uslist.info/illinois/east-moline/professional</loc></url>
   <url><loc>https://uslist.info/illinois/east-moline/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/illinois/east-moline/professional/funeral-services</loc></url>
@@ -3737,6 +3761,7 @@
   <url><loc>https://uslist.info/illinois/east-peoria/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/illinois/east-peoria/professional</loc></url>
   <url><loc>https://uslist.info/illinois/east-peoria/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/illinois/east-peoria/professional/coworking</loc></url>
   <url><loc>https://uslist.info/illinois/east-peoria/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/illinois/east-peoria/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/east-peoria/shopping</loc></url>
@@ -4084,8 +4109,11 @@
   <url><loc>https://uslist.info/illinois/elk-grove-village/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/health</loc></url>
+  <url><loc>https://uslist.info/illinois/elk-grove-village/health/dentists</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/health/doctors</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/illinois/elk-grove-village/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/illinois/elk-grove-village/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/home-services</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/home-services/cleaning-laundry</loc></url>
@@ -4101,12 +4129,14 @@
   <url><loc>https://uslist.info/illinois/elk-grove-village/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/elk-grove-village/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/elk-grove-village/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/illinois/elk-grove-village/travel-leisure</loc></url>
@@ -4295,7 +4325,6 @@
   <url><loc>https://uslist.info/illinois/evanston/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/illinois/evanston/home-services</loc></url>
   <url><loc>https://uslist.info/illinois/evanston/home-services/cleaning-laundry</loc></url>
-  <url><loc>https://uslist.info/illinois/evanston/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/illinois/evanston/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/illinois/evanston/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/illinois/evanston/home-services/repair-shops</loc></url>
@@ -4524,6 +4553,7 @@
   <url><loc>https://uslist.info/illinois/flossmoor/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/illinois/flossmoor/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/flossmoor/financial-legal</loc></url>
+  <url><loc>https://uslist.info/illinois/flossmoor/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/illinois/flossmoor/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/illinois/flossmoor/financial-legal/lawyers</loc></url>
   <url><loc>https://uslist.info/illinois/flossmoor/food-drink</loc></url>
@@ -4545,6 +4575,7 @@
   <url><loc>https://uslist.info/illinois/flossmoor/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/flossmoor/shopping</loc></url>
   <url><loc>https://uslist.info/illinois/flossmoor/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/illinois/flossmoor/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/illinois/flossmoor/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/illinois/flossmoor/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/flossmoor/travel-leisure/recreation</loc></url>
@@ -4936,6 +4967,7 @@
   <url><loc>https://uslist.info/illinois/geneseo/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/illinois/geneseo/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/illinois/geneseo/financial-legal/financial-services</loc></url>
+  <url><loc>https://uslist.info/illinois/geneseo/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/illinois/geneseo/financial-legal/lawyers</loc></url>
   <url><loc>https://uslist.info/illinois/geneseo/financial-legal/real-estate</loc></url>
   <url><loc>https://uslist.info/illinois/geneseo/food-drink</loc></url>
@@ -5062,6 +5094,7 @@
   <url><loc>https://uslist.info/illinois/germantown-hills/food-drink/bars-nightlife</loc></url>
   <url><loc>https://uslist.info/illinois/germantown-hills/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/illinois/germantown-hills/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/illinois/germantown-hills/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/illinois/germantown-hills/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/illinois/germantown-hills/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/illinois/germantown-hills/home-services</loc></url>
@@ -5222,6 +5255,7 @@
   <url><loc>https://uslist.info/illinois/glen-ellyn/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/glen-ellyn/shopping</loc></url>
   <url><loc>https://uslist.info/illinois/glen-ellyn/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/illinois/glen-ellyn/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/illinois/glen-ellyn/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/illinois/glen-ellyn/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/illinois/glen-ellyn/shopping/pet-stores</loc></url>
@@ -5229,6 +5263,7 @@
   <url><loc>https://uslist.info/illinois/glen-ellyn/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/glen-ellyn/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/illinois/glen-ellyn/travel-leisure/hotels</loc></url>
+  <url><loc>https://uslist.info/illinois/glen-ellyn/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/illinois/glencoe</loc></url>
   <url><loc>https://uslist.info/illinois/glencoe/automotive</loc></url>
   <url><loc>https://uslist.info/illinois/glencoe/automotive/car-dealers</loc></url>
@@ -5376,6 +5411,7 @@
   <url><loc>https://uslist.info/illinois/glenwood/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/glenwood/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/illinois/glenwood/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/illinois/glenwood/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/illinois/glenwood/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/illinois/godfrey</loc></url>
   <url><loc>https://uslist.info/illinois/godfrey/automotive</loc></url>
@@ -5402,6 +5438,7 @@
   <url><loc>https://uslist.info/illinois/godfrey/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/godfrey/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/illinois/godfrey/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/godfrey/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/illinois/godfrey/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/godfrey/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/illinois/godfrey/travel-leisure/hotels</loc></url>
@@ -5734,10 +5771,12 @@
   <url><loc>https://uslist.info/illinois/harvard/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/automotive/car-dealers</loc></url>
+  <url><loc>https://uslist.info/illinois/harvard/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/financial-legal</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/illinois/harvard/financial-legal/real-estate</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/food-drink</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/food-drink/bars-nightlife</loc></url>
@@ -5749,8 +5788,15 @@
   <url><loc>https://uslist.info/illinois/harvard/health</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/health/dentists</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/health/doctors</loc></url>
+  <url><loc>https://uslist.info/illinois/harvard/health/hospitals</loc></url>
+  <url><loc>https://uslist.info/illinois/harvard/health/optometrists</loc></url>
+  <url><loc>https://uslist.info/illinois/harvard/health/other-health</loc></url>
+  <url><loc>https://uslist.info/illinois/harvard/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/home-services</loc></url>
+  <url><loc>https://uslist.info/illinois/harvard/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/illinois/harvard/home-services/electricians</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/home-services/movers-storage</loc></url>
+  <url><loc>https://uslist.info/illinois/harvard/home-services/plumbers</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/professional</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/professional/coworking</loc></url>
@@ -5763,6 +5809,7 @@
   <url><loc>https://uslist.info/illinois/harvard/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/travel-leisure</loc></url>
+  <url><loc>https://uslist.info/illinois/harvard/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/illinois/harvard/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/illinois/harvey</loc></url>
@@ -5836,7 +5883,6 @@
   <url><loc>https://uslist.info/illinois/harwood-heights/professional</loc></url>
   <url><loc>https://uslist.info/illinois/harwood-heights/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/illinois/harwood-heights/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/illinois/harwood-heights/professional/employment</loc></url>
   <url><loc>https://uslist.info/illinois/harwood-heights/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/illinois/harwood-heights/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/illinois/harwood-heights/professional/other-services</loc></url>
@@ -6065,6 +6111,7 @@
   <url><loc>https://uslist.info/illinois/highland/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/illinois/highland/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/illinois/highland/professional/other-services</loc></url>
+  <url><loc>https://uslist.info/illinois/highland/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/highland/shopping</loc></url>
   <url><loc>https://uslist.info/illinois/highland/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/highland/shopping/other-shopping</loc></url>
@@ -6352,6 +6399,7 @@
   <url><loc>https://uslist.info/illinois/homewood/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/illinois/homewood/food-drink</loc></url>
   <url><loc>https://uslist.info/illinois/homewood/food-drink/bakeries-desserts</loc></url>
+  <url><loc>https://uslist.info/illinois/homewood/food-drink/bars-nightlife</loc></url>
   <url><loc>https://uslist.info/illinois/homewood/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/illinois/homewood/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/illinois/homewood/food-drink/grocery</loc></url>
@@ -6434,6 +6482,7 @@
   <url><loc>https://uslist.info/illinois/huntley/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/illinois/huntley/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/illinois/huntley/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/illinois/huntley/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/illinois/huntley/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/illinois/huntley/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/illinois/huntley/shopping/thrift-antiques</loc></url>
@@ -6476,6 +6525,7 @@
   <url><loc>https://uslist.info/illinois/inverness</loc></url>
   <url><loc>https://uslist.info/illinois/inverness/automotive</loc></url>
   <url><loc>https://uslist.info/illinois/inverness/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/illinois/inverness/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/illinois/inverness/financial-legal</loc></url>
   <url><loc>https://uslist.info/illinois/inverness/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/illinois/inverness/food-drink</loc></url>
@@ -6538,6 +6588,7 @@
   <url><loc>https://uslist.info/illinois/itasca/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/illinois/itasca/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/illinois/itasca/health</loc></url>
+  <url><loc>https://uslist.info/illinois/itasca/health/dentists</loc></url>
   <url><loc>https://uslist.info/illinois/itasca/health/doctors</loc></url>
   <url><loc>https://uslist.info/illinois/itasca/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/illinois/itasca/health/veterinarians</loc></url>
@@ -6687,6 +6738,7 @@
   <url><loc>https://uslist.info/illinois/joliet/shopping</loc></url>
   <url><loc>https://uslist.info/illinois/joliet/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/illinois/joliet/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/illinois/joliet/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/illinois/joliet/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/illinois/joliet/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/joliet/travel-leisure/arts-entertainment</loc></url>
@@ -6801,6 +6853,7 @@
   <url><loc>https://uslist.info/illinois/kickapoo/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/illinois/kickapoo/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/illinois/kickapoo/food-drink</loc></url>
+  <url><loc>https://uslist.info/illinois/kickapoo/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/illinois/kickapoo/food-drink/bars-nightlife</loc></url>
   <url><loc>https://uslist.info/illinois/kickapoo/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/illinois/kickapoo/food-drink/fast-food</loc></url>
@@ -6850,10 +6903,13 @@
   <url><loc>https://uslist.info/illinois/kildeer/shopping</loc></url>
   <url><loc>https://uslist.info/illinois/kildeer/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/illinois/kildeer/shopping/clothing</loc></url>
+  <url><loc>https://uslist.info/illinois/kildeer/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/kildeer/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/illinois/kildeer/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/illinois/kildeer/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/illinois/kildeer/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/kildeer/shopping/pet-stores</loc></url>
+  <url><loc>https://uslist.info/illinois/kildeer/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/illinois/kildeer/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/illinois/kildeer/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/kildeer/travel-leisure/hotels</loc></url>
@@ -7136,6 +7192,7 @@
   <url><loc>https://uslist.info/illinois/lake-zurich/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/lake-zurich/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/illinois/lake-zurich/beauty-wellness/gyms-fitness</loc></url>
+  <url><loc>https://uslist.info/illinois/lake-zurich/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/illinois/lake-zurich/financial-legal</loc></url>
   <url><loc>https://uslist.info/illinois/lake-zurich/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/illinois/lake-zurich/financial-legal/banks</loc></url>
@@ -7166,6 +7223,7 @@
   <url><loc>https://uslist.info/illinois/lake-zurich/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/lake-zurich/shopping</loc></url>
   <url><loc>https://uslist.info/illinois/lake-zurich/shopping/bikes</loc></url>
+  <url><loc>https://uslist.info/illinois/lake-zurich/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/illinois/lake-zurich/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/illinois/lake-zurich/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/lake-zurich/shopping/electronics</loc></url>
@@ -7194,7 +7252,6 @@
   <url><loc>https://uslist.info/illinois/lakewood/health</loc></url>
   <url><loc>https://uslist.info/illinois/lakewood/health/dentists</loc></url>
   <url><loc>https://uslist.info/illinois/lakewood/health/doctors</loc></url>
-  <url><loc>https://uslist.info/illinois/lakewood/health/other-health</loc></url>
   <url><loc>https://uslist.info/illinois/lakewood/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/illinois/lakewood/professional</loc></url>
   <url><loc>https://uslist.info/illinois/lakewood/professional/civic-government</loc></url>
@@ -7278,8 +7335,12 @@
   <url><loc>https://uslist.info/illinois/le-roy/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/illinois/le-roy/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/illinois/le-roy/food-drink/restaurants</loc></url>
+  <url><loc>https://uslist.info/illinois/le-roy/health</loc></url>
+  <url><loc>https://uslist.info/illinois/le-roy/health/doctors</loc></url>
+  <url><loc>https://uslist.info/illinois/le-roy/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/illinois/le-roy/professional</loc></url>
   <url><loc>https://uslist.info/illinois/le-roy/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/illinois/le-roy/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/illinois/le-roy/shopping</loc></url>
   <url><loc>https://uslist.info/illinois/le-roy/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/le-roy/shopping/other-shopping</loc></url>
@@ -7590,6 +7651,7 @@
   <url><loc>https://uslist.info/illinois/lisle/health/doctors</loc></url>
   <url><loc>https://uslist.info/illinois/lisle/health/optometrists</loc></url>
   <url><loc>https://uslist.info/illinois/lisle/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/illinois/lisle/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/illinois/lisle/home-services</loc></url>
   <url><loc>https://uslist.info/illinois/lisle/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/illinois/lisle/home-services/plumbers</loc></url>
@@ -7604,6 +7666,8 @@
   <url><loc>https://uslist.info/illinois/lisle/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/illinois/lisle/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/lisle/shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/lisle/shopping/art-craft-supplies</loc></url>
+  <url><loc>https://uslist.info/illinois/lisle/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/illinois/lisle/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/illinois/lisle/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/lisle/shopping/electronics</loc></url>
@@ -7815,6 +7879,7 @@
   <url><loc>https://uslist.info/illinois/loves-park/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/illinois/loves-park/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/illinois/loves-park/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/loves-park/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/illinois/loves-park/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/illinois/loves-park/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/illinois/loves-park/travel-leisure</loc></url>
@@ -8016,6 +8081,7 @@
   <url><loc>https://uslist.info/illinois/mahomet/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/illinois/mahomet/home-services</loc></url>
   <url><loc>https://uslist.info/illinois/mahomet/home-services/cleaning-laundry</loc></url>
+  <url><loc>https://uslist.info/illinois/mahomet/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/illinois/mahomet/professional</loc></url>
   <url><loc>https://uslist.info/illinois/mahomet/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/illinois/mahomet/professional/funeral-services</loc></url>
@@ -8052,6 +8118,7 @@
   <url><loc>https://uslist.info/illinois/manteno/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/illinois/manteno/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/illinois/manteno/health</loc></url>
+  <url><loc>https://uslist.info/illinois/manteno/health/doctors</loc></url>
   <url><loc>https://uslist.info/illinois/manteno/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/illinois/manteno/professional</loc></url>
   <url><loc>https://uslist.info/illinois/manteno/professional/civic-government</loc></url>
@@ -8764,6 +8831,7 @@
   <url><loc>https://uslist.info/illinois/moline/automotive</loc></url>
   <url><loc>https://uslist.info/illinois/moline/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/illinois/moline/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/illinois/moline/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/illinois/moline/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/moline/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/illinois/moline/beauty-wellness/gyms-fitness</loc></url>
@@ -8798,6 +8866,7 @@
   <url><loc>https://uslist.info/illinois/moline/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/illinois/moline/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/illinois/moline/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/illinois/moline/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/illinois/moline/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/illinois/moline/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/illinois/moline/shopping/thrift-antiques</loc></url>
@@ -9110,6 +9179,7 @@
   <url><loc>https://uslist.info/illinois/morton/professional/photography</loc></url>
   <url><loc>https://uslist.info/illinois/morton/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/morton/shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/morton/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/illinois/morton/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/illinois/morton/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/morton/shopping/electronics</loc></url>
@@ -9908,6 +9978,7 @@
   <url><loc>https://uslist.info/illinois/northfield/financial-legal</loc></url>
   <url><loc>https://uslist.info/illinois/northfield/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/illinois/northfield/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/illinois/northfield/financial-legal/financial-services</loc></url>
   <url><loc>https://uslist.info/illinois/northfield/food-drink</loc></url>
   <url><loc>https://uslist.info/illinois/northfield/food-drink/bars-nightlife</loc></url>
   <url><loc>https://uslist.info/illinois/northfield/food-drink/coffee-cafes</loc></url>
@@ -10218,7 +10289,9 @@
   <url><loc>https://uslist.info/illinois/oakbrook-terrace/health/hospitals</loc></url>
   <url><loc>https://uslist.info/illinois/oakbrook-terrace/health/optometrists</loc></url>
   <url><loc>https://uslist.info/illinois/oakbrook-terrace/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/illinois/oakbrook-terrace/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/illinois/oakbrook-terrace/home-services</loc></url>
+  <url><loc>https://uslist.info/illinois/oakbrook-terrace/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/illinois/oakbrook-terrace/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/illinois/oakbrook-terrace/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/illinois/oakbrook-terrace/professional</loc></url>
@@ -11367,6 +11440,7 @@
   <url><loc>https://uslist.info/illinois/quincy/home-services/roofers</loc></url>
   <url><loc>https://uslist.info/illinois/quincy/professional</loc></url>
   <url><loc>https://uslist.info/illinois/quincy/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/illinois/quincy/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/illinois/quincy/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/illinois/quincy/professional/other-services</loc></url>
   <url><loc>https://uslist.info/illinois/quincy/professional/printing-signs</loc></url>
@@ -11540,6 +11614,7 @@
   <url><loc>https://uslist.info/illinois/river-forest/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/illinois/river-grove</loc></url>
   <url><loc>https://uslist.info/illinois/river-grove/automotive</loc></url>
+  <url><loc>https://uslist.info/illinois/river-grove/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/illinois/river-grove/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/river-grove/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/illinois/river-grove/beauty-wellness/hair-beauty</loc></url>
@@ -11562,6 +11637,7 @@
   <url><loc>https://uslist.info/illinois/river-grove/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/illinois/river-grove/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/river-grove/shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/river-grove/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/illinois/river-grove/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/river-grove/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/illinois/river-grove/travel-leisure</loc></url>
@@ -11618,6 +11694,7 @@
   <url><loc>https://uslist.info/illinois/riverside/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/illinois/riverside/professional</loc></url>
   <url><loc>https://uslist.info/illinois/riverside/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/illinois/riverside/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/illinois/riverside/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/riverside/shopping</loc></url>
   <url><loc>https://uslist.info/illinois/riverside/shopping/bikes</loc></url>
@@ -12142,6 +12219,7 @@
   <url><loc>https://uslist.info/illinois/roselle/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/illinois/roselle/professional</loc></url>
   <url><loc>https://uslist.info/illinois/roselle/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/illinois/roselle/professional/employment</loc></url>
   <url><loc>https://uslist.info/illinois/roselle/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/illinois/roselle/professional/printing-signs</loc></url>
   <url><loc>https://uslist.info/illinois/roselle/professional/schools-education</loc></url>
@@ -12243,6 +12321,7 @@
   <url><loc>https://uslist.info/illinois/round-lake-beach/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/round-lake-beach/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/illinois/round-lake-beach/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/illinois/round-lake-beach/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/illinois/round-lake-beach/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/illinois/round-lake-beach/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/round-lake-beach/travel-leisure/arts-entertainment</loc></url>
@@ -12378,6 +12457,7 @@
   <url><loc>https://uslist.info/illinois/sauk-village</loc></url>
   <url><loc>https://uslist.info/illinois/sauk-village/automotive</loc></url>
   <url><loc>https://uslist.info/illinois/sauk-village/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/illinois/sauk-village/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/illinois/sauk-village/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/illinois/sauk-village/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/sauk-village/financial-legal</loc></url>
@@ -12469,6 +12549,7 @@
   <url><loc>https://uslist.info/illinois/savoy/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/illinois/savoy/professional/coworking</loc></url>
   <url><loc>https://uslist.info/illinois/savoy/professional/employment</loc></url>
+  <url><loc>https://uslist.info/illinois/savoy/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/illinois/savoy/professional/it-services</loc></url>
   <url><loc>https://uslist.info/illinois/savoy/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/illinois/savoy/professional/nonprofits</loc></url>
@@ -12707,6 +12788,7 @@
   <url><loc>https://uslist.info/illinois/silvis/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/illinois/silvis/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/silvis/shopping/electronics</loc></url>
+  <url><loc>https://uslist.info/illinois/silvis/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/illinois/silvis/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/silvis/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/illinois/silvis/travel-leisure/recreation</loc></url>
@@ -12928,6 +13010,7 @@
   <url><loc>https://uslist.info/illinois/south-elgin/health</loc></url>
   <url><loc>https://uslist.info/illinois/south-elgin/health/doctors</loc></url>
   <url><loc>https://uslist.info/illinois/south-elgin/health/pharmacies</loc></url>
+  <url><loc>https://uslist.info/illinois/south-elgin/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/illinois/south-elgin/home-services</loc></url>
   <url><loc>https://uslist.info/illinois/south-elgin/home-services/repair-shops</loc></url>
   <url><loc>https://uslist.info/illinois/south-elgin/professional</loc></url>
@@ -13400,6 +13483,7 @@
   <url><loc>https://uslist.info/illinois/stone-park/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/illinois/stone-park/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/illinois/stone-park/shopping/other-shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/stone-park/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/illinois/stone-park/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/stone-park/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/illinois/streamwood</loc></url>
@@ -13890,6 +13974,7 @@
   <url><loc>https://uslist.info/illinois/urbana/professional</loc></url>
   <url><loc>https://uslist.info/illinois/urbana/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/illinois/urbana/professional/coworking</loc></url>
+  <url><loc>https://uslist.info/illinois/urbana/professional/employment</loc></url>
   <url><loc>https://uslist.info/illinois/urbana/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/illinois/urbana/professional/it-services</loc></url>
   <url><loc>https://uslist.info/illinois/urbana/professional/nonprofits</loc></url>
@@ -14187,6 +14272,7 @@
   <url><loc>https://uslist.info/illinois/washington/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/washington/shopping</loc></url>
   <url><loc>https://uslist.info/illinois/washington/shopping/department-stores</loc></url>
+  <url><loc>https://uslist.info/illinois/washington/shopping/gifts-florists</loc></url>
   <url><loc>https://uslist.info/illinois/washington/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/illinois/washington/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/illinois/washington/shopping/thrift-antiques</loc></url>
@@ -14335,6 +14421,7 @@
   <url><loc>https://uslist.info/illinois/waukegan/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/illinois/waukegan/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/waukegan/travel-leisure/arts-entertainment</loc></url>
+  <url><loc>https://uslist.info/illinois/waukegan/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/illinois/west-chicago</loc></url>
   <url><loc>https://uslist.info/illinois/west-chicago/automotive</loc></url>
   <url><loc>https://uslist.info/illinois/west-chicago/automotive/auto-parts</loc></url>
@@ -14743,6 +14830,7 @@
   <url><loc>https://uslist.info/illinois/willowbrook/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/illinois/willowbrook/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/illinois/willowbrook/shopping/sporting-goods</loc></url>
+  <url><loc>https://uslist.info/illinois/willowbrook/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/illinois/willowbrook/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/willowbrook/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/illinois/willowbrook/travel-leisure/recreation</loc></url>
@@ -14943,6 +15031,7 @@
   <url><loc>https://uslist.info/illinois/winthrop-harbor/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/illinois/winthrop-harbor/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/illinois/winthrop-harbor/shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/winthrop-harbor/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/illinois/winthrop-harbor/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/winthrop-harbor/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/illinois/winthrop-harbor/shopping/pet-stores</loc></url>
@@ -14965,6 +15054,8 @@
   <url><loc>https://uslist.info/illinois/wonder-lake/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/illinois/wonder-lake/professional/other-services</loc></url>
   <url><loc>https://uslist.info/illinois/wonder-lake/professional/schools-education</loc></url>
+  <url><loc>https://uslist.info/illinois/wonder-lake/shopping</loc></url>
+  <url><loc>https://uslist.info/illinois/wonder-lake/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/illinois/wonder-lake/travel-leisure</loc></url>
   <url><loc>https://uslist.info/illinois/wonder-lake/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/illinois/wood-dale</loc></url>
@@ -15168,6 +15259,7 @@
   <url><loc>https://uslist.info/illinois/woodstock/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/illinois/woodstock/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/illinois/woodstock/automotive/car-wash</loc></url>
+  <url><loc>https://uslist.info/illinois/woodstock/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/woodstock/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/illinois/woodstock/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/illinois/woodstock/beauty-wellness/hair-beauty</loc></url>
@@ -15314,6 +15406,7 @@
   <url><loc>https://uslist.info/illinois/zion/automotive</loc></url>
   <url><loc>https://uslist.info/illinois/zion/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/illinois/zion/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/illinois/zion/automotive/car-rental</loc></url>
   <url><loc>https://uslist.info/illinois/zion/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/illinois/zion/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/illinois/zion/beauty-wellness/hair-beauty</loc></url>
