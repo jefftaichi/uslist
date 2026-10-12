@@ -241,9 +241,11 @@
   <url><loc>https://uslist.info/kansas/baxter-springs</loc></url>
   <url><loc>https://uslist.info/kansas/baxter-springs/automotive</loc></url>
   <url><loc>https://uslist.info/kansas/baxter-springs/automotive/auto-parts</loc></url>
+  <url><loc>https://uslist.info/kansas/baxter-springs/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/kansas/baxter-springs/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/kansas/baxter-springs/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/kansas/baxter-springs/food-drink</loc></url>
   <url><loc>https://uslist.info/kansas/baxter-springs/food-drink/bars-nightlife</loc></url>
-  <url><loc>https://uslist.info/kansas/baxter-springs/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/kansas/baxter-springs/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/kansas/baxter-springs/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/kansas/baxter-springs/food-drink/restaurants</loc></url>
@@ -1432,6 +1434,7 @@
   <url><loc>https://uslist.info/kansas/junction-city/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/kansas/junction-city/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/kansas/junction-city/beauty-wellness</loc></url>
+  <url><loc>https://uslist.info/kansas/junction-city/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/kansas/junction-city/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/kansas/junction-city/financial-legal</loc></url>
   <url><loc>https://uslist.info/kansas/junction-city/financial-legal/banks</loc></url>
@@ -2146,6 +2149,7 @@
   <url><loc>https://uslist.info/kansas/merriam/financial-legal</loc></url>
   <url><loc>https://uslist.info/kansas/merriam/financial-legal/real-estate</loc></url>
   <url><loc>https://uslist.info/kansas/merriam/food-drink</loc></url>
+  <url><loc>https://uslist.info/kansas/merriam/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/kansas/merriam/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/kansas/merriam/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/kansas/merriam/food-drink/grocery</loc></url>
@@ -2252,12 +2256,14 @@
   <url><loc>https://uslist.info/kansas/mission-hills/travel-leisure</loc></url>
   <url><loc>https://uslist.info/kansas/mission-hills/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/kansas/mission/automotive</loc></url>
+  <url><loc>https://uslist.info/kansas/mission/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/kansas/mission/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/kansas/mission/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/kansas/mission/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/kansas/mission/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/kansas/mission/beauty-wellness/gyms-fitness</loc></url>
   <url><loc>https://uslist.info/kansas/mission/beauty-wellness/hair-beauty</loc></url>
+  <url><loc>https://uslist.info/kansas/mission/beauty-wellness/spas-massage</loc></url>
   <url><loc>https://uslist.info/kansas/mission/financial-legal</loc></url>
   <url><loc>https://uslist.info/kansas/mission/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/kansas/mission/financial-legal/real-estate</loc></url>
@@ -2270,6 +2276,7 @@
   <url><loc>https://uslist.info/kansas/mission/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/kansas/mission/health</loc></url>
   <url><loc>https://uslist.info/kansas/mission/health/dentists</loc></url>
+  <url><loc>https://uslist.info/kansas/mission/health/doctors</loc></url>
   <url><loc>https://uslist.info/kansas/mission/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/kansas/mission/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/kansas/mission/home-services</loc></url>
@@ -2288,6 +2295,7 @@
   <url><loc>https://uslist.info/kansas/mission/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/kansas/mission/shopping/furniture-home</loc></url>
   <url><loc>https://uslist.info/kansas/mission/shopping/gifts-florists</loc></url>
+  <url><loc>https://uslist.info/kansas/mission/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/kansas/mission/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/kansas/mission/shopping/pet-stores</loc></url>
   <url><loc>https://uslist.info/kansas/mission/shopping/shoes</loc></url>
@@ -2556,7 +2564,6 @@
   <url><loc>https://uslist.info/kansas/overland-park/health/doctors</loc></url>
   <url><loc>https://uslist.info/kansas/overland-park/health/hospitals</loc></url>
   <url><loc>https://uslist.info/kansas/overland-park/health/optometrists</loc></url>
-  <url><loc>https://uslist.info/kansas/overland-park/health/other-health</loc></url>
   <url><loc>https://uslist.info/kansas/overland-park/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/kansas/overland-park/health/veterinarians</loc></url>
   <url><loc>https://uslist.info/kansas/overland-park/home-services</loc></url>
@@ -2938,6 +2945,7 @@
   <url><loc>https://uslist.info/kansas/scott-city/professional/other-services</loc></url>
   <url><loc>https://uslist.info/kansas/scott-city/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/kansas/scott-city/shopping</loc></url>
+  <url><loc>https://uslist.info/kansas/scott-city/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/kansas/scott-city/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/kansas/scott-city/travel-leisure</loc></url>
   <url><loc>https://uslist.info/kansas/scott-city/travel-leisure/arts-entertainment</loc></url>
@@ -2947,6 +2955,7 @@
   <url><loc>https://uslist.info/kansas/shawnee/automotive</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/automotive/auto-repair</loc></url>
+  <url><loc>https://uslist.info/kansas/shawnee/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/beauty-wellness</loc></url>
@@ -2954,6 +2963,7 @@
   <url><loc>https://uslist.info/kansas/shawnee/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/financial-legal</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/kansas/shawnee/financial-legal/financial-services</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/financial-legal/insurance</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/food-drink</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/food-drink/bakeries-desserts</loc></url>
@@ -2965,6 +2975,7 @@
   <url><loc>https://uslist.info/kansas/shawnee/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/health</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/health/dentists</loc></url>
+  <url><loc>https://uslist.info/kansas/shawnee/health/doctors</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/home-services</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/home-services/cleaning-laundry</loc></url>
@@ -2983,6 +2994,7 @@
   <url><loc>https://uslist.info/kansas/shawnee/shopping/art-craft-supplies</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/shopping/books-music</loc></url>
+  <url><loc>https://uslist.info/kansas/shawnee/shopping/cannabis-vape</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/kansas/shawnee/shopping/electronics</loc></url>
@@ -3227,11 +3239,13 @@
   <url><loc>https://uslist.info/kansas/wellington/food-drink</loc></url>
   <url><loc>https://uslist.info/kansas/wellington/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/kansas/wellington/food-drink/grocery</loc></url>
+  <url><loc>https://uslist.info/kansas/wellington/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/kansas/wellington/health</loc></url>
   <url><loc>https://uslist.info/kansas/wellington/health/hospitals</loc></url>
   <url><loc>https://uslist.info/kansas/wellington/professional</loc></url>
   <url><loc>https://uslist.info/kansas/wellington/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/kansas/wellington/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/kansas/wellington/professional/photography</loc></url>
   <url><loc>https://uslist.info/kansas/wellington/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/kansas/wellington/travel-leisure</loc></url>
   <url><loc>https://uslist.info/kansas/wellington/travel-leisure/arts-entertainment</loc></url>
