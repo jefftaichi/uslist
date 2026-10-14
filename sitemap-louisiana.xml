@@ -18,6 +18,7 @@
   <url><loc>https://uslist.info/louisiana/abbeville/health/hospitals</loc></url>
   <url><loc>https://uslist.info/louisiana/abbeville/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/louisiana/abbeville/home-services</loc></url>
+  <url><loc>https://uslist.info/louisiana/abbeville/home-services/hvac</loc></url>
   <url><loc>https://uslist.info/louisiana/abbeville/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/louisiana/abbeville/professional</loc></url>
   <url><loc>https://uslist.info/louisiana/abbeville/professional/nonprofits</loc></url>
@@ -58,6 +59,7 @@
   <url><loc>https://uslist.info/louisiana/alexandria/financial-legal</loc></url>
   <url><loc>https://uslist.info/louisiana/alexandria/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/louisiana/alexandria/financial-legal/banks</loc></url>
+  <url><loc>https://uslist.info/louisiana/alexandria/financial-legal/financial-services</loc></url>
   <url><loc>https://uslist.info/louisiana/alexandria/financial-legal/lawyers</loc></url>
   <url><loc>https://uslist.info/louisiana/alexandria/financial-legal/real-estate</loc></url>
   <url><loc>https://uslist.info/louisiana/alexandria/food-drink</loc></url>
@@ -99,27 +101,21 @@
   <url><loc>https://uslist.info/louisiana/algiers/financial-legal</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/financial-legal/real-estate</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/food-drink</loc></url>
-  <url><loc>https://uslist.info/louisiana/algiers/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/food-drink/bars-nightlife</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/food-drink/fast-food</loc></url>
-  <url><loc>https://uslist.info/louisiana/algiers/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/food-drink/liquor-stores</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/health</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/health/doctors</loc></url>
-  <url><loc>https://uslist.info/louisiana/algiers/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/professional</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/professional/civic-government</loc></url>
-  <url><loc>https://uslist.info/louisiana/algiers/professional/coworking</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/shopping</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/shopping/bikes</loc></url>
-  <url><loc>https://uslist.info/louisiana/algiers/shopping/books-music</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/shopping/department-stores</loc></url>
-  <url><loc>https://uslist.info/louisiana/algiers/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/travel-leisure</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/louisiana/algiers/travel-leisure/hotels</loc></url>
@@ -129,8 +125,6 @@
   <url><loc>https://uslist.info/louisiana/arabi/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/automotive/gas-stations</loc></url>
-  <url><loc>https://uslist.info/louisiana/arabi/financial-legal</loc></url>
-  <url><loc>https://uslist.info/louisiana/arabi/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/food-drink</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/food-drink/grocery</loc></url>
@@ -139,18 +133,14 @@
   <url><loc>https://uslist.info/louisiana/arabi/health/hospitals</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/health/veterinarians</loc></url>
-  <url><loc>https://uslist.info/louisiana/arabi/home-services</loc></url>
-  <url><loc>https://uslist.info/louisiana/arabi/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/professional</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/professional/coworking</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/shopping</loc></url>
-  <url><loc>https://uslist.info/louisiana/arabi/shopping/bikes</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/shopping/hardware-garden</loc></url>
-  <url><loc>https://uslist.info/louisiana/arabi/shopping/shoes</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/shopping/thrift-antiques</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/travel-leisure</loc></url>
   <url><loc>https://uslist.info/louisiana/arabi/travel-leisure/arts-entertainment</loc></url>
@@ -237,6 +227,7 @@
   <url><loc>https://uslist.info/louisiana/baldwin/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/louisiana/ball</loc></url>
   <url><loc>https://uslist.info/louisiana/ball/automotive</loc></url>
+  <url><loc>https://uslist.info/louisiana/ball/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/louisiana/ball/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/louisiana/ball/financial-legal</loc></url>
   <url><loc>https://uslist.info/louisiana/ball/financial-legal/banks</loc></url>
@@ -247,6 +238,8 @@
   <url><loc>https://uslist.info/louisiana/ball/professional</loc></url>
   <url><loc>https://uslist.info/louisiana/ball/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/louisiana/ball/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/louisiana/ball/shopping</loc></url>
+  <url><loc>https://uslist.info/louisiana/ball/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/louisiana/bastrop</loc></url>
   <url><loc>https://uslist.info/louisiana/bastrop/financial-legal</loc></url>
   <url><loc>https://uslist.info/louisiana/bastrop/financial-legal/banks</loc></url>
@@ -602,6 +595,7 @@
   <url><loc>https://uslist.info/louisiana/broussard/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/louisiana/broussard/shopping/electronics</loc></url>
   <url><loc>https://uslist.info/louisiana/broussard/shopping/hardware-garden</loc></url>
+  <url><loc>https://uslist.info/louisiana/broussard/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/louisiana/broussard/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/louisiana/broussard/travel-leisure</loc></url>
   <url><loc>https://uslist.info/louisiana/broussard/travel-leisure/arts-entertainment</loc></url>
@@ -764,6 +758,7 @@
   <url><loc>https://uslist.info/louisiana/claiborne/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/louisiana/claiborne/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/louisiana/claiborne/shopping/furniture-home</loc></url>
+  <url><loc>https://uslist.info/louisiana/claiborne/shopping/hardware-garden</loc></url>
   <url><loc>https://uslist.info/louisiana/claiborne/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/louisiana/claiborne/shopping/sporting-goods</loc></url>
   <url><loc>https://uslist.info/louisiana/claiborne/shopping/thrift-antiques</loc></url>
@@ -1216,13 +1211,13 @@
   <url><loc>https://uslist.info/louisiana/gonzales/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/louisiana/gonzales/professional/coworking</loc></url>
   <url><loc>https://uslist.info/louisiana/gonzales/professional/nonprofits</loc></url>
+  <url><loc>https://uslist.info/louisiana/gonzales/professional/other-services</loc></url>
   <url><loc>https://uslist.info/louisiana/gonzales/professional/photography</loc></url>
   <url><loc>https://uslist.info/louisiana/gonzales/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/louisiana/gonzales/shopping</loc></url>
   <url><loc>https://uslist.info/louisiana/gonzales/shopping/clothing</loc></url>
   <url><loc>https://uslist.info/louisiana/gonzales/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/louisiana/gonzales/shopping/hardware-garden</loc></url>
-  <url><loc>https://uslist.info/louisiana/gonzales/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/louisiana/gonzales/travel-leisure</loc></url>
   <url><loc>https://uslist.info/louisiana/gonzales/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/louisiana/gonzales/travel-leisure/hotels</loc></url>
@@ -1313,6 +1308,7 @@
   <url><loc>https://uslist.info/louisiana/gretna/food-drink</loc></url>
   <url><loc>https://uslist.info/louisiana/gretna/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/louisiana/gretna/food-drink/bars-nightlife</loc></url>
+  <url><loc>https://uslist.info/louisiana/gretna/food-drink/coffee-cafes</loc></url>
   <url><loc>https://uslist.info/louisiana/gretna/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/louisiana/gretna/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/louisiana/gretna/food-drink/restaurants</loc></url>
@@ -1383,6 +1379,7 @@
   <url><loc>https://uslist.info/louisiana/hammond/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/louisiana/hammond/professional</loc></url>
   <url><loc>https://uslist.info/louisiana/hammond/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/louisiana/hammond/professional/coworking</loc></url>
   <url><loc>https://uslist.info/louisiana/hammond/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/louisiana/hammond/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/louisiana/hammond/professional/other-services</loc></url>
@@ -1457,6 +1454,7 @@
   <url><loc>https://uslist.info/louisiana/harvey/health/optometrists</loc></url>
   <url><loc>https://uslist.info/louisiana/harvey/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/louisiana/harvey/professional</loc></url>
+  <url><loc>https://uslist.info/louisiana/harvey/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/louisiana/harvey/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/louisiana/harvey/professional/other-services</loc></url>
   <url><loc>https://uslist.info/louisiana/harvey/professional/photography</loc></url>
@@ -1588,6 +1586,7 @@
   <url><loc>https://uslist.info/louisiana/iowa/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/louisiana/iowa/food-drink</loc></url>
   <url><loc>https://uslist.info/louisiana/iowa/food-drink/fast-food</loc></url>
+  <url><loc>https://uslist.info/louisiana/iowa/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/louisiana/iowa/professional</loc></url>
   <url><loc>https://uslist.info/louisiana/iowa/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/louisiana/iowa/professional/nonprofits</loc></url>
@@ -1823,9 +1822,11 @@
   <url><loc>https://uslist.info/louisiana/lake-arthur/shopping/department-stores</loc></url>
   <url><loc>https://uslist.info/louisiana/lake-charles</loc></url>
   <url><loc>https://uslist.info/louisiana/lake-charles/automotive</loc></url>
+  <url><loc>https://uslist.info/louisiana/lake-charles/automotive/auto-parts</loc></url>
   <url><loc>https://uslist.info/louisiana/lake-charles/automotive/auto-repair</loc></url>
   <url><loc>https://uslist.info/louisiana/lake-charles/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/louisiana/lake-charles/automotive/car-rental</loc></url>
+  <url><loc>https://uslist.info/louisiana/lake-charles/automotive/car-wash</loc></url>
   <url><loc>https://uslist.info/louisiana/lake-charles/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/louisiana/lake-charles/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/louisiana/lake-charles/beauty-wellness/gyms-fitness</loc></url>
@@ -2148,6 +2149,7 @@
   <url><loc>https://uslist.info/louisiana/marrero/financial-legal/accountants</loc></url>
   <url><loc>https://uslist.info/louisiana/marrero/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/louisiana/marrero/financial-legal/insurance</loc></url>
+  <url><loc>https://uslist.info/louisiana/marrero/financial-legal/real-estate</loc></url>
   <url><loc>https://uslist.info/louisiana/marrero/food-drink</loc></url>
   <url><loc>https://uslist.info/louisiana/marrero/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/louisiana/marrero/food-drink/bars-nightlife</loc></url>
@@ -2165,6 +2167,7 @@
   <url><loc>https://uslist.info/louisiana/marrero/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/louisiana/marrero/professional</loc></url>
   <url><loc>https://uslist.info/louisiana/marrero/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/louisiana/marrero/professional/it-services</loc></url>
   <url><loc>https://uslist.info/louisiana/marrero/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/louisiana/marrero/professional/other-services</loc></url>
   <url><loc>https://uslist.info/louisiana/marrero/professional/printing-signs</loc></url>
@@ -2387,8 +2390,6 @@
   <url><loc>https://uslist.info/louisiana/morgan-city/travel-leisure/arts-entertainment</loc></url>
   <url><loc>https://uslist.info/louisiana/morgan-city/travel-leisure/hotels</loc></url>
   <url><loc>https://uslist.info/louisiana/moss-bluff</loc></url>
-  <url><loc>https://uslist.info/louisiana/moss-bluff/automotive</loc></url>
-  <url><loc>https://uslist.info/louisiana/moss-bluff/automotive/gas-stations</loc></url>
   <url><loc>https://uslist.info/louisiana/moss-bluff/financial-legal</loc></url>
   <url><loc>https://uslist.info/louisiana/moss-bluff/financial-legal/banks</loc></url>
   <url><loc>https://uslist.info/louisiana/moss-bluff/food-drink</loc></url>
@@ -2399,6 +2400,7 @@
   <url><loc>https://uslist.info/louisiana/moss-bluff/health/pharmacies</loc></url>
   <url><loc>https://uslist.info/louisiana/moss-bluff/professional</loc></url>
   <url><loc>https://uslist.info/louisiana/moss-bluff/professional/civic-government</loc></url>
+  <url><loc>https://uslist.info/louisiana/moss-bluff/professional/funeral-services</loc></url>
   <url><loc>https://uslist.info/louisiana/moss-bluff/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/louisiana/moss-bluff/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/louisiana/moss-bluff/shopping</loc></url>
@@ -2539,12 +2541,12 @@
   <url><loc>https://uslist.info/louisiana/new-orleans/home-services/cleaning-laundry</loc></url>
   <url><loc>https://uslist.info/louisiana/new-orleans/home-services/contractors</loc></url>
   <url><loc>https://uslist.info/louisiana/new-orleans/home-services/hvac</loc></url>
+  <url><loc>https://uslist.info/louisiana/new-orleans/home-services/movers-storage</loc></url>
   <url><loc>https://uslist.info/louisiana/new-orleans/home-services/other-home-services</loc></url>
   <url><loc>https://uslist.info/louisiana/new-orleans/home-services/painters</loc></url>
   <url><loc>https://uslist.info/louisiana/new-orleans/professional</loc></url>
   <url><loc>https://uslist.info/louisiana/new-orleans/professional/civic-government</loc></url>
   <url><loc>https://uslist.info/louisiana/new-orleans/professional/coworking</loc></url>
-  <url><loc>https://uslist.info/louisiana/new-orleans/professional/it-services</loc></url>
   <url><loc>https://uslist.info/louisiana/new-orleans/professional/marketing-agencies</loc></url>
   <url><loc>https://uslist.info/louisiana/new-orleans/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/louisiana/new-orleans/professional/other-services</loc></url>
@@ -3495,6 +3497,8 @@
   <url><loc>https://uslist.info/louisiana/ville-platte/professional/nonprofits</loc></url>
   <url><loc>https://uslist.info/louisiana/ville-platte/professional/schools-education</loc></url>
   <url><loc>https://uslist.info/louisiana/vinton</loc></url>
+  <url><loc>https://uslist.info/louisiana/vinton/automotive</loc></url>
+  <url><loc>https://uslist.info/louisiana/vinton/automotive/car-dealers</loc></url>
   <url><loc>https://uslist.info/louisiana/vinton/food-drink</loc></url>
   <url><loc>https://uslist.info/louisiana/vinton/food-drink/fast-food</loc></url>
   <url><loc>https://uslist.info/louisiana/vinton/home-services</loc></url>
@@ -3653,9 +3657,7 @@
   <url><loc>https://uslist.info/louisiana/westlake/beauty-wellness</loc></url>
   <url><loc>https://uslist.info/louisiana/westlake/beauty-wellness/hair-beauty</loc></url>
   <url><loc>https://uslist.info/louisiana/westlake/food-drink</loc></url>
-  <url><loc>https://uslist.info/louisiana/westlake/food-drink/bakeries-desserts</loc></url>
   <url><loc>https://uslist.info/louisiana/westlake/food-drink/fast-food</loc></url>
-  <url><loc>https://uslist.info/louisiana/westlake/food-drink/grocery</loc></url>
   <url><loc>https://uslist.info/louisiana/westlake/food-drink/restaurants</loc></url>
   <url><loc>https://uslist.info/louisiana/westlake/home-services</loc></url>
   <url><loc>https://uslist.info/louisiana/westlake/home-services/contractors</loc></url>
@@ -3673,7 +3675,6 @@
   <url><loc>https://uslist.info/louisiana/westlake/shopping/other-shopping</loc></url>
   <url><loc>https://uslist.info/louisiana/westlake/travel-leisure</loc></url>
   <url><loc>https://uslist.info/louisiana/westlake/travel-leisure/hotels</loc></url>
-  <url><loc>https://uslist.info/louisiana/westlake/travel-leisure/recreation</loc></url>
   <url><loc>https://uslist.info/louisiana/westwego</loc></url>
   <url><loc>https://uslist.info/louisiana/westwego/automotive</loc></url>
   <url><loc>https://uslist.info/louisiana/westwego/automotive/auto-repair</loc></url>
