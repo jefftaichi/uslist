@@ -3,6 +3,9 @@
   <url><loc>https://uslist.info/massachusetts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/automotive/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/abington/automotive/auto-parts/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/abington/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/abington/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/financial-legal/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/financial-legal/banks/</loc></url>
@@ -10,11 +13,13 @@
   <url><loc>https://uslist.info/massachusetts/abington/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/abington/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/health/dentists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/home-services/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/abington/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/abington/professional/civic-government/</loc></url>
@@ -66,6 +71,7 @@
   <url><loc>https://uslist.info/massachusetts/acton/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/acton/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/massachusetts/acton/shopping/clothing/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/acton/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/acton/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/massachusetts/acton/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/massachusetts/acton/shopping/gifts-florists/</loc></url>
@@ -137,6 +143,8 @@
   <url><loc>https://uslist.info/massachusetts/agawam/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/agawam/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/massachusetts/agawam/automotive/gas-stations/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/agawam/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/agawam/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/massachusetts/agawam/financial-legal/</loc></url>
   <url><loc>https://uslist.info/massachusetts/agawam/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/massachusetts/agawam/food-drink/</loc></url>
@@ -539,6 +547,7 @@
   <url><loc>https://uslist.info/massachusetts/auburn/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/auburn/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/auburn/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/auburn/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/massachusetts/auburn/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/massachusetts/auburn/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/massachusetts/auburn/beauty-wellness/gyms-fitness/</loc></url>
@@ -558,6 +567,7 @@
   <url><loc>https://uslist.info/massachusetts/auburn/health/dentists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/auburn/health/doctors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/auburn/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/auburn/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/auburn/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/auburn/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/auburn/home-services/contractors/</loc></url>
@@ -720,19 +730,21 @@
   <url><loc>https://uslist.info/massachusetts/barre/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/financial-legal/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/financial-legal/banks/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/barre/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/food-drink/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/food-drink/grocery/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/barre/home-services/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/barre/home-services/plumbers/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/barre/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/barre/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/travel-leisure/arts-entertainment/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/barre/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/massachusetts/barre/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bedford/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bedford/automotive/</loc></url>
@@ -801,6 +813,7 @@
   <url><loc>https://uslist.info/massachusetts/belchertown/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/belchertown/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/belchertown/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/belchertown/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/belchertown/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/belchertown/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/belchertown/health/dentists/</loc></url>
@@ -1226,6 +1239,7 @@
   <url><loc>https://uslist.info/massachusetts/boylston/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/massachusetts/boylston/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/boylston/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/boylston/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/boylston/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/boylston/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/boylston/travel-leisure/recreation/</loc></url>
@@ -1310,26 +1324,34 @@
   <url><loc>https://uslist.info/massachusetts/bridgewater/automotive/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/bridgewater/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/beauty-wellness/spas-massage/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/financial-legal/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/food-drink/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/bridgewater/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/health/doctors/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/bridgewater/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/bridgewater/home-services/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/bridgewater/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/professional/other-services/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/bridgewater/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/bridgewater/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/bridgewater/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/bridgewater/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brimfield/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brimfield/automotive/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brimfield/automotive/gas-stations/</loc></url>
@@ -1353,6 +1375,7 @@
   <url><loc>https://uslist.info/massachusetts/brockton/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/food-drink/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/brockton/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/food-drink/grocery/</loc></url>
@@ -1364,10 +1387,12 @@
   <url><loc>https://uslist.info/massachusetts/brockton/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/home-services/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/brockton/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/brockton/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/professional/coworking/</loc></url>
@@ -1380,6 +1405,7 @@
   <url><loc>https://uslist.info/massachusetts/brockton/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/shopping/electronics/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/brockton/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/brockton/shopping/pet-stores/</loc></url>
@@ -1601,6 +1627,7 @@
   <url><loc>https://uslist.info/massachusetts/cambridge/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/massachusetts/cambridge/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/cambridge/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/cambridge/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/cambridge/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/cambridge/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/cambridge/home-services/contractors/</loc></url>
@@ -1879,6 +1906,7 @@
   <url><loc>https://uslist.info/massachusetts/chelsea/health/dentists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/chelsea/health/doctors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/chelsea/health/hospitals/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/chelsea/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/chelsea/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/chelsea/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/chelsea/home-services/cleaning-laundry/</loc></url>
@@ -1952,6 +1980,7 @@
   <url><loc>https://uslist.info/massachusetts/chicopee/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/chicopee/shopping/art-craft-supplies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/chicopee/shopping/cannabis-vape/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/chicopee/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/massachusetts/chicopee/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/chicopee/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/massachusetts/chicopee/shopping/furniture-home/</loc></url>
@@ -1987,7 +2016,6 @@
   <url><loc>https://uslist.info/massachusetts/clinton/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/clinton/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/clinton/shopping/other-shopping/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/clinton/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/massachusetts/clinton/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/clinton/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/massachusetts/cochituate/</loc></url>
@@ -2322,6 +2350,7 @@
   <url><loc>https://uslist.info/massachusetts/dennis-port/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dennis-port/food-drink/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dennis-port/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/dennis-port/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dennis-port/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dennis-port/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dennis-port/health/dentists/</loc></url>
@@ -2333,6 +2362,8 @@
   <url><loc>https://uslist.info/massachusetts/dennis-port/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dennis-port/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dennis-port/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/dennis-port/shopping/gifts-florists/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/dennis-port/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dennis-port/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dennis-port/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dennis/financial-legal/</loc></url>
@@ -2381,6 +2412,7 @@
   <url><loc>https://uslist.info/massachusetts/dracut/automotive/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dracut/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dracut/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/dracut/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dracut/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dracut/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/massachusetts/dracut/beauty-wellness/gyms-fitness/</loc></url>
@@ -2478,6 +2510,8 @@
   <url><loc>https://uslist.info/massachusetts/duxbury/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-bridgewater/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-bridgewater/automotive/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/east-bridgewater/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/east-bridgewater/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-bridgewater/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-bridgewater/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-bridgewater/beauty-wellness/hair-beauty/</loc></url>
@@ -2520,6 +2554,7 @@
   <url><loc>https://uslist.info/massachusetts/east-falmouth/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-falmouth/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-falmouth/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/east-falmouth/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-falmouth/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-falmouth/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-falmouth/health/pharmacies/</loc></url>
@@ -2548,7 +2583,6 @@
   <url><loc>https://uslist.info/massachusetts/east-harwich/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-harwich/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-harwich/health/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/east-harwich/health/doctors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-harwich/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-harwich/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-harwich/home-services/</loc></url>
@@ -2575,21 +2609,27 @@
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/financial-legal/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/financial-legal/banks/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/east-longmeadow/financial-legal/financial-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/food-drink/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/east-longmeadow/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/health/doctors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/east-longmeadow/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/east-longmeadow/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/home-services/movers-storage/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/east-longmeadow/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/east-longmeadow/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/east-longmeadow/professional/photography/</loc></url>
@@ -2704,7 +2744,10 @@
   <url><loc>https://uslist.info/massachusetts/essex/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/massachusetts/essex/food-drink/</loc></url>
   <url><loc>https://uslist.info/massachusetts/essex/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/essex/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/essex/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/essex/home-services/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/essex/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/massachusetts/essex/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/essex/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/essex/professional/schools-education/</loc></url>
@@ -2839,7 +2882,6 @@
   <url><loc>https://uslist.info/massachusetts/fall-river/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/fall-river/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/massachusetts/fall-river/professional/nonprofits/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/fall-river/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/fall-river/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/massachusetts/fall-river/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/fall-river/shopping/</loc></url>
@@ -2937,7 +2979,6 @@
   <url><loc>https://uslist.info/massachusetts/fitchburg/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/fitchburg/health/dentists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/fitchburg/health/doctors/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/fitchburg/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/massachusetts/fitchburg/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/fitchburg/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/fitchburg/home-services/</loc></url>
@@ -3079,6 +3120,7 @@
   <url><loc>https://uslist.info/massachusetts/franklin/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/franklin/financial-legal/accountants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/food-drink/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/food-drink/coffee-cafes/</loc></url>
@@ -3092,12 +3134,15 @@
   <url><loc>https://uslist.info/massachusetts/franklin/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/franklin/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/shopping/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/franklin/shopping/art-craft-supplies/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/franklin/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/massachusetts/franklin/shopping/sporting-goods/</loc></url>
@@ -3429,7 +3474,7 @@
   <url><loc>https://uslist.info/massachusetts/hadley/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hadley/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hadley/health/dentists/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/hadley/health/doctors/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/hadley/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hadley/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hadley/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hadley/home-services/electricians/</loc></url>
@@ -3515,6 +3560,7 @@
   <url><loc>https://uslist.info/massachusetts/hanover/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hanover/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hanover/automotive/car-rental/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/hanover/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hanover/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hanover/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hanover/beauty-wellness/hair-beauty/</loc></url>
@@ -3598,6 +3644,7 @@
   <url><loc>https://uslist.info/massachusetts/harvard/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/harvard/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/harvard/shopping/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/harvard/shopping/art-craft-supplies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/harvard/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/harvard/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/harvard/travel-leisure/arts-entertainment/</loc></url>
@@ -3765,6 +3812,7 @@
   <url><loc>https://uslist.info/massachusetts/holbrook/financial-legal/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/food-drink/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/holbrook/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/food-drink/grocery/</loc></url>
@@ -3777,10 +3825,10 @@
   <url><loc>https://uslist.info/massachusetts/holbrook/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/home-services/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/holbrook/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/holbrook/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holbrook/professional/schools-education/</loc></url>
@@ -3794,6 +3842,7 @@
   <url><loc>https://uslist.info/massachusetts/holbrook/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holden/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holden/automotive/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/holden/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holden/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holden/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holden/automotive/gas-stations/</loc></url>
@@ -3851,6 +3900,7 @@
   <url><loc>https://uslist.info/massachusetts/holliston/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holliston/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holliston/shopping/gifts-florists/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/holliston/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holliston/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holliston/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holliston/travel-leisure/recreation/</loc></url>
@@ -3868,6 +3918,7 @@
   <url><loc>https://uslist.info/massachusetts/holyoke/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holyoke/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holyoke/food-drink/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/holyoke/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holyoke/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holyoke/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/massachusetts/holyoke/food-drink/liquor-stores/</loc></url>
@@ -3950,15 +4001,22 @@
   <url><loc>https://uslist.info/massachusetts/hopkinton/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hubbardston/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hubbardston/automotive/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/hubbardston/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hubbardston/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hubbardston/financial-legal/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hubbardston/financial-legal/banks/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/hubbardston/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hubbardston/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hubbardston/home-services/contractors/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/hubbardston/home-services/landscaping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hubbardston/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hubbardston/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hubbardston/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hubbardston/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/hubbardston/shopping/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/hubbardston/shopping/gifts-florists/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/hubbardston/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/hubbardston/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hudson/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hudson/automotive/</loc></url>
   <url><loc>https://uslist.info/massachusetts/hudson/automotive/auto-parts/</loc></url>
@@ -4120,6 +4178,7 @@
   <url><loc>https://uslist.info/massachusetts/lakeville/</loc></url>
   <url><loc>https://uslist.info/massachusetts/lakeville/automotive/</loc></url>
   <url><loc>https://uslist.info/massachusetts/lakeville/automotive/auto-parts/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/lakeville/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/lakeville/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/massachusetts/lakeville/financial-legal/</loc></url>
   <url><loc>https://uslist.info/massachusetts/lakeville/financial-legal/banks/</loc></url>
@@ -4179,6 +4238,7 @@
   <url><loc>https://uslist.info/massachusetts/lanesborough/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/lanesborough/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/lanesborough/professional/coworking/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/lanesborough/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/lanesborough/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/lanesborough/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/lanesborough/shopping/department-stores/</loc></url>
@@ -4600,6 +4660,7 @@
   <url><loc>https://uslist.info/massachusetts/ludlow/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/massachusetts/ludlow/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/ludlow/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/ludlow/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/ludlow/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/ludlow/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/massachusetts/ludlow/travel-leisure/</loc></url>
@@ -4761,6 +4822,7 @@
   <url><loc>https://uslist.info/massachusetts/malden/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/malden/health/dentists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/malden/health/doctors/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/malden/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/malden/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/malden/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/malden/home-services/</loc></url>
@@ -4918,6 +4980,7 @@
   <url><loc>https://uslist.info/massachusetts/marlborough/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/massachusetts/marlborough/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/massachusetts/marlborough/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/marlborough/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/massachusetts/marlborough/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/massachusetts/marlborough/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/marlborough/travel-leisure/travel-agents/</loc></url>
@@ -5417,10 +5480,13 @@
   <url><loc>https://uslist.info/massachusetts/millis/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millis/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millis/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/millis/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millis/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millis/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millis/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millville/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/millville/automotive/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/millville/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millville/food-drink/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millville/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millville/food-drink/fast-food/</loc></url>
@@ -5428,6 +5494,7 @@
   <url><loc>https://uslist.info/massachusetts/millville/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millville/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millville/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/millville/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millville/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/millville/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/massachusetts/milton/</loc></url>
@@ -5530,6 +5597,8 @@
   <url><loc>https://uslist.info/massachusetts/nahant/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/nahant/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/nantucket/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/nantucket/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/nantucket/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/massachusetts/nantucket/financial-legal/</loc></url>
   <url><loc>https://uslist.info/massachusetts/nantucket/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/massachusetts/nantucket/food-drink/</loc></url>
@@ -5581,6 +5650,7 @@
   <url><loc>https://uslist.info/massachusetts/natick/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/natick/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/natick/home-services/contractors/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/natick/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/massachusetts/natick/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/natick/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/natick/professional/nonprofits/</loc></url>
@@ -5726,7 +5796,6 @@
   <url><loc>https://uslist.info/massachusetts/newburyport/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/newburyport/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/newburyport/food-drink/grocery/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/newburyport/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/newburyport/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/newburyport/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/newburyport/health/dentists/</loc></url>
@@ -5736,6 +5805,7 @@
   <url><loc>https://uslist.info/massachusetts/newburyport/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/newburyport/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/newburyport/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/newburyport/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/massachusetts/newburyport/professional/marketing-agencies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/newburyport/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/newburyport/professional/other-services/</loc></url>
@@ -5883,13 +5953,13 @@
   <url><loc>https://uslist.info/massachusetts/north-attleborough/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/north-attleborough/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/north-attleborough/health/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/north-attleborough/health/doctors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/north-attleborough/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/north-attleborough/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/north-attleborough/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/massachusetts/north-attleborough/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/north-attleborough/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/north-attleborough/professional/coworking/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/north-attleborough/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/north-attleborough/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/north-attleborough/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/north-attleborough/shopping/art-craft-supplies/</loc></url>
@@ -6164,6 +6234,8 @@
   <url><loc>https://uslist.info/massachusetts/northborough/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/massachusetts/northborough/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/northborough/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/northborough/shopping/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/northborough/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/northborough/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/northborough/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/northbridge/</loc></url>
@@ -6826,6 +6898,7 @@
   <url><loc>https://uslist.info/massachusetts/quincy/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/quincy/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/quincy/shopping/books-music/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/quincy/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/massachusetts/quincy/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/massachusetts/quincy/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/quincy/shopping/electronics/</loc></url>
@@ -6844,6 +6917,7 @@
   <url><loc>https://uslist.info/massachusetts/randolph/automotive/</loc></url>
   <url><loc>https://uslist.info/massachusetts/randolph/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/randolph/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/randolph/automotive/car-rental/</loc></url>
   <url><loc>https://uslist.info/massachusetts/randolph/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/massachusetts/randolph/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/massachusetts/randolph/beauty-wellness/</loc></url>
@@ -6872,6 +6946,7 @@
   <url><loc>https://uslist.info/massachusetts/randolph/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/randolph/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/massachusetts/randolph/home-services/movers-storage/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/randolph/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/massachusetts/randolph/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/randolph/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/randolph/professional/funeral-services/</loc></url>
@@ -6905,7 +6980,6 @@
   <url><loc>https://uslist.info/massachusetts/raynham-center/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/raynham-center/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/raynham-center/health/dentists/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/raynham-center/health/doctors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/raynham-center/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/raynham-center/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/raynham-center/home-services/movers-storage/</loc></url>
@@ -7076,6 +7150,7 @@
   <url><loc>https://uslist.info/massachusetts/rochester/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/automotive/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/rockland/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/automotive/gas-stations/</loc></url>
@@ -7091,6 +7166,7 @@
   <url><loc>https://uslist.info/massachusetts/rockland/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/rockland/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/health/dentists/</loc></url>
@@ -7107,12 +7183,14 @@
   <url><loc>https://uslist.info/massachusetts/rockland/professional/photography/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/shopping/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/rockland/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/shopping/jewelry/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/rockland/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rockland/travel-leisure/arts-entertainment/</loc></url>
@@ -7145,8 +7223,6 @@
   <url><loc>https://uslist.info/massachusetts/rowley/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rowley/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rowley/food-drink/restaurants/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/rowley/health/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/rowley/health/doctors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rowley/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rowley/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/rowley/professional/nonprofits/</loc></url>
@@ -7583,6 +7659,7 @@
   <url><loc>https://uslist.info/massachusetts/somerset/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/somerset/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/somerset/shopping/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/somerset/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/somerset/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/somerset/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/somerset/travel-leisure/hotels/</loc></url>
@@ -7896,7 +7973,9 @@
   <url><loc>https://uslist.info/massachusetts/springfield/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/springfield/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/springfield/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/springfield/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/massachusetts/springfield/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/springfield/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/springfield/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/massachusetts/springfield/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/springfield/travel-leisure/arts-entertainment/</loc></url>
@@ -8163,6 +8242,7 @@
   <url><loc>https://uslist.info/massachusetts/sunderland/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/sunderland/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/sunderland/home-services/movers-storage/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/sunderland/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/sunderland/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/sunderland/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/sunderland/professional/schools-education/</loc></url>
@@ -8423,19 +8503,24 @@
   <url><loc>https://uslist.info/massachusetts/topsfield/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/automotive/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/townsend/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/townsend/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/financial-legal/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/food-drink/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/townsend/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/townsend/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/townsend/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/townsend/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/health/dentists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/townsend/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/home-services/movers-storage/</loc></url>
@@ -8445,7 +8530,9 @@
   <url><loc>https://uslist.info/massachusetts/townsend/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/shopping/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/townsend/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/townsend/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/townsend/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/tyngsborough/</loc></url>
   <url><loc>https://uslist.info/massachusetts/tyngsborough/automotive/</loc></url>
@@ -8628,7 +8715,6 @@
   <url><loc>https://uslist.info/massachusetts/walpole/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/walpole/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/walpole/home-services/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/walpole/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/walpole/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/massachusetts/walpole/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/walpole/professional/civic-government/</loc></url>
@@ -8722,6 +8808,7 @@
   <url><loc>https://uslist.info/massachusetts/ware/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/massachusetts/ware/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/massachusetts/ware/food-drink/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/ware/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/ware/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/ware/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/massachusetts/ware/food-drink/liquor-stores/</loc></url>
@@ -8876,6 +8963,7 @@
   <url><loc>https://uslist.info/massachusetts/wayland/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wayland/food-drink/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wayland/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/wayland/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wayland/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wayland/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wayland/food-drink/restaurants/</loc></url>
@@ -8888,7 +8976,6 @@
   <url><loc>https://uslist.info/massachusetts/wayland/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wayland/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wayland/shopping/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/wayland/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wayland/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wayland/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wayland/shopping/hardware-garden/</loc></url>
@@ -8926,6 +9013,7 @@
   <url><loc>https://uslist.info/massachusetts/webster/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/massachusetts/webster/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/webster/shopping/furniture-home/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/webster/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/massachusetts/webster/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/massachusetts/webster/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/webster/shopping/sporting-goods/</loc></url>
@@ -8952,6 +9040,7 @@
   <url><loc>https://uslist.info/massachusetts/wellesley/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wellesley/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wellesley/health/dentists/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/wellesley/health/doctors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wellesley/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wellesley/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wellesley/home-services/</loc></url>
@@ -9129,25 +9218,42 @@
   <url><loc>https://uslist.info/massachusetts/west-concord/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/automotive/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/automotive/gas-stations/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/beauty-wellness/gyms-fitness/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/beauty-wellness/spas-massage/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/financial-legal/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/financial-legal/banks/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/financial-legal/insurance/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/food-drink/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/health/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/health/doctors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/shopping/clothing/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/shopping/furniture-home/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/shopping/gifts-florists/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/shopping/shoes/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/west-dennis/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/massachusetts/west-dennis/travel-leisure/hotels/</loc></url>
@@ -9324,6 +9430,7 @@
   <url><loc>https://uslist.info/massachusetts/westfield/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/westfield/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/massachusetts/westfield/home-services/movers-storage/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/westfield/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/massachusetts/westfield/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/massachusetts/westfield/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/westfield/professional/civic-government/</loc></url>
@@ -9550,6 +9657,7 @@
   <url><loc>https://uslist.info/massachusetts/weymouth/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/weymouth/shopping/art-craft-supplies/</loc></url>
   <url><loc>https://uslist.info/massachusetts/weymouth/shopping/bikes/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/weymouth/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/massachusetts/weymouth/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/massachusetts/weymouth/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/massachusetts/weymouth/shopping/department-stores/</loc></url>
@@ -9564,10 +9672,10 @@
   <url><loc>https://uslist.info/massachusetts/weymouth/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/massachusetts/weymouth/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/weymouth/travel-leisure/arts-entertainment/</loc></url>
-  <url><loc>https://uslist.info/massachusetts/weymouth/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/massachusetts/weymouth/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/automotive/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/whitman/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/beauty-wellness/hair-beauty/</loc></url>
@@ -9576,14 +9684,18 @@
   <url><loc>https://uslist.info/massachusetts/whitman/food-drink/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/whitman/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/whitman/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/professional/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/shopping/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/shopping/bikes/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/whitman/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/massachusetts/whitman/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/massachusetts/whitman/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/massachusetts/wilbraham/</loc></url>
