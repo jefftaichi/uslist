@@ -325,6 +325,7 @@
   <url><loc>https://uslist.info/michigan/alma/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/michigan/alma/shopping/</loc></url>
   <url><loc>https://uslist.info/michigan/alma/shopping/bikes/</loc></url>
+  <url><loc>https://uslist.info/michigan/alma/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/michigan/alma/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/michigan/alma/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/michigan/alma/travel-leisure/recreation/</loc></url>
@@ -433,6 +434,7 @@
   <url><loc>https://uslist.info/michigan/ann-arbor-charter-township/financial-legal/</loc></url>
   <url><loc>https://uslist.info/michigan/ann-arbor-charter-township/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/michigan/ann-arbor-charter-township/financial-legal/insurance/</loc></url>
+  <url><loc>https://uslist.info/michigan/ann-arbor-charter-township/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/michigan/ann-arbor-charter-township/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/michigan/ann-arbor-charter-township/food-drink/</loc></url>
   <url><loc>https://uslist.info/michigan/ann-arbor-charter-township/food-drink/bakeries-desserts/</loc></url>
@@ -1013,6 +1015,7 @@
   <url><loc>https://uslist.info/michigan/berlin-charter-township/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/michigan/berlin-charter-township/food-drink/</loc></url>
   <url><loc>https://uslist.info/michigan/berlin-charter-township/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/michigan/berlin-charter-township/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/michigan/berlin-charter-township/professional/</loc></url>
   <url><loc>https://uslist.info/michigan/berlin-charter-township/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/michigan/berlin-charter-township/professional/nonprofits/</loc></url>
@@ -1413,7 +1416,6 @@
   <url><loc>https://uslist.info/michigan/brighton/health/dentists/</loc></url>
   <url><loc>https://uslist.info/michigan/brighton/health/doctors/</loc></url>
   <url><loc>https://uslist.info/michigan/brighton/health/hospitals/</loc></url>
-  <url><loc>https://uslist.info/michigan/brighton/health/other-health/</loc></url>
   <url><loc>https://uslist.info/michigan/brighton/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/michigan/brighton/home-services/</loc></url>
   <url><loc>https://uslist.info/michigan/brighton/home-services/repair-shops/</loc></url>
@@ -1875,6 +1877,7 @@
   <url><loc>https://uslist.info/michigan/chelsea/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/michigan/chelsea/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/michigan/chelsea/food-drink/</loc></url>
+  <url><loc>https://uslist.info/michigan/chelsea/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/michigan/chelsea/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/michigan/chelsea/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/michigan/chelsea/food-drink/grocery/</loc></url>
@@ -1895,6 +1898,7 @@
   <url><loc>https://uslist.info/michigan/chelsea/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/michigan/chelsea/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/michigan/chelsea/shopping/gifts-florists/</loc></url>
+  <url><loc>https://uslist.info/michigan/chelsea/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/michigan/chelsea/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/michigan/chelsea/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/michigan/chelsea/travel-leisure/</loc></url>
@@ -2070,6 +2074,7 @@
   <url><loc>https://uslist.info/michigan/clinton-charter-township/health/doctors/</loc></url>
   <url><loc>https://uslist.info/michigan/clinton-charter-township/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/michigan/clinton-charter-township/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/michigan/clinton-charter-township/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/michigan/clinton-charter-township/home-services/</loc></url>
   <url><loc>https://uslist.info/michigan/clinton-charter-township/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/michigan/clinton-charter-township/professional/</loc></url>
@@ -2580,7 +2585,9 @@
   <url><loc>https://uslist.info/michigan/detroit/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/automotive/</loc></url>
+  <url><loc>https://uslist.info/michigan/dewitt/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/michigan/dewitt/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/beauty-wellness/gyms-fitness/</loc></url>
@@ -2588,6 +2595,8 @@
   <url><loc>https://uslist.info/michigan/dewitt/financial-legal/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/financial-legal/financial-services/</loc></url>
+  <url><loc>https://uslist.info/michigan/dewitt/financial-legal/insurance/</loc></url>
+  <url><loc>https://uslist.info/michigan/dewitt/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/food-drink/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/food-drink/coffee-cafes/</loc></url>
@@ -2595,17 +2604,22 @@
   <url><loc>https://uslist.info/michigan/dewitt/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/health/</loc></url>
+  <url><loc>https://uslist.info/michigan/dewitt/health/dentists/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/health/doctors/</loc></url>
+  <url><loc>https://uslist.info/michigan/dewitt/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/health/pharmacies/</loc></url>
-  <url><loc>https://uslist.info/michigan/dewitt/home-services/</loc></url>
-  <url><loc>https://uslist.info/michigan/dewitt/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/michigan/dewitt/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/professional/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/michigan/dewitt/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/michigan/dewitt/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/shopping/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/shopping/bikes/</loc></url>
+  <url><loc>https://uslist.info/michigan/dewitt/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/michigan/dewitt/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/michigan/dewitt/travel-leisure/</loc></url>
@@ -2746,6 +2760,7 @@
   <url><loc>https://uslist.info/michigan/dundee/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/michigan/dundee/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/michigan/dundee/health/</loc></url>
+  <url><loc>https://uslist.info/michigan/dundee/health/dentists/</loc></url>
   <url><loc>https://uslist.info/michigan/dundee/health/doctors/</loc></url>
   <url><loc>https://uslist.info/michigan/dundee/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/michigan/dundee/health/veterinarians/</loc></url>
@@ -3390,7 +3405,6 @@
   <url><loc>https://uslist.info/michigan/farmington/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/michigan/farmington/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/michigan/farmington/shopping/pet-stores/</loc></url>
-  <url><loc>https://uslist.info/michigan/farmington/shopping/shoes/</loc></url>
   <url><loc>https://uslist.info/michigan/farmington/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/michigan/farmington/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/michigan/farmington/travel-leisure/hotels/</loc></url>
@@ -3552,6 +3566,7 @@
   <url><loc>https://uslist.info/michigan/flint/financial-legal/</loc></url>
   <url><loc>https://uslist.info/michigan/flint/financial-legal/accountants/</loc></url>
   <url><loc>https://uslist.info/michigan/flint/financial-legal/banks/</loc></url>
+  <url><loc>https://uslist.info/michigan/flint/financial-legal/financial-services/</loc></url>
   <url><loc>https://uslist.info/michigan/flint/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/michigan/flint/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/michigan/flint/financial-legal/real-estate/</loc></url>
@@ -3570,6 +3585,7 @@
   <url><loc>https://uslist.info/michigan/flint/home-services/</loc></url>
   <url><loc>https://uslist.info/michigan/flint/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/michigan/flint/home-services/hvac/</loc></url>
+  <url><loc>https://uslist.info/michigan/flint/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/michigan/flint/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/michigan/flint/professional/</loc></url>
   <url><loc>https://uslist.info/michigan/flint/professional/civic-government/</loc></url>
@@ -4080,6 +4096,7 @@
   <url><loc>https://uslist.info/michigan/genoa-charter-township/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/michigan/genoa-charter-township/food-drink/</loc></url>
   <url><loc>https://uslist.info/michigan/genoa-charter-township/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/michigan/genoa-charter-township/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/michigan/genoa-charter-township/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/michigan/genoa-charter-township/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/michigan/genoa-charter-township/food-drink/restaurants/</loc></url>
@@ -4329,6 +4346,7 @@
   <url><loc>https://uslist.info/michigan/grand-rapids/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/michigan/grand-rapids/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/michigan/grand-rapids/health/</loc></url>
+  <url><loc>https://uslist.info/michigan/grand-rapids/health/dentists/</loc></url>
   <url><loc>https://uslist.info/michigan/grand-rapids/health/doctors/</loc></url>
   <url><loc>https://uslist.info/michigan/grand-rapids/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/michigan/grand-rapids/health/optometrists/</loc></url>
@@ -4618,6 +4636,7 @@
   <url><loc>https://uslist.info/michigan/grosse-pointe-woods/financial-legal/</loc></url>
   <url><loc>https://uslist.info/michigan/grosse-pointe-woods/financial-legal/financial-services/</loc></url>
   <url><loc>https://uslist.info/michigan/grosse-pointe-woods/food-drink/</loc></url>
+  <url><loc>https://uslist.info/michigan/grosse-pointe-woods/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/michigan/grosse-pointe-woods/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/michigan/grosse-pointe-woods/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/michigan/grosse-pointe-woods/food-drink/fast-food/</loc></url>
@@ -4794,7 +4813,6 @@
   <url><loc>https://uslist.info/michigan/hancock/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/michigan/hancock/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/michigan/hancock/shopping/other-shopping/</loc></url>
-  <url><loc>https://uslist.info/michigan/hancock/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/michigan/hancock/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/michigan/hancock/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/michigan/hancock/travel-leisure/arts-entertainment/</loc></url>
@@ -5061,6 +5079,7 @@
   <url><loc>https://uslist.info/michigan/hazel-park/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/michigan/hazel-park/home-services/</loc></url>
   <url><loc>https://uslist.info/michigan/hazel-park/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/michigan/hazel-park/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/michigan/hazel-park/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/michigan/hazel-park/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/michigan/hazel-park/professional/</loc></url>
@@ -5315,6 +5334,7 @@
   <url><loc>https://uslist.info/michigan/holt/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/michigan/holt/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/michigan/holt/health/</loc></url>
+  <url><loc>https://uslist.info/michigan/holt/health/dentists/</loc></url>
   <url><loc>https://uslist.info/michigan/holt/health/doctors/</loc></url>
   <url><loc>https://uslist.info/michigan/holt/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/michigan/holt/health/veterinarians/</loc></url>
@@ -5593,6 +5613,8 @@
   <url><loc>https://uslist.info/michigan/imlay-city/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/michigan/imlay-city/health/</loc></url>
   <url><loc>https://uslist.info/michigan/imlay-city/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/michigan/imlay-city/home-services/</loc></url>
+  <url><loc>https://uslist.info/michigan/imlay-city/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/michigan/imlay-city/professional/</loc></url>
   <url><loc>https://uslist.info/michigan/imlay-city/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/michigan/imlay-city/professional/nonprofits/</loc></url>
@@ -5817,6 +5839,7 @@
   <url><loc>https://uslist.info/michigan/ironwood/health/</loc></url>
   <url><loc>https://uslist.info/michigan/ironwood/health/doctors/</loc></url>
   <url><loc>https://uslist.info/michigan/ironwood/health/hospitals/</loc></url>
+  <url><loc>https://uslist.info/michigan/ironwood/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/michigan/ironwood/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/michigan/ironwood/professional/</loc></url>
   <url><loc>https://uslist.info/michigan/ironwood/professional/civic-government/</loc></url>
@@ -5825,6 +5848,7 @@
   <url><loc>https://uslist.info/michigan/ironwood/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/michigan/ironwood/shopping/</loc></url>
   <url><loc>https://uslist.info/michigan/ironwood/shopping/cannabis-vape/</loc></url>
+  <url><loc>https://uslist.info/michigan/ironwood/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/michigan/ironwood/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/michigan/ironwood/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/michigan/ironwood/shopping/gifts-florists/</loc></url>
@@ -6113,6 +6137,7 @@
   <url><loc>https://uslist.info/michigan/kentwood/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/michigan/kentwood/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/michigan/kentwood/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/michigan/kentwood/automotive/car-rental/</loc></url>
   <url><loc>https://uslist.info/michigan/kentwood/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/michigan/kentwood/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/michigan/kentwood/beauty-wellness/</loc></url>
@@ -6367,6 +6392,7 @@
   <url><loc>https://uslist.info/michigan/lasalle-township/</loc></url>
   <url><loc>https://uslist.info/michigan/lasalle-township/food-drink/</loc></url>
   <url><loc>https://uslist.info/michigan/lasalle-township/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/michigan/lasalle-township/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/michigan/lasalle-township/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/michigan/lasalle-township/professional/</loc></url>
   <url><loc>https://uslist.info/michigan/lasalle-township/professional/civic-government/</loc></url>
@@ -7076,7 +7102,6 @@
   <url><loc>https://uslist.info/michigan/marshall/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/michigan/marshall/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/michigan/marshall/health/</loc></url>
-  <url><loc>https://uslist.info/michigan/marshall/health/doctors/</loc></url>
   <url><loc>https://uslist.info/michigan/marshall/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/michigan/marshall/home-services/</loc></url>
   <url><loc>https://uslist.info/michigan/marshall/home-services/cleaning-laundry/</loc></url>
@@ -7377,6 +7402,7 @@
   <url><loc>https://uslist.info/michigan/milan/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/michigan/milan/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/michigan/milan/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/michigan/milan/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/michigan/milan/health/</loc></url>
   <url><loc>https://uslist.info/michigan/milan/health/dentists/</loc></url>
   <url><loc>https://uslist.info/michigan/milan/health/pharmacies/</loc></url>
@@ -7482,6 +7508,7 @@
   <url><loc>https://uslist.info/michigan/monroe/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/michigan/monroe/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/michigan/monroe/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/michigan/monroe/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/michigan/monroe/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/michigan/monroe/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/michigan/monroe/shopping/shoes/</loc></url>
@@ -8178,6 +8205,7 @@
   <url><loc>https://uslist.info/michigan/okemos/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/michigan/okemos/home-services/</loc></url>
   <url><loc>https://uslist.info/michigan/okemos/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/michigan/okemos/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/michigan/okemos/professional/</loc></url>
   <url><loc>https://uslist.info/michigan/okemos/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/michigan/okemos/professional/coworking/</loc></url>
@@ -8496,6 +8524,7 @@
   <url><loc>https://uslist.info/michigan/peninsula-township/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/michigan/peninsula-township/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/michigan/peninsula-township/food-drink/</loc></url>
+  <url><loc>https://uslist.info/michigan/peninsula-township/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/michigan/peninsula-township/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/michigan/peninsula-township/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/michigan/peninsula-township/food-drink/restaurants/</loc></url>
@@ -8672,7 +8701,6 @@
   <url><loc>https://uslist.info/michigan/plainwell/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/michigan/plainwell/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/michigan/plainwell/health/</loc></url>
-  <url><loc>https://uslist.info/michigan/plainwell/health/doctors/</loc></url>
   <url><loc>https://uslist.info/michigan/plainwell/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/michigan/plainwell/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/michigan/plainwell/home-services/</loc></url>
@@ -8681,6 +8709,7 @@
   <url><loc>https://uslist.info/michigan/plainwell/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/michigan/plainwell/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/michigan/plainwell/professional/funeral-services/</loc></url>
+  <url><loc>https://uslist.info/michigan/plainwell/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/michigan/plainwell/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/michigan/plainwell/shopping/</loc></url>
   <url><loc>https://uslist.info/michigan/plainwell/shopping/department-stores/</loc></url>
@@ -8762,6 +8791,7 @@
   <url><loc>https://uslist.info/michigan/plymouth/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/michigan/plymouth/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/michigan/plymouth/shopping/</loc></url>
+  <url><loc>https://uslist.info/michigan/plymouth/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/michigan/plymouth/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/michigan/plymouth/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/michigan/plymouth/shopping/gifts-florists/</loc></url>
@@ -8851,6 +8881,7 @@
   <url><loc>https://uslist.info/michigan/port-huron/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/michigan/port-huron/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/michigan/port-huron/health/</loc></url>
+  <url><loc>https://uslist.info/michigan/port-huron/health/dentists/</loc></url>
   <url><loc>https://uslist.info/michigan/port-huron/health/doctors/</loc></url>
   <url><loc>https://uslist.info/michigan/port-huron/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/michigan/port-huron/health/pharmacies/</loc></url>
@@ -9300,6 +9331,7 @@
   <url><loc>https://uslist.info/michigan/rochester/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/michigan/rochester/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/michigan/rochester/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/michigan/rochester/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/michigan/rochester/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/michigan/rochester/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/michigan/rochester/travel-leisure/arts-entertainment/</loc></url>
@@ -9878,11 +9910,12 @@
   <url><loc>https://uslist.info/michigan/saline/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/michigan/saline/home-services/</loc></url>
   <url><loc>https://uslist.info/michigan/saline/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/michigan/saline/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/michigan/saline/professional/</loc></url>
   <url><loc>https://uslist.info/michigan/saline/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/michigan/saline/professional/nonprofits/</loc></url>
-  <url><loc>https://uslist.info/michigan/saline/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/michigan/saline/professional/printing-signs/</loc></url>
+  <url><loc>https://uslist.info/michigan/saline/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/michigan/saline/shopping/</loc></url>
   <url><loc>https://uslist.info/michigan/saline/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/michigan/saline/shopping/cannabis-vape/</loc></url>
@@ -10053,6 +10086,7 @@
   <url><loc>https://uslist.info/michigan/shelby-charter-township/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/michigan/shelby-charter-township/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/michigan/shelby-charter-township/home-services/repair-shops/</loc></url>
+  <url><loc>https://uslist.info/michigan/shelby-charter-township/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/michigan/shelby-charter-township/professional/</loc></url>
   <url><loc>https://uslist.info/michigan/shelby-charter-township/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/michigan/shelby-charter-township/professional/coworking/</loc></url>
@@ -10254,7 +10288,6 @@
   <url><loc>https://uslist.info/michigan/southfield/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/michigan/southfield/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/michigan/southfield/professional/other-services/</loc></url>
-  <url><loc>https://uslist.info/michigan/southfield/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/michigan/southfield/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/michigan/southfield/shopping/</loc></url>
   <url><loc>https://uslist.info/michigan/southfield/shopping/cannabis-vape/</loc></url>
@@ -10549,6 +10582,8 @@
   <url><loc>https://uslist.info/michigan/sturgis/health/</loc></url>
   <url><loc>https://uslist.info/michigan/sturgis/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/michigan/sturgis/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/michigan/sturgis/home-services/</loc></url>
+  <url><loc>https://uslist.info/michigan/sturgis/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/michigan/sturgis/professional/</loc></url>
   <url><loc>https://uslist.info/michigan/sturgis/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/michigan/sturgis/professional/nonprofits/</loc></url>
@@ -10621,6 +10656,7 @@
   <url><loc>https://uslist.info/michigan/swartz-creek/automotive/</loc></url>
   <url><loc>https://uslist.info/michigan/swartz-creek/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/michigan/swartz-creek/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/michigan/swartz-creek/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/michigan/swartz-creek/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/michigan/swartz-creek/financial-legal/</loc></url>
   <url><loc>https://uslist.info/michigan/swartz-creek/financial-legal/banks/</loc></url>
@@ -12096,11 +12132,11 @@
   <url><loc>https://uslist.info/michigan/wyoming/travel-leisure/vacation-rentals/</loc></url>
   <url><loc>https://uslist.info/michigan/york-charter-township/</loc></url>
   <url><loc>https://uslist.info/michigan/york-charter-township/automotive/</loc></url>
-  <url><loc>https://uslist.info/michigan/york-charter-township/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/michigan/york-charter-township/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/michigan/york-charter-township/food-drink/</loc></url>
   <url><loc>https://uslist.info/michigan/york-charter-township/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/michigan/york-charter-township/home-services/</loc></url>
+  <url><loc>https://uslist.info/michigan/york-charter-township/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/michigan/york-charter-township/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/michigan/york-charter-township/professional/</loc></url>
   <url><loc>https://uslist.info/michigan/york-charter-township/professional/civic-government/</loc></url>
