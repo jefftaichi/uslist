@@ -23,17 +23,22 @@
   <url><loc>https://uslist.info/mississippi/amory/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/food-drink/</loc></url>
+  <url><loc>https://uslist.info/mississippi/amory/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/mississippi/amory/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/health/</loc></url>
+  <url><loc>https://uslist.info/mississippi/amory/health/dentists/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/health/doctors/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/professional/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/shopping/</loc></url>
+  <url><loc>https://uslist.info/mississippi/amory/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/mississippi/amory/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/mississippi/amory/travel-leisure/arts-entertainment/</loc></url>
@@ -58,15 +63,22 @@
   <url><loc>https://uslist.info/mississippi/batesville/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/mississippi/batesville/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/financial-legal/financial-services/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/financial-legal/insurance/</loc></url>
+  <url><loc>https://uslist.info/mississippi/batesville/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/food-drink/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/mississippi/batesville/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/health/</loc></url>
+  <url><loc>https://uslist.info/mississippi/batesville/health/dentists/</loc></url>
+  <url><loc>https://uslist.info/mississippi/batesville/health/doctors/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/health/hospitals/</loc></url>
+  <url><loc>https://uslist.info/mississippi/batesville/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/home-services/</loc></url>
+  <url><loc>https://uslist.info/mississippi/batesville/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/professional/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/professional/civic-government/</loc></url>
@@ -77,6 +89,7 @@
   <url><loc>https://uslist.info/mississippi/batesville/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/mississippi/batesville/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/mississippi/batesville/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/mississippi/bay-saint-louis/</loc></url>
@@ -136,6 +149,7 @@
   <url><loc>https://uslist.info/mississippi/biloxi/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/mississippi/biloxi/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/mississippi/biloxi/shopping/jewelry/</loc></url>
+  <url><loc>https://uslist.info/mississippi/biloxi/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/mississippi/biloxi/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/mississippi/biloxi/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/mississippi/biloxi/travel-leisure/</loc></url>
@@ -449,6 +463,7 @@
   <url><loc>https://uslist.info/mississippi/columbia/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/mississippi/columbia/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/mississippi/columbia/travel-leisure/arts-entertainment/</loc></url>
+  <url><loc>https://uslist.info/mississippi/columbia/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/mississippi/columbus/</loc></url>
   <url><loc>https://uslist.info/mississippi/columbus/automotive/</loc></url>
   <url><loc>https://uslist.info/mississippi/columbus/automotive/auto-parts/</loc></url>
@@ -521,6 +536,7 @@
   <url><loc>https://uslist.info/mississippi/crystal-springs/food-drink/</loc></url>
   <url><loc>https://uslist.info/mississippi/crystal-springs/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/mississippi/crystal-springs/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/mississippi/crystal-springs/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/mississippi/crystal-springs/professional/</loc></url>
   <url><loc>https://uslist.info/mississippi/crystal-springs/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/mississippi/d-iberville/</loc></url>
@@ -566,7 +582,6 @@
   <url><loc>https://uslist.info/mississippi/diamondhead/</loc></url>
   <url><loc>https://uslist.info/mississippi/diamondhead/automotive/</loc></url>
   <url><loc>https://uslist.info/mississippi/diamondhead/automotive/auto-repair/</loc></url>
-  <url><loc>https://uslist.info/mississippi/diamondhead/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/mississippi/diamondhead/food-drink/</loc></url>
   <url><loc>https://uslist.info/mississippi/diamondhead/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/mississippi/diamondhead/food-drink/grocery/</loc></url>
@@ -601,6 +616,7 @@
   <url><loc>https://uslist.info/mississippi/ellisville/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/mississippi/ellisville/professional/</loc></url>
   <url><loc>https://uslist.info/mississippi/ellisville/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/mississippi/ellisville/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/mississippi/ellisville/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/mississippi/ellisville/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/mississippi/ellisville/shopping/</loc></url>
@@ -1308,7 +1324,6 @@
   <url><loc>https://uslist.info/mississippi/long-beach/shopping/</loc></url>
   <url><loc>https://uslist.info/mississippi/long-beach/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/mississippi/long-beach/shopping/hardware-garden/</loc></url>
-  <url><loc>https://uslist.info/mississippi/long-beach/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/mississippi/long-beach/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/mississippi/long-beach/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/mississippi/long-beach/travel-leisure/recreation/</loc></url>
@@ -1843,13 +1858,20 @@
   <url><loc>https://uslist.info/mississippi/pascagoula/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/mississippi/pascagoula/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/mississippi/pass-christian/</loc></url>
+  <url><loc>https://uslist.info/mississippi/pass-christian/automotive/</loc></url>
+  <url><loc>https://uslist.info/mississippi/pass-christian/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/mississippi/pass-christian/food-drink/</loc></url>
   <url><loc>https://uslist.info/mississippi/pass-christian/food-drink/coffee-cafes/</loc></url>
+  <url><loc>https://uslist.info/mississippi/pass-christian/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/mississippi/pass-christian/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/mississippi/pass-christian/professional/</loc></url>
   <url><loc>https://uslist.info/mississippi/pass-christian/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/mississippi/pass-christian/shopping/</loc></url>
   <url><loc>https://uslist.info/mississippi/pass-christian/shopping/books-music/</loc></url>
+  <url><loc>https://uslist.info/mississippi/pass-christian/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/mississippi/pass-christian/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/mississippi/pass-christian/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/mississippi/pass-christian/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/mississippi/pearl/</loc></url>
   <url><loc>https://uslist.info/mississippi/pearl-river/</loc></url>
   <url><loc>https://uslist.info/mississippi/pearl-river/beauty-wellness/</loc></url>
@@ -2277,6 +2299,7 @@
   <url><loc>https://uslist.info/mississippi/tupelo/health/doctors/</loc></url>
   <url><loc>https://uslist.info/mississippi/tupelo/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/mississippi/tupelo/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/mississippi/tupelo/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/mississippi/tupelo/home-services/</loc></url>
   <url><loc>https://uslist.info/mississippi/tupelo/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/mississippi/tupelo/professional/</loc></url>
@@ -2307,6 +2330,7 @@
   <url><loc>https://uslist.info/mississippi/verona/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/mississippi/verona/food-drink/</loc></url>
   <url><loc>https://uslist.info/mississippi/verona/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/mississippi/verona/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/mississippi/verona/professional/</loc></url>
   <url><loc>https://uslist.info/mississippi/verona/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/mississippi/verona/shopping/</loc></url>
