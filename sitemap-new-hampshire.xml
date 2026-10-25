@@ -203,6 +203,7 @@
   <url><loc>https://uslist.info/new-hampshire/bedford/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/bedford/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/bedford/financial-legal/banks/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/bedford/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/bedford/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/bedford/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/bedford/food-drink/</loc></url>
@@ -281,6 +282,8 @@
   <url><loc>https://uslist.info/new-hampshire/berlin/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/berlin/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/berwick/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/berwick/automotive/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/berwick/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/berwick/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/berwick/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/berwick/food-drink/fast-food/</loc></url>
@@ -526,7 +529,6 @@
   <url><loc>https://uslist.info/new-hampshire/claremont/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/health/</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/claremont/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/claremont/professional/</loc></url>
@@ -688,6 +690,7 @@
   <url><loc>https://uslist.info/new-hampshire/deerfield/automotive/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/deerfield/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/deerfield/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/deerfield/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/deerfield/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/deerfield/professional/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/deerfield/professional/civic-government/</loc></url>
@@ -1127,6 +1130,8 @@
   <url><loc>https://uslist.info/new-hampshire/gilford/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/gilford/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/gilmanton/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/gilmanton/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/gilmanton/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/gilmanton/professional/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/gilmanton/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/gilmanton/professional/nonprofits/</loc></url>
@@ -1144,7 +1149,6 @@
   <url><loc>https://uslist.info/new-hampshire/goffstown/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/financial-legal/banks/</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/goffstown/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/food-drink/coffee-cafes/</loc></url>
@@ -1169,6 +1173,7 @@
   <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/sporting-goods/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/goffstown/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/goffstown/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/gorham/</loc></url>
@@ -1305,6 +1310,7 @@
   <url><loc>https://uslist.info/new-hampshire/hampton/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hampton/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hampton/food-drink/grocery/</loc></url>
@@ -1460,6 +1466,8 @@
   <url><loc>https://uslist.info/new-hampshire/hinsdale/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/automotive/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hollis/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hollis/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/beauty-wellness/gyms-fitness/</loc></url>
@@ -1471,11 +1479,19 @@
   <url><loc>https://uslist.info/new-hampshire/hollis/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/home-services/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hollis/home-services/contractors/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hollis/home-services/electricians/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/home-services/landscaping/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hollis/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hollis/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/professional/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hollis/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hollis/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hollis/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hollis/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hollis/travel-leisure/recreation/</loc></url>
@@ -1521,6 +1537,10 @@
   <url><loc>https://uslist.info/new-hampshire/hooksett/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hooksett/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hopkinton/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hopkinton/automotive/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hopkinton/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hopkinton/automotive/car-wash/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hopkinton/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hopkinton/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hopkinton/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hopkinton/beauty-wellness/spas-massage/</loc></url>
@@ -1531,6 +1551,7 @@
   <url><loc>https://uslist.info/new-hampshire/hopkinton/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hopkinton/professional/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hopkinton/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/hopkinton/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hopkinton/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hopkinton/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/hopkinton/travel-leisure/arts-entertainment/</loc></url>
@@ -1761,6 +1782,7 @@
   <url><loc>https://uslist.info/new-hampshire/lancaster/automotive/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lancaster/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lancaster/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/lancaster/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lancaster/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lancaster/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lancaster/food-drink/grocery/</loc></url>
@@ -1864,6 +1886,7 @@
   <url><loc>https://uslist.info/new-hampshire/lee/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lee/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lee/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/lee/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lee/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lee/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/lee/food-drink/liquor-stores/</loc></url>
@@ -2417,6 +2440,9 @@
   <url><loc>https://uslist.info/new-hampshire/new-boston/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/new-boston/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/new-boston/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/new-boston/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/new-boston/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/new-boston/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/new-boston/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/new-boston/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/new-boston/travel-leisure/recreation/</loc></url>
@@ -2517,6 +2543,7 @@
   <url><loc>https://uslist.info/new-hampshire/newmarket/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/newmarket/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/newmarket/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/newmarket/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/newmarket/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/newmarket/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/newmarket/travel-leisure/arts-entertainment/</loc></url>
@@ -2688,6 +2715,7 @@
   <url><loc>https://uslist.info/new-hampshire/pelham/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/pelham/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/food-drink/grocery/</loc></url>
@@ -2699,13 +2727,18 @@
   <url><loc>https://uslist.info/new-hampshire/pelham/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/home-services/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/pelham/home-services/electricians/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/pelham/home-services/landscaping/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/pelham/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/professional/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/pelham/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping/art-craft-supplies/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/pelham/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/pelham/shopping/electronics/</loc></url>
@@ -2868,6 +2901,8 @@
   <url><loc>https://uslist.info/new-hampshire/plymouth/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/plymouth/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/plymouth/health/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/plymouth/health/dentists/</loc></url>
+  <url><loc>https://uslist.info/new-hampshire/plymouth/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/plymouth/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/plymouth/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/plymouth/health/veterinarians/</loc></url>
@@ -3257,8 +3292,6 @@
   <url><loc>https://uslist.info/new-hampshire/somersworth/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/somersworth/health/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/somersworth/health/pharmacies/</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/somersworth/home-services/</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/somersworth/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/somersworth/professional/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/somersworth/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/somersworth/professional/coworking/</loc></url>
@@ -3616,8 +3649,6 @@
   <url><loc>https://uslist.info/new-hampshire/wolfeboro/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/wolfeboro/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/wolfeboro/professional/schools-education/</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/wolfeboro/shopping/</loc></url>
-  <url><loc>https://uslist.info/new-hampshire/wolfeboro/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/wolfeboro/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/wolfeboro/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-hampshire/wolfeboro/travel-leisure/recreation/</loc></url>
