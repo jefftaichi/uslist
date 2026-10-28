@@ -25,6 +25,7 @@
   <url><loc>https://uslist.info/new-york/airmont/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/airmont/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/airmont/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/new-york/airmont/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/airmont/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/airmont/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/airmont/travel-leisure/hotels/</loc></url>
@@ -270,6 +271,8 @@
   <url><loc>https://uslist.info/new-york/amsterdam/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/new-york/amsterdam/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/amsterdam/health/veterinarians/</loc></url>
+  <url><loc>https://uslist.info/new-york/amsterdam/home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/amsterdam/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-york/amsterdam/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/amsterdam/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/amsterdam/professional/nonprofits/</loc></url>
@@ -380,6 +383,7 @@
   <url><loc>https://uslist.info/new-york/arlington/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/new-york/arlington/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/arlington/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-york/arlington/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/new-york/arlington/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/arlington/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/arlington/financial-legal/banks/</loc></url>
@@ -584,6 +588,7 @@
   <url><loc>https://uslist.info/new-york/baldwinsville/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/baldwinsville/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-york/baldwinsville/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-york/baldwinsville/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/new-york/baldwinsville/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/baldwinsville/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/baldwinsville/financial-legal/banks/</loc></url>
@@ -607,6 +612,7 @@
   <url><loc>https://uslist.info/new-york/baldwinsville/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/baldwinsville/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/new-york/baldwinsville/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/new-york/baldwinsville/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-york/baldwinsville/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/baldwinsville/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/baldwinsville/travel-leisure/hotels/</loc></url>
@@ -761,35 +767,50 @@
   <url><loc>https://uslist.info/new-york/batavia/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/beauty-wellness/spas-massage/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/financial-legal/financial-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/financial-legal/insurance/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/financial-legal/lawyers/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/health/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/health/dentists/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/professional/it-services/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/professional/other-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/professional/photography/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/shopping/bikes/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/shopping/books-music/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/shopping/electronics/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/batavia/shopping/shoes/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/batavia/travel-leisure/hotels/</loc></url>
@@ -797,6 +818,7 @@
   <url><loc>https://uslist.info/new-york/bay-shore/</loc></url>
   <url><loc>https://uslist.info/new-york/bay-shore/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/bay-shore/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/new-york/bay-shore/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/new-york/bay-shore/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/new-york/bay-shore/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/new-york/bay-shore/beauty-wellness/hair-beauty/</loc></url>
@@ -906,7 +928,7 @@
   <url><loc>https://uslist.info/new-york/beacon/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/beacon/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/beacon/health/</loc></url>
-  <url><loc>https://uslist.info/new-york/beacon/health/hospitals/</loc></url>
+  <url><loc>https://uslist.info/new-york/beacon/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/beacon/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/new-york/beacon/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/beacon/health/veterinarians/</loc></url>
@@ -974,13 +996,15 @@
   <url><loc>https://uslist.info/new-york/beekman/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/beekman/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/beekman/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/beekman/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/beekman/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/beekman/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/new-york/beekman/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/beekmantown/</loc></url>
+  <url><loc>https://uslist.info/new-york/beekmantown/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/beekmantown/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/beekmantown/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/beekmantown/professional/civic-government/</loc></url>
-  <url><loc>https://uslist.info/new-york/beekmantown/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/beekmantown/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/beekmantown/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/beekmantown/travel-leisure/</loc></url>
@@ -1011,6 +1035,7 @@
   <url><loc>https://uslist.info/new-york/bellmore/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/bellmore/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/bellmore/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/bellmore/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/bellmore/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/bellmore/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/bellmore/shopping/clothing/</loc></url>
@@ -1094,6 +1119,7 @@
   <url><loc>https://uslist.info/new-york/bethlehem/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/bethlehem/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/bethlehem/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/bethlehem/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/new-york/bethlehem/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/new-york/bethlehem/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/bethlehem/shopping/electronics/</loc></url>
@@ -1462,6 +1488,7 @@
   <url><loc>https://uslist.info/new-york/bridgehampton/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/bridgehampton/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/bridgehampton/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/bridgehampton/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/bridgehampton/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/new-york/bridgehampton/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/bridgehampton/travel-leisure/arts-entertainment/</loc></url>
@@ -1697,7 +1724,6 @@
   <url><loc>https://uslist.info/new-york/brookville/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/automotive/</loc></url>
-  <url><loc>https://uslist.info/new-york/brunswick/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/automotive/gas-stations/</loc></url>
@@ -1709,9 +1735,7 @@
   <url><loc>https://uslist.info/new-york/brunswick/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/food-drink/bakeries-desserts/</loc></url>
-  <url><loc>https://uslist.info/new-york/brunswick/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/food-drink/grocery/</loc></url>
-  <url><loc>https://uslist.info/new-york/brunswick/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/health/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/home-services/</loc></url>
@@ -1719,12 +1743,10 @@
   <url><loc>https://uslist.info/new-york/brunswick/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/professional/civic-government/</loc></url>
-  <url><loc>https://uslist.info/new-york/brunswick/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/shopping/hardware-garden/</loc></url>
-  <url><loc>https://uslist.info/new-york/brunswick/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/new-york/brunswick/shopping/thrift-antiques/</loc></url>
@@ -1894,6 +1916,7 @@
   <url><loc>https://uslist.info/new-york/canandaigua/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/canandaigua/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/canandaigua/health/</loc></url>
+  <url><loc>https://uslist.info/new-york/canandaigua/health/dentists/</loc></url>
   <url><loc>https://uslist.info/new-york/canandaigua/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/canandaigua/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/new-york/canandaigua/health/pharmacies/</loc></url>
@@ -2010,6 +2033,8 @@
   <url><loc>https://uslist.info/new-york/carthage/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/carthage/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/carthage/shopping/thrift-antiques/</loc></url>
+  <url><loc>https://uslist.info/new-york/carthage/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/new-york/carthage/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/cayuga-heights/</loc></url>
   <url><loc>https://uslist.info/new-york/cayuga-heights/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/cayuga-heights/automotive/auto-repair/</loc></url>
@@ -2157,6 +2182,8 @@
   <url><loc>https://uslist.info/new-york/center-moriches/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/center-moriches/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/center-moriches/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/new-york/center-moriches/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/center-moriches/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/new-york/center-moriches/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/center-moriches/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/centereach/</loc></url>
@@ -2487,7 +2514,9 @@
   <url><loc>https://uslist.info/new-york/clarendon/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/clarendon/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-york/clarendon/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/clarendon/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/clarendon/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/new-york/clarendon/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/clarendon/health/</loc></url>
   <url><loc>https://uslist.info/new-york/clarendon/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/clarendon/home-services/</loc></url>
@@ -2567,6 +2596,7 @@
   <url><loc>https://uslist.info/new-york/clifton-park/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/cobleskill/</loc></url>
   <url><loc>https://uslist.info/new-york/cobleskill/automotive/</loc></url>
+  <url><loc>https://uslist.info/new-york/cobleskill/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/cobleskill/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-york/cobleskill/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/new-york/cobleskill/beauty-wellness/hair-beauty/</loc></url>
@@ -2581,6 +2611,8 @@
   <url><loc>https://uslist.info/new-york/cobleskill/health/</loc></url>
   <url><loc>https://uslist.info/new-york/cobleskill/health/dentists/</loc></url>
   <url><loc>https://uslist.info/new-york/cobleskill/health/doctors/</loc></url>
+  <url><loc>https://uslist.info/new-york/cobleskill/health/hospitals/</loc></url>
+  <url><loc>https://uslist.info/new-york/cobleskill/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/cobleskill/home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/cobleskill/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-york/cobleskill/professional/</loc></url>
@@ -2727,6 +2759,8 @@
   <url><loc>https://uslist.info/new-york/commack/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/commack/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/commack/health/</loc></url>
+  <url><loc>https://uslist.info/new-york/commack/health/dentists/</loc></url>
+  <url><loc>https://uslist.info/new-york/commack/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/commack/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/commack/home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/commack/home-services/movers-storage/</loc></url>
@@ -2906,6 +2940,7 @@
   <url><loc>https://uslist.info/new-york/cornwall-on-hudson/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/cornwall-on-hudson/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/cornwall-on-hudson/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/cornwall-on-hudson/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/new-york/cornwall-on-hudson/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/new-york/cornwall-on-hudson/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/new-york/cornwall-on-hudson/shopping/sporting-goods/</loc></url>
@@ -3413,6 +3448,8 @@
   <url><loc>https://uslist.info/new-york/dunkirk/health/</loc></url>
   <url><loc>https://uslist.info/new-york/dunkirk/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/new-york/dunkirk/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/new-york/dunkirk/home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/dunkirk/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-york/dunkirk/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/dunkirk/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/dunkirk/professional/nonprofits/</loc></url>
@@ -3528,6 +3565,7 @@
   <url><loc>https://uslist.info/new-york/east-fishkill/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/beauty-wellness/gyms-fitness/</loc></url>
+  <url><loc>https://uslist.info/new-york/east-fishkill/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/financial-legal/insurance/</loc></url>
@@ -3546,8 +3584,10 @@
   <url><loc>https://uslist.info/new-york/east-fishkill/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/east-fishkill/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/east-fishkill/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/east-fishkill/travel-leisure/hotels/</loc></url>
@@ -3625,6 +3665,7 @@
   <url><loc>https://uslist.info/new-york/east-hills/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/east-hills/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/east-hills/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/new-york/east-hills/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/east-hills/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/east-hills/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/east-hills/health/</loc></url>
@@ -3697,8 +3738,10 @@
   <url><loc>https://uslist.info/new-york/east-meadow/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/east-meadow/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/new-york/east-meadow/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/new-york/east-meadow/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/new-york/east-meadow/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/new-york/east-meadow/beauty-wellness/gyms-fitness/</loc></url>
+  <url><loc>https://uslist.info/new-york/east-meadow/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/east-meadow/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/east-meadow/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/east-meadow/financial-legal/real-estate/</loc></url>
@@ -3764,6 +3807,7 @@
   <url><loc>https://uslist.info/new-york/east-northport/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/east-northport/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/east-northport/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/new-york/east-northport/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/east-northport/health/</loc></url>
   <url><loc>https://uslist.info/new-york/east-northport/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/east-northport/home-services/</loc></url>
@@ -3837,6 +3881,7 @@
   <url><loc>https://uslist.info/new-york/east-patchogue/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/new-york/east-patchogue/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/new-york/east-patchogue/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/east-patchogue/shopping/shoes/</loc></url>
   <url><loc>https://uslist.info/new-york/east-quogue/</loc></url>
   <url><loc>https://uslist.info/new-york/east-quogue/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/east-quogue/automotive/car-dealers/</loc></url>
@@ -4054,6 +4099,7 @@
   <url><loc>https://uslist.info/new-york/east-williston/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/east-williston/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/east-williston/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/new-york/east-williston/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/east-williston/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/east-williston/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/east-williston/professional/coworking/</loc></url>
@@ -4118,6 +4164,7 @@
   <url><loc>https://uslist.info/new-york/eggertsville/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/new-york/eggertsville/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/new-york/eggertsville/home-services/movers-storage/</loc></url>
+  <url><loc>https://uslist.info/new-york/eggertsville/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/eggertsville/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/new-york/eggertsville/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/eggertsville/professional/civic-government/</loc></url>
@@ -4649,6 +4696,7 @@
   <url><loc>https://uslist.info/new-york/fairport/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/fairport/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/new-york/fairport/shopping/furniture-home/</loc></url>
+  <url><loc>https://uslist.info/new-york/fairport/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/new-york/fairport/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/new-york/fairport/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/fairport/shopping/thrift-antiques/</loc></url>
@@ -5063,7 +5111,7 @@
   <url><loc>https://uslist.info/new-york/fulton/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/fulton/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/fulton/food-drink/</loc></url>
-  <url><loc>https://uslist.info/new-york/fulton/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/new-york/fulton/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/fulton/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/fulton/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/fulton/food-drink/restaurants/</loc></url>
@@ -5164,7 +5212,6 @@
   <url><loc>https://uslist.info/new-york/gang-mills/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/gang-mills/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/gang-mills/food-drink/bakeries-desserts/</loc></url>
-  <url><loc>https://uslist.info/new-york/gang-mills/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/gang-mills/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/gang-mills/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/gang-mills/food-drink/restaurants/</loc></url>
@@ -5206,6 +5253,7 @@
   <url><loc>https://uslist.info/new-york/garden-city-park/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/garden-city-park/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/garden-city-park/home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/garden-city-park/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/new-york/garden-city-park/home-services/electricians/</loc></url>
   <url><loc>https://uslist.info/new-york/garden-city-park/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-york/garden-city-park/home-services/roofers/</loc></url>
@@ -5218,6 +5266,8 @@
   <url><loc>https://uslist.info/new-york/garden-city-park/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/new-york/garden-city-park/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/new-york/garden-city-park/shopping/pet-stores/</loc></url>
+  <url><loc>https://uslist.info/new-york/garden-city-park/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/new-york/garden-city-park/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/garden-city-south/</loc></url>
   <url><loc>https://uslist.info/new-york/garden-city-south/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/garden-city-south/automotive/auto-repair/</loc></url>
@@ -5486,7 +5536,6 @@
   <url><loc>https://uslist.info/new-york/glen-head/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/glen-head/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/glen-head/health/</loc></url>
-  <url><loc>https://uslist.info/new-york/glen-head/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/glen-head/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/glen-head/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/glen-head/professional/civic-government/</loc></url>
@@ -5498,6 +5547,7 @@
   <url><loc>https://uslist.info/new-york/glen/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/glen/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-york/glen/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/new-york/glen/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/glen/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/glen/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/glen/professional/nonprofits/</loc></url>
@@ -5647,6 +5697,7 @@
   <url><loc>https://uslist.info/new-york/gowanda/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/gowanda/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/gowanda/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/gowanda/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-york/gowanda/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/gowanda/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/gowanda/food-drink/restaurants/</loc></url>
@@ -5659,6 +5710,7 @@
   <url><loc>https://uslist.info/new-york/gowanda/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/gowanda/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/gowanda/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/new-york/gowanda/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/gowanda/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/grand-island/</loc></url>
   <url><loc>https://uslist.info/new-york/grand-island/automotive/</loc></url>
@@ -5932,6 +5984,7 @@
   <url><loc>https://uslist.info/new-york/green-island/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/new-york/green-island/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/new-york/green-island/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/green-island/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/green-island/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/green-island/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/green-island/food-drink/grocery/</loc></url>
@@ -5959,6 +6012,7 @@
   <url><loc>https://uslist.info/new-york/green-island/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/new-york/green-island/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/new-york/green-island/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/new-york/green-island/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/new-york/green-island/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/green-island/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/new-york/green-island/travel-leisure/</loc></url>
@@ -6826,6 +6880,7 @@
   <url><loc>https://uslist.info/new-york/hicksville/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/new-york/hicksville/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/new-york/hicksville/shopping/jewelry/</loc></url>
+  <url><loc>https://uslist.info/new-york/hicksville/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/hicksville/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/hicksville/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/hicksville/travel-leisure/recreation/</loc></url>
@@ -6853,7 +6908,6 @@
   <url><loc>https://uslist.info/new-york/highland-falls/health/dentists/</loc></url>
   <url><loc>https://uslist.info/new-york/highland-falls/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/highland-falls/health/pharmacies/</loc></url>
-  <url><loc>https://uslist.info/new-york/highland-falls/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/new-york/highland-falls/home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/highland-falls/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/new-york/highland-falls/home-services/other-home-services/</loc></url>
@@ -6937,7 +6991,6 @@
   <url><loc>https://uslist.info/new-york/hillcrest/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/hillcrest/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/hillcrest/shopping/department-stores/</loc></url>
-  <url><loc>https://uslist.info/new-york/hillcrest/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/new-york/hilton/</loc></url>
   <url><loc>https://uslist.info/new-york/hilton/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/hilton/automotive/auto-repair/</loc></url>
@@ -7310,6 +7363,7 @@
   <url><loc>https://uslist.info/new-york/hudson/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/hudson/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/new-york/hudson/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/hudson/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/hudson/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/new-york/hudson/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/hudson/shopping/</loc></url>
@@ -7509,6 +7563,7 @@
   <url><loc>https://uslist.info/new-york/irondequoit/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/irondequoit/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/new-york/irondequoit/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/new-york/irondequoit/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/new-york/irondequoit/home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/irondequoit/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/new-york/irondequoit/home-services/movers-storage/</loc></url>
@@ -7549,6 +7604,7 @@
   <url><loc>https://uslist.info/new-york/irvington/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/irvington/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/irvington/professional/other-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/irvington/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/irvington/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/irvington/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/irvington/travel-leisure/hotels/</loc></url>
@@ -7784,6 +7840,7 @@
   <url><loc>https://uslist.info/new-york/jericho/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/jericho/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/jericho/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/jericho/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/jericho/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/jericho/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/jericho/food-drink/liquor-stores/</loc></url>
@@ -8725,6 +8782,7 @@
   <url><loc>https://uslist.info/new-york/latham/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/latham/shopping/art-craft-supplies/</loc></url>
   <url><loc>https://uslist.info/new-york/latham/shopping/bikes/</loc></url>
+  <url><loc>https://uslist.info/new-york/latham/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/new-york/latham/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/new-york/latham/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/latham/shopping/electronics/</loc></url>
@@ -8779,6 +8837,8 @@
   <url><loc>https://uslist.info/new-york/levittown/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/levittown/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/levittown/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/new-york/levittown/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-york/levittown/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/levittown/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/levittown/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/levittown/food-drink/</loc></url>
@@ -8813,6 +8873,7 @@
   <url><loc>https://uslist.info/new-york/lewisboro/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/lewisboro/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/lewisboro/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/lewisboro/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/lewisboro/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/lewisboro/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/new-york/lewisboro/travel-leisure/</loc></url>
@@ -8935,6 +8996,7 @@
   <url><loc>https://uslist.info/new-york/little-falls/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/little-falls/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/little-falls/health/</loc></url>
+  <url><loc>https://uslist.info/new-york/little-falls/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/little-falls/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/new-york/little-falls/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/little-falls/home-services/</loc></url>
@@ -9317,6 +9379,7 @@
   <url><loc>https://uslist.info/new-york/lyncourt/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/lyncourt/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/professional/civic-government/</loc></url>
@@ -9324,7 +9387,6 @@
   <url><loc>https://uslist.info/new-york/lyncourt/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/professional/other-services/</loc></url>
-  <url><loc>https://uslist.info/new-york/lyncourt/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/shopping/art-craft-supplies/</loc></url>
@@ -9337,6 +9399,7 @@
   <url><loc>https://uslist.info/new-york/lyncourt/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/lyncourt/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/lyncourt/travel-leisure/arts-entertainment/</loc></url>
@@ -9522,6 +9585,7 @@
   <url><loc>https://uslist.info/new-york/manhasset/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/new-york/manhasset/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/new-york/manhasset/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/manhasset/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/manhasset/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/new-york/manhasset/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/manhasset/shopping/</loc></url>
@@ -9658,6 +9722,7 @@
   <url><loc>https://uslist.info/new-york/marbletown/professional/it-services/</loc></url>
   <url><loc>https://uslist.info/new-york/marbletown/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/marbletown/professional/other-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/marbletown/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/marbletown/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/marbletown/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/new-york/marbletown/shopping/books-music/</loc></url>
@@ -10162,6 +10227,7 @@
   <url><loc>https://uslist.info/new-york/mendon/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/new-york/mendon/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/mendon/shopping/pet-stores/</loc></url>
+  <url><loc>https://uslist.info/new-york/mendon/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/new-york/mendon/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/mendon/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/mendon/travel-leisure/recreation/</loc></url>
@@ -10186,6 +10252,7 @@
   <url><loc>https://uslist.info/new-york/merrick/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/merrick/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/merrick/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/merrick/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/merrick/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/merrick/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/merrick/shopping/books-music/</loc></url>
@@ -10212,6 +10279,7 @@
   <url><loc>https://uslist.info/new-york/mexico/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/mexico/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/mexico/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/mexico/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/mexico/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/mexico/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/mexico/travel-leisure/</loc></url>
@@ -10579,6 +10647,7 @@
   <url><loc>https://uslist.info/new-york/montrose/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/montrose/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/montrose/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/montrose/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/montrose/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/montrose/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/new-york/montrose/shopping/hardware-garden/</loc></url>
@@ -10893,7 +10962,6 @@
   <url><loc>https://uslist.info/new-york/myers-corner/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/myers-corner/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/new-york/myers-corner/shopping/furniture-home/</loc></url>
-  <url><loc>https://uslist.info/new-york/myers-corner/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/new-york/myers-corner/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/new-york/myers-corner/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/myers-corner/shopping/pet-stores/</loc></url>
@@ -11069,13 +11137,13 @@
   <url><loc>https://uslist.info/new-york/new-hyde-park/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/new-hyde-park/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/new-hyde-park/health/</loc></url>
-  <url><loc>https://uslist.info/new-york/new-hyde-park/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/new-york/new-hyde-park/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/new-hyde-park/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/new-hyde-park/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/new-hyde-park/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/new-hyde-park/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/new-hyde-park/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/new-hyde-park/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/new-york/new-hyde-park/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/new-york/new-hyde-park/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/new-lebanon/</loc></url>
@@ -11197,6 +11265,7 @@
   <url><loc>https://uslist.info/new-york/new-york-mills/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/new-york/new-york-mills/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-york/new-york-mills/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/new-york-mills/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/new-york/new-york-mills/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/new-york/new-york-mills/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/new-york-mills/professional/civic-government/</loc></url>
@@ -11272,6 +11341,7 @@
   <url><loc>https://uslist.info/new-york/new-york/home-services/landscaping/</loc></url>
   <url><loc>https://uslist.info/new-york/new-york/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-york/new-york/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/new-york/home-services/painters/</loc></url>
   <url><loc>https://uslist.info/new-york/new-york/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/new-york/new-york/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/new-york/new-york/home-services/roofers/</loc></url>
@@ -11489,6 +11559,8 @@
   <url><loc>https://uslist.info/new-york/north-bellport/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-york/north-bellport/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/new-york/north-bellport/beauty-wellness/hair-beauty/</loc></url>
+  <url><loc>https://uslist.info/new-york/north-bellport/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/new-york/north-bellport/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/new-york/north-bellport/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/north-bellport/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/north-bellport/food-drink/grocery/</loc></url>
@@ -11580,6 +11652,7 @@
   <url><loc>https://uslist.info/new-york/north-lindenhurst/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/north-lindenhurst/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/north-lindenhurst/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/new-york/north-lindenhurst/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/new-york/north-lindenhurst/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/north-lindenhurst/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/north-lindenhurst/shopping/electronics/</loc></url>
@@ -11737,6 +11810,7 @@
   <url><loc>https://uslist.info/new-york/north-syracuse/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/north-syracuse/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/new-york/north-syracuse/automotive/car-rental/</loc></url>
+  <url><loc>https://uslist.info/new-york/north-syracuse/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/new-york/north-syracuse/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-york/north-syracuse/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/new-york/north-syracuse/beauty-wellness/gyms-fitness/</loc></url>
@@ -11763,6 +11837,7 @@
   <url><loc>https://uslist.info/new-york/north-syracuse/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/new-york/north-syracuse/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/north-syracuse/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/new-york/north-syracuse/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/new-york/north-syracuse/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/north-syracuse/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/north-syracuse/professional/printing-signs/</loc></url>
@@ -11801,6 +11876,7 @@
   <url><loc>https://uslist.info/new-york/north-tonawanda/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/new-york/north-tonawanda/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/north-tonawanda/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/new-york/north-tonawanda/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-york/north-tonawanda/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/north-tonawanda/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/north-tonawanda/food-drink/grocery/</loc></url>
@@ -11822,6 +11898,7 @@
   <url><loc>https://uslist.info/new-york/north-tonawanda/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/new-york/north-tonawanda/professional/it-services/</loc></url>
   <url><loc>https://uslist.info/new-york/north-tonawanda/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/north-tonawanda/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/north-tonawanda/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/new-york/north-tonawanda/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/north-tonawanda/shopping/</loc></url>
@@ -11894,10 +11971,12 @@
   <url><loc>https://uslist.info/new-york/northport/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/northport/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/northport/health/</loc></url>
+  <url><loc>https://uslist.info/new-york/northport/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/new-york/northport/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/northport/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/northport/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/northport/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/northport/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/northport/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/northport/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/northport/shopping/clothing/</loc></url>
@@ -11956,13 +12035,20 @@
   <url><loc>https://uslist.info/new-york/noyack/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/automotive/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/beauty-wellness/gyms-fitness/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/beauty-wellness/hair-beauty/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/beauty-wellness/spas-massage/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/financial-legal/accountants/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/financial-legal/banks/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/financial-legal/financial-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/food-drink/grocery/</loc></url>
@@ -11970,14 +12056,28 @@
   <url><loc>https://uslist.info/new-york/nyack/health/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/health/hospitals/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/professional/other-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/shopping/bikes/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/shopping/books-music/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/shopping/clothing/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/shopping/gifts-florists/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/shopping/jewelry/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/shopping/sporting-goods/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/new-york/nyack/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/nyack/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/new-york/oakdale/</loc></url>
   <url><loc>https://uslist.info/new-york/oakdale/financial-legal/</loc></url>
@@ -12047,9 +12147,12 @@
   <url><loc>https://uslist.info/new-york/oceanside/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/automotive/</loc></url>
+  <url><loc>https://uslist.info/new-york/ogdensburg/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/automotive/gas-stations/</loc></url>
+  <url><loc>https://uslist.info/new-york/ogdensburg/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-york/ogdensburg/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/food-drink/</loc></url>
@@ -12069,10 +12172,12 @@
   <url><loc>https://uslist.info/new-york/ogdensburg/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/ogdensburg/shopping/art-craft-supplies/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/ogdensburg/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/ogdensburg/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/old-bethpage/</loc></url>
@@ -12139,6 +12244,7 @@
   <url><loc>https://uslist.info/new-york/olean/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/new-york/olean/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/new-york/olean/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/new-york/olean/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/olean/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/olean/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/olean/travel-leisure/hotels/</loc></url>
@@ -12189,6 +12295,8 @@
   <url><loc>https://uslist.info/new-york/oneonta/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/oneonta/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/new-york/oneonta/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/new-york/oneonta/home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/oneonta/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/new-york/oneonta/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/oneonta/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/oneonta/professional/coworking/</loc></url>
@@ -12264,6 +12372,7 @@
   <url><loc>https://uslist.info/new-york/orchard-park/</loc></url>
   <url><loc>https://uslist.info/new-york/orchard-park/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/orchard-park/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/new-york/orchard-park/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/new-york/orchard-park/automotive/car-rental/</loc></url>
   <url><loc>https://uslist.info/new-york/orchard-park/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/new-york/orchard-park/automotive/gas-stations/</loc></url>
@@ -12558,9 +12667,11 @@
   <url><loc>https://uslist.info/new-york/pelham-manor/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/new-york/pelham-manor/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/pembroke/</loc></url>
+  <url><loc>https://uslist.info/new-york/pembroke/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-york/pembroke/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/pembroke/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/pembroke/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/pembroke/food-drink/fast-food/</loc></url>
-  <url><loc>https://uslist.info/new-york/pembroke/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/pembroke/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/pembroke/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/pembroke/professional/coworking/</loc></url>
@@ -12584,6 +12695,8 @@
   <url><loc>https://uslist.info/new-york/pendleton/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/pendleton/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/pendleton/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/new-york/pendleton/health/</loc></url>
+  <url><loc>https://uslist.info/new-york/pendleton/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/new-york/pendleton/home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/pendleton/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/new-york/pendleton/professional/</loc></url>
@@ -12724,15 +12837,29 @@
   <url><loc>https://uslist.info/new-york/perth/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/perth/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/new-york/piermont/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/beauty-wellness/hair-beauty/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/piermont/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-york/piermont/food-drink/coffee-cafes/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/piermont/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/health/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/piermont/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/piermont/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/piermont/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/piermont/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/piermont/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/piermont/shopping/bikes/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/shopping/clothing/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/shopping/thrift-antiques/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/travel-leisure/arts-entertainment/</loc></url>
+  <url><loc>https://uslist.info/new-york/piermont/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/pierrepont/</loc></url>
   <url><loc>https://uslist.info/new-york/pierrepont/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/pierrepont/automotive/gas-stations/</loc></url>
@@ -12969,6 +13096,7 @@
   <url><loc>https://uslist.info/new-york/port-chester/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/port-chester/home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/port-chester/home-services/contractors/</loc></url>
+  <url><loc>https://uslist.info/new-york/port-chester/home-services/landscaping/</loc></url>
   <url><loc>https://uslist.info/new-york/port-chester/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/port-chester/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/port-chester/professional/nonprofits/</loc></url>
@@ -13460,7 +13588,6 @@
   <url><loc>https://uslist.info/new-york/red-oaks-mill/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/red-oaks-mill/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/red-oaks-mill/food-drink/bakeries-desserts/</loc></url>
-  <url><loc>https://uslist.info/new-york/red-oaks-mill/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-york/red-oaks-mill/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/red-oaks-mill/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/red-oaks-mill/food-drink/restaurants/</loc></url>
@@ -13475,7 +13602,7 @@
   <url><loc>https://uslist.info/new-york/red-oaks-mill/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/red-oaks-mill/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/red-oaks-mill/shopping/bikes/</loc></url>
-  <url><loc>https://uslist.info/new-york/red-oaks-mill/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/red-oaks-mill/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/new-york/red-oaks-mill/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-york/red-oaks-mill/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/red-oaks-mill/travel-leisure/hotels/</loc></url>
@@ -13666,15 +13793,20 @@
   <url><loc>https://uslist.info/new-york/riga/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/new-york/riga/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/new-york/riga/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/health/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/health/doctors/</loc></url>
+  <url><loc>https://uslist.info/new-york/riga/home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/riga/home-services/movers-storage/</loc></url>
+  <url><loc>https://uslist.info/new-york/riga/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/riga/professional/funeral-services/</loc></url>
@@ -13754,6 +13886,7 @@
   <url><loc>https://uslist.info/new-york/rochester/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/new-york/rochester/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/rochester/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/new-york/rochester/automotive/car-rental/</loc></url>
   <url><loc>https://uslist.info/new-york/rochester/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/new-york/rochester/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-york/rochester/beauty-wellness/</loc></url>
@@ -13777,6 +13910,7 @@
   <url><loc>https://uslist.info/new-york/rochester/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-york/rochester/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/new-york/rochester/health/optometrists/</loc></url>
+  <url><loc>https://uslist.info/new-york/rochester/health/other-health/</loc></url>
   <url><loc>https://uslist.info/new-york/rochester/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-york/rochester/home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/rochester/home-services/cleaning-laundry/</loc></url>
@@ -13959,10 +14093,12 @@
   <url><loc>https://uslist.info/new-york/roslyn/</loc></url>
   <url><loc>https://uslist.info/new-york/roslyn-heights/</loc></url>
   <url><loc>https://uslist.info/new-york/roslyn-heights/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-york/roslyn-heights/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/new-york/roslyn-heights/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/roslyn-heights/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/roslyn-heights/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/roslyn-heights/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/roslyn-heights/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/roslyn-heights/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/roslyn-heights/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/roslyn-heights/food-drink/liquor-stores/</loc></url>
@@ -14069,6 +14205,8 @@
   <url><loc>https://uslist.info/new-york/rye/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/rye/health/</loc></url>
   <url><loc>https://uslist.info/new-york/rye/health/hospitals/</loc></url>
+  <url><loc>https://uslist.info/new-york/rye/home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/rye/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/new-york/rye/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/rye/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/rye/professional/coworking/</loc></url>
@@ -14077,6 +14215,8 @@
   <url><loc>https://uslist.info/new-york/rye/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/rye/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/new-york/sag-harbor/</loc></url>
+  <url><loc>https://uslist.info/new-york/sag-harbor/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-york/sag-harbor/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/sag-harbor/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/sag-harbor/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/sag-harbor/food-drink/liquor-stores/</loc></url>
@@ -14098,6 +14238,7 @@
   <url><loc>https://uslist.info/new-york/saint-james/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/saint-james/financial-legal/accountants/</loc></url>
   <url><loc>https://uslist.info/new-york/saint-james/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/saint-james/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/saint-james/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/new-york/saint-james/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/saint-james/professional/civic-government/</loc></url>
@@ -14114,6 +14255,7 @@
   <url><loc>https://uslist.info/new-york/salamanca/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/salamanca/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/salamanca/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/salamanca/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/salamanca/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-york/salamanca/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/salamanca/food-drink/fast-food/</loc></url>
@@ -14212,6 +14354,7 @@
   <url><loc>https://uslist.info/new-york/salisbury/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/new-york/sand-lake/</loc></url>
   <url><loc>https://uslist.info/new-york/sand-lake/automotive/</loc></url>
+  <url><loc>https://uslist.info/new-york/sand-lake/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/new-york/sand-lake/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/sand-lake/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/new-york/sand-lake/automotive/gas-stations/</loc></url>
@@ -14674,6 +14817,8 @@
   <url><loc>https://uslist.info/new-york/seaford/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/seaford/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/seaford/automotive/gas-stations/</loc></url>
+  <url><loc>https://uslist.info/new-york/seaford/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-york/seaford/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/seaford/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/seaford/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/seaford/food-drink/coffee-cafes/</loc></url>
@@ -14854,7 +14999,9 @@
   <url><loc>https://uslist.info/new-york/sidney/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/sidney/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/new-york/sidney/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/sidney/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/sidney/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/new-york/sidney/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/sidney/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/sidney/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/sidney/food-drink/liquor-stores/</loc></url>
@@ -14870,6 +15017,7 @@
   <url><loc>https://uslist.info/new-york/sidney/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/sidney/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/sidney/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/sidney/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/new-york/sidney/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/new-york/sidney/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/sidney/travel-leisure/</loc></url>
@@ -14905,6 +15053,7 @@
   <url><loc>https://uslist.info/new-york/skaneateles/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/skaneateles/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/skaneateles/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/new-york/skaneateles/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/skaneateles/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/skaneateles/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/skaneateles/food-drink/liquor-stores/</loc></url>
@@ -14914,6 +15063,9 @@
   <url><loc>https://uslist.info/new-york/skaneateles/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/skaneateles/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/skaneateles/shopping/books-music/</loc></url>
+  <url><loc>https://uslist.info/new-york/skaneateles/shopping/clothing/</loc></url>
+  <url><loc>https://uslist.info/new-york/skaneateles/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/new-york/skaneateles/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-york/skaneateles/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/skaneateles/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/skaneateles/travel-leisure/hotels/</loc></url>
@@ -14933,6 +15085,7 @@
   <url><loc>https://uslist.info/new-york/sleepy-hollow/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/sleepy-hollow/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/new-york/sleepy-hollow/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/sleepy-hollow/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/sleepy-hollow/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/sleepy-hollow/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/sleepy-hollow/travel-leisure/</loc></url>
@@ -15071,6 +15224,7 @@
   <url><loc>https://uslist.info/new-york/somers/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/somers/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/somers/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/new-york/somers/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/somers/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/somers/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/somers/shopping/hardware-garden/</loc></url>
@@ -15356,6 +15510,7 @@
   <url><loc>https://uslist.info/new-york/spencerport/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/spencerport/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/spencerport/financial-legal/financial-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/spencerport/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/new-york/spencerport/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-york/spencerport/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/spencerport/food-drink/coffee-cafes/</loc></url>
@@ -15392,6 +15547,7 @@
   <url><loc>https://uslist.info/new-york/spencerport/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/new-york/spencerport/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/spencerport/shopping/pet-stores/</loc></url>
+  <url><loc>https://uslist.info/new-york/spencerport/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-york/spencerport/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/spencerport/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-york/spencerport/travel-leisure/recreation/</loc></url>
@@ -15477,7 +15633,9 @@
   <url><loc>https://uslist.info/new-york/springville/home-services/landscaping/</loc></url>
   <url><loc>https://uslist.info/new-york/springville/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-york/springville/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/springville/home-services/painters/</loc></url>
   <url><loc>https://uslist.info/new-york/springville/home-services/repair-shops/</loc></url>
+  <url><loc>https://uslist.info/new-york/springville/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/new-york/springville/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/springville/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/springville/professional/funeral-services/</loc></url>
@@ -15493,6 +15651,7 @@
   <url><loc>https://uslist.info/new-york/springville/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/new-york/springville/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/new-york/springville/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/springville/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/new-york/springville/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-york/springville/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/new-york/springville/travel-leisure/arts-entertainment/</loc></url>
@@ -16023,6 +16182,7 @@
   <url><loc>https://uslist.info/new-york/tuckahoe/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/tuckahoe/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/new-york/tuckahoe/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-york/tuckahoe/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/new-york/tuckahoe/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/new-york/tuckahoe/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/tuckahoe/financial-legal/banks/</loc></url>
@@ -16046,6 +16206,7 @@
   <url><loc>https://uslist.info/new-york/tuckahoe/home-services/</loc></url>
   <url><loc>https://uslist.info/new-york/tuckahoe/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-york/tuckahoe/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/tuckahoe/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/new-york/tuckahoe/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/tuckahoe/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/tuckahoe/professional/coworking/</loc></url>
@@ -16225,7 +16386,6 @@
   <url><loc>https://uslist.info/new-york/utica/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/new-york/utica/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/new-york/utica/professional/nonprofits/</loc></url>
-  <url><loc>https://uslist.info/new-york/utica/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-york/utica/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/new-york/utica/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/utica/shopping/</loc></url>
@@ -16484,10 +16644,14 @@
   <url><loc>https://uslist.info/new-york/village-green/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/village-green/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/viola/</loc></url>
+  <url><loc>https://uslist.info/new-york/viola/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/viola/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/viola/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/viola/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/viola/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/viola/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/new-york/viola/shopping/</loc></url>
+  <url><loc>https://uslist.info/new-york/viola/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/voorheesville/</loc></url>
   <url><loc>https://uslist.info/new-york/voorheesville/automotive/</loc></url>
   <url><loc>https://uslist.info/new-york/voorheesville/automotive/car-wash/</loc></url>
@@ -16508,6 +16672,7 @@
   <url><loc>https://uslist.info/new-york/wading-river/financial-legal/</loc></url>
   <url><loc>https://uslist.info/new-york/wading-river/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/new-york/wading-river/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/wading-river/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/wading-river/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/new-york/wading-river/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/new-york/wading-river/food-drink/restaurants/</loc></url>
@@ -16570,6 +16735,7 @@
   <url><loc>https://uslist.info/new-york/walton-park/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/new-york/wanakah/</loc></url>
   <url><loc>https://uslist.info/new-york/wanakah/automotive/</loc></url>
+  <url><loc>https://uslist.info/new-york/wanakah/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/new-york/wanakah/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/new-york/wanakah/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/new-york/wanakah/automotive/car-rental/</loc></url>
@@ -16657,10 +16823,11 @@
   <url><loc>https://uslist.info/new-york/wappingers-falls/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/new-york/wappingers-falls/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/wappingers-falls/shopping/art-craft-supplies/</loc></url>
+  <url><loc>https://uslist.info/new-york/wappingers-falls/shopping/cannabis-vape/</loc></url>
+  <url><loc>https://uslist.info/new-york/wappingers-falls/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/new-york/wappingers-falls/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/wappingers-falls/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/new-york/wappingers-falls/shopping/furniture-home/</loc></url>
-  <url><loc>https://uslist.info/new-york/wappingers-falls/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/new-york/wappingers-falls/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/new-york/wappingers-falls/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/wappingers-falls/shopping/shoes/</loc></url>
@@ -17145,6 +17312,7 @@
   <url><loc>https://uslist.info/new-york/west-islip/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/new-york/west-islip/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/new-york/west-islip/food-drink/</loc></url>
+  <url><loc>https://uslist.info/new-york/west-islip/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/new-york/west-islip/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/new-york/west-islip/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-york/west-islip/food-drink/fast-food/</loc></url>
@@ -17509,7 +17677,6 @@
   <url><loc>https://uslist.info/new-york/westvale/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/westvale/shopping/</loc></url>
   <url><loc>https://uslist.info/new-york/westvale/shopping/books-music/</loc></url>
-  <url><loc>https://uslist.info/new-york/westvale/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/new-york/westvale/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/new-york/westvale/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/new-york/westvale/shopping/other-shopping/</loc></url>
@@ -17760,6 +17927,8 @@
   <url><loc>https://uslist.info/new-york/williston-park/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/new-york/williston-park/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/new-york/woodbury/</loc></url>
+  <url><loc>https://uslist.info/new-york/woodbury/home-services/</loc></url>
+  <url><loc>https://uslist.info/new-york/woodbury/home-services/painters/</loc></url>
   <url><loc>https://uslist.info/new-york/woodbury/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/woodbury/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-york/woodbury/professional/nonprofits/</loc></url>
@@ -17957,6 +18126,7 @@
   <url><loc>https://uslist.info/new-york/yorktown/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-york/yorktown/professional/</loc></url>
   <url><loc>https://uslist.info/new-york/yorktown/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/new-york/yorktown/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/new-york/yorktown/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-york/yorktown/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-york/yorktown/shopping/</loc></url>

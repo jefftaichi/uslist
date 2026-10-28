@@ -205,6 +205,7 @@
   <url><loc>https://uslist.info/new-mexico/artesia/professional/</loc></url>
   <url><loc>https://uslist.info/new-mexico/artesia/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/new-mexico/artesia/professional/coworking/</loc></url>
+  <url><loc>https://uslist.info/new-mexico/artesia/professional/it-services/</loc></url>
   <url><loc>https://uslist.info/new-mexico/artesia/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/new-mexico/artesia/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/new-mexico/artesia/professional/photography/</loc></url>
@@ -416,6 +417,8 @@
   <url><loc>https://uslist.info/new-mexico/bosque-farms/</loc></url>
   <url><loc>https://uslist.info/new-mexico/bosque-farms/automotive/</loc></url>
   <url><loc>https://uslist.info/new-mexico/bosque-farms/automotive/gas-stations/</loc></url>
+  <url><loc>https://uslist.info/new-mexico/bosque-farms/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/new-mexico/bosque-farms/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/new-mexico/bosque-farms/food-drink/</loc></url>
   <url><loc>https://uslist.info/new-mexico/bosque-farms/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/new-mexico/bosque-farms/food-drink/fast-food/</loc></url>
@@ -429,8 +432,6 @@
   <url><loc>https://uslist.info/new-mexico/bosque-farms/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/new-mexico/bosque-farms/shopping/</loc></url>
   <url><loc>https://uslist.info/new-mexico/bosque-farms/shopping/department-stores/</loc></url>
-  <url><loc>https://uslist.info/new-mexico/bosque-farms/travel-leisure/</loc></url>
-  <url><loc>https://uslist.info/new-mexico/bosque-farms/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/new-mexico/carlsbad/</loc></url>
   <url><loc>https://uslist.info/new-mexico/carlsbad/automotive/</loc></url>
   <url><loc>https://uslist.info/new-mexico/carlsbad/automotive/auto-parts/</loc></url>
@@ -514,7 +515,6 @@
   <url><loc>https://uslist.info/new-mexico/clovis/health/</loc></url>
   <url><loc>https://uslist.info/new-mexico/clovis/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-mexico/clovis/health/hospitals/</loc></url>
-  <url><loc>https://uslist.info/new-mexico/clovis/health/other-health/</loc></url>
   <url><loc>https://uslist.info/new-mexico/clovis/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-mexico/clovis/professional/</loc></url>
   <url><loc>https://uslist.info/new-mexico/clovis/professional/civic-government/</loc></url>
@@ -781,13 +781,14 @@
   <url><loc>https://uslist.info/new-mexico/farmington/health/doctors/</loc></url>
   <url><loc>https://uslist.info/new-mexico/farmington/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/new-mexico/farmington/health/optometrists/</loc></url>
-  <url><loc>https://uslist.info/new-mexico/farmington/health/other-health/</loc></url>
   <url><loc>https://uslist.info/new-mexico/farmington/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/new-mexico/farmington/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/new-mexico/farmington/home-services/</loc></url>
+  <url><loc>https://uslist.info/new-mexico/farmington/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/new-mexico/farmington/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/new-mexico/farmington/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/new-mexico/farmington/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/new-mexico/farmington/home-services/painters/</loc></url>
   <url><loc>https://uslist.info/new-mexico/farmington/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/new-mexico/farmington/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/new-mexico/farmington/professional/</loc></url>
@@ -2013,6 +2014,7 @@
   <url><loc>https://uslist.info/new-mexico/taos/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/new-mexico/taos/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/new-mexico/taos/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/new-mexico/taos/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/new-mexico/taos/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/new-mexico/taos/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/new-mexico/taos/shopping/shoes/</loc></url>
