@@ -5,6 +5,8 @@
   <url><loc>https://uslist.info/oklahoma/ada/automotive/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ada/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ada/automotive/gas-stations/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/ada/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/ada/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ada/financial-legal/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ada/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ada/financial-legal/real-estate/</loc></url>
@@ -29,6 +31,7 @@
   <url><loc>https://uslist.info/oklahoma/ada/shopping/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ada/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ada/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/ada/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ada/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ada/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ada/travel-leisure/arts-entertainment/</loc></url>
@@ -166,8 +169,10 @@
   <url><loc>https://uslist.info/oklahoma/ardmore/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ardmore/home-services/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ardmore/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/ardmore/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ardmore/professional/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ardmore/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/ardmore/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ardmore/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ardmore/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/oklahoma/ardmore/professional/photography/</loc></url>
@@ -219,9 +224,11 @@
   <url><loc>https://uslist.info/oklahoma/bartlesville/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/food-drink/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/bartlesville/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/bartlesville/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/health/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/health/dentists/</loc></url>
@@ -237,6 +244,7 @@
   <url><loc>https://uslist.info/oklahoma/bartlesville/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/shopping/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/shopping/books-music/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/bartlesville/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/oklahoma/bartlesville/shopping/hardware-garden/</loc></url>
@@ -542,6 +550,7 @@
   <url><loc>https://uslist.info/oklahoma/calera/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/oklahoma/calera/food-drink/</loc></url>
   <url><loc>https://uslist.info/oklahoma/calera/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/calera/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/oklahoma/calera/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/oklahoma/calera/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/oklahoma/calera/food-drink/liquor-stores/</loc></url>
@@ -906,6 +915,7 @@
   <url><loc>https://uslist.info/oklahoma/del-city/health/dentists/</loc></url>
   <url><loc>https://uslist.info/oklahoma/del-city/health/doctors/</loc></url>
   <url><loc>https://uslist.info/oklahoma/del-city/health/hospitals/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/del-city/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/oklahoma/del-city/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/oklahoma/del-city/home-services/</loc></url>
   <url><loc>https://uslist.info/oklahoma/del-city/home-services/cleaning-laundry/</loc></url>
@@ -985,23 +995,25 @@
   <url><loc>https://uslist.info/oklahoma/durant/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/beauty-wellness/hair-beauty/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/durant/beauty-wellness/spas-massage/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/financial-legal/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/food-drink/</loc></url>
-  <url><loc>https://uslist.info/oklahoma/durant/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/health/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/durant/health/dentists/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/health/doctors/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/professional/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/durant/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/professional/it-services/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/oklahoma/durant/professional/schools-education/</loc></url>
@@ -1068,6 +1080,7 @@
   <url><loc>https://uslist.info/oklahoma/edmond/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/oklahoma/edmond/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/oklahoma/edmond/shopping/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/edmond/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/oklahoma/edmond/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/oklahoma/edmond/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/oklahoma/edmond/shopping/clothing/</loc></url>
@@ -1076,6 +1089,7 @@
   <url><loc>https://uslist.info/oklahoma/edmond/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/oklahoma/edmond/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/oklahoma/edmond/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/edmond/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/oklahoma/edmond/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/oklahoma/edmond/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/oklahoma/edmond/shopping/shoes/</loc></url>
@@ -1190,7 +1204,6 @@
   <url><loc>https://uslist.info/oklahoma/enid/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/oklahoma/enid/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/oklahoma/enid/travel-leisure/hotels/</loc></url>
-  <url><loc>https://uslist.info/oklahoma/enid/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/oklahoma/eufaula/</loc></url>
   <url><loc>https://uslist.info/oklahoma/eufaula/automotive/</loc></url>
   <url><loc>https://uslist.info/oklahoma/eufaula/automotive/auto-parts/</loc></url>
@@ -1761,6 +1774,8 @@
   <url><loc>https://uslist.info/oklahoma/lawton/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/oklahoma/lawton/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/oklahoma/lindsay/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/lindsay/automotive/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/lindsay/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/oklahoma/lindsay/financial-legal/</loc></url>
   <url><loc>https://uslist.info/oklahoma/lindsay/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/oklahoma/lindsay/food-drink/</loc></url>
@@ -1838,13 +1853,26 @@
   <url><loc>https://uslist.info/oklahoma/marlow/automotive/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/automotive/gas-stations/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/financial-legal/financial-services/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/food-drink/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/food-drink/liquor-stores/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/health/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/health/doctors/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/professional/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/shopping/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/marlow/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/oklahoma/marlow/travel-leisure/recreation/</loc></url>
@@ -1855,6 +1883,7 @@
   <url><loc>https://uslist.info/oklahoma/mcalester/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mcalester/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mcalester/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/mcalester/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mcalester/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mcalester/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mcalester/food-drink/</loc></url>
@@ -1888,9 +1917,12 @@
   <url><loc>https://uslist.info/oklahoma/mcloud/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mcloud/food-drink/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mcloud/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/mcloud/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mcloud/professional/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mcloud/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mcloud/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/mcloud/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/mcloud/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/oklahoma/miami/</loc></url>
   <url><loc>https://uslist.info/oklahoma/miami/automotive/</loc></url>
   <url><loc>https://uslist.info/oklahoma/miami/automotive/auto-parts/</loc></url>
@@ -1996,7 +2028,6 @@
   <url><loc>https://uslist.info/oklahoma/moore/health/doctors/</loc></url>
   <url><loc>https://uslist.info/oklahoma/moore/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/oklahoma/moore/health/optometrists/</loc></url>
-  <url><loc>https://uslist.info/oklahoma/moore/health/other-health/</loc></url>
   <url><loc>https://uslist.info/oklahoma/moore/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/oklahoma/moore/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/oklahoma/moore/home-services/</loc></url>
@@ -2145,7 +2176,6 @@
   <url><loc>https://uslist.info/oklahoma/mustang/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mustang/health/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mustang/health/dentists/</loc></url>
-  <url><loc>https://uslist.info/oklahoma/mustang/health/doctors/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mustang/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mustang/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/oklahoma/mustang/home-services/</loc></url>
@@ -2212,6 +2242,7 @@
   <url><loc>https://uslist.info/oklahoma/newcastle/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/oklahoma/newcastle/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/oklahoma/newcastle/home-services/repair-shops/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/newcastle/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/oklahoma/newcastle/professional/</loc></url>
   <url><loc>https://uslist.info/oklahoma/newcastle/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/oklahoma/newcastle/professional/marketing-agencies/</loc></url>
@@ -2304,12 +2335,16 @@
   <url><loc>https://uslist.info/oklahoma/noble/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/automotive/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/automotive/auto-parts/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/financial-legal/accountants/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/financial-legal/banks/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/financial-legal/financial-services/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/food-drink/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/food-drink/coffee-cafes/</loc></url>
@@ -2321,11 +2356,19 @@
   <url><loc>https://uslist.info/oklahoma/noble/health/dentists/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/health/doctors/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/home-services/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/professional/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/professional/coworking/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/shopping/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/shopping/art-craft-supplies/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/noble/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/oklahoma/noble/travel-leisure/recreation/</loc></url>
@@ -2446,6 +2489,7 @@
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/oklahoma-city/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/professional/</loc></url>
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/professional/civic-government/</loc></url>
@@ -2456,6 +2500,7 @@
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/professional/photography/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/oklahoma-city/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/shopping/</loc></url>
   <url><loc>https://uslist.info/oklahoma/oklahoma-city/shopping/art-craft-supplies/</loc></url>
@@ -2583,6 +2628,7 @@
   <url><loc>https://uslist.info/oklahoma/pauls-valley/health/</loc></url>
   <url><loc>https://uslist.info/oklahoma/pauls-valley/health/doctors/</loc></url>
   <url><loc>https://uslist.info/oklahoma/pauls-valley/professional/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/pauls-valley/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/oklahoma/pauls-valley/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/oklahoma/pauls-valley/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/oklahoma/pauls-valley/shopping/</loc></url>
@@ -3232,6 +3278,7 @@
   <url><loc>https://uslist.info/oklahoma/the-village/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/oklahoma/the-village/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/oklahoma/the-village/home-services/repair-shops/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/the-village/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/oklahoma/the-village/professional/</loc></url>
   <url><loc>https://uslist.info/oklahoma/the-village/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/oklahoma/the-village/professional/coworking/</loc></url>
@@ -3270,6 +3317,7 @@
   <url><loc>https://uslist.info/oklahoma/tishomingo/food-drink/</loc></url>
   <url><loc>https://uslist.info/oklahoma/tishomingo/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/oklahoma/tishomingo/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/tishomingo/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/oklahoma/tishomingo/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/oklahoma/tishomingo/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/oklahoma/tishomingo/health/</loc></url>
@@ -3382,6 +3430,8 @@
   <url><loc>https://uslist.info/oklahoma/turley/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/oklahoma/turley/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/oklahoma/turley/automotive/gas-stations/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/turley/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/turley/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/oklahoma/turley/financial-legal/</loc></url>
   <url><loc>https://uslist.info/oklahoma/turley/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/oklahoma/turley/food-drink/</loc></url>
@@ -3481,6 +3531,7 @@
   <url><loc>https://uslist.info/oklahoma/wagoner/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/oklahoma/wagoner/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/oklahoma/wagoner/shopping/gifts-florists/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/wagoner/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/oklahoma/wagoner/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/oklahoma/wagoner/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/oklahoma/wagoner/shopping/thrift-antiques/</loc></url>
@@ -3597,6 +3648,7 @@
   <url><loc>https://uslist.info/oklahoma/wewoka/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/oklahoma/wewoka/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/oklahoma/wewoka/travel-leisure/hotels/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/wewoka/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/oklahoma/wilburton/</loc></url>
   <url><loc>https://uslist.info/oklahoma/wilburton/automotive/</loc></url>
   <url><loc>https://uslist.info/oklahoma/wilburton/automotive/auto-parts/</loc></url>
@@ -3647,6 +3699,7 @@
   <url><loc>https://uslist.info/oklahoma/woodward/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/oklahoma/woodward/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/oklahoma/woodward/shopping/</loc></url>
+  <url><loc>https://uslist.info/oklahoma/woodward/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/oklahoma/woodward/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/oklahoma/woodward/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/oklahoma/woodward/travel-leisure/</loc></url>
