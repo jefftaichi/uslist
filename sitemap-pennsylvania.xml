@@ -96,6 +96,7 @@
   <url><loc>https://uslist.info/pennsylvania/alburtis/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/alburtis/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/alburtis/home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/alburtis/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/alburtis/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/alburtis/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/alburtis/home-services/plumbers/</loc></url>
@@ -849,6 +850,7 @@
   <url><loc>https://uslist.info/pennsylvania/bala-cynwyd/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bala-cynwyd/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bala-cynwyd/shopping/art-craft-supplies/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bala-cynwyd/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bala-cynwyd/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bala-cynwyd/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bala-cynwyd/shopping/clothing/</loc></url>
@@ -936,12 +938,8 @@
   <url><loc>https://uslist.info/pennsylvania/bath/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bath/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bath/food-drink/restaurants/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/bath/home-services/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/bath/home-services/other-home-services/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/bath/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bath/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bath/professional/civic-government/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/bath/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bath/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bath/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bath/travel-leisure/recreation/</loc></url>
@@ -992,7 +990,6 @@
   <url><loc>https://uslist.info/pennsylvania/beaver/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/beaver/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/beaver/health/dentists/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/beaver/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/beaver/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/beaver/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/beaver/professional/civic-government/</loc></url>
@@ -1000,7 +997,6 @@
   <url><loc>https://uslist.info/pennsylvania/beaver/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/beaver/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/beaver/shopping/electronics/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/beaver/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/beaver/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/beaver/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bedford/</loc></url>
@@ -1319,7 +1315,6 @@
   <url><loc>https://uslist.info/pennsylvania/berwick/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/berwick/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/berwick/health/doctors/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/berwick/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/berwick/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/berwick/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/berwick/home-services/</loc></url>
@@ -1387,6 +1382,7 @@
   <url><loc>https://uslist.info/pennsylvania/berwyn/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/berwyn/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/berwyn/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/berwyn/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/berwyn/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/berwyn/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/berwyn/travel-leisure/</loc></url>
@@ -1482,6 +1478,66 @@
   <url><loc>https://uslist.info/pennsylvania/bethel/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bethel/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bethlehem/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/automotive/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/automotive/auto-parts/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/automotive/car-wash/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/automotive/gas-stations/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/beauty-wellness/gyms-fitness/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/beauty-wellness/hair-beauty/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/beauty-wellness/spas-massage/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/financial-legal/banks/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/financial-legal/financial-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/financial-legal/insurance/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/financial-legal/lawyers/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/financial-legal/real-estate/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/food-drink/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/food-drink/coffee-cafes/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/food-drink/liquor-stores/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/health/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/health/dentists/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/health/doctors/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/health/hospitals/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/health/optometrists/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/health/veterinarians/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/home-services/movers-storage/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/home-services/plumbers/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/home-services/repair-shops/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/professional/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/professional/coworking/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/professional/other-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/professional/printing-signs/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/art-craft-supplies/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/books-music/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/cannabis-vape/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/electronics/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/furniture-home/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/jewelry/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/pet-stores/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/sporting-goods/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/shopping/thrift-antiques/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/travel-leisure/hotels/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bethlehem-township/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bethlehem/automotive/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bethlehem/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bethlehem/automotive/auto-repair/</loc></url>
@@ -1511,7 +1567,6 @@
   <url><loc>https://uslist.info/pennsylvania/bethlehem/health/dentists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bethlehem/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bethlehem/health/optometrists/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/bethlehem/health/other-health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bethlehem/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bethlehem/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bethlehem/home-services/</loc></url>
@@ -1568,6 +1623,7 @@
   <url><loc>https://uslist.info/pennsylvania/birdsboro/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/birdsboro/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/birdsboro/home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/birdsboro/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/birdsboro/home-services/landscaping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/birdsboro/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/birdsboro/professional/civic-government/</loc></url>
@@ -1761,6 +1817,7 @@
   <url><loc>https://uslist.info/pennsylvania/boalsburg/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/boalsburg/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/boalsburg/home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/boalsburg/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/boalsburg/home-services/landscaping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/boalsburg/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/boalsburg/professional/civic-government/</loc></url>
@@ -1771,7 +1828,6 @@
   <url><loc>https://uslist.info/pennsylvania/boalsburg/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/boalsburg/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/boalsburg/shopping/art-craft-supplies/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/boalsburg/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/boalsburg/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/boalsburg/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/boalsburg/shopping/gifts-florists/</loc></url>
@@ -1942,6 +1998,7 @@
   <url><loc>https://uslist.info/pennsylvania/bradford/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bradford/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bradford/beauty-wellness/hair-beauty/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bradford/beauty-wellness/spas-massage/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bradford/financial-legal/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bradford/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bradford/financial-legal/insurance/</loc></url>
@@ -2132,7 +2189,6 @@
   <url><loc>https://uslist.info/pennsylvania/bristol/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bristol/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bristol/health/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/bristol/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bristol/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bristol/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bristol/home-services/cleaning-laundry/</loc></url>
@@ -2140,6 +2196,7 @@
   <url><loc>https://uslist.info/pennsylvania/bristol/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bristol/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bristol/professional/coworking/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/bristol/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bristol/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bristol/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/bristol/shopping/department-stores/</loc></url>
@@ -2174,7 +2231,6 @@
   <url><loc>https://uslist.info/pennsylvania/brookhaven/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/brookhaven/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/brookhaven/home-services/cleaning-laundry/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/brookhaven/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/brookhaven/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/brookhaven/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/brookhaven/professional/</loc></url>
@@ -2390,7 +2446,6 @@
   <url><loc>https://uslist.info/pennsylvania/buckingham/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/buckingham/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/buckingham/home-services/cleaning-laundry/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/buckingham/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/buckingham/home-services/landscaping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/buckingham/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/buckingham/professional/</loc></url>
@@ -2409,6 +2464,7 @@
   <url><loc>https://uslist.info/pennsylvania/buckingham/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/buckingham/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/buckingham/shopping/pet-stores/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/buckingham/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/buckingham/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/buckingham/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/buckingham/travel-leisure/arts-entertainment/</loc></url>
@@ -3332,6 +3388,7 @@
   <url><loc>https://uslist.info/pennsylvania/chester/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/chester/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/chester/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/chester/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/chester/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/chester/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/chester/home-services/plumbers/</loc></url>
@@ -3796,7 +3853,6 @@
   <url><loc>https://uslist.info/pennsylvania/colonial-park/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/colonial-park/health/dentists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/colonial-park/health/doctors/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/colonial-park/health/other-health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/colonial-park/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/colonial-park/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/colonial-park/home-services/</loc></url>
@@ -3845,6 +3901,7 @@
   <url><loc>https://uslist.info/pennsylvania/columbia/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/columbia/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/columbia/shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/columbia/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/columbia/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/columbia/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/columbia/shopping/department-stores/</loc></url>
@@ -4115,6 +4172,7 @@
   <url><loc>https://uslist.info/pennsylvania/cornwall/professional/it-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/cornwall/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/cornwall/shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/cornwall/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/cornwall/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/cornwall/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/cornwall/shopping/furniture-home/</loc></url>
@@ -4191,6 +4249,7 @@
   <url><loc>https://uslist.info/pennsylvania/crafton/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/crafton/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/crafton/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/crafton/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/crafton/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/crafton/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/cranberry/</loc></url>
@@ -4352,15 +4411,18 @@
   <url><loc>https://uslist.info/pennsylvania/dallastown/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/dallastown/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/health/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/dallastown/health/dentists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/dallastown/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/professional/civic-government/</loc></url>
@@ -4368,10 +4430,14 @@
   <url><loc>https://uslist.info/pennsylvania/dallastown/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/dallastown/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/shopping/electronics/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/dallastown/shopping/furniture-home/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/dallastown/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dallastown/shopping/hardware-garden/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/dallastown/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/dallastown/shopping/pet-stores/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/dallastown/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/danville/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/danville/automotive/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/danville/automotive/auto-parts/</loc></url>
@@ -4477,7 +4543,6 @@
   <url><loc>https://uslist.info/pennsylvania/darby/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/darby/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/darby/professional/nonprofits/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/darby/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/darby/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/darby/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/darby/shopping/</loc></url>
@@ -4588,6 +4653,8 @@
   <url><loc>https://uslist.info/pennsylvania/dickson-city/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dickson-city/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dickson-city/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/dickson-city/home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/dickson-city/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dickson-city/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dickson-city/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/dickson-city/shopping/</loc></url>
@@ -5019,6 +5086,7 @@
   <url><loc>https://uslist.info/pennsylvania/duryea/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/duryea/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/duryea/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/duryea/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/duryea/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/duryea/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/duryea/professional/nonprofits/</loc></url>
@@ -5850,7 +5918,6 @@
   <url><loc>https://uslist.info/pennsylvania/emmaus/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/emmaus/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/emmaus/travel-leisure/hotels/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/emmaus/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/enola/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/enola/automotive/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/enola/automotive/auto-repair/</loc></url>
@@ -6052,6 +6119,7 @@
   <url><loc>https://uslist.info/pennsylvania/etna/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/etna/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/etna/shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/etna/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/etna/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/exeter/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/exeter/automotive/</loc></url>
@@ -6118,7 +6186,6 @@
   <url><loc>https://uslist.info/pennsylvania/exton/health/dentists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/exton/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/exton/health/optometrists/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/exton/health/other-health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/exton/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/exton/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/exton/home-services/cleaning-laundry/</loc></url>
@@ -6230,7 +6297,6 @@
   <url><loc>https://uslist.info/pennsylvania/falls-township/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/falls-township/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/falls-township/home-services/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/falls-township/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/falls-township/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/falls-township/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/falls-township/professional/civic-government/</loc></url>
@@ -6263,6 +6329,7 @@
   <url><loc>https://uslist.info/pennsylvania/farrell/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/farrell/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/farrell/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/farrell/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/farrell/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/farrell/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/farrell/shopping/thrift-antiques/</loc></url>
@@ -6728,7 +6795,6 @@
   <url><loc>https://uslist.info/pennsylvania/franklin-park/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/franklin-park/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/franklin-park/health/doctors/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/franklin-park/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/franklin-park/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/franklin-park/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/franklin-park/home-services/plumbers/</loc></url>
@@ -6834,7 +6900,6 @@
   <url><loc>https://uslist.info/pennsylvania/freemansburg/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/freemansburg/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/freemansburg/health/pharmacies/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/freemansburg/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/freemansburg/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/freemansburg/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/freemansburg/home-services/contractors/</loc></url>
@@ -7318,6 +7383,7 @@
   <url><loc>https://uslist.info/pennsylvania/greencastle/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/greencastle/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/greencastle/health/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/greencastle/health/dentists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/greencastle/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/greencastle/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/greencastle/home-services/</loc></url>
@@ -7569,7 +7635,6 @@
   <url><loc>https://uslist.info/pennsylvania/hanover/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/hanover-township/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/hanover-township/automotive/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/hanover-township/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/hanover-township/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/hanover-township/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/hanover-township/automotive/car-wash/</loc></url>
@@ -7744,6 +7809,7 @@
   <url><loc>https://uslist.info/pennsylvania/harleysville/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harleysville/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harleysville/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/harleysville/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harleysville/professional/it-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harleysville/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harleysville/professional/schools-education/</loc></url>
@@ -7791,6 +7857,7 @@
   <url><loc>https://uslist.info/pennsylvania/harrisburg/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harrisburg/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harrisburg/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/harrisburg/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harrisburg/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harrisburg/financial-legal/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harrisburg/financial-legal/banks/</loc></url>
@@ -7830,6 +7897,7 @@
   <url><loc>https://uslist.info/pennsylvania/harrisburg/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harrisburg/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harrisburg/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/harrisburg/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harrisburg/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harrisburg/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/harrisburg/travel-leisure/</loc></url>
@@ -8235,6 +8303,7 @@
   <url><loc>https://uslist.info/pennsylvania/hollidaysburg/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/hollidaysburg/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/hollidaysburg/health/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/hollidaysburg/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/hollidaysburg/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/hollidaysburg/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/hollidaysburg/home-services/</loc></url>
@@ -9278,6 +9347,7 @@
   <url><loc>https://uslist.info/pennsylvania/lancaster/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lancaster/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lancaster/home-services/repair-shops/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/lancaster/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lancaster/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lancaster/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lancaster/professional/coworking/</loc></url>
@@ -9340,6 +9410,7 @@
   <url><loc>https://uslist.info/pennsylvania/lansdale/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lansdale/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lansdale/home-services/other-home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/lansdale/home-services/painters/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lansdale/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lansdale/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lansdale/professional/</loc></url>
@@ -9376,7 +9447,6 @@
   <url><loc>https://uslist.info/pennsylvania/lansdowne/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lansdowne/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lansdowne/health/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/lansdowne/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lansdowne/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lansdowne/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lansdowne/professional/civic-government/</loc></url>
@@ -9528,6 +9598,7 @@
   <url><loc>https://uslist.info/pennsylvania/laureldale/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/laureldale/financial-legal/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/laureldale/financial-legal/accountants/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/laureldale/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/laureldale/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/laureldale/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/laureldale/food-drink/fast-food/</loc></url>
@@ -10036,6 +10107,7 @@
   <url><loc>https://uslist.info/pennsylvania/limerick/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/linglestown/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/linglestown/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/linglestown/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/linglestown/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/linglestown/financial-legal/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/linglestown/financial-legal/banks/</loc></url>
@@ -10204,6 +10276,8 @@
   <url><loc>https://uslist.info/pennsylvania/littlestown/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/littlestown/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/littlestown/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/littlestown/home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/littlestown/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/littlestown/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/littlestown/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/littlestown/professional/nonprofits/</loc></url>
@@ -10324,6 +10398,9 @@
   <url><loc>https://uslist.info/pennsylvania/lower-burrell/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-burrell/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-makefield/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/lower-makefield/automotive/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/lower-makefield/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/lower-makefield/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-makefield/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-makefield/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-makefield/beauty-wellness/hair-beauty/</loc></url>
@@ -10359,19 +10436,9 @@
   <url><loc>https://uslist.info/pennsylvania/lower-makefield/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-saucon/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-saucon/food-drink/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/lower-saucon/food-drink/coffee-cafes/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/lower-saucon/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-saucon/food-drink/grocery/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/lower-saucon/health/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/lower-saucon/health/dentists/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/lower-saucon/health/hospitals/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/lower-saucon/home-services/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/lower-saucon/home-services/cleaning-laundry/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/lower-saucon/home-services/repair-shops/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-saucon/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-saucon/professional/nonprofits/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/lower-saucon/shopping/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/lower-saucon/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-southampton/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-southampton/automotive/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/lower-southampton/automotive/auto-parts/</loc></url>
@@ -10952,6 +11019,7 @@
   <url><loc>https://uslist.info/pennsylvania/maxatawny/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/maxatawny/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/maxatawny/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/maxatawny/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/maxatawny/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mccandless/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mccandless/automotive/</loc></url>
@@ -11035,7 +11103,6 @@
   <url><loc>https://uslist.info/pennsylvania/mcgovern/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mcgovern/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mcgovern/health/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/mcgovern/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mcgovern/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mcgovern/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mcgovern/home-services/movers-storage/</loc></url>
@@ -11359,6 +11426,7 @@
   <url><loc>https://uslist.info/pennsylvania/media/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/media/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/media/health/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/media/health/dentists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/media/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/media/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/media/health/pharmacies/</loc></url>
@@ -11422,6 +11490,7 @@
   <url><loc>https://uslist.info/pennsylvania/middletown/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/middletown/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/middletown/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/middletown/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/middletown/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/middletown/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/middletown/health/dentists/</loc></url>
@@ -11682,6 +11751,7 @@
   <url><loc>https://uslist.info/pennsylvania/minersville/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/minersville/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/minersville/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/minersville/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/minersville/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/minersville/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/minersville/travel-leisure/arts-entertainment/</loc></url>
@@ -12311,6 +12381,7 @@
   <url><loc>https://uslist.info/pennsylvania/mount-pocono/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mount-pocono/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mount-pocono/home-services/plumbers/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/mount-pocono/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mount-pocono/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mount-pocono/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/mount-pocono/professional/coworking/</loc></url>
@@ -12516,11 +12587,15 @@
   <url><loc>https://uslist.info/pennsylvania/munhall/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/munhall/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/munhall/food-drink/liquor-stores/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/munhall/home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/munhall/home-services/hvac/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/munhall/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/munhall/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/munhall/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/munhall/professional/photography/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/munhall/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/munhall/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/munhall/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/murrysville/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/murrysville/automotive/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/murrysville/automotive/auto-parts/</loc></url>
@@ -12539,6 +12614,7 @@
   <url><loc>https://uslist.info/pennsylvania/murrysville/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/murrysville/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/murrysville/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/murrysville/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/murrysville/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/murrysville/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/murrysville/food-drink/liquor-stores/</loc></url>
@@ -12580,6 +12656,7 @@
   <url><loc>https://uslist.info/pennsylvania/muse/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/muse/financial-legal/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/muse/financial-legal/financial-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/muse/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/muse/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/muse/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/muse/food-drink/restaurants/</loc></url>
@@ -12610,6 +12687,8 @@
   <url><loc>https://uslist.info/pennsylvania/myerstown/professional/marketing-agencies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/myerstown/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/myerstown/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/myerstown/shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/myerstown/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/myerstown/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/myerstown/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/nanticoke/</loc></url>
@@ -12657,6 +12736,7 @@
   <url><loc>https://uslist.info/pennsylvania/nanty-glo/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/nanty-glo/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/nanty-glo/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/nanty-glo/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/nanty-glo/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/nanty-glo/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/nanty-glo/health/pharmacies/</loc></url>
@@ -12894,6 +12974,7 @@
   <url><loc>https://uslist.info/pennsylvania/new-cumberland/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/new-cumberland/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/new-cumberland/shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/new-cumberland/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/new-cumberland/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/new-cumberland/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/new-cumberland/travel-leisure/</loc></url>
@@ -13078,6 +13159,7 @@
   <url><loc>https://uslist.info/pennsylvania/new-london/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/new-london/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/new-london/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/new-london/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/new-london/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/new-london/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/new-london/health/doctors/</loc></url>
@@ -13709,7 +13791,6 @@
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/financial-legal/financial-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/financial-legal/insurance/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/palmer-heights/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/food-drink/bars-nightlife/</loc></url>
@@ -13721,12 +13802,12 @@
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/health/dentists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/health/doctors/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/palmer-heights/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/home-services/cleaning-laundry/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/palmer-heights/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmer-heights/professional/civic-government/</loc></url>
@@ -13759,6 +13840,7 @@
   <url><loc>https://uslist.info/pennsylvania/palmerton/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/palmerton/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/beauty-wellness/gyms-fitness/</loc></url>
@@ -13770,6 +13852,7 @@
   <url><loc>https://uslist.info/pennsylvania/palmerton/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/food-drink/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/palmerton/food-drink/bakeries-desserts/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/food-drink/fast-food/</loc></url>
@@ -13779,12 +13862,12 @@
   <url><loc>https://uslist.info/pennsylvania/palmerton/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/health/dentists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/health/doctors/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/palmerton/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/home-services/hvac/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/palmerton/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/professional/civic-government/</loc></url>
@@ -13793,14 +13876,18 @@
   <url><loc>https://uslist.info/pennsylvania/palmerton/professional/it-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/professional/other-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/palmerton/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/shopping/electronics/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/palmerton/shopping/furniture-home/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/palmerton/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/shopping/shoes/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/palmerton/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/palmerton/travel-leisure/hotels/</loc></url>
@@ -14075,7 +14162,6 @@
   <url><loc>https://uslist.info/pennsylvania/penn-estates/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/penn-estates/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/penn-estates/health/doctors/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/penn-estates/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/penn-estates/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/penn-estates/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/penn-estates/professional/civic-government/</loc></url>
@@ -14165,10 +14251,12 @@
   <url><loc>https://uslist.info/pennsylvania/pennside/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pennside/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pennside/home-services/cleaning-laundry/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/pennside/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pennside/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pennside/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pennside/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pennside/shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/pennside/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pennside/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pennside/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pennside/travel-leisure/recreation/</loc></url>
@@ -14257,7 +14345,6 @@
   <url><loc>https://uslist.info/pennsylvania/philadelphia/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/philadelphia/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/philadelphia/health/optometrists/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/philadelphia/health/other-health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/philadelphia/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/philadelphia/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/philadelphia/home-services/</loc></url>
@@ -14368,6 +14455,7 @@
   <url><loc>https://uslist.info/pennsylvania/phoenixville/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/phoenixville/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/phoenixville/automotive/car-rental/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/phoenixville/automotive/car-wash/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/phoenixville/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/phoenixville/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/phoenixville/beauty-wellness/gyms-fitness/</loc></url>
@@ -14427,7 +14515,6 @@
   <url><loc>https://uslist.info/pennsylvania/pine-ridge/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pine-ridge/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pine-ridge/food-drink/grocery/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/pine-ridge/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pine-ridge/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pine-ridge/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pine-ridge/professional/</loc></url>
@@ -14517,7 +14604,6 @@
   <url><loc>https://uslist.info/pennsylvania/pittston/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pittston/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pittston/health/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/pittston/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pittston/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pittston/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pittston/home-services/cleaning-laundry/</loc></url>
@@ -14527,6 +14613,7 @@
   <url><loc>https://uslist.info/pennsylvania/pittston/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pittston/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pittston/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/pittston/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/pittston/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plains/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plains/automotive/</loc></url>
@@ -14715,6 +14802,8 @@
   <url><loc>https://uslist.info/pennsylvania/plum/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plum/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plum/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/plum/shopping/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/plum/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plumsteadville/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plumsteadville/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plumsteadville/beauty-wellness/hair-beauty/</loc></url>
@@ -14731,7 +14820,6 @@
   <url><loc>https://uslist.info/pennsylvania/plumsteadville/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plumsteadville/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plumsteadville/home-services/cleaning-laundry/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/plumsteadville/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plumsteadville/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plumsteadville/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/plumsteadville/professional/civic-government/</loc></url>
@@ -14814,6 +14902,7 @@
   <url><loc>https://uslist.info/pennsylvania/port-vue/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/port-vue/automotive/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/port-vue/automotive/auto-parts/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/port-vue/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/port-vue/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/port-vue/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/port-vue/health/</loc></url>
@@ -15010,6 +15099,7 @@
   <url><loc>https://uslist.info/pennsylvania/pottsville/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/progress/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/progress/automotive/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/progress/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/progress/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/progress/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/progress/automotive/car-wash/</loc></url>
@@ -15239,11 +15329,11 @@
   <url><loc>https://uslist.info/pennsylvania/quincy/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/quincy/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/quincy/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/quincy/home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/quincy/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/quincy/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/quincy/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/quincy/professional/schools-education/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/quincy/shopping/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/quincy/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/quincy/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/quincy/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/radnor/</loc></url>
@@ -15266,6 +15356,7 @@
   <url><loc>https://uslist.info/pennsylvania/radnor/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/radnor/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/radnor/travel-leisure/hotels/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/radnor/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/rayne/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/rayne/financial-legal/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/rayne/financial-legal/banks/</loc></url>
@@ -15434,6 +15525,7 @@
   <url><loc>https://uslist.info/pennsylvania/reiffton/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/reiffton/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/reiffton/shopping/pet-stores/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/reiffton/shopping/shoes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/reiffton/shopping/sporting-goods/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/reiffton/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/reiffton/travel-leisure/</loc></url>
@@ -15462,6 +15554,7 @@
   <url><loc>https://uslist.info/pennsylvania/richboro/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/richboro/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/richboro/health/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/richboro/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/richboro/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/richboro/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/richboro/professional/civic-government/</loc></url>
@@ -15483,6 +15576,7 @@
   <url><loc>https://uslist.info/pennsylvania/ridgway/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/ridgway/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/ridgway/health/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/ridgway/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/ridgway/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/ridgway/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/ridgway/home-services/repair-shops/</loc></url>
@@ -15522,7 +15616,6 @@
   <url><loc>https://uslist.info/pennsylvania/ridley-park/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/ridley-park/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/ridley-park/travel-leisure/hotels/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/ridley-park/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/rochester/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/rochester/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/rochester/food-drink/bars-nightlife/</loc></url>
@@ -15530,6 +15623,7 @@
   <url><loc>https://uslist.info/pennsylvania/rochester/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/rochester/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/rochester/professional/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/rochester/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/rochester/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/rosemont/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/rosemont/automotive/</loc></url>
@@ -16722,6 +16816,8 @@
   <url><loc>https://uslist.info/pennsylvania/sinking-spring/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/sinking-spring/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/sinking-spring/health/veterinarians/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/sinking-spring/home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/sinking-spring/home-services/roofers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/sinking-spring/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/sinking-spring/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/sinking-spring/professional/funeral-services/</loc></url>
@@ -17150,6 +17246,7 @@
   <url><loc>https://uslist.info/pennsylvania/spry/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/spry/financial-legal/financial-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/spry/financial-legal/insurance/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/spry/financial-legal/lawyers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/spry/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/spry/food-drink/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/spry/food-drink/bakeries-desserts/</loc></url>
@@ -17186,6 +17283,7 @@
   <url><loc>https://uslist.info/pennsylvania/spry/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/spry/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/spry/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/spry/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/spry/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/spry/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/spry/shopping/thrift-antiques/</loc></url>
@@ -17298,6 +17396,7 @@
   <url><loc>https://uslist.info/pennsylvania/steelton/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/steelton/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/steelton/shopping/books-music/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/steelton/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/steelton/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/steelton/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/steelton/shopping/other-shopping/</loc></url>
@@ -17537,7 +17636,6 @@
   <url><loc>https://uslist.info/pennsylvania/sunbury/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/sunbury/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/sunbury/health/doctors/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/sunbury/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/sunbury/health/other-health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/sunbury/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/sunbury/home-services/movers-storage/</loc></url>
@@ -17573,7 +17671,6 @@
   <url><loc>https://uslist.info/pennsylvania/swarthmore/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/swarthmore/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/swarthmore/health/doctors/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/swarthmore/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/swarthmore/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/swarthmore/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/swarthmore/home-services/movers-storage/</loc></url>
@@ -17827,6 +17924,7 @@
   <url><loc>https://uslist.info/pennsylvania/thorndale/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/thorndale/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/thorndale/home-services/movers-storage/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/thorndale/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/thorndale/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/thorndale/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/thorndale/professional/it-services/</loc></url>
@@ -17973,6 +18071,7 @@
   <url><loc>https://uslist.info/pennsylvania/towanda/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/towanda/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/towanda/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/towanda/professional/marketing-agencies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/towanda/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/towanda/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/towanda/professional/schools-education/</loc></url>
@@ -18489,7 +18588,6 @@
   <url><loc>https://uslist.info/pennsylvania/vandergrift/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/vandergrift/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/vandergrift/beauty-wellness/gyms-fitness/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/vandergrift/beauty-wellness/hair-beauty/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/vandergrift/financial-legal/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/vandergrift/financial-legal/insurance/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/vandergrift/financial-legal/lawyers/</loc></url>
@@ -18770,8 +18868,6 @@
   <url><loc>https://uslist.info/pennsylvania/warwick/health/dentists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/warwick/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/warwick/health/pharmacies/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/warwick/home-services/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/warwick/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/warwick/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/warwick/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/warwick/professional/coworking/</loc></url>
@@ -18779,6 +18875,7 @@
   <url><loc>https://uslist.info/pennsylvania/warwick/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/warwick/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/warwick/shopping/art-craft-supplies/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/warwick/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/warwick/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/warwick/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/warwick/shopping/other-shopping/</loc></url>
@@ -18873,7 +18970,6 @@
   <url><loc>https://uslist.info/pennsylvania/wayne-heights/health/dentists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wayne-heights/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wayne-heights/health/optometrists/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/wayne-heights/health/other-health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wayne-heights/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wayne-heights/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wayne-heights/home-services/</loc></url>
@@ -19366,7 +19462,6 @@
   <url><loc>https://uslist.info/pennsylvania/west-goshen/health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/west-goshen/health/dentists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/west-goshen/health/doctors/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/west-goshen/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/west-goshen/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/west-goshen/health/other-health/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/west-goshen/health/pharmacies/</loc></url>
@@ -19717,6 +19812,8 @@
   <url><loc>https://uslist.info/pennsylvania/west-wyoming/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/west-wyoming/automotive/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/west-wyoming/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/west-wyoming/professional/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/west-wyoming/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/west-york/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/west-york/automotive/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/west-york/automotive/auto-repair/</loc></url>
@@ -19856,12 +19953,15 @@
   <url><loc>https://uslist.info/pennsylvania/white-deer/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/automotive/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/white-oak/automotive/auto-parts/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/white-oak/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/financial-legal/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/food-drink/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/white-oak/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/food-drink/liquor-stores/</loc></url>
@@ -19873,6 +19973,7 @@
   <url><loc>https://uslist.info/pennsylvania/white-oak/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/white-oak/professional/funeral-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/professional/nonprofits/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/professional/schools-education/</loc></url>
@@ -19885,6 +19986,7 @@
   <url><loc>https://uslist.info/pennsylvania/white-oak/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/white-oak/travel-leisure/arts-entertainment/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/white-oak/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/whitehall/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/whitehall/automotive/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/whitehall/automotive/gas-stations/</loc></url>
@@ -19912,6 +20014,7 @@
   <url><loc>https://uslist.info/pennsylvania/whitehall/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/whitehall/shopping/clothing/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/whitehall/shopping/electronics/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/whitehall/shopping/furniture-home/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/whitehall/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/whitehall/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/whitehall/travel-leisure/arts-entertainment/</loc></url>
@@ -20118,6 +20221,7 @@
   <url><loc>https://uslist.info/pennsylvania/wilkinsburg/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wilkinsburg/professional/coworking/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wilkinsburg/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/wilkinsburg/professional/other-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wilkinsburg/professional/photography/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wilkinsburg/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wilkinsburg/professional/schools-education/</loc></url>
@@ -20165,6 +20269,7 @@
   <url><loc>https://uslist.info/pennsylvania/williamsport/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/williamsport/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/williamsport/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/williamsport/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/williamsport/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/williamsport/home-services/contractors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/williamsport/professional/</loc></url>
@@ -20523,6 +20628,7 @@
   <url><loc>https://uslist.info/pennsylvania/wrightstown/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wrightstown/automotive/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wrightstown/automotive/auto-repair/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/wrightstown/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wrightstown/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wrightstown/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wrightstown/beauty-wellness/hair-beauty/</loc></url>
@@ -20600,6 +20706,7 @@
   <url><loc>https://uslist.info/pennsylvania/wyndmoor/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyndmoor/shopping/pet-stores/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyndmoor/shopping/shoes/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/wyndmoor/shopping/thrift-antiques/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyndmoor/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyndmoor/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyndmoor/travel-leisure/recreation/</loc></url>
@@ -20643,6 +20750,8 @@
   <url><loc>https://uslist.info/pennsylvania/wyoming/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyoming/shopping/jewelry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyomissing/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/wyomissing/automotive/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/wyomissing/automotive/auto-parts/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyomissing/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyomissing/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyomissing/beauty-wellness/hair-beauty/</loc></url>
@@ -20661,7 +20770,6 @@
   <url><loc>https://uslist.info/pennsylvania/wyomissing/health/doctors/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyomissing/health/optometrists/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyomissing/health/other-health/</loc></url>
-  <url><loc>https://uslist.info/pennsylvania/wyomissing/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyomissing/home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyomissing/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/wyomissing/home-services/other-home-services/</loc></url>
@@ -20799,6 +20907,7 @@
   <url><loc>https://uslist.info/pennsylvania/york/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/york/shopping/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/york/shopping/art-craft-supplies/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/york/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/york/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/york/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/york/shopping/clothing/</loc></url>
@@ -20826,6 +20935,8 @@
   <url><loc>https://uslist.info/pennsylvania/youngwood/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/youngwood/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/youngwood/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/youngwood/home-services/</loc></url>
+  <url><loc>https://uslist.info/pennsylvania/youngwood/home-services/other-home-services/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/youngwood/professional/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/youngwood/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/pennsylvania/youngwood/professional/nonprofits/</loc></url>
