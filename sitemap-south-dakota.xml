@@ -85,6 +85,7 @@
   <url><loc>https://uslist.info/south-dakota/belle-fourche/health/</loc></url>
   <url><loc>https://uslist.info/south-dakota/belle-fourche/health/dentists/</loc></url>
   <url><loc>https://uslist.info/south-dakota/belle-fourche/health/doctors/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/belle-fourche/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/south-dakota/belle-fourche/home-services/</loc></url>
   <url><loc>https://uslist.info/south-dakota/belle-fourche/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/south-dakota/belle-fourche/home-services/contractors/</loc></url>
@@ -105,6 +106,20 @@
   <url><loc>https://uslist.info/south-dakota/belle-fourche/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/south-dakota/belle-fourche/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/south-dakota/belle-fourche/travel-leisure/recreation/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/automotive/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/food-drink/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/professional/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/shopping/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/black-hawk/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/south-dakota/box-elder/</loc></url>
   <url><loc>https://uslist.info/south-dakota/box-elder/automotive/</loc></url>
   <url><loc>https://uslist.info/south-dakota/box-elder/automotive/gas-stations/</loc></url>
@@ -164,7 +179,6 @@
   <url><loc>https://uslist.info/south-dakota/brookings/beauty-wellness/</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/beauty-wellness/gyms-fitness/</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/beauty-wellness/hair-beauty/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/brookings/beauty-wellness/spas-massage/</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/financial-legal/</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/south-dakota/brookings/financial-legal/financial-services/</loc></url>
@@ -252,6 +266,49 @@
   <url><loc>https://uslist.info/south-dakota/dakota-dunes/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/south-dakota/dakota-dunes/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/south-dakota/dakota-dunes/travel-leisure/recreation/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/automotive/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/automotive/car-dealers/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/beauty-wellness/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/beauty-wellness/hair-beauty/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/beauty-wellness/spas-massage/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/financial-legal/banks/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/financial-legal/financial-services/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/financial-legal/insurance/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/financial-legal/lawyers/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/financial-legal/real-estate/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/food-drink/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/food-drink/coffee-cafes/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/food-drink/liquor-stores/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/health/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/health/dentists/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/health/hospitals/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/home-services/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/home-services/movers-storage/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/professional/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/professional/other-services/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/professional/photography/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/professional/schools-education/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/shopping/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/shopping/art-craft-supplies/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/shopping/clothing/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/shopping/gifts-florists/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/shopping/jewelry/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/travel-leisure/arts-entertainment/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/travel-leisure/hotels/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/deadwood/travel-leisure/vacation-rentals/</loc></url>
   <url><loc>https://uslist.info/south-dakota/dell-rapids/</loc></url>
   <url><loc>https://uslist.info/south-dakota/dell-rapids/automotive/</loc></url>
   <url><loc>https://uslist.info/south-dakota/dell-rapids/automotive/auto-parts/</loc></url>
@@ -291,6 +348,7 @@
   <url><loc>https://uslist.info/south-dakota/harrisburg/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/south-dakota/harrisburg/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/south-dakota/harrisburg/health/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/harrisburg/health/dentists/</loc></url>
   <url><loc>https://uslist.info/south-dakota/harrisburg/health/doctors/</loc></url>
   <url><loc>https://uslist.info/south-dakota/harrisburg/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/south-dakota/harrisburg/professional/</loc></url>
@@ -368,49 +426,17 @@
   <url><loc>https://uslist.info/south-dakota/huron/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/south-dakota/huron/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/automotive/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/automotive/car-dealers/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/beauty-wellness/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/beauty-wellness/hair-beauty/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/beauty-wellness/spas-massage/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/financial-legal/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/financial-legal/banks/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/financial-legal/financial-services/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/financial-legal/insurance/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/financial-legal/lawyers/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/financial-legal/real-estate/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/food-drink/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/food-drink/bakeries-desserts/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/food-drink/bars-nightlife/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/food-drink/coffee-cafes/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/food-drink/grocery/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/food-drink/restaurants/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/health/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/health/dentists/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/health/hospitals/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/home-services/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/home-services/movers-storage/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/professional/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/professional/civic-government/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/professional/nonprofits/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/professional/other-services/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/professional/photography/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/professional/schools-education/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/shopping/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/shopping/art-craft-supplies/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/shopping/clothing/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/shopping/department-stores/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/shopping/gifts-florists/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/shopping/hardware-garden/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/shopping/jewelry/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/south-dakota/lead/travel-leisure/hotels/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/travel-leisure/recreation/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/lead/travel-leisure/vacation-rentals/</loc></url>
   <url><loc>https://uslist.info/south-dakota/madison/</loc></url>
   <url><loc>https://uslist.info/south-dakota/madison/automotive/</loc></url>
   <url><loc>https://uslist.info/south-dakota/madison/automotive/auto-parts/</loc></url>
@@ -655,7 +681,6 @@
   <url><loc>https://uslist.info/south-dakota/rapid-city/health/doctors/</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/health/hospitals/</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/health/optometrists/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/rapid-city/health/other-health/</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/south-dakota/rapid-city/home-services/</loc></url>
@@ -815,6 +840,7 @@
   <url><loc>https://uslist.info/south-dakota/spearfish/food-drink/coffee-cafes/</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/spearfish/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/health/</loc></url>
   <url><loc>https://uslist.info/south-dakota/spearfish/health/dentists/</loc></url>
@@ -872,6 +898,7 @@
   <url><loc>https://uslist.info/south-dakota/sturgis/health/</loc></url>
   <url><loc>https://uslist.info/south-dakota/sturgis/health/doctors/</loc></url>
   <url><loc>https://uslist.info/south-dakota/sturgis/health/hospitals/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/sturgis/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/south-dakota/sturgis/home-services/</loc></url>
   <url><loc>https://uslist.info/south-dakota/sturgis/home-services/plumbers/</loc></url>
   <url><loc>https://uslist.info/south-dakota/sturgis/professional/</loc></url>
@@ -886,6 +913,20 @@
   <url><loc>https://uslist.info/south-dakota/sturgis/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/south-dakota/sturgis/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/south-dakota/sturgis/travel-leisure/recreation/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/automotive/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/automotive/gas-stations/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/financial-legal/insurance/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/food-drink/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/food-drink/bars-nightlife/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/professional/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/shopping/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/summerset/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/south-dakota/tea/</loc></url>
   <url><loc>https://uslist.info/south-dakota/tea/automotive/</loc></url>
   <url><loc>https://uslist.info/south-dakota/tea/automotive/auto-repair/</loc></url>
@@ -986,6 +1027,22 @@
   <url><loc>https://uslist.info/south-dakota/vermillion/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/south-dakota/vermillion/travel-leisure/travel-agents/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/food-drink/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/food-drink/fast-food/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/food-drink/grocery/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/food-drink/restaurants/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/professional/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/professional/civic-government/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/professional/nonprofits/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/shopping/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/shopping/art-craft-supplies/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/shopping/other-shopping/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/travel-leisure/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/travel-leisure/arts-entertainment/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/travel-leisure/hotels/</loc></url>
+  <url><loc>https://uslist.info/south-dakota/wall/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/automotive/</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/automotive/auto-parts/</loc></url>
@@ -1032,7 +1089,6 @@
   <url><loc>https://uslist.info/south-dakota/watertown/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/south-dakota/watertown/travel-leisure/recreation/</loc></url>
-  <url><loc>https://uslist.info/south-dakota/watertown/travel-leisure/vacation-rentals/</loc></url>
   <url><loc>https://uslist.info/south-dakota/winner/</loc></url>
   <url><loc>https://uslist.info/south-dakota/winner/food-drink/</loc></url>
   <url><loc>https://uslist.info/south-dakota/winner/food-drink/fast-food/</loc></url>
