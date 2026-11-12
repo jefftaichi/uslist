@@ -93,6 +93,9 @@
   <url><loc>https://uslist.info/vermont/bellows-falls/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/vermont/bellows-falls/health/</loc></url>
   <url><loc>https://uslist.info/vermont/bellows-falls/health/doctors/</loc></url>
+  <url><loc>https://uslist.info/vermont/bellows-falls/health/pharmacies/</loc></url>
+  <url><loc>https://uslist.info/vermont/bellows-falls/home-services/</loc></url>
+  <url><loc>https://uslist.info/vermont/bellows-falls/home-services/cleaning-laundry/</loc></url>
   <url><loc>https://uslist.info/vermont/bellows-falls/professional/</loc></url>
   <url><loc>https://uslist.info/vermont/bellows-falls/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/vermont/bellows-falls/professional/nonprofits/</loc></url>
@@ -205,6 +208,7 @@
   <url><loc>https://uslist.info/vermont/brattleboro/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/vermont/brattleboro/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/vermont/brattleboro/shopping/</loc></url>
+  <url><loc>https://uslist.info/vermont/brattleboro/shopping/art-craft-supplies/</loc></url>
   <url><loc>https://uslist.info/vermont/brattleboro/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/vermont/brattleboro/shopping/gifts-florists/</loc></url>
   <url><loc>https://uslist.info/vermont/brattleboro/shopping/hardware-garden/</loc></url>
@@ -355,6 +359,7 @@
   <url><loc>https://uslist.info/vermont/colchester/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/vermont/east-montpelier/</loc></url>
   <url><loc>https://uslist.info/vermont/east-montpelier/automotive/</loc></url>
+  <url><loc>https://uslist.info/vermont/east-montpelier/automotive/auto-repair/</loc></url>
   <url><loc>https://uslist.info/vermont/east-montpelier/automotive/car-dealers/</loc></url>
   <url><loc>https://uslist.info/vermont/east-montpelier/automotive/gas-stations/</loc></url>
   <url><loc>https://uslist.info/vermont/east-montpelier/food-drink/</loc></url>
@@ -415,6 +420,7 @@
   <url><loc>https://uslist.info/vermont/essex-junction/professional/printing-signs/</loc></url>
   <url><loc>https://uslist.info/vermont/essex-junction/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/vermont/essex-junction/shopping/</loc></url>
+  <url><loc>https://uslist.info/vermont/essex-junction/shopping/bikes/</loc></url>
   <url><loc>https://uslist.info/vermont/essex-junction/shopping/books-music/</loc></url>
   <url><loc>https://uslist.info/vermont/essex-junction/shopping/cannabis-vape/</loc></url>
   <url><loc>https://uslist.info/vermont/essex-junction/shopping/clothing/</loc></url>
@@ -583,22 +589,11 @@
   <url><loc>https://uslist.info/vermont/hinesburg/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/vermont/hinesburg/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/vermont/hyde-park/</loc></url>
-  <url><loc>https://uslist.info/vermont/hyde-park/financial-legal/</loc></url>
-  <url><loc>https://uslist.info/vermont/hyde-park/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/vermont/hyde-park/food-drink/</loc></url>
-  <url><loc>https://uslist.info/vermont/hyde-park/food-drink/fast-food/</loc></url>
-  <url><loc>https://uslist.info/vermont/hyde-park/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/vermont/hyde-park/food-drink/liquor-stores/</loc></url>
-  <url><loc>https://uslist.info/vermont/hyde-park/health/</loc></url>
-  <url><loc>https://uslist.info/vermont/hyde-park/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/vermont/hyde-park/professional/</loc></url>
   <url><loc>https://uslist.info/vermont/hyde-park/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/vermont/hyde-park/professional/schools-education/</loc></url>
-  <url><loc>https://uslist.info/vermont/hyde-park/shopping/</loc></url>
-  <url><loc>https://uslist.info/vermont/hyde-park/shopping/department-stores/</loc></url>
-  <url><loc>https://uslist.info/vermont/hyde-park/shopping/hardware-garden/</loc></url>
-  <url><loc>https://uslist.info/vermont/hyde-park/travel-leisure/</loc></url>
-  <url><loc>https://uslist.info/vermont/hyde-park/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/vermont/johnson/</loc></url>
   <url><loc>https://uslist.info/vermont/johnson/automotive/</loc></url>
   <url><loc>https://uslist.info/vermont/johnson/automotive/gas-stations/</loc></url>
@@ -634,6 +629,7 @@
   <url><loc>https://uslist.info/vermont/lyndon/health/</loc></url>
   <url><loc>https://uslist.info/vermont/lyndon/health/dentists/</loc></url>
   <url><loc>https://uslist.info/vermont/lyndon/health/doctors/</loc></url>
+  <url><loc>https://uslist.info/vermont/lyndon/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/vermont/lyndon/professional/</loc></url>
   <url><loc>https://uslist.info/vermont/lyndon/professional/civic-government/</loc></url>
   <url><loc>https://uslist.info/vermont/lyndon/professional/nonprofits/</loc></url>
@@ -894,10 +890,11 @@
   <url><loc>https://uslist.info/vermont/montpelier/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/vermont/montpelier/travel-leisure/vacation-rentals/</loc></url>
   <url><loc>https://uslist.info/vermont/morristown/</loc></url>
-  <url><loc>https://uslist.info/vermont/morristown/automotive/</loc></url>
-  <url><loc>https://uslist.info/vermont/morristown/automotive/gas-stations/</loc></url>
+  <url><loc>https://uslist.info/vermont/morristown/financial-legal/</loc></url>
+  <url><loc>https://uslist.info/vermont/morristown/financial-legal/banks/</loc></url>
   <url><loc>https://uslist.info/vermont/morristown/food-drink/</loc></url>
   <url><loc>https://uslist.info/vermont/morristown/food-drink/bakeries-desserts/</loc></url>
+  <url><loc>https://uslist.info/vermont/morristown/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/vermont/morristown/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/vermont/morristown/food-drink/liquor-stores/</loc></url>
   <url><loc>https://uslist.info/vermont/morristown/food-drink/restaurants/</loc></url>
@@ -912,8 +909,11 @@
   <url><loc>https://uslist.info/vermont/morristown/professional/schools-education/</loc></url>
   <url><loc>https://uslist.info/vermont/morristown/shopping/</loc></url>
   <url><loc>https://uslist.info/vermont/morristown/shopping/clothing/</loc></url>
+  <url><loc>https://uslist.info/vermont/morristown/shopping/department-stores/</loc></url>
+  <url><loc>https://uslist.info/vermont/morristown/shopping/hardware-garden/</loc></url>
   <url><loc>https://uslist.info/vermont/morristown/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/vermont/morristown/travel-leisure/arts-entertainment/</loc></url>
+  <url><loc>https://uslist.info/vermont/morristown/travel-leisure/hotels/</loc></url>
   <url><loc>https://uslist.info/vermont/morristown/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/vermont/newport/</loc></url>
   <url><loc>https://uslist.info/vermont/newport/automotive/</loc></url>
@@ -944,6 +944,7 @@
   <url><loc>https://uslist.info/vermont/newport/shopping/department-stores/</loc></url>
   <url><loc>https://uslist.info/vermont/newport/shopping/electronics/</loc></url>
   <url><loc>https://uslist.info/vermont/newport/shopping/hardware-garden/</loc></url>
+  <url><loc>https://uslist.info/vermont/newport/shopping/other-shopping/</loc></url>
   <url><loc>https://uslist.info/vermont/newport/travel-leisure/</loc></url>
   <url><loc>https://uslist.info/vermont/newport/travel-leisure/arts-entertainment/</loc></url>
   <url><loc>https://uslist.info/vermont/newport/travel-leisure/hotels/</loc></url>
@@ -1127,7 +1128,6 @@
   <url><loc>https://uslist.info/vermont/royalton/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/vermont/royalton/food-drink/restaurants/</loc></url>
   <url><loc>https://uslist.info/vermont/royalton/health/</loc></url>
-  <url><loc>https://uslist.info/vermont/royalton/health/pharmacies/</loc></url>
   <url><loc>https://uslist.info/vermont/royalton/health/veterinarians/</loc></url>
   <url><loc>https://uslist.info/vermont/royalton/professional/</loc></url>
   <url><loc>https://uslist.info/vermont/royalton/professional/civic-government/</loc></url>
@@ -1606,6 +1606,7 @@
   <url><loc>https://uslist.info/vermont/waterbury/travel-leisure/recreation/</loc></url>
   <url><loc>https://uslist.info/vermont/westminster/</loc></url>
   <url><loc>https://uslist.info/vermont/westminster/food-drink/</loc></url>
+  <url><loc>https://uslist.info/vermont/westminster/food-drink/fast-food/</loc></url>
   <url><loc>https://uslist.info/vermont/westminster/food-drink/grocery/</loc></url>
   <url><loc>https://uslist.info/vermont/westminster/professional/</loc></url>
   <url><loc>https://uslist.info/vermont/westminster/professional/civic-government/</loc></url>
